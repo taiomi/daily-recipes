@@ -1,38 +1,36 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-03-14",
+    "lastUpdated": "2025-03-15",
     "recipe": {
-        "title": "Light Greek Lemon Chicken Orzo Soup",
-        "readyInMinutes": 30,
-        "servings": 8,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/1098350-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/DPVTGWX6\/light-greek-lemon-chicken-orzo-soup",
-        "instructions": "<ol><li>In a large soup pot, heat olive oil on medium high.<\/li><li>Add carrots and celery and cook for 5 minutes on medium.<\/li><li>Add chicken broth.<\/li><li>Add ground thyme, salt and pepper.<\/li><li>Add cooked, diced chicken breasts and fresh thyme.<\/li><li>Bring to boil.<\/li><li>Add orzo and cook for 7-10 minutes until pasta is cooked.<\/li><li>Add the lemon zest and juice from 1 large lemon.<\/li><li>Serve with a slice of lemon.<\/li><\/ol>",
-        "summary": "Light Greek Lemon Chicken Orzo Soup requires roughly <b>30 minutes<\/b> from start to finish. This dairy free recipe serves 8 and costs <b>$2.4 per serving<\/b>. One portion of this dish contains around <b>27g of protein<\/b>, <b>4g of fat<\/b>, and a total of <b>281 calories<\/b>. It can be enjoyed any time, but it is especially good for <b>Autumn<\/b>. It works well as a main course. 14 people have made this recipe and would make it again. It is a <b>rather inexpensive<\/b> recipe for fans of Mediterranean food. If you have salt, pepper, ground thyme, and a few other ingredients on hand, you can make it. It is brought to you by Foodista. All things considered, we decided this recipe <b>deserves a spoonacular score of 69%<\/b>. This score is good. If you like this recipe, take a look at these similar recipes: <a href=\"https:\/\/spoonacular.com\/recipes\/light-greek-lemon-chicken-orzo-soup-1376625\">Light Greek Lemon Chicken Orzo Soup<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/light-greek-lemon-chicken-orzo-soup-1379105\">Light Greek Lemon Chicken Orzo Soup<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/light-greek-lemon-chicken-orzo-soup-1378919\">Light Greek Lemon Chicken Orzo Soup<\/a>.",
-        "cuisines": [
-            "Mediterranean",
-            "European",
-            "Greek"
-        ],
+        "title": "Chicken and Spring Mix Salad with Spicy Pineapple Dressing",
+        "readyInMinutes": 25,
+        "servings": 2,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/637924-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/ZCNPRN88\/chicken-and-spring-mix-salad-with-spicy-pineapple-dressing",
+        "instructions": "<ol><li>Heat a non-stick pan over medium-high heat with 1 tbsp olive oil. Sprinkle both sides of chicken evenly with paprika, garlic powder, and salt. Add chicken to pan; cook for 5 minutes on each side or until well browned. Remove from pan; set aside.<\/li><li>Combine half of pineapple, orange juice, vinegar, and Serrano in a blender; process until smooth. Add olive oil after blended and mix with spoon or ladle.<\/li><li>Cut the red onion and red bell pepper into thin strips or desired pieces. Pineapples should be cut into 1\/2-inch chunks or can be cut according to preference as well.<\/li><li>Combine remaining pineapple and the remaining ingredients in a large bowl. Drizzle with 3\/4 cup dressing, and toss gently to coat. Divide salad evenly among 2 plates. Cut chicken across the grain into thin slices; divide chicken evenly over salads. Drizzle salad evenly with remaining dressing. Enjoy!<\/li><\/ol>",
+        "summary": "Chicken and Spring Mix Salad with Spicy Pineapple Dressing requires about <b>25 minutes<\/b> from start to finish. This recipe serves 2. For <b>$3.39 per serving<\/b>, this recipe <b>covers 31%<\/b> of your daily requirements of vitamins and minerals. Watching your figure? This gluten free, dairy free, paleolithic, and primal recipe has <b>348 calories<\/b>, <b>38g of protein<\/b>, and <b>12g of fat<\/b> per serving. 2 people were glad they tried this recipe. If you have onion, garlic powder, chicken breast halves, and a few other ingredients on hand, you can make it. <b>Spring<\/b> will be even more special with this recipe. It works well as a main course. It is brought to you by Foodista. All things considered, we decided this recipe <b>deserves a spoonacular score of 79%<\/b>. This score is solid. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/grilled-chicken-salad-with-spicy-pineapple-dressing-539375\">Grilled Chicken Salad with Spicy Pineapple Dressing<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/grilled-chicken-salad-with-spicy-pineapple-dressing-43210\">Grilled Chicken Salad With Spicy Pineapple Dressing<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/grilled-chicken-and-spinach-salad-with-spicy-pineapple-dressing-19614\">Grilled Chicken and Spinach Salad with Spicy Pineapple Dressing<\/a>.",
+        "cuisines": [],
         "dishTypes": [
+            "side dish",
             "lunch",
-            "soup",
             "main course",
+            "salad",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "3 cooked chicken breasts",
-            "2 32 oz. boxes of chicken broth",
-            "3 carrots, peeled and diced",
-            "3 celery stalks, diced",
-            "3-4 sprigs fresh thyme",
-            "1 teaspoon extra virgin olive oil",
-            "2 cups orzo pasta",
-            "1 Tbs ground thyme",
-            "1 Tbs salt",
-            "1 Tbs pepper",
-            "1 large lemon"
+            "\u20222 tbsp apple cider vinegar (or vinegar + 1 tsp sugar)",
+            "\u20221\/2 tsp garlic powder",
+            "\u20221 tbsp olive oil (extra-virgin if available)",
+            "\u20221 tbsp orange juice (or apple juice)",
+            "\u20221 tsp paprika (or chili powder)",
+            "\u20221 cup cubed fresh pineapple (about 8 ounces), divided",
+            "\u20221\/3 red bell pepper, thinly sliced",
+            "\u20221\/4 red onion, thinly sliced",
+            "\u20221\/2 tsp salt",
+            "\u20221\/2 Serrano pepper, seeded (or habanero)",
+            "3\/4 pound skinless, boneless chicken breast halves, cut into cubes",
+            "\u20221 (5-ounce) package fresh spring mix of spinach, baby lettuce, and radicchio"
         ]
     }
 }
