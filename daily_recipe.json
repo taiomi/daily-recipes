@@ -1,36 +1,39 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-03-15",
+    "lastUpdated": "2025-03-16",
     "recipe": {
-        "title": "Chicken and Spring Mix Salad with Spicy Pineapple Dressing",
-        "readyInMinutes": 25,
-        "servings": 2,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/637924-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/ZCNPRN88\/chicken-and-spring-mix-salad-with-spicy-pineapple-dressing",
-        "instructions": "<ol><li>Heat a non-stick pan over medium-high heat with 1 tbsp olive oil. Sprinkle both sides of chicken evenly with paprika, garlic powder, and salt. Add chicken to pan; cook for 5 minutes on each side or until well browned. Remove from pan; set aside.<\/li><li>Combine half of pineapple, orange juice, vinegar, and Serrano in a blender; process until smooth. Add olive oil after blended and mix with spoon or ladle.<\/li><li>Cut the red onion and red bell pepper into thin strips or desired pieces. Pineapples should be cut into 1\/2-inch chunks or can be cut according to preference as well.<\/li><li>Combine remaining pineapple and the remaining ingredients in a large bowl. Drizzle with 3\/4 cup dressing, and toss gently to coat. Divide salad evenly among 2 plates. Cut chicken across the grain into thin slices; divide chicken evenly over salads. Drizzle salad evenly with remaining dressing. Enjoy!<\/li><\/ol>",
-        "summary": "Chicken and Spring Mix Salad with Spicy Pineapple Dressing requires about <b>25 minutes<\/b> from start to finish. This recipe serves 2. For <b>$3.39 per serving<\/b>, this recipe <b>covers 31%<\/b> of your daily requirements of vitamins and minerals. Watching your figure? This gluten free, dairy free, paleolithic, and primal recipe has <b>348 calories<\/b>, <b>38g of protein<\/b>, and <b>12g of fat<\/b> per serving. 2 people were glad they tried this recipe. If you have onion, garlic powder, chicken breast halves, and a few other ingredients on hand, you can make it. <b>Spring<\/b> will be even more special with this recipe. It works well as a main course. It is brought to you by Foodista. All things considered, we decided this recipe <b>deserves a spoonacular score of 79%<\/b>. This score is solid. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/grilled-chicken-salad-with-spicy-pineapple-dressing-539375\">Grilled Chicken Salad with Spicy Pineapple Dressing<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/grilled-chicken-salad-with-spicy-pineapple-dressing-43210\">Grilled Chicken Salad With Spicy Pineapple Dressing<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/grilled-chicken-and-spinach-salad-with-spicy-pineapple-dressing-19614\">Grilled Chicken and Spinach Salad with Spicy Pineapple Dressing<\/a>.",
-        "cuisines": [],
+        "title": "North Carolina-Style BBQ Pulled Pork",
+        "readyInMinutes": 45,
+        "servings": 12,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/653308-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/NLC22Q5D\/north-carolina-style-bbq-pulled-pork",
+        "instructions": "<ol><li>Prepare the rub:<\/li><li>Mix paprika, light brown sugar, celery and garlic salts, dry mustard, black pepper, onion powder and salt in a small bowl. Season the entire pork roast and cover overnight in the refrigerator.<\/li><li>Preheat the oven to 325F. Place the pork roast in a large, disposable aluminum roasting pan.<\/li><li>In a small bowl, mix together the melted butter and the liquid hickory smoke for the basting marinade. Pour the basting marinade over the pork and cover with aluminum foil. Cook for approximately 4 1\/2 hours (or until the pork becomes tender enough to start \"pulling\" away, turning the pork every hour, and basting every 1\/2 hour. Alternatively, cook pork over white hot coals, covered, for 3-3 1\/2 hours, basting and turning frequently with basting marinade.<\/li><li>Transfer the pork roast to a cutting board. Drain the excess juices from the pan. Slice the pork roast and pull apart the meat (trimming the fat) and place back into roasting pan.<\/li><li>Prepare the BBQ sauce: In a large bowl, mix the cider vinegar, water, ketchup, dark brown sugar, salt, and red pepper flakes and pour over pulled pork, stirring to make sure all pork is covered; cover with aluminum foil.<\/li><li>Place pulled pork back into the oven (still at 325F) or in pan on grill and cook for 1 1\/2 hours, stirring pork and BBQ every 30 minutes.<\/li><\/ol>",
+        "summary": "Forget going out to eat or ordering takeout every time you crave American food. Try making North Carolina-Style BBQ Pulled Pork at home. This main course has <b>229 calories<\/b>, <b>26g of protein<\/b>, and <b>5g of fat<\/b> per serving. For <b>$1.54 per serving<\/b>, this recipe <b>covers 16%<\/b> of your daily requirements of vitamins and minerals. This recipe serves 12. A mixture of brown sugar, celery salt, onion powder, and a handful of other ingredients are all it takes to make this recipe so delicious. It is brought to you by Foodista. 8 people found this recipe to be scrumptious and satisfying. From preparation to the plate, this recipe takes about <b>45 minutes<\/b>. It is a good option if you're following a <b>gluten free<\/b> diet. Taking all factors into account, this recipe <b>earns a spoonacular score of 57%<\/b>, which is solid. Try <a href=\"https:\/\/spoonacular.com\/recipes\/north-carolina-style-bbq-pulled-pork-1371703\">North Carolina-Style BBQ Pulled Pork<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/north-carolina-style-bbq-pulled-pork-sandwiches-286627\">North Carolina-Style BBQ Pulled-Pork Sandwiches<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/north-carolina-style-pulled-pork-724477\">North Carolina Style Pulled Pork<\/a> for similar recipes.",
+        "cuisines": [
+            "American"
+        ],
         "dishTypes": [
-            "side dish",
             "lunch",
             "main course",
-            "salad",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "\u20222 tbsp apple cider vinegar (or vinegar + 1 tsp sugar)",
-            "\u20221\/2 tsp garlic powder",
-            "\u20221 tbsp olive oil (extra-virgin if available)",
-            "\u20221 tbsp orange juice (or apple juice)",
-            "\u20221 tsp paprika (or chili powder)",
-            "\u20221 cup cubed fresh pineapple (about 8 ounces), divided",
-            "\u20221\/3 red bell pepper, thinly sliced",
-            "\u20221\/4 red onion, thinly sliced",
-            "\u20221\/2 tsp salt",
-            "\u20221\/2 Serrano pepper, seeded (or habanero)",
-            "3\/4 pound skinless, boneless chicken breast halves, cut into cubes",
-            "\u20221 (5-ounce) package fresh spring mix of spinach, baby lettuce, and radicchio"
+            "2 cups Apple cider vinegar",
+            "3 pounds Boneless pork shoulder or roast",
+            "3\/4 cup Firmly-packed dark brown sugar",
+            "2 teaspoons Butter",
+            "1\/2 teaspoon Celery salt",
+            "1\/2 teaspoon Dry mustard",
+            "1\/2 teaspoon Garlic salt",
+            "1 1\/2 teaspoons Ground black pepper",
+            "2\/3 cup Ketchup",
+            "2 teaspoons Light brown sugar",
+            "3 tablespoons Liquid hickory smoke",
+            "1\/2 teaspoon Onion powder",
+            "3 teaspoons Red crushed pepper flakes",
+            "salt",
+            "cups Water"
         ]
     }
 }
