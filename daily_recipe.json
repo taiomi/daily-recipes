@@ -1,33 +1,36 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-03-20",
+    "lastUpdated": "2025-03-21",
     "recipe": {
-        "title": "Mexican Casserole",
-        "readyInMinutes": 65,
-        "servings": 6,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/715438-556x370.jpg",
-        "sourceUrl": "http:\/\/www.pinkwhen.com\/mexican-casserole\/",
-        "instructions": "Take a large pot and ring water to a boil. When finished, place you chicken breasts in to boil for 20 minutes or until cooked. Take a smaller pan and cook rice as directed. Allow both rice and chicken time to cool when once fully cooked. Heat over to 350 degrees. Take cooled chicken breasts and shred, or cut into bite size pieces. Add into a large mixing bowl. Stir in cooked rice, 2 cups of Monterrey Jack cheese, and 1 cup of Cheddar. Stir in both soups, chopped onion, and salsa.Take a 9 x 13 baking dish and coat with non stick spray. Place mixture into the 9 x 13 dish and cover with the remaining cup of cheddar cheese. Bake for 40 minutes. Allow to cool before serving.",
-        "summary": "The recipe Mexican Casserole could satisfy your Mexican craving in about <b>1 hour and 5 minutes<\/b>. This main course has <b>581 calories<\/b>, <b>48g of protein<\/b>, and <b>21g of fat<\/b> per serving. This recipe serves 6 and costs $2.63 per serving. It is brought to you by Pink When. 503 people were impressed by this recipe. It will be a hit at your <b>Autumn<\/b> event. A mixture of cheddar cheese, monterrey jack, salsa, and a handful of other ingredients are all it takes to make this recipe so scrumptious. It is a good option if you're following a <b>gluten free<\/b> diet. Overall, this recipe earns a <b>spectacular spoonacular score of 88%<\/b>. Try <a href=\"https:\/\/spoonacular.com\/recipes\/mexican-casserole-1620683\">Mexican Casserole<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/mexican-casserole-513196\">Mexican Casserole<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/mexican-casserole-703344\">Mexican Casserole<\/a> for similar recipes.",
-        "cuisines": [
-            "Mexican"
-        ],
+        "title": "Asparagus and Asiago Frittata",
+        "readyInMinutes": 45,
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/632925-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/KYWTWPZT\/asparagus-and-asiago-frittata",
+        "instructions": "In a large bowl, combine the eggs, whipping cream, salt, pepper, and half the fresh thyme. Beat with a whisk until the eggs and cream are incorporated.\nIn an ovenproof saut pan over medium heat, add the butter and olive oil. When the mixture is hot, add the asparagus pieces and cook for 3-4 minutes, stirring. Add the garlic and cook for about a minute. Spread the asparagus so it is evenly distributed across the bottom of the pan.\nAdd the egg mixture to the pan and allow the eggs to cook without mixing them. Use a rubber spatula to run around the edges of the frittata as it cooks so the edges dont stick and burn. After 1-2 minutes, add the cheese evenly to the egg mixture.\nWhen the outer edges of the frittata have set but the center is still slightly runny, arrange the cherry tomatoes and asparagus spears on the top of the frittata, sprinkle the remaining thyme over the top, then remove the pan from the heat and place it in an oven set to broil.\nThe broiler will allow the top portion of the egg mixture to set and cook thoroughly. Keep a close watch so the frittata doesnt burn.\nAfter a few minutes, when the eggs have set completely and begin to turn golden, carefully remove the pan from the oven.\nUse a rubber spatula to run around the edges and underside of the frittata, and slide it onto a round serving plate.\nSlice and serve warm or at room temperature.",
+        "summary": "Asparagus and Asiago Frittatan is a <b>gluten free, lacto ovo vegetarian, primal, and ketogenic<\/b> main course. One portion of this dish contains around <b>17g of protein<\/b>, <b>19g of fat<\/b>, and a total of <b>261 calories<\/b>. This recipe serves 4 and costs $1.79 per serving. A couple people made this recipe, and 13 would say it hit the spot. A mixture of olive oil, cherry tomatoes, butter, and a handful of other ingredients are all it takes to make this recipe so flavorful. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. It is brought to you by Foodista. All things considered, we decided this recipe <b>deserves a spoonacular score of 49%<\/b>. This score is solid. If you like this recipe, take a look at these similar recipes: <a href=\"https:\/\/spoonacular.com\/recipes\/asparagus-and-asiago-frittata-1584579\">Asparagus and Asiago Frittata<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/kale-asiago-frittata-584923\">Kale & Asiago Frittata<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/vegetable-frittata-with-asiago-cheese-1747605\">Vegetable Frittata with Asiago Cheese<\/a>.",
+        "cuisines": [],
         "dishTypes": [
-            "side dish",
             "lunch",
             "main course",
+            "morning meal",
+            "brunch",
             "main dish",
+            "breakfast",
             "dinner"
         ],
         "ingredients": [
-            "4 boneless chicken breasts",
-            "2 cups shredded Monterrey Jack",
-            "1 (10oz) cream of chicken soup",
-            "1 (10oz) cream of mushroom soup",
-            "1 onion, finely chopped",
-            "1 cup uncooked rice",
-            "1 cup salsa",
-            "2 cups shredded Cheddar Cheese"
+            "5 eggs",
+            "1 small bunch of thin asparagus (about 3\/4 pound), washed, trimmed, and cut into 1-inch pieces",
+            "1 tablespoon butter",
+            "1 tablespoon olive oil",
+            "1-1\/2 tablespoons heavy whipping cream",
+            "1 tablespoon fresh thyme, chopped and divided",
+            "1 garlic clove, minced",
+            "1\/4 teaspoon salt",
+            "1\/4 teaspoon ground black pepper",
+            "3 ounces Asiago cheese, sliced thin",
+            "4-5 cherry tomatoes sliced in half, and 6, 4-inch asparagus spears for garnish"
         ]
     }
 }
