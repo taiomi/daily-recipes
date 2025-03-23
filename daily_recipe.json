@@ -1,14 +1,14 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-03-22",
+    "lastUpdated": "2025-03-23",
     "recipe": {
-        "title": "Traditional Garlic and Herb Crusted Prime Rib Roast",
+        "title": "Easy Chicken with White Wine Sauce",
         "readyInMinutes": 45,
-        "servings": 24,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/663763-556x370.jpg",
-        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/FGWST82P\/traditional-garlic-and-herb-crusted-prime-rib-roast",
-        "instructions": "<ol><li>2-3 hours before you want to begin cooking, take the roast out of the fridge and place it on a cutting board at room temperature.<\/li><li>Preheat the oven to 325 degrees F.<\/li><li>To prepare roast, remove excess fat from the bottom of the roast, and then trim the layer of fat from the top side (leaving a little fat is fine).<\/li><li>In a bowl, mix the garlic and chopped herbs with salt and pepper. Add the olive oil and mix until combined.<\/li><li>Evenly apply garlic herb rub on all sides of the roast.<\/li><li>Tie roast with string and insert a bay leaf underneath each string across the top.<\/li><li>Roast until the internal temperature reaches 120 degrees F for medium-rare, about 2 1\/2 hours. If you prefer medium, take the roast out when the thermometer reads 130 degrees F.<\/li><li>Let roast rest for 10 minutes before carving.<\/li><\/ol>",
-        "summary": "Traditional Garlic and Herb Crusted Prime Rib Roast is a main course that serves 24. Watching your figure? This gluten free, dairy free, paleolithic, and primal recipe has <b>592 calories<\/b>, <b>26g of protein<\/b>, and <b>53g of fat<\/b> per serving. For <b>$4.32 per serving<\/b>, this recipe <b>covers 17%<\/b> of your daily requirements of vitamins and minerals. Head to the store and pick up bay leaves, pepper, thyme leaves, and a few other things to make it today. 2 people have made this recipe and would make it again. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. <b>valentin day<\/b> will be even more special with this recipe. It is brought to you by Foodista. Taking all factors into account, this recipe <b>earns a spoonacular score of 50%<\/b>, which is solid. Similar recipes include <a href=\"https:\/\/spoonacular.com\/recipes\/traditional-garlic-and-herb-crusted-prime-rib-roast-1372005\">Traditional Garlic and Herb Crusted Prime Rib Roast<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/herb-crusted-prime-rib-roast-291159\">Herb Crusted Prime Rib Roast<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/garlic-herb-crusted-prime-rib-275407\">Garlic & Herb-Crusted Prime Rib<\/a>.",
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/641912-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/Y7KMH5RY\/easy-chicken-with-white-wine-sauce",
+        "instructions": "<ol><li>Heat the oil in a 10-inch skillet over medium heat.  Add the chicken and cook for 10 minutes or until well browned on both sides.  Remove the chicken from the skillet.<\/li><li>Add the shallot and thyme to the skillet and cook and stir for 30 seconds.  Stir in the wine and cook for 2 minutes or until the mixture is reduced by half.  Stir in the concentrated broth.  Return the chicken to the skillet.  Cook for 5 minutes or until the chicken is cooked through.<\/li><\/ol>",
+        "summary": "Easy Chicken with White Wine Sauce is a main course that serves 4. One portion of this dish contains approximately <b>30g of protein<\/b>, <b>7g of fat<\/b>, and a total of <b>248 calories<\/b>. For <b>$2.24 per serving<\/b>, this recipe <b>covers 16%<\/b> of your daily requirements of vitamins and minerals. If you have flavor concentrated chicken broth, wine, chicken breast halves, and a few other ingredients on hand, you can make it. It is a good option if you're following a <b>gluten free, dairy free, paleolithic, and primal<\/b> diet. 36 people found this recipe to be yummy and satisfying. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. It is brought to you by Foodista. With a spoonacular <b>score of 63%<\/b>, this dish is pretty good. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/easy-baked-pork-chops-with-white-winemustard-sauce-161398\">Easy Baked Pork Chops with White Wine\u2013Mustard Sauce<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/chicken-in-white-wine-sauce-269599\">Chicken in White Wine Sauce<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/chicken-in-white-wine-sauce-384940\">Chicken in White Wine Sauce<\/a>.",
         "cuisines": [],
         "dishTypes": [
             "lunch",
@@ -17,16 +17,12 @@
             "dinner"
         ],
         "ingredients": [
-            "Bay leaves",
-            "1\/2 teaspoon black pepper",
-            "1\/2 cup fresh parsley leaves, finely chopped",
-            "1\/2 cup fresh rosemary leaves, finely chopped",
-            "1\/2 cup fresh tarragon leaves, finely chopped",
-            "1\/4 cup fresh thyme leaves, finely chopped",
-            "3 gloves garlic, crushed",
-            "2 tablespoons kosher salt",
-            "1\/4 cup olive oil",
-            "1 10 to 12-pound boneless prime rib roast, at room temperature"
+            "2 packets Swanson\u00ae Flavor Concentrated Chicken Broth",
+            "1 cup dry white wine",
+            "1 tablespoon chopped fresh thyme leaves",
+            "1 tablespoon olive oil",
+            "1 shallot, minced",
+            "1 1\/4 pounds skinless, boneless chicken breast halves"
         ]
     }
 }
