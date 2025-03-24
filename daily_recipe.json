@@ -1,15 +1,17 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-03-23",
+    "lastUpdated": "2025-03-24",
     "recipe": {
-        "title": "Easy Chicken with White Wine Sauce",
+        "title": "Southern Fried Catfish",
         "readyInMinutes": 45,
-        "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/641912-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/Y7KMH5RY\/easy-chicken-with-white-wine-sauce",
-        "instructions": "<ol><li>Heat the oil in a 10-inch skillet over medium heat.  Add the chicken and cook for 10 minutes or until well browned on both sides.  Remove the chicken from the skillet.<\/li><li>Add the shallot and thyme to the skillet and cook and stir for 30 seconds.  Stir in the wine and cook for 2 minutes or until the mixture is reduced by half.  Stir in the concentrated broth.  Return the chicken to the skillet.  Cook for 5 minutes or until the chicken is cooked through.<\/li><\/ol>",
-        "summary": "Easy Chicken with White Wine Sauce is a main course that serves 4. One portion of this dish contains approximately <b>30g of protein<\/b>, <b>7g of fat<\/b>, and a total of <b>248 calories<\/b>. For <b>$2.24 per serving<\/b>, this recipe <b>covers 16%<\/b> of your daily requirements of vitamins and minerals. If you have flavor concentrated chicken broth, wine, chicken breast halves, and a few other ingredients on hand, you can make it. It is a good option if you're following a <b>gluten free, dairy free, paleolithic, and primal<\/b> diet. 36 people found this recipe to be yummy and satisfying. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. It is brought to you by Foodista. With a spoonacular <b>score of 63%<\/b>, this dish is pretty good. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/easy-baked-pork-chops-with-white-winemustard-sauce-161398\">Easy Baked Pork Chops with White Wine\u2013Mustard Sauce<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/chicken-in-white-wine-sauce-269599\">Chicken in White Wine Sauce<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/chicken-in-white-wine-sauce-384940\">Chicken in White Wine Sauce<\/a>.",
-        "cuisines": [],
+        "servings": 6,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/660697-556x370.jpg",
+        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/BGDTGWD7\/southern-fried-catfish",
+        "instructions": "<ol><li>Combine flour, cornmeal, garlic powder and salt. Coat catfish with mixture, shaking off excess. Fill deep pot or 12-inch skillet half full with oil. Heat to 350 degrees. Add catfish in a single layer, and fry until golden brown, 5 to 6 minutes, depending on size. Remove and drain on paper towels.<\/li><\/ol>",
+        "summary": "You can never have too many Southern recipes, so give Southern Fried Catfish a try. This recipe makes 6 servings with <b>789 calories<\/b>, <b>101g of protein<\/b>, and <b>32g of fat<\/b> each. For <b>$8.78 per serving<\/b>, this recipe <b>covers 41%<\/b> of your daily requirements of vitamins and minerals. 39 people found this recipe to be flavorful and satisfying. If you have vegetable oil, flour, garlic powder, and a few other ingredients on hand, you can make it. It works best as a main course, and is done in around <b>45 minutes<\/b>. It is a good option if you're following a <b>dairy free and pescatarian<\/b> diet. It is brought to you by Foodista. With a spoonacular <b>score of 93%<\/b>, this dish is outstanding. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/southern-fried-catfish-306555\">Southern Fried Catfish<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/southern-fried-catfish-301703\">Southern Fried Catfish<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/southern-fried-catfish-1221953\">Southern Fried Catfish<\/a>.",
+        "cuisines": [
+            "Southern"
+        ],
         "dishTypes": [
             "lunch",
             "main course",
@@ -17,12 +19,12 @@
             "dinner"
         ],
         "ingredients": [
-            "2 packets Swanson\u00ae Flavor Concentrated Chicken Broth",
-            "1 cup dry white wine",
-            "1 tablespoon chopped fresh thyme leaves",
-            "1 tablespoon olive oil",
-            "1 shallot, minced",
-            "1 1\/4 pounds skinless, boneless chicken breast halves"
+            "4 catfish fillets or whole dressed catfish",
+            "1\/4 cup flour",
+            "1\/8 teaspoon Garlic Powder",
+            "2 1\/2 teaspoons Salt",
+            "Vegetable oil",
+            "3\/4 cup yellow cornmeal"
         ]
     }
 }
