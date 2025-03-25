@@ -1,30 +1,42 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-03-24",
+    "lastUpdated": "2025-03-25",
     "recipe": {
-        "title": "Southern Fried Catfish",
+        "title": "Vegetarian Tostadas With Spicy Black Beans (+gluten free)",
         "readyInMinutes": 45,
-        "servings": 6,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/660697-556x370.jpg",
-        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/BGDTGWD7\/southern-fried-catfish",
-        "instructions": "<ol><li>Combine flour, cornmeal, garlic powder and salt. Coat catfish with mixture, shaking off excess. Fill deep pot or 12-inch skillet half full with oil. Heat to 350 degrees. Add catfish in a single layer, and fry until golden brown, 5 to 6 minutes, depending on size. Remove and drain on paper towels.<\/li><\/ol>",
-        "summary": "You can never have too many Southern recipes, so give Southern Fried Catfish a try. This recipe makes 6 servings with <b>789 calories<\/b>, <b>101g of protein<\/b>, and <b>32g of fat<\/b> each. For <b>$8.78 per serving<\/b>, this recipe <b>covers 41%<\/b> of your daily requirements of vitamins and minerals. 39 people found this recipe to be flavorful and satisfying. If you have vegetable oil, flour, garlic powder, and a few other ingredients on hand, you can make it. It works best as a main course, and is done in around <b>45 minutes<\/b>. It is a good option if you're following a <b>dairy free and pescatarian<\/b> diet. It is brought to you by Foodista. With a spoonacular <b>score of 93%<\/b>, this dish is outstanding. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/southern-fried-catfish-306555\">Southern Fried Catfish<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/southern-fried-catfish-301703\">Southern Fried Catfish<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/southern-fried-catfish-1221953\">Southern Fried Catfish<\/a>.",
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/664726-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/4BFBKDRM\/vegetarian-tostadas-gluten-free",
+        "instructions": "Heat a large saute pan on medium high heat. Saute your onions and garlic in olive oil for 2-3 minutes.\nPlace your balck beans (BB) in a microwavble safe container and add the sauted onions and garilc to the BB.\nAdd the diced chiles in adobo sauce to the BB.  Sprinkle in some dried basil and garilc sea salt. Stir and microwave for 2 minutes, using a potato masher mash the warm BB to your desired consistency and return to the microwave for 1 minute.\nMeanwhile take a paper towel and using the same saute pan wipe out any excess oil or browning from the onions. Spray with cooking oil and on high heat, toast your tortillas until crsipy anywhere from 5 to 10 minutes.\nAssemble your tostadas by placing the beans on top, sprinkle with feta, top with spinach, sliced cherry tomatoes, dollop of sour cream and sprinkle with more feta and salsa",
+        "summary": "If you want to add more <b>gluten free and lacto ovo vegetarian<\/b> recipes to your recipe box, Vegetarian Tostadas With Spicy Black Beans (+gluten free) might be a recipe you should try. For <b>$1.67 per serving<\/b>, you get a hor d'oeuvre that serves 4. One portion of this dish contains about <b>14g of protein<\/b>, <b>12g of fat<\/b>, and a total of <b>296 calories<\/b>. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. 3 people were glad they tried this recipe. A mixture of chiles in adobo sauce, cherry tomatoes, feta cheese, and a handful of other ingredients are all it takes to make this recipe so tasty. It is an <b>affordable<\/b> recipe for fans of Mexican food. It is brought to you by Foodista. All things considered, we decided this recipe <b>deserves a spoonacular score of 75%<\/b>. This score is solid. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/vegetarian-tostadas-with-spicy-black-beans-gluten-free-1407645\">Vegetarian Tostadas With Spicy Black Beans (+gluten free)<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/gluten-free-cashew-chicken-spicy-vegetarian-nut-free-soy-free-options-1101262\">Gluten Free Cashew Chicken (Spicy, Vegetarian, Nut-Free, & Soy-Free Options)<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/gluten-free-chicken-black-beans-and-rice-486032\">Gluten Free Chicken Black Beans and Rice<\/a>.",
         "cuisines": [
-            "Southern"
+            "Mexican"
         ],
         "dishTypes": [
+            "antipasti",
             "lunch",
             "main course",
+            "starter",
+            "snack",
+            "appetizer",
             "main dish",
+            "antipasto",
+            "hor d'oeuvre",
             "dinner"
         ],
         "ingredients": [
-            "4 catfish fillets or whole dressed catfish",
-            "1\/4 cup flour",
-            "1\/8 teaspoon Garlic Powder",
-            "2 1\/2 teaspoons Salt",
-            "Vegetable oil",
-            "3\/4 cup yellow cornmeal"
+            "4 White or Yellow Corn Tortillas",
+            "1 15oz can of Black Beans (drained)",
+            "1\/4 cup onions diced",
+            "1 clove Garlic minced",
+            "1\/2 tablespoon Olive Oil",
+            "1-3 Chiles in Adobo Sauce (diced)",
+            "1 1\/2 cup Spinach (sliced julienne style)",
+            "Spinkle of dried basil and garlic sea salt (for black beans)",
+            "8 Cherry Tomatoes (halved)",
+            "Feta Cheese",
+            "Sour Cream",
+            "your favorite salsa"
         ]
     }
 }
