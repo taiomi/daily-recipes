@@ -1,19 +1,15 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-03-26",
+    "lastUpdated": "2025-03-27",
     "recipe": {
-        "title": "Buffalo Chicken Pizza",
+        "title": "No Fuss Sunday Slow-Cooker Balsamic Pot Roast",
         "readyInMinutes": 45,
-        "servings": 6,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/636415-556x370.jpg",
-        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/RNDF8YNM\/buffalo-chicken-pizza",
-        "instructions": "<ol><li>Heat the oven to 425F.  Stir the chicken, hot sauce and butter in a medium bowl.<\/li><li>Spread the chicken mixture on the pizza crust to within 1\/2-inch of the edge.  Top with the pepper and cheese.<\/li><li>Bake for 10 minutes or until the chicken mixture is hot and bubbling.<\/li><\/ol>",
-        "summary": "You can never have too many Mediterranean recipes, so give Buffalo Chicken Pizzan a try. This recipe serves 6. For <b>$3.92 per serving<\/b>, this recipe <b>covers 11%<\/b> of your daily requirements of vitamins and minerals. One serving contains <b>2351 calories<\/b>, <b>15g of protein<\/b>, and <b>250g of fat<\/b>. 2 people were impressed by this recipe. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. Only a few people really liked this main course. Head to the store and pick up bell pepper, butter, chicken breast in water, and a few other things to make it today. It is brought to you by Foodista. All things considered, we decided this recipe <b>deserves a spoonacular score of 36%<\/b>. This score is rather bad. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/buffalo-chicken-pizza-1260901\">Buffalo Chicken PIzza<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/buffalo-chicken-pizza-1570345\">Buffalo Chicken Pizza<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/buffalo-chicken-pizza-1290783\">Buffalo Chicken Pizza<\/a>.",
-        "cuisines": [
-            "Mediterranean",
-            "Italian",
-            "European"
-        ],
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/653162-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/PRVZVFHW\/no-fuss-sunday-slow-cooker-balsamic-pot-roast",
+        "instructions": "Place onions in slow cooker. (I used half of a red onion and half of white because I had them and they needed to be used)\nPlace roast on top of onions.\nSeason meat with salt and pepper.\nIn a small bowl whisk together broth, vinegar, tomato paste, tapioca, garlic and Italian seasoning.\nPour mixture over meat.\nSet cooker on low and cook for 8-10 hours. If youre short on time set cooker to high and cook 4-5 hours.\nLet cook without disturbing or checking on it; Every time you open the lid it lets all that precious hot air out. I was bummed to come home and find that my lid somehow and fallen in and created a constant leak. But it all worked out just fine in the end.\nOnce roast is cooked and is tender to the point of falling apart transfer to serving dish.\nUse juice and onions in crockpot as gravy. Transfer liquid to a gravy boat.\nPlate it up\nENJOY!!!",
+        "summary": "The recipe No Fuss Sunday Slow-Cooker Balsamic Pot Roast can be made <b>in roughly 45 minutes<\/b>. Watching your figure? This gluten free, dairy free, paleolithic, and primal recipe has <b>568 calories<\/b>, <b>56g of protein<\/b>, and <b>33g of fat<\/b> per serving. For <b>$3.29 per serving<\/b>, you get a main course that serves 4. 5 people were impressed by this recipe. A mixture of beef chuck roast, onion, salt and pepper, and a handful of other ingredients are all it takes to make this recipe so scrumptious. It is brought to you by Foodista. All things considered, we decided this recipe <b>deserves a spoonacular score of 76%<\/b>. This score is pretty good. If you like this recipe, take a look at these similar recipes: <a href=\"https:\/\/spoonacular.com\/recipes\/no-fuss-sunday-slow-cooker-balsamic-pot-roast-1399135\">No Fuss Sunday Slow-Cooker Balsamic Pot Roast<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/sunday-slow-cooker-pot-roast-and-potatoes-1228061\">Sunday Slow Cooker: Pot Roast and Potatoes<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/sunday-slow-cooker-pot-roast-and-potatoes-510515\">Sunday Slow Cooker: Pot Roast and Potatoes<\/a>.",
+        "cuisines": [],
         "dishTypes": [
             "lunch",
             "main course",
@@ -21,12 +17,15 @@
             "dinner"
         ],
         "ingredients": [
-            "\u00bc cup crumbled blue cheese",
-            "4 pounds Butter, melted",
-            "1 can (9.75 ounces) Chicken Breast in Water, drained",
-            "3 tablespoons Frank's\u00ae RedHot\u00ae Sauce",
-            "1\/2 of a green pepper, thinly sliced",
-            "1 package (10 ounces) prepared thin pizza crust (12-inch)"
+            "1 2-2 \u00bd Lb. Boneless Beef Chuck Roast",
+            "1 Large Onion \u2013 Roughly chopped",
+            "1 cup Low Sodium Beef Broth",
+            "3 Tbsp. Balsamic Vinegar",
+            "2 Tbsp. Tomato Paste",
+            "2 Tbsp. Quick Cooking Tapioca",
+            "3 Large Garlic Cloves-Minced",
+            "1 tsp. Italian Seasoning- Store bought or Homemade",
+            "Salt and Pepper to taste"
         ]
     }
 }
