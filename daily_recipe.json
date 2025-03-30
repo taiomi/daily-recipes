@@ -1,14 +1,14 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-03-29",
+    "lastUpdated": "2025-03-30",
     "recipe": {
-        "title": "Bacon Wrapped Pork Tenderloin",
+        "title": "Cheese and Leek Strata",
         "readyInMinutes": 45,
-        "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/633344-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/LJ8B3NK7\/bacon-wrapped-pork-tenderloin",
-        "instructions": "<ol><li>Remove about an inch off the tapered end of each tenderloin to make a perfect cylinder.<\/li><li>Season with salt, pepper, and a pinch of garlic powder.<\/li><li>Lay the bacon strips in a overlapping line on a sheet of cling wrap.  Place sage leaves all over bacon (about 9-10 leaves).<\/li><li>Place 1 piece of tenderloin across the short ends of the bacon and roll to cover with the bacon.<\/li><li>Repeat with the other tenderloin segments.<\/li><li>Preheat oven to 425 F.<\/li><li>Place the tenderloin in non-stick pan and sear on all sides over medium-high heat.<\/li><li>Transfer the pan to the preheated oven and cook for 8-10 minutes, turning the pieces after 5 minutes to ensure even cooking.<\/li><\/ol>",
-        "summary": "If you want to add more <b>gluten free, dairy free, paleolithic, and primal<\/b> recipes to your repertoire, Bacon Wrapped Pork Tenderloin might be a recipe you should try. For <b>$2.2 per serving<\/b>, this recipe <b>covers 30%<\/b> of your daily requirements of vitamins and minerals. This recipe makes 4 servings with <b>410 calories<\/b>, <b>51g of protein<\/b>, and <b>21g of fat<\/b> each. It works best as a main course, and is done in approximately <b>45 minutes<\/b>. Head to the store and pick up bacon, pepper, coarse salt, and a few other things to make it today. 55 people found this recipe to be scrumptious and satisfying. It is brought to you by Foodista. With a spoonacular <b>score of 95%<\/b>, this dish is amazing. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/bacon-wrapped-pork-tenderloin-269108\">Bacon-Wrapped Pork Tenderloin<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/bacon-wrapped-pork-tenderloin-422625\">Bacon Wrapped Pork Tenderloin<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/bacon-wrapped-pork-tenderloin-253608\">Bacon Wrapped Pork Tenderloin<\/a>.",
+        "servings": 6,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/637535-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/7DGSPGPG\/cheese-and-leek-strata",
+        "instructions": "Preheat oven to 350 degrees F\nCombine eggs, milk, beer, garlic, salt & pepper  in a large bowl and beat well until blended\nPlace 1\/2 of the bread cubes on bottom of greased 2.5-quart round baking dish\nSprinkle half the leeks and half the bell pepper over bread pieces\nTop with half the Swiss cheese and half the cheddar cheese\nRepeat layers with remaining ingredients, ending with cheddar cheese\nPour egg mixture evenly over top\nCover tightly with foil or plastic wrap and weigh top of the strata down with a slightly smaller baking dish\nRefrigerate strata at least 2 hours or overnight\nBake, uncovered, 40 minutes or until center is set\nServe warm",
+        "summary": "Need a <b>lacto ovo vegetarian main course<\/b>? Cheese and Leek Strata could be an amazing recipe to try. This recipe makes 6 servings with <b>296 calories<\/b>, <b>16g of protein<\/b>, and <b>14g of fat<\/b> each. For <b>$1.1 per serving<\/b>, this recipe <b>covers 15%<\/b> of your daily requirements of vitamins and minerals. This recipe from Foodista requires eggs, leek, cheddar cheese, and bell pepper. 2 people have tried and liked this recipe. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 41%<\/b>. This score is solid. <a href=\"https:\/\/spoonacular.com\/recipes\/turkey-leek-strata-171210\">Turkey Leek Strata<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/leek-morel-strata-39452\">Leek & Morel Strata<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/chicken-leek-strata-172766\">Chicken-Leek Strata<\/a> are very similar to this recipe.",
         "cuisines": [],
         "dishTypes": [
             "lunch",
@@ -17,12 +17,18 @@
             "dinner"
         ],
         "ingredients": [
-            "6 slices of bacon",
-            "freshly ground black pepper",
-            "coarse salt",
-            "10 leaves fresh sage",
-            "1 pinch garlic powder",
-            "2 pounds pork tenderloin"
+            "4 eggs, beaten",
+            "1 cup milk",
+            "1\/4 cup porter or ale",
+            "1 garlic clove, minced",
+            "1\/8 teaspoon salt",
+            "1\/8 teaspoon pepper",
+            "1\/2 loaf of sourdough bread, cut into \u00bd- inch pieces",
+            "1 leek, coarsely chopped",
+            "1\/2 red bell pepper, seeded& chopped",
+            "3\/4 cup shredded cheddar cheese",
+            "3\/4 cup shredded Swiss cheese",
+            "Salt& pepper to season"
         ]
     }
 }
