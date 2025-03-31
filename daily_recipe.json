@@ -1,34 +1,42 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-03-30",
+    "lastUpdated": "2025-03-31",
     "recipe": {
-        "title": "Cheese and Leek Strata",
+        "title": "Italian Kale and Potato Soup",
         "readyInMinutes": 45,
         "servings": 6,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/637535-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/7DGSPGPG\/cheese-and-leek-strata",
-        "instructions": "Preheat oven to 350 degrees F\nCombine eggs, milk, beer, garlic, salt & pepper  in a large bowl and beat well until blended\nPlace 1\/2 of the bread cubes on bottom of greased 2.5-quart round baking dish\nSprinkle half the leeks and half the bell pepper over bread pieces\nTop with half the Swiss cheese and half the cheddar cheese\nRepeat layers with remaining ingredients, ending with cheddar cheese\nPour egg mixture evenly over top\nCover tightly with foil or plastic wrap and weigh top of the strata down with a slightly smaller baking dish\nRefrigerate strata at least 2 hours or overnight\nBake, uncovered, 40 minutes or until center is set\nServe warm",
-        "summary": "Need a <b>lacto ovo vegetarian main course<\/b>? Cheese and Leek Strata could be an amazing recipe to try. This recipe makes 6 servings with <b>296 calories<\/b>, <b>16g of protein<\/b>, and <b>14g of fat<\/b> each. For <b>$1.1 per serving<\/b>, this recipe <b>covers 15%<\/b> of your daily requirements of vitamins and minerals. This recipe from Foodista requires eggs, leek, cheddar cheese, and bell pepper. 2 people have tried and liked this recipe. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 41%<\/b>. This score is solid. <a href=\"https:\/\/spoonacular.com\/recipes\/turkey-leek-strata-171210\">Turkey Leek Strata<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/leek-morel-strata-39452\">Leek & Morel Strata<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/chicken-leek-strata-172766\">Chicken-Leek Strata<\/a> are very similar to this recipe.",
-        "cuisines": [],
+        "image": "https:\/\/img.spoonacular.com\/recipes\/648155-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/54VL6QJD\/italian-kale-and-potato-soup",
+        "instructions": "In a large sauce pan, heat oil over medium-high heat. Add sausage, crumble and brown.\nAdd onion and garlic and saute until onions are just tender, about three minutes.\nMeanwhile, create a bouquet garni in cheese cloth with the basil, oregano and fennel. Add it and all remaining ingredients except the kale and buttermilk, bring to a boil, reduce heat, cover and simmer until potatoes are cooked, 10-15 minutes.\nAdd kale and simmer until it is just tender, less than 5 minutes. Remove from heat and stir in buttermilk. Add pepper to taste, you shouldn't need salt. Top with about a tablespoon of cheese.\nServe with a warm, crusty bread.",
+        "summary": "Italian Kale and Potato Soup is a <b>gluten free and whole 30<\/b> recipe with 6 servings. This main course has <b>480 calories<\/b>, <b>22g of protein<\/b>, and <b>33g of fat<\/b> per serving. For <b>$2.06 per serving<\/b>, this recipe <b>covers 26%<\/b> of your daily requirements of vitamins and minerals. 2 people have made this recipe and would make it again. If you have oregano, ground turkey sausage, chicken broth, and a few other ingredients on hand, you can make it. It can be enjoyed any time, but it is especially good for <b>Autumn<\/b>. Not a lot of people really liked this Mediterranean dish. It is brought to you by Foodista. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 80%<\/b>. This score is great. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/italian-kale-and-potato-soup-1353063\">Italian Kale and Potato Soup<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/zuppa-vegana-italian-potato-bean-and-kale-soup-158767\">Zuppa Vegana: Italian Potato, Bean, and Kale Soup<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/zuppa-toscana-creamy-potato-kale-soup-with-italian-sausage-618107\">Zuppa Toscana {Creamy Potato & Kale Soup with Italian Sausage}<\/a>.",
+        "cuisines": [
+            "Mediterranean",
+            "Italian",
+            "European"
+        ],
         "dishTypes": [
             "lunch",
+            "soup",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "4 eggs, beaten",
-            "1 cup milk",
-            "1\/4 cup porter or ale",
-            "1 garlic clove, minced",
-            "1\/8 teaspoon salt",
-            "1\/8 teaspoon pepper",
-            "1\/2 loaf of sourdough bread, cut into \u00bd- inch pieces",
-            "1 leek, coarsely chopped",
-            "1\/2 red bell pepper, seeded& chopped",
-            "3\/4 cup shredded cheddar cheese",
-            "3\/4 cup shredded Swiss cheese",
-            "Salt& pepper to season"
+            "2 teaspoons olive oil",
+            "1 1\/4 pounds ground turkey Italian sausage",
+            "1 1\/4 pounds potatoes",
+            "1 medium onion, chopped",
+            "3 cloves garlic, minced",
+            "1 bunch kale washed, stems removed and chopped into pieces",
+            "6 cups low-sodium chicken broth",
+            "2 teaspoons dried basil",
+            "2 teaspoons dried oregano",
+            "2 teaspoons crushed fennel seed",
+            "1\/2 cup low-fat buttermilk",
+            "fresh ground pepper to taste",
+            "Kale",
+            "1\/4 cup to \u00bd shredded pecorino",
+            "1\/4 cup to \u00bd shredded pecorino"
         ]
     }
 }
