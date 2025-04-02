@@ -1,15 +1,18 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-04-01",
+    "lastUpdated": "2025-04-02",
     "recipe": {
-        "title": "Grilled Ginger Miso Chicken",
+        "title": "Pan Seared Lamb Loin With Chimichurri & Roasted Trio Squash Salad With Goat Cheese and Pinenuts",
         "readyInMinutes": 45,
         "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/645722-556x370.jpg",
-        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/ZHYSF2NB\/grilled-miso-chicken",
-        "instructions": "<ol><li>Blend soy sauce, sake, mirin, miso, green onions, ginger root and garlic in a rectangular baking dish. Coat chicken with mixture. Marinate 1 hour or refrigerate overnight, turning several times.<\/li><li>Preheat a hibachi, portable tabletop grill or charcoal grill. Shake marinade off chicken; pat dry. Place skin-down on hot grill. Grill 4 to 5 minutes. Turn chicken; grill second side 4 to 5 minutes or until golden brown and done inside. When chicken is done, sprinkle with sesame seeds and spice mixture.<\/li><li>This recipe yields 4 servings.<\/li><li>Comments: Miso marinade adds a rich flavor to this country-style grilled chicken. Thigh meat stays moist and tender, but boned chicken breasts are delicious, too. The chicken can be sauteed in a skillet.<\/li><\/ol>",
-        "summary": "Grilled Ginger Miso Chicken is a <b>gluten free, dairy free, and ketogenic<\/b> recipe with 4 servings. This main course has <b>688 calories<\/b>, <b>50g of protein<\/b>, and <b>49g of fat<\/b> per serving. For <b>$2.12 per serving<\/b>, this recipe <b>covers 24%<\/b> of your daily requirements of vitamins and minerals. If you have green onions, sake, ginger root, and a few other ingredients on hand, you can make it. 5 people were glad they tried this recipe. It is brought to you by Foodista. It will be a hit at your <b>The Fourth Of July<\/b> event. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 59%<\/b>. This score is solid. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/ginger-grilled-chicken-and-radishes-with-miso-scallion-dressing-1648739\">Ginger-Grilled Chicken and Radishes with Miso-Scallion Dressing<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/ginger-miso-grilled-asparagus-1304749\">Ginger-Miso Grilled Asparagus<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/grilled-avocados-with-ginger-miso-743666\">Grilled Avocados with Ginger Miso<\/a>.",
-        "cuisines": [],
+        "image": "https:\/\/img.spoonacular.com\/recipes\/654432-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/46RBKQJ7\/pan-seared-lamb-loin-with-chimmichurri-roasted-trio-squash-salad-with-goat-cheese-and-pinenuts",
+        "instructions": "<ol><li>Preheat oven to 400F.<\/li><li>For the Chimichurri, place all of the ingredients in a large bowl and incorporate together.  Season with salt and pepper.<\/li><li>Heat a large, heavy bottomed pan with the oil. Sprinkle  each side of the lamb loin evenly with salt and pepper.  (This cooking process is exactly like the way you make steak).  Once the oil is hot (it will smoke a little bit), sear the lamb loin, about 2 minutes per side and allow the lamb to cook the rest of the way in the oven. The cooking times are as follows:<\/li><li>If you like your lamb rare, place it in the oven for no more than 2-3 minutes.  If you like your lamb medium rare place it in the oven for about 6-8 minutes.  If you like your lamb medium place it in the oven for 9 to 11 minutes. If you like it well done leave it in there for 12-14 minutes.  Remember, the lamb will continue to cook after you take it out so plan accordingly.<\/li><\/ol>",
+        "summary": "Pan Seared Lamb Loin With Chimichurri & Roasted Trio Squash Salad With Goat Cheese and Pinenuts is a <b>gluten free, dairy free, paleolithic, and primal<\/b> recipe with 4 servings. This main course has <b>492 calories<\/b>, <b>21g of protein<\/b>, and <b>43g of fat<\/b> per serving. For <b>$3.83 per serving<\/b>, this recipe <b>covers 21%<\/b> of your daily requirements of vitamins and minerals. From preparation to the plate, this recipe takes about <b>45 minutes<\/b>. 56 people have made this recipe and would make it again. It is a <b>rather pricey<\/b> recipe for fans of Latin American food. Head to the store and pick up cilantro, shallot, flat leaf parsley, and a few other things to make it today. It is brought to you by Foodista. Overall, this recipe earns a <b>tremendous spoonacular score of 85%<\/b>. If you like this recipe, take a look at these similar recipes: <a href=\"https:\/\/spoonacular.com\/recipes\/pan-seared-loin-of-lamb-15793\">Pan-seared Loin Of Lamb<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/pan-roasted-lamb-chops-with-honey-balsamic-figs-and-goat-cheese-573325\">Pan-Roasted Lamb Chops with Honey-Balsamic Figs and Goat Cheese<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/pan-seared-steaks-with-balsamic-red-onions-and-roasted-garlic-and-porcini-mushroom-goat-cheese-butter-1013640\">Pan Seared Steaks with Balsamic Red Onions and Roasted Garlic and Porcini Mushroom Goat Cheese Butter<\/a>.",
+        "cuisines": [
+            "South American",
+            "Latin American"
+        ],
         "dishTypes": [
             "lunch",
             "main course",
@@ -17,15 +20,18 @@
             "dinner"
         ],
         "ingredients": [
-            "1 tablespoon five-spice powder (optional)",
-            "1 garlic clove minced",
-            "1 tablespoon ginger root, minced",
-            "2 sliced green onions",
-            "2 tablespoons light soy sauce (usukuchi shoyu)",
-            "2 tablespoons mirin",
-            "2 tablespoons light miso",
-            "2 tablespoons sake",
-            "8 boned chicken thighs skin intact"
+            "1\/4 cup cilantro, finely chopped",
+            "2 tablespoons extra virgin olive oil",
+            "1\/4 cup flat leaf parsley, finely chopped",
+            "1 garlic clove, finely minced",
+            "ground black pepper to taste",
+            "kosher salt and pepper to taste",
+            "4 lamb loin chops",
+            "1 lemon, freshly squeezed",
+            "1\/4 cup mint, finely chopped",
+            "1\/4 cup pinenuts, toasted, finely chopped",
+            "1 tablespoon red pepper flakes, chopped",
+            "1 shallot, finely minced"
         ]
     }
 }
