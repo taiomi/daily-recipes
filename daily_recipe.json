@@ -1,14 +1,14 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-04-05",
+    "lastUpdated": "2025-04-06",
     "recipe": {
-        "title": "Plantain Salad",
-        "readyInMinutes": 45,
-        "servings": 1,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/729366-556x370.jpg",
-        "sourceUrl": "http:\/\/www.afrolems.com\/2016\/04\/07\/plantain-salad\/",
-        "instructions": "Cube your plantain, fry and set aside.Chop your vegetables into your salad bowl and tossIn a pan, heat up vegetable oil and stir fry your shrimps and season. Allow to coolToss in your plantain and shrimps once cool into your bowl of vegetables.Sprinkle the parmesan cheese over the saladDrizzle your dressing over and serve cool.\u00a0\u00a0\u00a0",
-        "summary": "Plantain Salad could be just the <b>gluten free and pescatarian<\/b> recipe you've been looking for. For <b>$5.4 per serving<\/b>, you get a main course that serves 1. One serving contains <b>607 calories<\/b>, <b>21g of protein<\/b>, and <b>18g of fat<\/b>. Head to the store and pick up finger of plantain, parmesan cheese, bell pepper, and a few other things to make it today. This recipe from Afrolems has 126 fans. From preparation to the plate, this recipe takes about <b>45 minutes<\/b>. With a spoonacular <b>score of 98%<\/b>, this dish is spectacular. Try <a href=\"https:\/\/spoonacular.com\/recipes\/how-to-spiralize-a-plantain-plantain-rice-and-beans-563745\">How to Spiralize a Plantain & Plantain \u201cRice\u201d and Beans<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/honey-mustard-crunchy-chicken-plantain-salad-509763\">Honey Mustard Crunchy Chicken Plantain Salad<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/collard-greens-salad-with-fried-plantain-and-sumac-1432767\">Collard Greens Salad With Fried Plantain and Sumac<\/a> for similar recipes.",
+        "title": "Quinoa Salad with Barberries & Nuts",
+        "readyInMinutes": 30,
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/1098387-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/PBQJCDDG\/quinoa-salad-with-barberries-nuts",
+        "instructions": "<ol><li>Put the quinoa in a sieve and rinse under running water. Drain. <\/li><li>Pour the boiling water over quinoa in a medium saucepan. <\/li><li>Add salt, stir well and cook over medium-low heat until quinoa is cooked through but still has a bite in the center. Drain in a sieve.<\/li><li>Pick over the barberries, rinse in a sieve and dry on kitchen paper.<\/li><li>While the quinoa is cooking, heat 1 tablespoon of oil in a saucepan over medium heat and lightly toast the almond slivers. Add the slivered pistachios, then the rest of the oil and the rinsed barberries. Cook briefly until the barberries are shiny and a little puffed.<\/li><li>Save a tablespoon of the barberry and nut mix and a tablespoon of the chopped herbs for garnishing the finished dish. <\/li><li>Mix all of the remaining nut and barberry mix, herbs and quinoa. <\/li><li>Return to the pot and place on low heat. Cover with a lid and cook for ten minutes or until completely heated through and steam is rising. <\/li><li>Turn into a serving dish and fluff with a fork. <\/li><li>Add a little extra olive oil and a twist of black pepper if you wish.<\/li><li>Sprinkle the quinoa with the rest of the berry-nut mix and chopped herbs and serve on its own as a main dish or as a side dish.<\/li><\/ol>",
+        "summary": "Quinoa Salad with Barberries & Nuts is a <b>gluten free, dairy free, lacto ovo vegetarian, and vegan<\/b> main course. This recipe makes 4 servings with <b>459 calories<\/b>, <b>14g of protein<\/b>, and <b>19g of fat<\/b> each. For <b>$2.09 per serving<\/b>, this recipe <b>covers 22%<\/b> of your daily requirements of vitamins and minerals. Only a few people made this recipe, and 9 would say it hit the spot. Head to the store and pick up slivered almonds, olive oil, slivered pistachios, and a few other things to make it today. From preparation to the plate, this recipe takes roughly <b>30 minutes<\/b>. It is brought to you by Foodista. With a spoonacular <b>score of 92%<\/b>, this dish is tremendous. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/quinoa-salad-with-barberries-nuts-1394637\">Quinoa Salad with Barberries & Nuts<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/quinoa-salad-with-barberries-nuts-1395243\">Quinoa Salad with Barberries & Nuts<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/quinoa-salad-with-barberries-nuts-1376471\">Quinoa Salad with Barberries & Nuts<\/a>.",
         "cuisines": [],
         "dishTypes": [
             "side dish",
@@ -19,18 +19,15 @@
             "dinner"
         ],
         "ingredients": [
-            "1 tablespoon of sweet chili dressing",
-            "1 small green bell pepper",
-            "1\/2 seasoning cube",
-            "A head of lettuce",
-            "1 small bulb of red onions",
-            "1 tablespoon of parmesan cheese",
-            "1 finger of ripe plantain",
-            "1 small red bell pepper",
-            "3 medium shrimps",
-            "2 firm tomatoes",
-            "1 tablespoon of vegetable oil",
-            "1 small yellow bell pepper"
+            "300g quinoa",
+            "1 1\/2 liters boiling water",
+            "1 tsp salt",
+            "2 tbsp olive oil (not extra-virgin, it will overpower other flavours)",
+            "50g barberries",
+            "4 tbsp slivered almonds",
+            "2 tbsp slivered pistachios",
+            "30g chopped coriander, chopped",
+            "A few sprigs of mint, chopped"
         ]
     }
 }
