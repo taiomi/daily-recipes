@@ -1,14 +1,14 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-04-06",
+    "lastUpdated": "2025-04-07",
     "recipe": {
-        "title": "Quinoa Salad with Barberries & Nuts",
-        "readyInMinutes": 30,
-        "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/1098387-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/PBQJCDDG\/quinoa-salad-with-barberries-nuts",
-        "instructions": "<ol><li>Put the quinoa in a sieve and rinse under running water. Drain. <\/li><li>Pour the boiling water over quinoa in a medium saucepan. <\/li><li>Add salt, stir well and cook over medium-low heat until quinoa is cooked through but still has a bite in the center. Drain in a sieve.<\/li><li>Pick over the barberries, rinse in a sieve and dry on kitchen paper.<\/li><li>While the quinoa is cooking, heat 1 tablespoon of oil in a saucepan over medium heat and lightly toast the almond slivers. Add the slivered pistachios, then the rest of the oil and the rinsed barberries. Cook briefly until the barberries are shiny and a little puffed.<\/li><li>Save a tablespoon of the barberry and nut mix and a tablespoon of the chopped herbs for garnishing the finished dish. <\/li><li>Mix all of the remaining nut and barberry mix, herbs and quinoa. <\/li><li>Return to the pot and place on low heat. Cover with a lid and cook for ten minutes or until completely heated through and steam is rising. <\/li><li>Turn into a serving dish and fluff with a fork. <\/li><li>Add a little extra olive oil and a twist of black pepper if you wish.<\/li><li>Sprinkle the quinoa with the rest of the berry-nut mix and chopped herbs and serve on its own as a main dish or as a side dish.<\/li><\/ol>",
-        "summary": "Quinoa Salad with Barberries & Nuts is a <b>gluten free, dairy free, lacto ovo vegetarian, and vegan<\/b> main course. This recipe makes 4 servings with <b>459 calories<\/b>, <b>14g of protein<\/b>, and <b>19g of fat<\/b> each. For <b>$2.09 per serving<\/b>, this recipe <b>covers 22%<\/b> of your daily requirements of vitamins and minerals. Only a few people made this recipe, and 9 would say it hit the spot. Head to the store and pick up slivered almonds, olive oil, slivered pistachios, and a few other things to make it today. From preparation to the plate, this recipe takes roughly <b>30 minutes<\/b>. It is brought to you by Foodista. With a spoonacular <b>score of 92%<\/b>, this dish is tremendous. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/quinoa-salad-with-barberries-nuts-1394637\">Quinoa Salad with Barberries & Nuts<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/quinoa-salad-with-barberries-nuts-1395243\">Quinoa Salad with Barberries & Nuts<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/quinoa-salad-with-barberries-nuts-1376471\">Quinoa Salad with Barberries & Nuts<\/a>.",
+        "title": "Chobani Harvest Fruit Salad",
+        "readyInMinutes": 45,
+        "servings": 1,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/638779-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/SJ2FLX7W\/chobani-harvest-fruit-salad",
+        "instructions": "In a large bowl, combine the apples, pear, banana and grapes.\nPour in the lemon juice and gently toss.\nAdd the raisins and pecans.\nAfter opening the yogurt container, incorporate the honey and cinnamon. Stir well.\nThen, pour the yogurt mixture over the fruit and toss to coat.\nShare and enjoy!",
+        "summary": "Need a <b>gluten free, lacto ovo vegetarian, and primal main course<\/b>? Chobani Harvest Fruit Salad could be an excellent recipe to try. One portion of this dish contains roughly <b>26g of protein<\/b>, <b>38g of fat<\/b>, and a total of <b>1562 calories<\/b>. For <b>$9.79 per serving<\/b>, this recipe <b>covers 39%<\/b> of your daily requirements of vitamins and minerals. This recipe serves 1. 8 people have tried and liked this recipe. This recipe from Foodista requires pink lady apples, cinnamon, pecan halves, and lemon juice. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. Overall, this recipe earns an <b>excellent spoonacular score of 86%<\/b>. <a href=\"https:\/\/spoonacular.com\/recipes\/harvest-bacon-and-chicken-dinner-salad-with-tangy-fruit-dressing-270038\">Harvest Bacon and Chicken Dinner Salad with Tangy Fruit Dressing<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/waldorf-ish-chicken-salad-with-chobani-0-pear-cawalnuts-493101\">Waldorf-ish Chicken Salad with @Chobani 0% Pear & @CAWalnuts<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/harvest-fruit-puree-195719\">Harvest Fruit Puree<\/a> are very similar to this recipe.",
         "cuisines": [],
         "dishTypes": [
             "side dish",
@@ -19,15 +19,18 @@
             "dinner"
         ],
         "ingredients": [
-            "300g quinoa",
-            "1 1\/2 liters boiling water",
-            "1 tsp salt",
-            "2 tbsp olive oil (not extra-virgin, it will overpower other flavours)",
-            "50g barberries",
-            "4 tbsp slivered almonds",
-            "2 tbsp slivered pistachios",
-            "30g chopped coriander, chopped",
-            "A few sprigs of mint, chopped"
+            "2 Pink Lady apples, chopped",
+            "2 Granny Smith apples, chopped",
+            "1 Bartlett pear, chopped",
+            "1 banana, sliced",
+            "1 cup green grapes, halved",
+            "1 cup red globe grapes, halved and seeded",
+            "1\/2 teaspoon lemon juice",
+            "1\/2 cup raisins",
+            "1\/2 cup pecan halves",
+            "6 ounces vanilla-flavored Chobani Greek Yogurt",
+            "1 tablespoon honey",
+            "1\/8 teaspoon cinnamon"
         ]
     }
 }
