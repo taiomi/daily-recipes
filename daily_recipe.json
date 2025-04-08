@@ -1,36 +1,35 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-04-07",
+    "lastUpdated": "2025-04-08",
     "recipe": {
-        "title": "Chobani Harvest Fruit Salad",
+        "title": "Kenyan Pilau",
         "readyInMinutes": 45,
-        "servings": 1,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/638779-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/SJ2FLX7W\/chobani-harvest-fruit-salad",
-        "instructions": "In a large bowl, combine the apples, pear, banana and grapes.\nPour in the lemon juice and gently toss.\nAdd the raisins and pecans.\nAfter opening the yogurt container, incorporate the honey and cinnamon. Stir well.\nThen, pour the yogurt mixture over the fruit and toss to coat.\nShare and enjoy!",
-        "summary": "Need a <b>gluten free, lacto ovo vegetarian, and primal main course<\/b>? Chobani Harvest Fruit Salad could be an excellent recipe to try. One portion of this dish contains roughly <b>26g of protein<\/b>, <b>38g of fat<\/b>, and a total of <b>1562 calories<\/b>. For <b>$9.79 per serving<\/b>, this recipe <b>covers 39%<\/b> of your daily requirements of vitamins and minerals. This recipe serves 1. 8 people have tried and liked this recipe. This recipe from Foodista requires pink lady apples, cinnamon, pecan halves, and lemon juice. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. Overall, this recipe earns an <b>excellent spoonacular score of 86%<\/b>. <a href=\"https:\/\/spoonacular.com\/recipes\/harvest-bacon-and-chicken-dinner-salad-with-tangy-fruit-dressing-270038\">Harvest Bacon and Chicken Dinner Salad with Tangy Fruit Dressing<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/waldorf-ish-chicken-salad-with-chobani-0-pear-cawalnuts-493101\">Waldorf-ish Chicken Salad with @Chobani 0% Pear & @CAWalnuts<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/harvest-fruit-puree-195719\">Harvest Fruit Puree<\/a> are very similar to this recipe.",
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/716344-556x370.jpg",
+        "sourceUrl": "https:\/\/www.afrolems.com\/2014\/08\/19\/kenyan-pilau-recipe\/",
+        "instructions": "Season and boil the meat and set aside.Chop and crush all the spices and set aside.Heat up the oil and saut\u00e9 the onions till its golden brown. Add the meat and allow to brown a little then add the spices, and the rice and the chopped tomatoes.Add the shrimps and add 2\u00a0cups of water and reduce the heat and allow to steam.Consistently check it to make sure the water has dried and the rice is soft. Once the rice is soft, increase the heat and stir it to let all the spices be absorbed in the rice.Serve with Kachumbari or any other salad.",
+        "summary": "Kenyan Pilau requires approximately <b>45 minutes<\/b> from start to finish. For <b>$3.47 per serving<\/b>, you get a main course that serves 4. One serving contains <b>475 calories<\/b>, <b>42g of protein<\/b>, and <b>5g of fat<\/b>. 39 people were impressed by this recipe. This recipe from Afrolems requires peppercorns, garlic, cinnamon sticks, and cumin seed powder. It is a good option if you're following a <b>gluten free and dairy free<\/b> diet. Taking all factors into account, this recipe <b>earns a spoonacular score of 85%<\/b>, which is tremendous. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/kenyan-pilau-1497421\">Kenyan Pilau<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/kenyan-chicken-curry-21155\">Kenyan Chicken Curry<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/kenyan-curried-cabbage-11200\">Kenyan Curried Cabbage<\/a>.",
         "cuisines": [],
         "dishTypes": [
-            "side dish",
             "lunch",
             "main course",
-            "salad",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "2 Pink Lady apples, chopped",
-            "2 Granny Smith apples, chopped",
-            "1 Bartlett pear, chopped",
-            "1 banana, sliced",
-            "1 cup green grapes, halved",
-            "1 cup red globe grapes, halved and seeded",
-            "1\/2 teaspoon lemon juice",
-            "1\/2 cup raisins",
-            "1\/2 cup pecan halves",
-            "6 ounces vanilla-flavored Chobani Greek Yogurt",
-            "1 tablespoon honey",
-            "1\/8 teaspoon cinnamon"
+            "4 whole black peppercorns",
+            "4 cardamom pods",
+            "4 cinnamon sticks",
+            "4 teaspoons of cumin seed powder",
+            "2 cloves of garlic",
+            "1\/2 teaspoon of ginger",
+            "1 pound of goat meat",
+            "1 small onion",
+            "1.5 cups of Rice ( you can use basmati rice)",
+            "Salt to taste",
+            "1 cup of dressed shrimp",
+            "2 small tomatoes",
+            "1 cooking spoon of vegetable oil"
         ]
     }
 }
