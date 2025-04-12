@@ -1,34 +1,36 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-04-11",
+    "lastUpdated": "2025-04-12",
     "recipe": {
-        "title": "Baked Macaroni and Cheese",
+        "title": "Coffee-braised Short Ribs",
         "readyInMinutes": 45,
-        "servings": 1,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/633683-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/KCPTYZ2L\/baked-macaroni-and-cheese",
-        "instructions": "Preheat oven to 350F. Butter 1-quart baking dish. Cook macaroni according to package directions; drain.\nMelt 2 tablespoons butter in heavy saucepan; blend in flour. Cook for 1 minute, stirring constantly. Pour in milk gradually and cook, stirring constantly until mixture thickens. Add seasonings and cheese, stirring until cheese is melted. Add macaroni and transfer to prepared baking dish.\nCombine bread crumbs and melted butter; sprinkle over macaroni. Bake for 30 minutes.\nMakes 6 servings",
-        "summary": "Baked Macaroni and Cheese is a main course that serves 1. Watching your figure? This lacto ovo vegetarian recipe has <b>2640 calories<\/b>, <b>105g of protein<\/b>, and <b>137g of fat<\/b> per serving. For <b>$4.15 per serving<\/b>, this recipe <b>covers 56%<\/b> of your daily requirements of vitamins and minerals. This recipe from Foodista has 4 fans. This recipe is typical of American cuisine. Head to the store and pick up pkt elbow macaroni, bread crumbs, pepper, and a few other things to make it today. From preparation to the plate, this recipe takes about <b>45 minutes<\/b>. With a spoonacular <b>score of 86%<\/b>, this dish is tremendous. Similar recipes include <a href=\"https:\/\/spoonacular.com\/recipes\/baked-macaroni-cheese-139360\">Baked Macaroni & Cheese<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/baked-macaroni-and-cheese-215144\">Baked Macaroni and Cheese<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/baked-macaroni-and-cheese-303824\">Baked Macaroni and Cheese<\/a>.",
-        "cuisines": [
-            "American"
-        ],
+        "servings": 5,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/639891-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/8ZDDXLKG\/coffee-braised-short-ribs",
+        "instructions": "<ol><li>Food<\/li><li>Preheat oven to 300F. Heat oil in a large heavy stockpot over medium-high heat. Sprinkle short ribs with salt and pepper. Working in batches, add ribs to pot and cook until browned, about 4 minutes per side. Transfer to platter.<\/li><li>Add onion, red bell pepper, and jalapeo to drippings in stockpot. Reduce heat to medium, cover, and cook until onion is tender, stirring occasionally, about 6 minutes.<\/li><li>Stir in garlic and saut uncovered 1 minute.<\/li><li>Add brown sugar, ancho chile powder, oregano, and cumin; stir 15 seconds. Stir in coffee, tomatoes with juice, and tomato paste. Bring to boil, scraping up browned bits. Return ribs and any juices to pot; bring to boil.<\/li><li>Cover and bake until meat is very tender, about 1 hour 45 minutes. Spoon fat from surface of sauce. Season sauce to taste with salt and pepper.<\/li><li>Transfer ribs to a platter and spoon sauce over top.<\/li><li>Sprinkle with chopped cilantro.<\/li><\/ol>",
+        "summary": "Need a <b>gluten free and dairy free main course<\/b>? Coffee-braised Short Ribs could be a great recipe to try. One portion of this dish contains approximately <b>74g of protein<\/b>, <b>42g of fat<\/b>, and a total of <b>877 calories<\/b>. For <b>$7.05 per serving<\/b>, this recipe <b>covers 64%<\/b> of your daily requirements of vitamins and minerals. This recipe serves 5. 6 people have made this recipe and would make it again. A mixture of strong freshly coffee, short, brown sugar, and a handful of other ingredients are all it takes to make this recipe so delicious. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. It is brought to you by Foodista. Taking all factors into account, this recipe <b>earns a spoonacular score of 90%<\/b>, which is spectacular. If you like this recipe, take a look at these similar recipes: <a href=\"https:\/\/spoonacular.com\/recipes\/coffee-braised-short-ribs-492600\">Coffee-Braised Short Ribs<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/coffee-braised-short-ribs-1547523\">Coffee-braised Short Ribs<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/coffee-braised-short-ribs-386092\">Coffee-Braised Short Ribs<\/a>.",
+        "cuisines": [],
         "dishTypes": [
-            "side dish",
             "lunch",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "1 pkt (8 oz.) elbow macaroni",
-            "2 tablespoons Butter",
-            "2 tablespoons Flour",
-            "1 3\/4 cups Milk",
-            "1\/8 teaspoon Salt",
-            "1\/8 teaspoon Pepper",
-            "2 cups Cheddar cheese, grated",
-            "1\/2 cup Bread crumbs",
-            "1 1\/2 tablespoons Melted butter"
+            "1 1\/2 tablespoons ancho chile powder",
+            "14 -s 1\/2 ounce can diced tomatoes in juice",
+            "2 tablespoons dark brown sugar",
+            "Chopped fresh cilantro",
+            "6 garlic cloves, chopped",
+            "1 1\/4 teaspoons ground cumin",
+            "1 large jalape\u00f1o, seeded and finely chopped",
+            "2 tablespoons olive oil",
+            "2 teaspoons dried oregano",
+            "1 large red bell pepper, chopped",
+            "5 pounds short ribs",
+            "2 cups strong freshly brewed coffee",
+            "1 tablespoon tomato paste",
+            "1 large yellow onion, chopped"
         ]
     }
 }
