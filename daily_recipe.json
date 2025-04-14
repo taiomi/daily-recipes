@@ -1,31 +1,38 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-04-13",
+    "lastUpdated": "2025-04-14",
     "recipe": {
-        "title": "Baked Rigatoni",
+        "title": "Pork Menudo",
         "readyInMinutes": 45,
-        "servings": 6,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/633766-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/78KGC5QF\/baked-rigatoni",
-        "instructions": "<ol><li>1. Preheat oven to 400 degrees. Cook pasta according to package directions, drain.<\/li><li>2. Combine pasta, pasta sauce, tomatoes, broccoli, burger crumbles, basil, fennel seeds and 4 oz. of the mozzarella in a 9x13 baking dish. Top with remaining 2 oz. mozzarella. Bake until heated through, about 20 minutes.<\/li><\/ol>",
-        "summary": "Need a <b>lacto ovo vegetarian main course<\/b>? Baked Rigatoni could be a spectacular recipe to try. One serving contains <b>481 calories<\/b>, <b>25g of protein<\/b>, and <b>10g of fat<\/b>. This recipe serves 6. For <b>$1.86 per serving<\/b>, this recipe <b>covers 34%<\/b> of your daily requirements of vitamins and minerals. 3 people have made this recipe and would make it again. A mixture of broccoli flowerets, basil, vegetable burger crumbles, and a handful of other ingredients are all it takes to make this recipe so flavorful. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. It is brought to you by Foodista. Overall, this recipe earns a <b>spectacular spoonacular score of 93%<\/b>. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/rigatoni-al-forno-baked-rigatoni-with-roasted-asparagus-and-on-115058\">Rigatoni Al Forno (Baked Rigatoni) with Roasted Asparagus and On<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/baked-rigatoni-76933\">Baked Rigatoni<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/baked-rigatoni-408338\">Baked Rigatoni<\/a>.",
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/656791-556x370.jpg",
+        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/JGF3YG4C\/pork-menudo",
+        "instructions": "<ol><li>Heat your wok or big kawali. Make sure it's hot before you put oil. Fry the potatoes until half-cooked. Set aside.<\/li><li>On the same pan, add butter and garlic. Do not burn the garlic.<\/li><li>Add the pork, tomatoes, onions and bell pepper. Add salt and pepper to taste. You can also add 1 pork cube for a richer flavor. Reduce to low heat. Juices will eventually come out from the vegetables so no need to add water. Cover, stirring occasionally. Simmer until pork is tender or until the liquid has almost dried up leaving a thick sauce.<\/li><li>Add the liver, cover for about 5 minutes. I'm adding the liver at a later part because we don't want to overcook it. Liver cooks fast and it can be tough if overdone.<\/li><li>Add the potatoes, carrots, green peas and raisins (and the rest of the ingredients, if any). Simmer for 15 more minutes stirring occasionally.<\/li><li>Serve with steamed rice.<\/li><\/ol>",
+        "summary": "The recipe Pork Menudo can be made <b>in approximately 45 minutes<\/b>. One serving contains <b>990 calories<\/b>, <b>38g of protein<\/b>, and <b>49g of fat<\/b>. For <b>$4.54 per serving<\/b>, this recipe <b>covers 42%<\/b> of your daily requirements of vitamins and minerals. This recipe serves 4. 3 people have made this recipe and would make it again. This recipe from Foodista requires size bell pepper, bell pepper, potatoes, and chorizo. It works well as a rather pricey main course. It is a good option if you're following a <b>gluten free and dairy free<\/b> diet. All things considered, we decided this recipe <b>deserves a spoonacular score of 83%<\/b>. This score is super. If you like this recipe, take a look at these similar recipes: <a href=\"https:\/\/spoonacular.com\/recipes\/pork-menudo-1423925\">Pork Menudo<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/pork-menudo-1259415\">Pork Menudo<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/pork-menudo-1497429\">Pork Menudo<\/a>.",
         "cuisines": [],
         "dishTypes": [
-            "side dish",
             "lunch",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "14 ounces frozen broccoli flowerets",
-            "1 teaspoon dried basil",
-            "1\/4 teaspoon fennel seeds",
-            "26 ounces pasta sauce",
-            "1 pound rigatoni",
-            "6 ounces mozzarella cheese, part skim milk shredded",
-            "14 1\/2 ounces canned ready-cut diced tomatoes drained",
-            "6 ounces frozen vegetable burger crumbles"
+            "4 mediums size red bell pepper, minced",
+            "2 tablespoons butter or margarine",
+            "3 large carrots, peeled and diced",
+            "3 links chorizo",
+            "1\/2 cup cooked garbanzo beans",
+            "4 cloves garlic, minced",
+            "2 tablespoons oil",
+            "5 mediums size onions",
+            "1\/2 cup frozen green peas",
+            "pepper",
+            "1\/4 kilo pork livers",
+            "1\/2 kilo pork cubes",
+            "3 large potatoes, peeled and diced",
+            "1\/4 cup raisins",
+            "salt",
+            "6 mediums size tomatoes"
         ]
     }
 }
