@@ -1,43 +1,32 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-04-15",
+    "lastUpdated": "2025-04-16",
     "recipe": {
-        "title": "Minestrone Soup",
+        "title": "Caramelized Tofu & Gala Apple Salad",
         "readyInMinutes": 45,
-        "servings": 8,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/658024-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/55CQV2NL\/recipe-for-minestrone-soup",
-        "instructions": "<ol><li>Heat the oil in a very large pan that has a close fitting lid.  Then add the celery, bacon, onion, carrot and garlic.  Fry this off for about 5 to 7 minutes until it has softened a little.  No colour is needed on the vegetables, so make sure the heat isnt too high that they become brown, but high enough the vegetables sweat and soften.<\/li><li>Add the tomato pure and  the thyme leaves, stir through and cook for about 30 seconds.<\/li><li>3.Add the stock, the tin of tomatoes, fresh tomatoes, and a little salt and pepper. Stir everything through, set the heat so that your soup is on a gentle simmer, cover and cook for about 25 minutes or until the vegetables are cooked al dente.<\/li><li>Add the pasta and cook until the pasta is ready.  Follow the timing instructions on the packet, but this is normally about 7 minutes.<\/li><li>Add the cabbage and the beans and cook until the cabbage has wilted.  This will take about 5 minutes.<\/li><li>Check for seasoning and add some salt and pepper if needed before serving.<\/li><li>Sprinkle a little parmesan over each bowl of soup.<\/li><\/ol>",
-        "summary": "You can never have too many main course recipes, so give Minestrone Soup a try. For <b>$2.03 per serving<\/b>, this recipe <b>covers 23%<\/b> of your daily requirements of vitamins and minerals. One serving contains <b>356 calories<\/b>, <b>20g of protein<\/b>, and <b>16g of fat<\/b>. This recipe serves 8. It is perfect for <b>Autumn<\/b>. 14 people have made this recipe and would make it again. It is a <b>reasonably priced<\/b> recipe for fans of Mediterranean food. Head to the store and pick up vegetable stock, tomatoes into 8ths, salt and pepper, and a few other things to make it today. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. It is brought to you by Foodista. Overall, this recipe earns a <b>solid spoonacular score of 69%<\/b>. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/minestrone-soup-1202731\">Minestrone Soup<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/minestrone-soup-1687455\">Minestrone Soup<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/minestrone-soup-31875\">Minestrone Soup<\/a>.",
-        "cuisines": [
-            "Mediterranean",
-            "Italian",
-            "European"
-        ],
+        "servings": 2,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/637067-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/SRNHDHGT\/caramelized-tofu-gala-apple-salad",
+        "instructions": "<ol><li>First thing of action: bake your tofu. Preheat the oven to 350F. Let tofu sit on a kitchen towel for 15 minutes, turning once, to absorb moisture. Cut tofu into 1 inch cubes. Brush them lightly with vegetable oil (I always use olive oil, but I am certain that this recipe would be best with a peanut oil). Place them on a baking sheet and bake for 35 minutes, turning once.<\/li><li>In a small pan, heat butter and garlic on low until the butter has just almost melted. Add the apples, tofu, and salt. Bring heat up to medium, and cook for about 4 minutes. At this point you should add the water and stir every minute for the next 6-7 additional minutes, or until there is little moisture left in the pan. Turn off the heat, and add the brown sugar. Stir to incorporate all of the sugar. Place on top of salad lettuce.<\/li><\/ol>",
+        "summary": "Caramelized Tofu & Galan Apple Salad is a main course that serves 2. For <b>$2.31 per serving<\/b>, this recipe <b>covers 15%<\/b> of your daily requirements of vitamins and minerals. One serving contains <b>380 calories<\/b>, <b>20g of protein<\/b>, and <b>21g of fat<\/b>. 13 people were glad they tried this recipe. It is brought to you by Foodista. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. If you have galan apple, butter, wholes pecans, and a few other ingredients on hand, you can make it. It is a good option if you're following a <b>gluten free and lacto ovo vegetarian<\/b> diet. Overall, this recipe earns a <b>solid spoonacular score of 49%<\/b>. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/gala-apple-cider-47795\">Galan Apple Cider<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/roasted-pumpkin-gala-apple-garam-masala-soup-556663\">Roasted Pumpkin, Galan Apple & Garam Masala Soup<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/gala-crab-salad-403702\">Gala Crab Salad<\/a>.",
+        "cuisines": [],
         "dishTypes": [
+            "side dish",
             "lunch",
-            "soup",
             "main course",
+            "salad",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "125gr \/ 4.5 oz. smoked bacon sliced finely or into thin strips",
-            "1 can kidney beans (400gr \/ 14 oz.) drained and washed",
-            "1 can chopped tomatoes (400gr \/ 14 oz.)",
-            "3 carrots, peeled and chopped finely",
-            "3 stalks of celery chopped finely",
-            "1 tbsp of fresh thyme leaves",
-            "3 large cloves of garlic, chopped finely",
-            "100gr \/ 3.5 oz. macaroni",
-            "1 tbsp olive oil",
-            "1 large onion chopped finely",
-            "Some finely grated parmesan to serve",
-            "Salt and black pepper to taste",
-            "1\/3 of a savoy cabbage, shredded",
-            "2 tbsp tomato pur\u00e9e",
-            "2 large tomatoes chopped into 8ths",
-            "1.2 liter \/ 2.5 pt. UK \/ 2.1 pt.US chicken or vegetable stock"
+            "2 tablespoons brown sugar",
+            "1 tablespoon butter",
+            "14 ounces extra-firm tofu, baked",
+            "1 gala apple, peeled and diced",
+            "2 cloves garlic, minced",
+            "3 cups green leaf lettuce (I am using baby",
+            "12 wholes raw pecans",
+            "1\/4 cup water"
         ]
     }
 }
