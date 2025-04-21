@@ -1,38 +1,34 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-04-20",
+    "lastUpdated": "2025-04-21",
     "recipe": {
-        "title": "Asian Shrimp Stir-Fry",
+        "title": "Lentil Mango Salad",
         "readyInMinutes": 45,
         "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/631748-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/GK6SWY26\/asian-shrimp-stir-fry",
-        "instructions": "Heat the oil in a 12-inch skillet over medium-high heat. Add the shrimp and stir-fry for 3 minutes or until cooked through. Remove the shrimp from the skillet.\nAdd the red bell pepper and yellow onion to the skillet and stir-fry for 2 minutes or until the vegetables are tender-crisp.\nAdd the garlic, ginger root and crushed red pepper to the skillet and stir-fry for 30 seconds. Return the shrimp to the skillet. Stir in the concentrated broth, soy sauce, sugar and water and cook for 1 minute or until the mixture is hot. Remove the skillet from the heat and stir in the sesame oil. Sprinkle the shrimp mixture with the sesame seeds and green onion.",
-        "summary": "Asian Shrimp Stir-Fry takes about <b>45 minutes<\/b> from beginning to end. This recipe makes 4 servings with <b>201 calories<\/b>, <b>24g of protein<\/b>, and <b>8g of fat<\/b> each. For <b>$2.69 per serving<\/b>, this recipe <b>covers 13%<\/b> of your daily requirements of vitamins and minerals. It is a <b>rather inexpensive<\/b> recipe for fans of Asian food. 58 people were impressed by this recipe. It is brought to you by Foodista. A mixture of canolan oil, shrimp, onion, and a handful of other ingredients are all it takes to make this recipe so flavorful. A couple people really liked this main course. It is a good option if you're following a <b>gluten free, dairy free, and pescatarian<\/b> diet. All things considered, we decided this recipe <b>deserves a spoonacular score of 59%<\/b>. This score is pretty good. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/asian-shrimp-stir-fry-1228257\">Asian Shrimp Stir-Fry<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/asian-shrimp-stir-fry-545079\">Asian Shrimp Stir-Fry<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/asian-shrimp-edamame-stir-fry-728847\">Asian Shrimp Edamame Stir-Fry<\/a>.",
-        "cuisines": [
-            "Asian"
-        ],
+        "image": "https:\/\/img.spoonacular.com\/recipes\/649944-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/TTBNDB7Q\/lentill-mango-salad",
+        "instructions": "<ol><li>Clean and chop the onion, red pepper, garlic, Cilantro<\/li><li>Peel and chop mango<\/li><li>Place all salad ingredients in a bowl, add the oil, vinegar, season with salt and pepper<\/li><li>Mix well and leave in the refrigerator for 1 \/ 2 hour<\/li><li>This salad is left to eat alone or to accompany meat and poultry dishes, enjoy ...<\/li><\/ol>",
+        "summary": "Lentil Mango Salad is a main course that serves 4. One serving contains <b>253 calories<\/b>, <b>12g of protein<\/b>, and <b>6g of fat<\/b>. For <b>$1.59 per serving<\/b>, this recipe <b>covers 25%<\/b> of your daily requirements of vitamins and minerals. It is brought to you by Foodista. 3 people found this recipe to be tasty and satisfying. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. It is a good option if you're following a <b>gluten free, dairy free, lacto ovo vegetarian, and vegan<\/b> diet. Head to the store and pick up cilantro, white wine vinegar, onion, and a few other things to make it today. Taking all factors into account, this recipe <b>earns a spoonacular score of 94%<\/b>, which is amazing. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/lentil-burger-with-mango-salsa-509088\">LENTIL BURGER with Mango Salsa<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/plumcot-orange-lentil-salad-fave-five-friday-lovely-lentil-dishes-529696\">Plumcot, Orange & Lentil Salad\u2026 & Fave Five Friday: Lovely Lentil Dishes<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/simple-coconut-quinoa-and-lentil-curry-with-lime-mango-705061\">Simple Coconut Quinoan and Lentil Curry with Lime Mango<\/a>.",
+        "cuisines": [],
         "dishTypes": [
+            "side dish",
             "lunch",
             "main course",
+            "salad",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "2 tablespoons canola oil",
-            "1 pound uncooked large shrimp (20\/25 count per pound), peeled and deveined",
-            "1 red bell pepper, sliced (about 1 cup)",
-            "1 large yellow onion, sliced (about 1 cup)",
-            "2 cloves garlic, minced",
-            "1 (1-inch) piece fresh ginger root, peeled and minced (about 1 tablespoon)",
-            "1\/4 teaspoon crushed red pepper",
-            "1 packet Swanson\u00ae Flavor Concentrated Seafood Broth",
-            "1 tablespoon soy sauce",
-            "1 teaspoon sugar",
-            "1\/4 cup water",
-            "1\/4 teaspoon sesame oil",
-            "1 teaspoon sesame seeds",
-            "1 green onion, sliced (about 2 tablespoons)"
+            "1 bunch Cilantro",
+            "1 pound cooked lentils",
+            "1 clove garlic",
+            "1 mango",
+            "1\/2 cup olive oil",
+            "pepper",
+            "1 red bell pepper",
+            "1 red onion",
+            "Salt",
+            "1\/4 cup white wine vinegar"
         ]
     }
 }
