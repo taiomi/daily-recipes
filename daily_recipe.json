@@ -1,34 +1,43 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-04-21",
+    "lastUpdated": "2025-04-22",
     "recipe": {
-        "title": "Lentil Mango Salad",
+        "title": "Dutch Oven Paella",
         "readyInMinutes": 45,
-        "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/649944-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/TTBNDB7Q\/lentill-mango-salad",
-        "instructions": "<ol><li>Clean and chop the onion, red pepper, garlic, Cilantro<\/li><li>Peel and chop mango<\/li><li>Place all salad ingredients in a bowl, add the oil, vinegar, season with salt and pepper<\/li><li>Mix well and leave in the refrigerator for 1 \/ 2 hour<\/li><li>This salad is left to eat alone or to accompany meat and poultry dishes, enjoy ...<\/li><\/ol>",
-        "summary": "Lentil Mango Salad is a main course that serves 4. One serving contains <b>253 calories<\/b>, <b>12g of protein<\/b>, and <b>6g of fat<\/b>. For <b>$1.59 per serving<\/b>, this recipe <b>covers 25%<\/b> of your daily requirements of vitamins and minerals. It is brought to you by Foodista. 3 people found this recipe to be tasty and satisfying. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. It is a good option if you're following a <b>gluten free, dairy free, lacto ovo vegetarian, and vegan<\/b> diet. Head to the store and pick up cilantro, white wine vinegar, onion, and a few other things to make it today. Taking all factors into account, this recipe <b>earns a spoonacular score of 94%<\/b>, which is amazing. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/lentil-burger-with-mango-salsa-509088\">LENTIL BURGER with Mango Salsa<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/plumcot-orange-lentil-salad-fave-five-friday-lovely-lentil-dishes-529696\">Plumcot, Orange & Lentil Salad\u2026 & Fave Five Friday: Lovely Lentil Dishes<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/simple-coconut-quinoa-and-lentil-curry-with-lime-mango-705061\">Simple Coconut Quinoan and Lentil Curry with Lime Mango<\/a>.",
-        "cuisines": [],
+        "servings": 6,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/631747-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/HD6HS3BD\/dutch-oven-paella",
+        "instructions": "Adjust oven rack to lower middle position and heat oven to 350. In a med bowl, toss shrimp with 1 t. minced garlic, 1 T. olive oil, 1\/4 t. salt & 1\/4 t. pepper. Refrigerate until needed. Season chicken with salt & pepper, set aside.\nHeat 2 t. oil in a large Dutch oven over med-high heat until oil shimmers, add bell pepper and cook, stirring occasionally until skins blister and brown about 3-4 minutes. Remove to a plate and set aside. Add 1 T. more oil to the pot, add chicken thighs and brown well, flipping once, about 3 minutes per side. Remove chicken to a bowl, reduce heat to medium, add sausage and cook 4-5 minutes, stirring frequently, until browned and fat starts to render. Add to bowl with the browned chicken.\n3. At medium heat, add enough oil to the pot to equal 2 T., add onion and cook, stirring frequently, until tender, about 3 minutes, add remaining garlic, cook for 1 minute, add tomatoes, cook and stir until tomatoes thicken and darken slightly about 3 minutes. Add rice, cook and stir for about 2 minutes, making sure everything is evenly mixed. Add broth, wine, saffron, bay leaf and 1\/2 t. salt. Add the browned chicken and sausage. Increase heat to med-high, bring to a boil, stirring often. Cover pot and place in the oven. Bake for 15 minutes (liquid should be mostly absorbed). Remove pot from the oven (keep oven door closed to retain heat), remove the lid, nestle the artichoke hearts down in the rice a bit. Sprinkle the shrimp over the top of the rice, then, sprinkle with the peas and bell pepper strips. Replace the led, add back to the oven for another 10 minutes or until the shrimp are opaque.\nTurn stove burner to med-high heat. Remove the pot from the oven, place on the stove cook for 5 minutes to get the browned portion on the bottom of the rice (called Soccarat), rotating the pot 180 degrees halfway through to ensure even browning. Remove pot from heat and let the paella rest, covered, for 5 minutes. Sprinkle with fresh chopped parsley and lemon wedges.",
+        "summary": "Dutch Oven Paellan is a main course that serves 6. For <b>$4.74 per serving<\/b>, this recipe <b>covers 31%<\/b> of your daily requirements of vitamins and minerals. One serving contains <b>670 calories<\/b>, <b>43g of protein<\/b>, and <b>24g of fat<\/b>. 6 people found this recipe to be yummy and satisfying. If you have garlic cloves, flat parsely, chicken thighs, and a few other ingredients on hand, you can make it. It is brought to you by Foodista. This recipe is typical of European cuisine. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. It is a good option if you're following a <b>dairy free<\/b> diet. Taking all factors into account, this recipe <b>earns a spoonacular score of 78%<\/b>, which is good. <a href=\"https:\/\/spoonacular.com\/recipes\/dutch-oven-paella-1438817\">Dutch Oven Paella<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/dutch-oven-paella-1479225\">Dutch Oven Paella<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/dutch-oven-cobbler-423365\">Dutch Oven Cobbler<\/a> are very similar to this recipe.",
+        "cuisines": [
+            "Spanish",
+            "European"
+        ],
         "dishTypes": [
-            "side dish",
             "lunch",
             "main course",
-            "salad",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "1 bunch Cilantro",
-            "1 pound cooked lentils",
-            "1 clove garlic",
-            "1 mango",
-            "1\/2 cup olive oil",
-            "pepper",
-            "1 red bell pepper",
-            "1 red onion",
-            "Salt",
-            "1\/4 cup white wine vinegar"
+            "1 lb. large shrimp (21\/25), peeled and deveined",
+            "salt and pepper",
+            "extra virgin olive oil",
+            "8-9 garlic cloves, minced",
+            "1 lb. boneless, skinless chicken thighs, trimmed of excess fat, cut crosswise in half",
+            "8 oz. Spanish chorizo sausage, sliced 1\/2 inch thick",
+            "1 red bell pepper, seeded and cut into 1\/2 inch wide strips",
+            "1 . onion, chopped fine",
+            "1 (14 1\/2 oz.) can diced tomatoes, drained, finely chopped, then drained again",
+            "2 c. Valencia or Arborio rice",
+            "3 c. low-sodium chicken broth",
+            "1\/3 c. dry white wine",
+            "1\/2 t. saffron threads, crumbled",
+            "1 bay leaf",
+            "3\/4 c. frozen artichoke hearts, thawed",
+            "1\/2 c. frozen peas, thawed",
+            "chopped fresh flat-leaf parsely",
+            "lemon wedges"
         ]
     }
 }
