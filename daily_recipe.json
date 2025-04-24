@@ -1,17 +1,15 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-04-23",
+    "lastUpdated": "2025-04-24",
     "recipe": {
-        "title": "Slow Cooker Kahlua Pork with Sweet Chili Pineapple Sauce",
-        "readyInMinutes": 660,
-        "servings": 12,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/660288-556x370.jpg",
-        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/NQB678JF\/slow-cooker-kahlua-pork-with-sweet-chili-pineapple-sauce",
-        "instructions": "<ol><li>Place the pork, fat side up, in the slow cooker. Using a fork, pierce the roast all over and pour the liquid smoke over it to coat. Sprinkle the sea salt evenly over the roast and cover. Cook on low for 10 hours (the roast is done when the meat begins to fall apart when shredded with a fork.)<\/li><li>In a small saucepan, whisk together the pineapple juice, rice vinegar, honey, chili sauce and hoisin sauce. Bring the mixture to a boil and cook the sauce until reduced by half stirring with a heat resistant spatula frequently. Set aside.<\/li><li>When the roast is done, transfer to a cutting board and shred the meat using two forks. Return the shredded meat back to the slow cooker and serve immediately with the sauce.<\/li><\/ol>",
-        "summary": "If you have roughly <b>11 hour<\/b> to spend in the kitchen, Slow Cooker Kahlua Pork with Sweet Chili Pineapple Sauce might be a spectacular <b>gluten free and dairy free<\/b> recipe to try. This recipe serves 12 and costs $2.37 per serving. One serving contains <b>447 calories<\/b>, <b>57g of protein<\/b>, and <b>18g of fat<\/b>. It works well as a main course. This recipe from Foodista has 21 fans. A few people really liked this American dish. A mixture of garlic chili sauce, regular sea salt, pork butt, and a handful of other ingredients are all it takes to make this recipe so yummy. It can be enjoyed any time, but it is especially good for <b>The Super Bowl<\/b>. Taking all factors into account, this recipe <b>earns a spoonacular score of 86%<\/b>, which is outstanding. Try <a href=\"https:\/\/spoonacular.com\/recipes\/pineapple-black-bean-slow-cooker-turkey-chili-837194\">Pineapple Black Bean Slow Cooker Turkey Chili<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/sweet-chili-pineapple-pork-stir-fry-560062\">Sweet Chili Pineapple Pork Stir Fry<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/slow-cooker-pineapple-pork-roast-1190289\">Slow Cooker Pineapple Pork Roast<\/a> for similar recipes.",
-        "cuisines": [
-            "American"
-        ],
+        "title": "Figure Friendly Mushroom and Bacon Strata",
+        "readyInMinutes": 45,
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/642821-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/3GLLDLZM\/figure-friendly-mushroom-and-bacon-strata",
+        "instructions": "Heat non-stick skillet over medium heat. Add oil and saute onion and peppers for 5 minutes to soften. Add mushrooms and saute another 5 minutes.\nSpray baking dish with cooking spray and add bread cubes. Top with mushroom mixture, basil, and salt and pepper to your taste. Sprinkle with bacon bits and cheese.\nWhip eggs and milk together and pour over bread mixture.\nRefrigerate for one hour up to overnight.\nHeat oven to 350. Bake 20 minutes covered with foil. Uncover and bake another 10 minutes until puffed and lightly browned.",
+        "summary": "Figure Friendly Mushroom and Bacon Strata might be a good recipe to expand your main course recipe box. This recipe serves 4. For <b>$1.5 per serving<\/b>, this recipe <b>covers 28%<\/b> of your daily requirements of vitamins and minerals. One serving contains <b>519 calories<\/b>, <b>29g of protein<\/b>, and <b>17g of fat<\/b>. It is brought to you by Foodista. 3 people have made this recipe and would make it again. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. A mixture of eggs, bacon bits, olive oil, and a handful of other ingredients are all it takes to make this recipe so yummy. With a spoonacular <b>score of 45%<\/b>, this dish is solid. <a href=\"https:\/\/spoonacular.com\/recipes\/figure-friendly-strawberry-cheesecake-555133\">Figure Friendly Strawberry Cheesecake<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/mushroom-bacon-and-swiss-strata-495650\">Mushroom, Bacon, and Swiss Strata<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/mushroom-bacon-breakfast-strata-428459\">Mushroom Bacon Breakfast Strata<\/a> are very similar to this recipe.",
+        "cuisines": [],
         "dishTypes": [
             "lunch",
             "main course",
@@ -19,14 +17,18 @@
             "dinner"
         ],
         "ingredients": [
-            "5 tablespoons garlic chili sauce",
-            "5 tablespoon hoisin sauce",
-            "1\/4 cup honey",
-            "4 tablespoons liquid smoke",
-            "1\/2 cup pineapple juice",
-            "1 8 lb pork butt",
-            "1\/4 cup rice vinegar",
-            "5 tablespoons pink hawaiian sea salt or regular sea salt"
+            "4 large eggs",
+            "4 large egg whites",
+            "1\/2 cup low fat milk",
+            "2 cups bread , stale and cubed",
+            "1\/4 cup onion, minced",
+            "1\/4 cup red bell (capsicum) peppers, minced",
+            "1\/4 cup yellow bell pepper, minced",
+            "1 cup mushroom , sliced",
+            "2 tablespoons basil, chopped",
+            "2 tablespoons bacon bits, use real bacon bits",
+            "1 teaspoon olive oil",
+            "1\/2 cup cheese, shredde"
         ]
     }
 }
