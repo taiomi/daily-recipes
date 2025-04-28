@@ -1,30 +1,38 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-04-27",
+    "lastUpdated": "2025-04-28",
     "recipe": {
-        "title": "Pesto Zucchini \"Spaghetti",
+        "title": "Sweet and Spicy Country-Style Ribs",
         "readyInMinutes": 45,
-        "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/655853-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/RGY8Z8V3\/pesto-zucchini-spaghetti",
-        "instructions": "Place zucchini strips in a colander over a bowl or in the sink. Sprinkle zucchini with salt and toss to combine. Let the zucchini sit for 15 minutes while the salt extracts the moisture. Drain excess water, squeezing zucchini, if necessary.\nMeanwhile, cook bacon in a skillet over medium heat until crisp, turning frequently. Remove bacon to a stack of paper towels to drain. Crumble bacon. Remove all but 2 T of bacon drippings from the pan.\nReturn the pan to medium heat. Add the green onions and broccoli, stirring frequently for about 3-5 minutes or until crisp-tender. Add zucchini and 2 T of pesto, tossing to combine all ingredients. Taste and add more pesto, if needed. The mixture only needs to warm up, so 2-3 minutes of cooking ought to do it.\nServe with bacon crumbles and freshly grated Parmesan cheese.",
-        "summary": "Pesto Zucchini \"Spaghetti requires around <b>45 minutes<\/b> from start to finish. This main course has <b>336 calories<\/b>, <b>18g of protein<\/b>, and <b>25g of fat<\/b> per serving. For <b>$1.9 per serving<\/b>, this recipe <b>covers 22%<\/b> of your daily requirements of vitamins and minerals. This recipe serves 4. Head to the store and pick up romano cheese, salt, bacon, and a few other things to make it today. 4 people have tried and liked this recipe. It is brought to you by Foodista. It is a good option if you're following a <b>gluten free and primal<\/b> diet. Overall, this recipe earns a <b>pretty good spoonacular score of 62%<\/b>. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/spaghetti-with-zucchini-and-pistachio-pesto-668341\">Spaghetti with Zucchini and Pistachio Pesto<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/spaghetti-with-zucchini-and-pistachio-pesto-1205233\">Spaghetti with Zucchini and Pistachio Pesto<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/zucchini-spaghetti-with-spinach-pesto-520192\">Zucchini \"Spaghetti\" with Spinach Pesto<\/a>.",
+        "servings": 6,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/662463-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/2ZF5G885\/sweet-and-spicy-country-style-ribs",
+        "instructions": "Heat the fat in a 6-quart enameled Dutch oven over medium high heat and brown the ribs on all sides.  Pour in the stock; add water to cover if necessary.  Add the vegetable scraps and bring to a boil.  Lower the heat to a simmer, cover and cook for 45 minutes to an hour, or until the ribs are tender.\nWhile the ribs are braising, saute the onions over medium-low heat in a large cast iron skillet until soft; add the garlic and saute for another minute more.  Stir in tomato sauce, vinegar, honey, pepper or hot sauce, cayenne pepper, chili chili powder, salt and dry mustard. Bring the mixture to a boil, then reduce heat and simmer, uncovered for 25 minutes, stirring occasionally.\nWhen the ribs are tender, remove them from the braising liquid and add them to the spicy tomato sauce in the pan.  Raise the heat and cook, stirring frequently, until the sauce has glazed the ribs, about 10 minutes.  Serve with the remaining sauce on the side, if desired.",
+        "summary": "Sweet and Spicy Country-Style Ribs might be a good recipe to expand your main course repertoire. One portion of this dish contains about <b>25g of protein<\/b>, <b>20g of fat<\/b>, and a total of <b>506 calories<\/b>. This gluten free recipe serves 6 and costs <b>$3.31 per serving<\/b>. Head to the store and pick up beef stock, honey, butter, and a few other things to make it today. 3 people found this recipe to be scrumptious and satisfying. It is brought to you by Foodista. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. Overall, this recipe earns a <b>good spoonacular score of 46%<\/b>. Try <a href=\"https:\/\/spoonacular.com\/recipes\/sweet-and-sour-country-style-ribs-487238\">Sweet and Sour Country Style Ribs<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/sweet-n-spicy-country-ribs-397391\">Sweet 'n' Spicy Country Ribs<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/country-style-ribs-146904\">Country Style Ribs<\/a> for similar recipes.",
         "cuisines": [],
         "dishTypes": [
-            "side dish",
             "lunch",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "4 medium zucchini, julienned thinly (mandoline slicers are great for this)",
-            "generous pinch of salt",
-            "6 slices of uncooked bacon",
-            "1\/2 cup green onions, sliced into 1-inch pieces",
-            "2 cups broccoli florets",
-            "2-3 T prepared basil pesto",
-            "Fresh Parmesan or Romano cheese, for garnish"
+            "2 pounds country-style pork ribs or beef short ribs",
+            "2 tablespoons lard (pork), tallow, or vegetable oil (",
+            "1 small yellow onion, finely chopped",
+            "1 clove garlic, minced",
+            "2 tablespoons unsalted butter",
+            "1 1\/2 cups tomato sauce",
+            "cup apple cider vinegar",
+            "cup honey",
+            "1 tablespoon bottled pepper sauce or hot sauce (I used Sriracha)",
+            "2 teaspoons cayenne pepper",
+            "2 teaspoons ancho chili powder",
+            "1\/2 teaspoon salt",
+            "1\/2 teaspoon dry mustard",
+            "vegetable scraps \u2013 carrot, onion, ce",
+            "2 cups chicken or beef stock, preferably homemade",
+            "water to cover, if needed"
         ]
     }
 }
