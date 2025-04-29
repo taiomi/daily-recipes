@@ -1,15 +1,19 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-04-28",
+    "lastUpdated": "2025-04-29",
     "recipe": {
-        "title": "Sweet and Spicy Country-Style Ribs",
+        "title": "Best Chicken Parmesan",
         "readyInMinutes": 45,
         "servings": 6,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/662463-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/2ZF5G885\/sweet-and-spicy-country-style-ribs",
-        "instructions": "Heat the fat in a 6-quart enameled Dutch oven over medium high heat and brown the ribs on all sides.  Pour in the stock; add water to cover if necessary.  Add the vegetable scraps and bring to a boil.  Lower the heat to a simmer, cover and cook for 45 minutes to an hour, or until the ribs are tender.\nWhile the ribs are braising, saute the onions over medium-low heat in a large cast iron skillet until soft; add the garlic and saute for another minute more.  Stir in tomato sauce, vinegar, honey, pepper or hot sauce, cayenne pepper, chili chili powder, salt and dry mustard. Bring the mixture to a boil, then reduce heat and simmer, uncovered for 25 minutes, stirring occasionally.\nWhen the ribs are tender, remove them from the braising liquid and add them to the spicy tomato sauce in the pan.  Raise the heat and cook, stirring frequently, until the sauce has glazed the ribs, about 10 minutes.  Serve with the remaining sauce on the side, if desired.",
-        "summary": "Sweet and Spicy Country-Style Ribs might be a good recipe to expand your main course repertoire. One portion of this dish contains about <b>25g of protein<\/b>, <b>20g of fat<\/b>, and a total of <b>506 calories<\/b>. This gluten free recipe serves 6 and costs <b>$3.31 per serving<\/b>. Head to the store and pick up beef stock, honey, butter, and a few other things to make it today. 3 people found this recipe to be scrumptious and satisfying. It is brought to you by Foodista. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. Overall, this recipe earns a <b>good spoonacular score of 46%<\/b>. Try <a href=\"https:\/\/spoonacular.com\/recipes\/sweet-and-sour-country-style-ribs-487238\">Sweet and Sour Country Style Ribs<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/sweet-n-spicy-country-ribs-397391\">Sweet 'n' Spicy Country Ribs<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/country-style-ribs-146904\">Country Style Ribs<\/a> for similar recipes.",
-        "cuisines": [],
+        "image": "https:\/\/img.spoonacular.com\/recipes\/634891-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/FZF4ZNP2\/best-chicken-parmesan",
+        "instructions": "<ol><li>Depending on how think your chicken breasts are, place them under plastic wrap and pound until thin. If you don't have a meat pounder, use a heavy pot of skillet. You can also fillet these with a knife.<\/li><li>Get 3 pie plates or containers. Put flour in one, beaten eggs in one and bread crumbs in one.<\/li><li>Dredge chicken breast in flour, then in the egg wash, and then the bread crumbs.<\/li><li>Fry cutlets in vegetable oil over med heat. Fry until golden brown.<\/li><li>Spread a little marinara on the bottom of a 13x9 baking dish.<\/li><li>Make a layer of chicken. Add more marinara. Use most of the first quart. Add a layer of the cheeses. Repeat layers. Sprinkle parsley over last layer of cheese. Bake in a pre-heated 350 degree oven covered for 35 minutes. uncover and bake until top is bubbly!<\/li><\/ol>",
+        "summary": "Best Chicken Parmesan might be just the <b>Mediterranean<\/b> recipe you are searching for. One portion of this dish contains about <b>53g of protein<\/b>, <b>26g of fat<\/b>, and a total of <b>636 calories<\/b>. This recipe serves 6. For <b>$2.62 per serving<\/b>, this recipe <b>covers 31%<\/b> of your daily requirements of vitamins and minerals. It works well as a reasonably priced main course. It is brought to you by Foodista. 9 people have tried and liked this recipe. If you have mozzarella cheese, flour, eggs, and a few other ingredients on hand, you can make it. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. Taking all factors into account, this recipe <b>earns a spoonacular score of 77%<\/b>, which is good. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/easy-parmesan-chicken-fingers-and-parmesan-chicken-wraps-1222731\">Easy Parmesan Chicken Fingers and Parmesan Chicken Wraps<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/easy-parmesan-chicken-fingers-and-parmesan-chicken-wraps-1224419\">Easy Parmesan Chicken Fingers and Parmesan Chicken Wraps<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/easy-parmesan-chicken-fingers-and-parmesan-chicken-wraps-1233753\">Easy Parmesan Chicken Fingers and Parmesan Chicken Wraps<\/a>.",
+        "cuisines": [
+            "Mediterranean",
+            "Italian",
+            "European"
+        ],
         "dishTypes": [
             "lunch",
             "main course",
@@ -17,22 +21,13 @@
             "dinner"
         ],
         "ingredients": [
-            "2 pounds country-style pork ribs or beef short ribs",
-            "2 tablespoons lard (pork), tallow, or vegetable oil (",
-            "1 small yellow onion, finely chopped",
-            "1 clove garlic, minced",
-            "2 tablespoons unsalted butter",
-            "1 1\/2 cups tomato sauce",
-            "cup apple cider vinegar",
-            "cup honey",
-            "1 tablespoon bottled pepper sauce or hot sauce (I used Sriracha)",
-            "2 teaspoons cayenne pepper",
-            "2 teaspoons ancho chili powder",
-            "1\/2 teaspoon salt",
-            "1\/2 teaspoon dry mustard",
-            "vegetable scraps \u2013 carrot, onion, ce",
-            "2 cups chicken or beef stock, preferably homemade",
-            "water to cover, if needed"
+            "2 cups Italian style bread crumbs",
+            "8 (3-ounces each) chicken cutlets",
+            "3 eggs beaten",
+            "1 cup Flour",
+            "4 cups mozzarella cheese (depending on how much cheese you like)",
+            "1\/2 cup Parmesan cheese (Grated fresh, not from a green can)",
+            "vegetable oil for frying (you can bake them too, but they're better fried!)"
         ]
     }
 }
