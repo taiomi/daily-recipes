@@ -1,26 +1,39 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-05-01",
+    "lastUpdated": "2025-05-02",
     "recipe": {
-        "title": "Strawberry and Chocolate Chip Panini",
+        "title": "Thai Fried Rice",
         "readyInMinutes": 45,
         "servings": 1,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/661741-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/K56CFWZB\/strawberry-and-chocolate-chip-panini",
-        "instructions": "Open up the slices of sourdough bread\nBrush it wit some olive oil on either side\nAdd a layer of strawberries and chocolate chips\nPut it in the panini press!\nServe it hot with a side of fresh cut berries!",
-        "summary": "Strawberry and Chocolate Chip Panini requires about <b>45 minutes<\/b> from start to finish. Watching your figure? This dairy free recipe has <b>523 calories<\/b>, <b>15g of protein<\/b>, and <b>18g of fat<\/b> per serving. For <b>$2.74 per serving<\/b>, you get a main course that serves 1. This recipe from Foodista requires strawberries, chocolate chips- handful, sourdough bread, and olive oil and brush. 3 people were impressed by this recipe. It can be enjoyed any time, but it is especially good for <b>Mother's Day<\/b>. Overall, this recipe earns a <b>solid spoonacular score of 66%<\/b>. Similar recipes include <a href=\"https:\/\/spoonacular.com\/recipes\/chocolate-chocolate-chip-cookie-and-strawberry-gelato-sandwiches-189907\">Chocolate-Chocolate Chip Cookie and Strawberry Gelato Sandwiches<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/chocolate-dipped-strawberry-chocolate-chip-cookies-705113\">Chocolate-Dipped Strawberry Chocolate Chip Cookies<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/strawberry-chocolate-chip-scones-1137428\">Strawberry Chocolate Chip Scones<\/a>.",
-        "cuisines": [],
+        "image": "https:\/\/img.spoonacular.com\/recipes\/663104-556x370.jpg",
+        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/C8D432DB\/thai-fried-rice",
+        "instructions": "<ol><li>Saute garlic in oil. Add sliced pork; cook until brown. Add onion, tomato, and green pepper; fry slightly. Cook rice in water; add to fried mixture. Add eggs and fry. Continue stirring until eggs are cooked. Add soy sauce, salt, sugar, and pepper. Yields 6-8 servings.<\/li><\/ol>",
+        "summary": "If you want to add more <b>gluten free and dairy free<\/b> recipes to your recipe box, Thai Fried Rice might be a recipe you should try. This recipe serves 1. For <b>$6.78 per serving<\/b>, this recipe <b>covers 68%<\/b> of your daily requirements of vitamins and minerals. This main course has <b>2953 calories<\/b>, <b>122g of protein<\/b>, and <b>122g of fat<\/b> per serving. This recipe from Foodista has 2 fans. Only a few people really liked this Chinese dish. If you have water, salt, soy sauce, and a few other ingredients on hand, you can make it. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 89%<\/b>. This score is outstanding. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/thai-fried-rice-35966\">Thai Fried Rice<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/thai-fried-rice-1234777\">Thai Fried Rice<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/thai-fried-rice-10071\">Thai Fried Rice<\/a>.",
+        "cuisines": [
+            "Chinese",
+            "Asian"
+        ],
         "dishTypes": [
+            "side dish",
             "lunch",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "Sliced strawberries",
-            "Chocolate chips- handful",
-            "2 slices of sourdough bread",
-            "Olive oil and brush"
+            "2 eggs",
+            "clove garlic, minced fine",
+            "1\/2 green pepper, chopped",
+            "\u2022 Oil for fry",
+            "1 big onion, sliced",
+            "Pepper to taste",
+            "1 pound lean pork, sliced",
+            "2 cups rice",
+            "\u2022 Salt to taste",
+            "2 1\/2 tablespoons soy sauce",
+            "2 teaspoons sugar",
+            "1 tomato, diced",
+            "4 cups water"
         ]
     }
 }
