@@ -1,39 +1,38 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-05-03",
+    "lastUpdated": "2025-05-04",
     "recipe": {
-        "title": "How to Make the Best Chili",
-        "readyInMinutes": 130,
-        "servings": 8,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/1066893-556x370.jpg",
-        "sourceUrl": "https:\/\/www.pinkwhen.com\/the-best-chili-recipe\/",
-        "instructions": "Instructions\n\nStep 1: Brown the lean ground beef in a deep skillet. Cook over medium heat until cooked all the way through, and then drain.\n\nStep 2: In a large pan over high heat add in all of your additional ingredients: cooked ground beef, tomato juice, kidney beans, pinto beans, water, tomato paste, chili powder, cumin, black pepper, oregano, sugar, cayenne pepper, bell pepper, and chopped onions. Bring to a boil.\n\nStep 3: Once your large pot of chili has started to boil, lower the heat and simmer for 2 hours uncovered.",
-        "summary": "How to Make the Best Chili takes about <b>2 hours and 10 minutes<\/b> from beginning to end. Watching your figure? This gluten free and dairy free recipe has <b>304 calories<\/b>, <b>32g of protein<\/b>, and <b>7g of fat<\/b> per serving. For <b>$2.05 per serving<\/b>, this recipe <b>covers 29%<\/b> of your daily requirements of vitamins and minerals. This recipe serves 8. <b>The Super Bowl<\/b> will be even more special with this recipe. Not a lot of people really liked this main course. This recipe from Pink When requires bell pepper, tomato juice, ground beef, and chili powder. 5 people were impressed by this recipe. It is a <b>rather cheap<\/b> recipe for fans of American food. Overall, this recipe earns a <b>solid spoonacular score of 70%<\/b>. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/chili-basics-how-to-make-and-customize-basic-chili-1038377\">Chili Basics \u2013 How to Make and Customize Basic Chili<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/chili-basics-how-to-make-and-customize-basic-chili-1793317\">Chili Basics \u2013 How to Make and Customize Basic Chili<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/how-to-make-the-best-chili-1367801\">How to Make the Best Chili<\/a>.",
-        "cuisines": [
-            "American"
-        ],
+        "title": "Fire-Breathing Dragon Pasta",
+        "readyInMinutes": 45,
+        "servings": 6,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/642895-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/JSVZGQMD\/fire-breathing-dragon-pasta",
+        "instructions": "Saute onion in two tablespoons Olive oil in a large, deep-sided skillet or a medium sized saucepan until tender and translucent, season with salt and pepper. Add garlic and saute until fragrant. Add the chipotles, chicken pieces, and Italian seasonings. Season with more salt and pepper. Saute over medium heat turning chicken to sear on all sides.\nAdd the tomato sauce and red pepper flakes. Bring up to a simmer and continue to simmer for ten minutes or until chicken is cooked through. In the meantime cook the pasta to al dente according to package directions and add the dried chiles to the cooking water with the spaghetti.\nStir in the shrimp and milk. Slowly add in the sour cream while stirring. Bring to a slow simmer. Simmer until shrimp begin to curl. Remove from heat.\nServe over pasta(remove the chiles when draining) with fresh Parmesan cheese.",
+        "summary": "Fire-Breathing Dragon Pastan is a main course that serves 6. One serving contains <b>901 calories<\/b>, <b>48g of protein<\/b>, and <b>47g of fat<\/b>. For <b>$3.58 per serving<\/b>, this recipe <b>covers 32%<\/b> of your daily requirements of vitamins and minerals. From preparation to the plate, this recipe takes about <b>45 minutes<\/b>. Not a lot of people made this recipe, and 3 would say it hit the spot. This recipe from Foodista requires shrimp, pasta like spaghetti, heavy cream, and pepper flakes. All things considered, we decided this recipe <b>deserves a spoonacular score of 64%<\/b>. This score is good. If you like this recipe, take a look at these similar recipes: <a href=\"https:\/\/spoonacular.com\/recipes\/fire-roasted-tomato-pasta-553156\">Fire roasted tomato pasta<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/fire-roasted-tomato-pasta-1195917\">Fire roasted tomato pasta<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/fire-roasted-tomato-and-basil-pasta-1379779\">Fire Roasted Tomato and Basil Pasta<\/a>.",
+        "cuisines": [],
         "dishTypes": [
+            "side dish",
             "lunch",
-            "soup",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "1\/4 cup bell pepper",
-            "1 15 oz can kidney beans",
-            "1\/4 tsp cayenne pepper",
-            "1\/2 tbsp chili powder",
-            "1 1\/2 tsp cumin",
-            "2 lbs lean ground beef",
-            "1 1\/2 cups chopped onions",
-            "1\/2 tsp oregano",
-            "1 tsp group black pepper",
-            "1 150z can pinto beans",
-            "1 46 oz can tomato juice",
-            "2 6oz cans tomato paste Can be subbed with a 15oz can of tomato sauce",
-            "1 cup water",
-            "1\/2 tsp white sugar"
+            "1 Yellow Onion, diced",
+            "Olive oil, for sauting",
+            "Salt and Pepper to taste",
+            "6 cloves Garlic, minced",
+            "3 tablespoons Chipotles in Adobo Sauce, seeds removed, chopped + 1 of",
+            "1 pound boneless, skinless, Chicken Breasts, cut into large cubes",
+            "2 teaspoons Italian Seasoning",
+            "3 cups good Tomato Sauce",
+            "1 teaspoon Red Pepper flakes",
+            "1\/2 pound medium Shrimp, cleaned with tails off",
+            "1 cup Whole Milk or Heavy Cream",
+            "1 cup Sour Cream",
+            "1 pound Pasta like spaghetti or penne",
+            "4 dried Red Chile Peppers",
+            "Parmesan, fresh grated, for serving"
         ]
     }
 }
