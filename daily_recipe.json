@@ -1,38 +1,34 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-05-04",
+    "lastUpdated": "2025-05-05",
     "recipe": {
-        "title": "Fire-Breathing Dragon Pasta",
-        "readyInMinutes": 45,
-        "servings": 6,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/642895-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/JSVZGQMD\/fire-breathing-dragon-pasta",
-        "instructions": "Saute onion in two tablespoons Olive oil in a large, deep-sided skillet or a medium sized saucepan until tender and translucent, season with salt and pepper. Add garlic and saute until fragrant. Add the chipotles, chicken pieces, and Italian seasonings. Season with more salt and pepper. Saute over medium heat turning chicken to sear on all sides.\nAdd the tomato sauce and red pepper flakes. Bring up to a simmer and continue to simmer for ten minutes or until chicken is cooked through. In the meantime cook the pasta to al dente according to package directions and add the dried chiles to the cooking water with the spaghetti.\nStir in the shrimp and milk. Slowly add in the sour cream while stirring. Bring to a slow simmer. Simmer until shrimp begin to curl. Remove from heat.\nServe over pasta(remove the chiles when draining) with fresh Parmesan cheese.",
-        "summary": "Fire-Breathing Dragon Pastan is a main course that serves 6. One serving contains <b>901 calories<\/b>, <b>48g of protein<\/b>, and <b>47g of fat<\/b>. For <b>$3.58 per serving<\/b>, this recipe <b>covers 32%<\/b> of your daily requirements of vitamins and minerals. From preparation to the plate, this recipe takes about <b>45 minutes<\/b>. Not a lot of people made this recipe, and 3 would say it hit the spot. This recipe from Foodista requires shrimp, pasta like spaghetti, heavy cream, and pepper flakes. All things considered, we decided this recipe <b>deserves a spoonacular score of 64%<\/b>. This score is good. If you like this recipe, take a look at these similar recipes: <a href=\"https:\/\/spoonacular.com\/recipes\/fire-roasted-tomato-pasta-553156\">Fire roasted tomato pasta<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/fire-roasted-tomato-pasta-1195917\">Fire roasted tomato pasta<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/fire-roasted-tomato-and-basil-pasta-1379779\">Fire Roasted Tomato and Basil Pasta<\/a>.",
+        "title": "Slow Cooker Baked Potato Soup",
+        "readyInMinutes": 540,
+        "servings": 3,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/715385-556x370.jpg",
+        "sourceUrl": "http:\/\/www.pinkwhen.com\/slow-cooker-baked-potato-soup-recipe\/",
+        "instructions": "<p>Step 1: Coat the cubed potatoes with the flour and then place in the slow cooker.<\/p><p>Step 2: Add red onion, bouillon cubes, bacon bits, and pepper over the potatoes.<\/p><p><ins><ins><ins><iframe width=\"320\" height=\"100\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" vspace=\"0\" hspace=\"0\" allowtransparency=\"true\" scrolling=\"no\" allowfullscreen=\"true\" id=\"aswift_0\" name=\"aswift_0\" style=\"max-width: 100%; left: 0px; position: absolute; top: 0px;\"><\/iframe><\/ins><\/ins><\/ins><\/p><p>Step 3: Pour water over the mixture and cook on low for 8 hours.<\/p><p>Step 4: Add half-and-half, stirring well, and cook for another 30 minutes to thicken.<\/p><p>Step 5: Ladle soup into bowls and serve topped with green onion tops, cheddar cheese, and sour cream.<\/p>",
+        "summary": "Slow Cooker Baked Potato Soup might be a good recipe to expand your main course collection. This recipe serves 3. One portion of this dish contains approximately <b>35g of protein<\/b>, <b>33g of fat<\/b>, and a total of <b>884 calories<\/b>. For <b>$2.83 per serving<\/b>, this recipe <b>covers 36%<\/b> of your daily requirements of vitamins and minerals. 992 people were glad they tried this recipe. It is brought to you by Pink When. It is perfect for <b>Autumn<\/b>. If you have green onion tops, cream, water, and a few other ingredients on hand, you can make it. From preparation to the plate, this recipe takes roughly <b>9 hours<\/b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 96%<\/b>. This score is excellent. Try <a href=\"https:\/\/spoonacular.com\/recipes\/slow-cooker-baked-potato-soup-569219\">Slow cooker baked potato soup<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/slow-cooker-baked-potato-soup-1399117\">Slow Cooker Baked Potato Soup<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/slow-cooker-baked-potato-soup-731389\">Slow Cooker Baked Potato Soup<\/a> for similar recipes.",
         "cuisines": [],
         "dishTypes": [
-            "side dish",
             "lunch",
+            "soup",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "1 Yellow Onion, diced",
-            "Olive oil, for sauting",
-            "Salt and Pepper to taste",
-            "6 cloves Garlic, minced",
-            "3 tablespoons Chipotles in Adobo Sauce, seeds removed, chopped + 1 of",
-            "1 pound boneless, skinless, Chicken Breasts, cut into large cubes",
-            "2 teaspoons Italian Seasoning",
-            "3 cups good Tomato Sauce",
-            "1 teaspoon Red Pepper flakes",
-            "1\/2 pound medium Shrimp, cleaned with tails off",
-            "1 cup Whole Milk or Heavy Cream",
-            "1 cup Sour Cream",
-            "1 pound Pasta like spaghetti or penne",
-            "4 dried Red Chile Peppers",
-            "Parmesan, fresh grated, for serving"
+            "3 Tbsp All purpose flour",
+            "1\/2 cup bacon bits",
+            "4 large baking potatoes (cut and cubed)",
+            "2 chicken bouillom cubes",
+            "green onion tops",
+            "1 Tbsp ground black pepper",
+            "1 cup of half-and-half",
+            "1 medium red onion (chopped)",
+            "shredded cheddar cheese",
+            "sour cream",
+            "3 cups water"
         ]
     }
 }
