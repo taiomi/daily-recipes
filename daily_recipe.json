@@ -1,34 +1,35 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-05-05",
+    "lastUpdated": "2025-05-06",
     "recipe": {
-        "title": "Slow Cooker Baked Potato Soup",
-        "readyInMinutes": 540,
-        "servings": 3,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/715385-556x370.jpg",
-        "sourceUrl": "http:\/\/www.pinkwhen.com\/slow-cooker-baked-potato-soup-recipe\/",
-        "instructions": "<p>Step 1: Coat the cubed potatoes with the flour and then place in the slow cooker.<\/p><p>Step 2: Add red onion, bouillon cubes, bacon bits, and pepper over the potatoes.<\/p><p><ins><ins><ins><iframe width=\"320\" height=\"100\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" vspace=\"0\" hspace=\"0\" allowtransparency=\"true\" scrolling=\"no\" allowfullscreen=\"true\" id=\"aswift_0\" name=\"aswift_0\" style=\"max-width: 100%; left: 0px; position: absolute; top: 0px;\"><\/iframe><\/ins><\/ins><\/ins><\/p><p>Step 3: Pour water over the mixture and cook on low for 8 hours.<\/p><p>Step 4: Add half-and-half, stirring well, and cook for another 30 minutes to thicken.<\/p><p>Step 5: Ladle soup into bowls and serve topped with green onion tops, cheddar cheese, and sour cream.<\/p>",
-        "summary": "Slow Cooker Baked Potato Soup might be a good recipe to expand your main course collection. This recipe serves 3. One portion of this dish contains approximately <b>35g of protein<\/b>, <b>33g of fat<\/b>, and a total of <b>884 calories<\/b>. For <b>$2.83 per serving<\/b>, this recipe <b>covers 36%<\/b> of your daily requirements of vitamins and minerals. 992 people were glad they tried this recipe. It is brought to you by Pink When. It is perfect for <b>Autumn<\/b>. If you have green onion tops, cream, water, and a few other ingredients on hand, you can make it. From preparation to the plate, this recipe takes roughly <b>9 hours<\/b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 96%<\/b>. This score is excellent. Try <a href=\"https:\/\/spoonacular.com\/recipes\/slow-cooker-baked-potato-soup-569219\">Slow cooker baked potato soup<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/slow-cooker-baked-potato-soup-1399117\">Slow Cooker Baked Potato Soup<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/slow-cooker-baked-potato-soup-731389\">Slow Cooker Baked Potato Soup<\/a> for similar recipes.",
-        "cuisines": [],
+        "title": "Rice and Peas with Coconut Curry Mackerel",
+        "readyInMinutes": 45,
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/716364-556x370.jpg",
+        "sourceUrl": "https:\/\/www.afrolems.com\/2014\/10\/31\/rice-and-peas-with-coconut-curry-mackerel\/",
+        "instructions": "Pour 1 cup of coconut milk in a pot with 1 seasoning cube and allow to boil for a minute.Pour in your rice and peas in the boiling coconut milk and pour 2 cups of water and leave to boil till the rice and peas are soft on low heat.In a separate pot, season and bring the mackerel to boil in the rest of the coconut milk, curry powder and some water.Toss in the chopped onion, scotch bonnet peppers and garlic and allow to simmer on medium heat.Once the fish is cooked, add the corn starch to thicken the sauce and allow to simmer for 4 minutes on low heat.Serve with the rice and peas",
+        "summary": "Rice and Peas with Coconut Curry Mackerel could be just the <b>gluten free and dairy free<\/b> recipe you've been looking for. For <b>$2.44 per serving<\/b>, you get a main course that serves 4. One serving contains <b>625 calories<\/b>, <b>31g of protein<\/b>, and <b>34g of fat<\/b>. This recipe from Afrolems has 26 fans. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. If you have coconut milk, corn starch, garlic, and a few other ingredients on hand, you can make it. A couple people really liked this Indian dish. All things considered, we decided this recipe <b>deserves a spoonacular score of 94%<\/b>. This score is super. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/rice-and-peas-with-coconut-curry-mackerel-1585999\">Rice and Peas with Coconut Curry Mackerel<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/coconut-chicken-curry-with-snow-peas-and-rice-1213727\">Coconut Chicken Curry with Snow Peas and Rice<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/black-eyed-peas-curry-with-coconut-lobia-curry-600742\">Black Eyed Peas Curry (With Coconut) (Lobia Curry)<\/a>.",
+        "cuisines": [
+            "Indian",
+            "Asian"
+        ],
         "dishTypes": [
             "lunch",
-            "soup",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "3 Tbsp All purpose flour",
-            "1\/2 cup bacon bits",
-            "4 large baking potatoes (cut and cubed)",
-            "2 chicken bouillom cubes",
-            "green onion tops",
-            "1 Tbsp ground black pepper",
-            "1 cup of half-and-half",
-            "1 medium red onion (chopped)",
-            "shredded cheddar cheese",
-            "sour cream",
-            "3 cups water"
+            "2 cups of coconut milk",
+            "1 tablespoon of corn starch",
+            "2 tablespoons of curry powder",
+            "1 clove of garlic (chopped)",
+            "Seasoning cubes",
+            "1 medium piece of Mackerel (chopped in 4 pieces)",
+            "1\/2 bulb of onion",
+            "1\/2 cup of red kidney beans",
+            "1 cup of Rice",
+            "3 scotch bonnet peppers"
         ]
     }
 }
