@@ -1,18 +1,15 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-05-09",
+    "lastUpdated": "2025-05-10",
     "recipe": {
-        "title": "Grilled Chicken Banh Mi",
-        "readyInMinutes": 45,
-        "servings": 6,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/645634-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/2Q34KBV6\/grilled-chicken-banh-mi",
-        "instructions": "Mix the first six ingredients in a baking dish. Add the chicken breasts to the dish, cover, and refrigerate at least 1 hour. Longer is better!\nStir the hot tap water and sugar in a medium bowl, until the sugar dissolves. Add the vinegar, salt, red pepper, sliced carrots and radishes. Cover and refrigerate for at least 30 minutes.\nHeat the grill to medium. Grill the chicken breasts for 5 minutes per side. Remove from heat and cover them with foil to rest for 5 minutes.\nOpen the sub rolls and grill the insides for about 1-3 minuteuntil toasted.\nDrain the pickled veggies. Slice the chicken into thin pieces.\nSpread mayo over in the sub rolls. Layer the cucumbers, chicken, pickled veggies, cilantro leaves and jalapeos in the rolls.\nServe immediately! Serve 6.",
-        "summary": "Grilled Chicken Banh Mi takes about <b>45 minutes<\/b> from beginning to end. This recipe serves 6 and costs $2.58 per serving. One portion of this dish contains roughly <b>28g of protein<\/b>, <b>14g of fat<\/b>, and a total of <b>448 calories<\/b>. 43 people were impressed by this recipe. It is perfect for <b>The Fourth Of July<\/b>. Head to the store and pick up salt, jalapeno, rice vinegar, and a few other things to make it today. It is brought to you by Foodista. It works well as a main course. This recipe is typical of Vietnamese cuisine. It is a good option if you're following a <b>dairy free<\/b> diet. All things considered, we decided this recipe <b>deserves a spoonacular score of 70%<\/b>. This score is solid. If you like this recipe, take a look at these similar recipes: <a href=\"https:\/\/spoonacular.com\/recipes\/grilled-chicken-banh-mi-41560\">Grilled-Chicken Banh Mi<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/grilled-chicken-bnh-m-41554\">Grilled Chicken B\u00e1nh M\u00ec<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/grilled-chicken-banh-mi-41528\">Grilled Chicken Banh Mi<\/a>.",
-        "cuisines": [
-            "Vietnamese",
-            "Asian"
-        ],
+        "title": "Easy Instant Pot Beef Tips and Rice",
+        "readyInMinutes": 30,
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/1000566-556x370.jpg",
+        "sourceUrl": "https:\/\/www.pinkwhen.com\/beef-tips-and-rice\/",
+        "instructions": "Set Instant Pot to the saute setting. Once warm, add olive oil, beef tips, and onion. Stir and saut for 5 minutes or until meat starts to brown.\nAdd water, Dales, and cream of mushroom soup, and garlic powder. Stir to mix well, and then cover with lid.\nCook on Manual Setting on High Pressure for 25 minutes. It will take a few minutes to come to pressure.\nOnce done, allow to naturally release for 20 minutes.\nServe over rice (or sub noodles or mashed potatoes) and serve with french bread to sop up the gravy.",
+        "summary": "Easy Instant Pot Beef Tips and Rice takes around <b>30 minutes<\/b> from beginning to end. Watching your figure? This gluten free and dairy free recipe has <b>371 calories<\/b>, <b>53g of protein<\/b>, and <b>11g of fat<\/b> per serving. This recipe serves 4 and costs $2.2 per serving. 25 people have made this recipe and would make it again. Head to the store and pick up dale's seasoning sauce, onion, olive oil, and a few other things to make it today. It works well as a main course. It is brought to you by Pink When. Overall, this recipe earns a <b>super spoonacular score of 93%<\/b>. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/instant-pot-beef-tips-1143238\">Instant Pot Beef Tips<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/instant-pot-beef-tips-1536157\">Instant Pot Beef Tips<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/instant-pot-red-wine-beef-tips-974803\">Instant Pot Red Wine Beef Tips<\/a>.",
+        "cuisines": [],
         "dishTypes": [
             "lunch",
             "main course",
@@ -20,24 +17,13 @@
             "dinner"
         ],
         "ingredients": [
-            "1\/2 cup fish sauce",
-            "1\/2 cup lime juice",
-            "1\/4 cup sugar",
-            "4 cloves garlic, minced",
-            "1 chopped jalapeno",
-            "1 1\/2 teaspoons salt",
-            "1 1\/4 pounds boneless, skinless chicken breasts",
-            "1\/4 cup hot tap water",
-            "1\/4 cup rice vinegar",
-            "1\/2 teaspoon salt",
-            "1\/4 teaspoon crushed red pepper",
-            "2 carrots, sliced thin on the bias",
-            "2 daikon radishes, sliced thin on the bias",
-            "6 soft sub rolls",
-            "1\/3 cup mayonnaise",
-            "1\/2 cucumber, sliced thin",
-            "1 cup cilantro leaves (or mint)",
-            "1 sliced jalapeno for extra heat"
+            "2 pounds of sirloin beef tips",
+            "1 large can (or 2 small cans) cream of mushroom soup",
+            "1 tbsp garlic powder",
+            "1\/3 cup of Dale's Seasoning Sauce (or 1\/3 cup of Worcestershire and 1 tsp black pepper)",
+            "1 tsp olive oil",
+            "\u00bd medium onion finely chopped",
+            "\u00bd cup water"
         ]
     }
 }
