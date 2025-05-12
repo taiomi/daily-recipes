@@ -1,40 +1,32 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-05-11",
+    "lastUpdated": "2025-05-12",
     "recipe": {
-        "title": "Chicken Stew For The Soul",
-        "readyInMinutes": 45,
-        "servings": 6,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/638343-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/LSHK4547\/chicken-stew-for-the-soul",
-        "instructions": "<ol><li>Slice the onions, slit the chillies, cube the potatoes and keep aside.<\/li><li>Heat oil in a heavy bottomed pan or pressure cooker, splutter mustard seeds.<\/li><li>Add the whole spices and stir till you begin to get the aroma of the spices.<\/li><li>Add sliced onions,curry leaves and green chillies and saute.<\/li><li>Stir in the ground coriander and add the marinaded chicken. Stir so that the chicken is covered well in the sauteed mixture.<\/li><li>Cover and let it cook. When it is half done add the cubed potatoes.<\/li><li>When the chicken is almost done add the garam masala,salt and coconut milk and stir.<\/li><li>When done put off the heat and garnish with chopped fresh coriander.<\/li><li>Have I forgotten the most important ingredient? Stir it with lots of love for the family and friends who will partake of the meal.<\/li><li>Serve hot chicken stew with freshly made appams.<\/li><\/ol>",
-        "summary": "Chicken Stew For The Soul could be just the <b>gluten free, dairy free, and whole 30<\/b> recipe you've been looking for. For <b>$1.27 per serving<\/b>, this recipe <b>covers 16%<\/b> of your daily requirements of vitamins and minerals. This recipe makes 6 servings with <b>328 calories<\/b>, <b>18g of protein<\/b>, and <b>20g of fat<\/b> each. 9 people have tried and liked this recipe. It can be enjoyed any time, but it is especially good for <b>Autumn<\/b>. If you have ginger garlic paste, curry leaves, ground coriander, and a few other ingredients on hand, you can make it. It works well as a budget friendly main course. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. It is brought to you by Foodista. With a spoonacular <b>score of 56%<\/b>, this dish is good. If you like this recipe, take a look at these similar recipes: <a href=\"https:\/\/spoonacular.com\/recipes\/chicken-soup-for-the-soul-101305\">Chicken Soup for the Soul<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/chicken-for-babies-soul-543682\">Chicken For Babies Soul<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/green-chicken-soup-for-the-soul-114969\">Green Chicken Soup for the Soul<\/a>.",
+        "title": "Herb and Cheddar Cordon Bleu",
+        "readyInMinutes": 60,
+        "servings": 2,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/149425-556x370.jpg",
+        "sourceUrl": "http:\/\/spoonacular.com\/1376680601330",
+        "instructions": "<ol><li>Pre-heat the oven to 350 degrees F (about 176 degrees C).<\/li><li>Put the chicken breasts between two slices of wax paper and flatten with a rolling pin or meat mallet until they are about a quarter of an inch thick. <\/li><li>Place a slice of ham and a slice of cheddar on each chicken breast.<\/li><li>Roll the chicken breast as tightly as possible. If necessary, secure the rolls with toothpicks or small skewers.<\/li><li>Beat an egg in a shallow baking dish. <\/li><li>Arrange two other \"stations\" using foil or other dishes, one for the flour and another for the dried herbs and breadcrumbs. <\/li><li>Cover the rolled chicken breasts in flour, then dip them into the egg mixture. <\/li><li>Finally, press them into the mixture of dried herbs and breadcrumbs until they are covered on all sides.<\/li><li>Place the chicken in an oiled (or buttered) baking dish and bake for about 30 minutes.<\/li><\/ol>",
+        "summary": "You can never have too many main course recipes, so give Herb and Cheddar Cordon Bleu a try. This recipe serves 2 and costs $3.74 per serving. One portion of this dish contains about <b>68g of protein<\/b>, <b>21g of fat<\/b>, and a total of <b>661 calories<\/b>. A mixture of marjoram, parsley, egg, and a handful of other ingredients are all it takes to make this recipe so scrumptious. From preparation to the plate, this recipe takes around <b>1 hour<\/b>. It is brought to you by spoonacular user <a href=\"\/profile\/coffeebean\">coffeebean<\/a>. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/baked-chicken-cordon-bleu-633523\">Baked Chicken Cordon Bleu<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/chicken-cordon-bleu-638035\">Chicken Cordon Bleu<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/chicken-cordon-bleu-with-mushroom-sauce-638038\">Chicken Cordon Bleu With Mushroom Sauce<\/a>.",
         "cuisines": [],
         "dishTypes": [
             "lunch",
-            "soup",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "5 cardamoms",
-            "1 kg chicken",
-            "1 cinnamon stick broken",
-            "1 cup coconut milk",
-            "1 sprig curry leaves",
-            "fresh coriander",
-            "1\/2 teaspoon garam masala",
-            "3 teaspoons ginger garlic paste",
-            "1 teaspoon ginger-garlic paste",
-            "2 green chillies",
-            "1 teaspoon ground red chilli",
-            "1 teaspoon ground coriander",
-            "1 teaspoon ground tumeric",
-            "juice of 1 lemon",
-            "1 large onion",
-            "2 potatoes",
-            "salt to taste"
+            "1\/2 cup breadcrumbs",
+            "2 slices of cheddar cheese",
+            "2 chicken breasts",
+            "2 slices of deli ham",
+            "2 tablespoons dried marjoram",
+            "2 tablespoons dried parsley",
+            "1 tablespoon dried rosemary",
+            "1 egg",
+            "1\/2 cup flour",
+            "salt and pepper"
         ]
     }
 }
