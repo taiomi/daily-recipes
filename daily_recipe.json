@@ -1,32 +1,34 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-05-12",
+    "lastUpdated": "2025-05-13",
     "recipe": {
-        "title": "Herb and Cheddar Cordon Bleu",
-        "readyInMinutes": 60,
-        "servings": 2,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/149425-556x370.jpg",
-        "sourceUrl": "http:\/\/spoonacular.com\/1376680601330",
-        "instructions": "<ol><li>Pre-heat the oven to 350 degrees F (about 176 degrees C).<\/li><li>Put the chicken breasts between two slices of wax paper and flatten with a rolling pin or meat mallet until they are about a quarter of an inch thick. <\/li><li>Place a slice of ham and a slice of cheddar on each chicken breast.<\/li><li>Roll the chicken breast as tightly as possible. If necessary, secure the rolls with toothpicks or small skewers.<\/li><li>Beat an egg in a shallow baking dish. <\/li><li>Arrange two other \"stations\" using foil or other dishes, one for the flour and another for the dried herbs and breadcrumbs. <\/li><li>Cover the rolled chicken breasts in flour, then dip them into the egg mixture. <\/li><li>Finally, press them into the mixture of dried herbs and breadcrumbs until they are covered on all sides.<\/li><li>Place the chicken in an oiled (or buttered) baking dish and bake for about 30 minutes.<\/li><\/ol>",
-        "summary": "You can never have too many main course recipes, so give Herb and Cheddar Cordon Bleu a try. This recipe serves 2 and costs $3.74 per serving. One portion of this dish contains about <b>68g of protein<\/b>, <b>21g of fat<\/b>, and a total of <b>661 calories<\/b>. A mixture of marjoram, parsley, egg, and a handful of other ingredients are all it takes to make this recipe so scrumptious. From preparation to the plate, this recipe takes around <b>1 hour<\/b>. It is brought to you by spoonacular user <a href=\"\/profile\/coffeebean\">coffeebean<\/a>. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/baked-chicken-cordon-bleu-633523\">Baked Chicken Cordon Bleu<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/chicken-cordon-bleu-638035\">Chicken Cordon Bleu<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/chicken-cordon-bleu-with-mushroom-sauce-638038\">Chicken Cordon Bleu With Mushroom Sauce<\/a>.",
+        "title": "Pasta With Tuna",
+        "readyInMinutes": 45,
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/654959-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/K6QWSKQM\/pasta-with-tuna",
+        "instructions": "<ol><li>Cook pasta in a large pot of boiling water until al dente. Drain and return to warm pot. Put olive oil in saucepan and add onion. Saute until transparent. Stir in flour and cook for a few seconds and then whisk in milk. Stir constantly until this thickens. Add peas, tuna (shredded into chunks,) parsley, green onions, cheese and hot pepper sauce. Pour over pasta and stir gently to mix. Serve at once.<\/li><\/ol>",
+        "summary": "Pasta With Tunan is a <b>pescatarian<\/b> main course. This recipe serves 4. For <b>$1.68 per serving<\/b>, this recipe <b>covers 28%<\/b> of your daily requirements of vitamins and minerals. One serving contains <b>423 calories<\/b>, <b>24g of protein<\/b>, and <b>10g of fat<\/b>. 2 people have made this recipe and would make it again. This recipe from Foodista requires flour, parsley, non-fat milk, and parmesan cheese. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 92%<\/b>. This score is amazing. <a href=\"https:\/\/spoonacular.com\/recipes\/pasta-and-tuna-salad-ensalada-de-pasta-y-atn-226303\">Pastan and Tuna Salad (Ensalada de Pasta y At\u00fan)<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/tuna-pasta-565100\">Tuna Pasta<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/tuna-pasta-89136\">Tuna Pasta<\/a> are very similar to this recipe.",
         "cuisines": [],
         "dishTypes": [
+            "side dish",
             "lunch",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "1\/2 cup breadcrumbs",
-            "2 slices of cheddar cheese",
-            "2 chicken breasts",
-            "2 slices of deli ham",
-            "2 tablespoons dried marjoram",
-            "2 tablespoons dried parsley",
-            "1 tablespoon dried rosemary",
-            "1 egg",
-            "1\/2 cup flour",
-            "salt and pepper"
+            "2 tablespoons Flour",
+            "cup Green Onions, chopped",
+            "1 1\/4 cups Non-Fat Milk",
+            "2 tablespoons Olive Oil",
+            "2 tablespoons Onion, minced",
+            "1\/4 cup Parmesan Cheese, grated",
+            "cup Fresh Parsley or Basil, chopped",
+            "8 ounces Tubular Pasta",
+            "1 cup Frozen Peas, thawed",
+            "1 dsh Hot Pepper Sauce",
+            "6 1\/2 ounces Can Water-Packed Tuna, drained"
         ]
     }
 }
