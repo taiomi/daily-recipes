@@ -1,34 +1,32 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-05-13",
+    "lastUpdated": "2025-05-14",
     "recipe": {
-        "title": "Pasta With Tuna",
-        "readyInMinutes": 45,
-        "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/654959-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/K6QWSKQM\/pasta-with-tuna",
-        "instructions": "<ol><li>Cook pasta in a large pot of boiling water until al dente. Drain and return to warm pot. Put olive oil in saucepan and add onion. Saute until transparent. Stir in flour and cook for a few seconds and then whisk in milk. Stir constantly until this thickens. Add peas, tuna (shredded into chunks,) parsley, green onions, cheese and hot pepper sauce. Pour over pasta and stir gently to mix. Serve at once.<\/li><\/ol>",
-        "summary": "Pasta With Tunan is a <b>pescatarian<\/b> main course. This recipe serves 4. For <b>$1.68 per serving<\/b>, this recipe <b>covers 28%<\/b> of your daily requirements of vitamins and minerals. One serving contains <b>423 calories<\/b>, <b>24g of protein<\/b>, and <b>10g of fat<\/b>. 2 people have made this recipe and would make it again. This recipe from Foodista requires flour, parsley, non-fat milk, and parmesan cheese. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 92%<\/b>. This score is amazing. <a href=\"https:\/\/spoonacular.com\/recipes\/pasta-and-tuna-salad-ensalada-de-pasta-y-atn-226303\">Pastan and Tuna Salad (Ensalada de Pasta y At\u00fan)<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/tuna-pasta-565100\">Tuna Pasta<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/tuna-pasta-89136\">Tuna Pasta<\/a> are very similar to this recipe.",
+        "title": "Smoky Black Bean Soup With Sweet Potato & Kale",
+        "readyInMinutes": 630,
+        "servings": 6,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/660405-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/B8SQD87X\/smoky-black-bean-soup-with-sweet-potato-kale",
+        "instructions": "<ol><li>Spread the dry beans out on a baking sheet and pick out any pebbles. <\/li><li>Place the beans in a big soup pot, cover with water by 3 inches and allow them to soak overnight or for 6-8 hours, then discard that water. <\/li><li>Return the soaked beans to the pot and cover with 3 inches of water again, bring to a boil. Reduce heat to medium low, put the cover on and allow to cook until the beans start to get tender but still firm, about 1 1\/2 hours. Drain the beans.<\/li><li>Heat the oil in a soup pot over med-high heat. <\/li><li>Add the onion along with a pinch of salt and saute until softened and golden. <\/li><li>Stir in 1 tbsp of ground cumin, add the beans along with the broth or water and bring to a boil. Reduce heat to medium-low, cover and cook for 30 min. <\/li><li>Meanwhile peel and chop the sweet potatoes. <\/li><li>Wash the kale, remove the stems and chop the leaves.<\/li><li>Remove half of the beans and liquid and set aside to cool a bit. <\/li><li>Add the sweet potatoes and kale to the pot with some salt and pepper. Cover and cook for 10 minutes. <\/li><li>Transfer the cooled beans to a blender and puree until smooth, then return them to the pot. <\/li><li>Stir in the remaining 1 tbsp of ground cumin. <\/li><li>Now add 1 tbsp of the chipotles in adobo. Taste and continue to add more until it has a spice level that you like. <\/li><li>Adjust the salt &amp; pepper as needed.<\/li><li>Serve with a dollop of sour cream.<\/li><\/ol>",
+        "summary": "You can never have too many main course recipes, so give Smoky Black Bean Soup With Sweet Potato & Kale a try. One serving contains <b>555 calories<\/b>, <b>23g of protein<\/b>, and <b>7g of fat<\/b>. This recipe serves 6. For <b>$2.62 per serving<\/b>, this recipe <b>covers 41%<\/b> of your daily requirements of vitamins and minerals. 5 people have tried and liked this recipe. This recipe from Foodista requires chicken broth, onion, black beans, and salt & pepper. From preparation to the plate, this recipe takes around <b>10 hours and 30 minutes<\/b>. It can be enjoyed any time, but it is especially good for <b>Autumn<\/b>. It is a good option if you're following a <b>gluten free, dairy free, and lacto ovo vegetarian<\/b> diet. All things considered, we decided this recipe <b>deserves a spoonacular score of 96%<\/b>. This score is amazing. Similar recipes include <a href=\"https:\/\/spoonacular.com\/recipes\/smoky-sweet-potato-and-black-bean-tacos-524599\">Smoky Sweet Potato and Black Bean Tacos<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/smoky-sweet-potato-and-black-bean-tacos-1316245\">Smoky Sweet Potato and Black Bean Tacos<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/sweet-and-smoky-sriracha-black-bean-soup-557795\">Sweet and Smoky Sriracha Black Bean Soup<\/a>.",
         "cuisines": [],
         "dishTypes": [
-            "side dish",
             "lunch",
+            "soup",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "2 tablespoons Flour",
-            "cup Green Onions, chopped",
-            "1 1\/4 cups Non-Fat Milk",
-            "2 tablespoons Olive Oil",
-            "2 tablespoons Onion, minced",
-            "1\/4 cup Parmesan Cheese, grated",
-            "cup Fresh Parsley or Basil, chopped",
-            "8 ounces Tubular Pasta",
-            "1 cup Frozen Peas, thawed",
-            "1 dsh Hot Pepper Sauce",
-            "6 1\/2 ounces Can Water-Packed Tuna, drained"
+            "6 cups Chicken Broth or Water",
+            "3 tablespoons Chipotle chiles",
+            "1 pound Dried Black Beans",
+            "2 tablespoons Ground Cumin",
+            "1 bunch kale",
+            "2 tablespoons olive oil",
+            "1 Onion \u2013 Chopped",
+            "Salt & Pepper",
+            "3 lbs sweet potatoes"
         ]
     }
 }
