@@ -1,17 +1,16 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-05-16",
+    "lastUpdated": "2025-05-17",
     "recipe": {
-        "title": "Bibimbab (Korean Rice w Vegetables & Beef)",
-        "readyInMinutes": 45,
-        "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/634965-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/7SFVMHXW\/bibimbab-korean-rice-w-vegetables-beef",
-        "instructions": "<ol><li>1.Cook rice according to package directions.<\/li><li>2.Cut vegetables into matchstick pieces and set aside for sauteing.<\/li><li>3.In a large non-stick pan\/skillet, bring 2 cups water to a boil. Add spinach and cook, stirring constantly until wilted; drain. When cool enough to handle, squeeze spinach dry into a ball.<\/li><li>4.Wipe out skillet; heat 1 tsp olive oil over medium-high. Add carrots and cook until soft, 3 minutes. Add garlic and cook until fragrant or semi-browned, 1 minute. Add cucumber slices mixed with gochugaru (red pepper flakes). Combine spinach and soy sauce; set aside until serving.<\/li><li>5.Add thinly sliced beef to non-stick pan and heat until browned. Wipe down with napkin.<\/li><li>6.Heat 1 tsp olive oil in non-stick pan over medium-high. Add eggs and cook until whites are set and yolks are still runny, about 5 minutes.<\/li><li>7.Divide rice among four bowls; top with vegetables and eggs. Drizzle each with sesame oil, sprinkle with sesame seeds. Top with gochujang (red pepper paste) or Sriracha sauce as substitute.<\/li><li>*Bibimbab and its main ingredients (usually rice and vegetables) can be chosen at one's preference. This is the main reason why bibimbab is so appealing; it suits vegetarians, dieters, health-conscience eaters, and even meat-lovers, who are more than welcome to add beef to their liking. For us, since we usually have rice available to eat at all times, we simply slice up any available vegetables or lettuce leaf varieties in the fridge for an \"instant\" and very satisfying bibimbab meal. So feel free to deviate from the original recipe!<\/li><\/ol>",
-        "summary": "Forget going out to eat or ordering takeout every time you crave Korean food. Try making Bibimbab (Korean Rice w Vegetables & Beef) at home. This gluten free and dairy free recipe serves 4 and costs <b>$4.8 per serving<\/b>. This main course has <b>680 calories<\/b>, <b>40g of protein<\/b>, and <b>32g of fat<\/b> per serving. If you have garlic clove, sesame oil, sesame seeds, and a few other ingredients on hand, you can make it. This recipe from Foodista has 2 fans. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. Taking all factors into account, this recipe <b>earns a spoonacular score of 83%<\/b>, which is great. <a href=\"https:\/\/spoonacular.com\/recipes\/bibimbab-korean-rice-w-vegetables-beef-1297907\">Bibimbab (Korean Rice w Vegetables & Beef)<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/korean-bibimbab-rice-w-vegetables-beef-1507229\">Korean Bibimbab (Rice w Vegetables & Beef)<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/korean-bibimbab-rice-w-vegetables-beef-649031\">Korean Bibimbab (Rice w Vegetables & Beef)<\/a> are very similar to this recipe.",
+        "title": "Slow Cooker Kahlua Pork with Sweet Chili Pineapple Sauce",
+        "readyInMinutes": 660,
+        "servings": 12,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/660288-556x370.jpg",
+        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/NQB678JF\/slow-cooker-kahlua-pork-with-sweet-chili-pineapple-sauce",
+        "instructions": "<ol><li>Place the pork, fat side up, in the slow cooker. Using a fork, pierce the roast all over and pour the liquid smoke over it to coat. Sprinkle the sea salt evenly over the roast and cover. Cook on low for 10 hours (the roast is done when the meat begins to fall apart when shredded with a fork.)<\/li><li>In a small saucepan, whisk together the pineapple juice, rice vinegar, honey, chili sauce and hoisin sauce. Bring the mixture to a boil and cook the sauce until reduced by half stirring with a heat resistant spatula frequently. Set aside.<\/li><li>When the roast is done, transfer to a cutting board and shred the meat using two forks. Return the shredded meat back to the slow cooker and serve immediately with the sauce.<\/li><\/ol>",
+        "summary": "If you have roughly <b>11 hour<\/b> to spend in the kitchen, Slow Cooker Kahlua Pork with Sweet Chili Pineapple Sauce might be a spectacular <b>gluten free and dairy free<\/b> recipe to try. This recipe serves 12 and costs $2.37 per serving. One serving contains <b>447 calories<\/b>, <b>57g of protein<\/b>, and <b>18g of fat<\/b>. It works well as a main course. This recipe from Foodista has 21 fans. A few people really liked this American dish. A mixture of garlic chili sauce, regular sea salt, pork butt, and a handful of other ingredients are all it takes to make this recipe so yummy. It can be enjoyed any time, but it is especially good for <b>The Super Bowl<\/b>. Taking all factors into account, this recipe <b>earns a spoonacular score of 86%<\/b>, which is outstanding. Try <a href=\"https:\/\/spoonacular.com\/recipes\/pineapple-black-bean-slow-cooker-turkey-chili-837194\">Pineapple Black Bean Slow Cooker Turkey Chili<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/sweet-chili-pineapple-pork-stir-fry-560062\">Sweet Chili Pineapple Pork Stir Fry<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/slow-cooker-pineapple-pork-roast-1190289\">Slow Cooker Pineapple Pork Roast<\/a> for similar recipes.",
         "cuisines": [
-            "Korean",
-            "Asian"
+            "American"
         ],
         "dishTypes": [
             "lunch",
@@ -20,19 +19,14 @@
             "dinner"
         ],
         "ingredients": [
-            "\u20222 carrots, cut into thin matchsticks",
-            "\u20224 cups cooked white rice",
-            "6 eggs",
-            "\u20221 English cucumber, cut into thin matchsticks (mixed with gochugaru)",
-            "\u20221 garlic clove, minced",
-            "\u2022sprinkle gochugaru (red chili flakes; garnish)",
-            "\u20224 tbsp gochujang (Korean red pepper paste; Sriracha sauce okay too)",
-            "1 tablespoon olive oil",
-            "\u20224 tsp sesame oil",
-            "\u20221 tsp sesame seeds (garnish)",
-            "\u20221 tbsp soy sauce",
-            "\u20221 bunch fresh spinach (or pre-packaged spinach)",
-            "\u20221 lb sandwich steaks, thin cut (any thin cut will work though)"
+            "5 tablespoons garlic chili sauce",
+            "5 tablespoon hoisin sauce",
+            "1\/4 cup honey",
+            "4 tablespoons liquid smoke",
+            "1\/2 cup pineapple juice",
+            "1 8 lb pork butt",
+            "1\/4 cup rice vinegar",
+            "5 tablespoons pink hawaiian sea salt or regular sea salt"
         ]
     }
 }
