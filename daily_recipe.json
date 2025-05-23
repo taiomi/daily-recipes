@@ -1,14 +1,14 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-05-22",
+    "lastUpdated": "2025-05-23",
     "recipe": {
-        "title": "Bombay Potatoes",
+        "title": "Mediterranean eggplants",
         "readyInMinutes": 45,
-        "servings": 1,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/635642-556x370.jpg",
-        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/8YS4235G\/bombay-potatoes",
-        "instructions": "<ol><li>Peel the potatoes and dice into bite sized pieces. fill a deep pan with water and boil the potatoes with a pinch of salt until they have cooked throughout.<\/li><li>When the potatoes are done rinse under cold water, making sure the potatoes do not break.<\/li><li>In a non-stick frying pan, heat up the oil. Once the oil is hot, (not so hot that a blue haze appears), add the mustard seeds and cover with a lid.<\/li><li>Lower the gas to the medium setting. The seeds will soon start to pop; lower the heat and add the chili and turmeric power and stir. Ensure the powder mixture and seeds do not burn!<\/li><li>Add the potatoes to the pungent oil and stir slowly for a minute until the potatoes are covered in the seeds and they turn a light yellow due to the turmeric.<\/li><li>Remove from the heat and garnish with coriander.<\/li><\/ol>",
-        "summary": "Bombay Potatoes requires around <b>45 minutes<\/b> from start to finish. One serving contains <b>1192 calories<\/b>, <b>24g of protein<\/b>, and <b>38g of fat<\/b>. For <b>$1.9 per serving<\/b>, this recipe <b>covers 48%<\/b> of your daily requirements of vitamins and minerals. This recipe serves 1. Only a few people really liked this main course. 2 people have tried and liked this recipe. A mixture of turmeric powder, salt, coriander leaf, and a handful of other ingredients are all it takes to make this recipe so tasty. It is a good option if you're following a <b>gluten free, dairy free, lacto ovo vegetarian, and fodmap friendly<\/b> diet. It is brought to you by Foodista. With a spoonacular <b>score of 93%<\/b>, this dish is tremendous. <a href=\"https:\/\/spoonacular.com\/recipes\/bombay-potatoes-1297967\">Bombay Potatoes<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/bombay-potatoes-aloo-1087517\">Bombay Potatoes (Aloo)<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/bombay-breakfast-potatoes-44057\">Bombay Breakfast Potatoes<\/a> are very similar to this recipe.",
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/651407-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/N6XLCVFG\/mediterranean-eggplants",
+        "instructions": "<ol><li>Wash eggplants, cut the stems and halve lengthwise. Scoop out the middle.<\/li><li>In a bowl mix and combine sausage meat, egg, feta cheese, mozzarella, almonds and pepper.<\/li><li>With a spoon, stuff the eggplants.<\/li><li>Sprinkle with breadcrumbs (about  tablespoon on each eggplant) and olive oil.<\/li><li>Place the eggplants on a baking sheet lined with parchment paper and bake in the oven for 25 minutes on 230C.<\/li><li>Serve hot, sprinkled with fresh, chopped dill, chives or basil.<\/li><\/ol>",
+        "summary": "The recipe Mediterranean eggplants can be made <b>in about 45 minutes<\/b>. This recipe serves 4. One serving contains <b>679 calories<\/b>, <b>30g of protein<\/b>, and <b>47g of fat<\/b>. For <b>$3.29 per serving<\/b>, this recipe <b>covers 31%<\/b> of your daily requirements of vitamins and minerals. This recipe from Foodista requires sausage without the casing, mozzarella cheese, dill, and eggplants. 6 people have tried and liked this recipe. Only a few people really liked this main course. With a spoonacular <b>score of 75%<\/b>, this dish is solid. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/roasted-eggplants-and-tomatoes-103381\">Roasted Eggplants and Tomatoes<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/spiced-baby-eggplants-904755\">Spiced Baby Eggplants<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/roasted-eggplants-with-herbs-23483\">Roasted Eggplants with Herbs<\/a>.",
         "cuisines": [],
         "dishTypes": [
             "lunch",
@@ -17,12 +17,16 @@
             "dinner"
         ],
         "ingredients": [
-            "2 tablespoons brown mustard seeds",
-            "2 1\/2 tablespoons cooking oil",
-            "coriander leaf for garnishing",
-            "3 large potatoes",
-            "1\/2 teaspoon salt",
-            "1 teaspoon turmeric powder"
+            "50 g almonds, ground",
+            "4 Tbs homemade bread crumbs",
+            "1 egg",
+            "4 small eggplants",
+            "50 g feta cheese, crumbled",
+            "Fresh dill, chives or basil, chopped",
+            "100 g mozzarella cheese, coarsely grated",
+            "2 tablespoons olive oil",
+            "\u00bd tsp pepper",
+            "350 g fresh sausage without the casing, approximately 8 links"
         ]
     }
 }
