@@ -1,32 +1,35 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-05-23",
+    "lastUpdated": "2025-05-24",
     "recipe": {
-        "title": "Mediterranean eggplants",
+        "title": "Lemony Zucchini Fritters",
         "readyInMinutes": 45,
-        "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/651407-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/N6XLCVFG\/mediterranean-eggplants",
-        "instructions": "<ol><li>Wash eggplants, cut the stems and halve lengthwise. Scoop out the middle.<\/li><li>In a bowl mix and combine sausage meat, egg, feta cheese, mozzarella, almonds and pepper.<\/li><li>With a spoon, stuff the eggplants.<\/li><li>Sprinkle with breadcrumbs (about  tablespoon on each eggplant) and olive oil.<\/li><li>Place the eggplants on a baking sheet lined with parchment paper and bake in the oven for 25 minutes on 230C.<\/li><li>Serve hot, sprinkled with fresh, chopped dill, chives or basil.<\/li><\/ol>",
-        "summary": "The recipe Mediterranean eggplants can be made <b>in about 45 minutes<\/b>. This recipe serves 4. One serving contains <b>679 calories<\/b>, <b>30g of protein<\/b>, and <b>47g of fat<\/b>. For <b>$3.29 per serving<\/b>, this recipe <b>covers 31%<\/b> of your daily requirements of vitamins and minerals. This recipe from Foodista requires sausage without the casing, mozzarella cheese, dill, and eggplants. 6 people have tried and liked this recipe. Only a few people really liked this main course. With a spoonacular <b>score of 75%<\/b>, this dish is solid. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/roasted-eggplants-and-tomatoes-103381\">Roasted Eggplants and Tomatoes<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/spiced-baby-eggplants-904755\">Spiced Baby Eggplants<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/roasted-eggplants-with-herbs-23483\">Roasted Eggplants with Herbs<\/a>.",
+        "servings": 3,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/631754-556x370.jpg",
+        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/GZLSBH4T\/lemony-zucchini-fritters",
+        "instructions": "<ol><li>Chop the zucchini into small pieces. Place in food processor and pulse until there are small bits left. (If you have a grating attachment on your food processor you can use that instead).<\/li><li>In a medium bowl add zucchini, lemon juice, parsley, flour, eggs, spices, Parmesan cheese, and breadcrumbs. Mix together until evenly distributed.<\/li><li>Place olive oil in a large frying pan and heat over medium high heat. Working in batches, add a little less than a cup of batter to the frying pan for each fritter. Cook until golden brown on the bottom, about 45 seconds. Flip over and cook until golden brown on the other side.<\/li><li>Place a few layers of paper towel on a baking sheet or plate. Once fritters are done, transfer to the lined baking sheet or dish and let the paper towel soak up extra oil.<\/li><li>Garnish with more lemon juice and a dollop of Greek yogurt before serving.<\/li><\/ol>",
+        "summary": "Lemony Zucchini Fritters requires about <b>45 minutes<\/b> from start to finish. One portion of this dish contains approximately <b>30g of protein<\/b>, <b>24g of fat<\/b>, and a total of <b>477 calories<\/b>. This recipe serves 3. For <b>$2.89 per serving<\/b>, this recipe <b>covers 29%<\/b> of your daily requirements of vitamins and minerals. If you have parsley, juice of lemon, flour, and a few other ingredients on hand, you can make it. This recipe from Foodista has 2 fans. It works well as a reasonably priced main course. With a spoonacular <b>score of 75%<\/b>, this dish is solid. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/lemony-zucchini-fritters-1403049\">Lemony Zucchini Fritters<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/lemony-corn-fritters-woolworths-masterchef-513195\">Lemony Corn Fritters {Woolworths\/Masterchef}<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/lemony-zucchini-with-basil-25123\">Lemony Zucchini with Basil<\/a>.",
         "cuisines": [],
         "dishTypes": [
+            "side dish",
             "lunch",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "50 g almonds, ground",
-            "4 Tbs homemade bread crumbs",
-            "1 egg",
-            "4 small eggplants",
-            "50 g feta cheese, crumbled",
-            "Fresh dill, chives or basil, chopped",
-            "100 g mozzarella cheese, coarsely grated",
-            "2 tablespoons olive oil",
-            "\u00bd tsp pepper",
-            "350 g fresh sausage without the casing, approximately 8 links"
+            "2 tbsp breadcrumbs",
+            "2 eggs, beaten",
+            "\u00bd cup flour",
+            "1 tsp Garlic Powder",
+            "1 lemon, juiced",
+            "4 tbsp Olive oil, for pan frying",
+            "1 tsp Onion Powder",
+            "1 tbsp Grated Parmesan Cheese",
+            "\u00bd cup parsley, chopped",
+            "1 tsp Pepper",
+            "Plain Greek Yogurt",
+            "2 zucchini (about 8 oz each) trimmed"
         ]
     }
 }
