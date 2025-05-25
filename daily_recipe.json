@@ -1,35 +1,32 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-05-24",
+    "lastUpdated": "2025-05-25",
     "recipe": {
-        "title": "Lemony Zucchini Fritters",
-        "readyInMinutes": 45,
-        "servings": 3,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/631754-556x370.jpg",
-        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/GZLSBH4T\/lemony-zucchini-fritters",
-        "instructions": "<ol><li>Chop the zucchini into small pieces. Place in food processor and pulse until there are small bits left. (If you have a grating attachment on your food processor you can use that instead).<\/li><li>In a medium bowl add zucchini, lemon juice, parsley, flour, eggs, spices, Parmesan cheese, and breadcrumbs. Mix together until evenly distributed.<\/li><li>Place olive oil in a large frying pan and heat over medium high heat. Working in batches, add a little less than a cup of batter to the frying pan for each fritter. Cook until golden brown on the bottom, about 45 seconds. Flip over and cook until golden brown on the other side.<\/li><li>Place a few layers of paper towel on a baking sheet or plate. Once fritters are done, transfer to the lined baking sheet or dish and let the paper towel soak up extra oil.<\/li><li>Garnish with more lemon juice and a dollop of Greek yogurt before serving.<\/li><\/ol>",
-        "summary": "Lemony Zucchini Fritters requires about <b>45 minutes<\/b> from start to finish. One portion of this dish contains approximately <b>30g of protein<\/b>, <b>24g of fat<\/b>, and a total of <b>477 calories<\/b>. This recipe serves 3. For <b>$2.89 per serving<\/b>, this recipe <b>covers 29%<\/b> of your daily requirements of vitamins and minerals. If you have parsley, juice of lemon, flour, and a few other ingredients on hand, you can make it. This recipe from Foodista has 2 fans. It works well as a reasonably priced main course. With a spoonacular <b>score of 75%<\/b>, this dish is solid. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/lemony-zucchini-fritters-1403049\">Lemony Zucchini Fritters<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/lemony-corn-fritters-woolworths-masterchef-513195\">Lemony Corn Fritters {Woolworths\/Masterchef}<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/lemony-zucchini-with-basil-25123\">Lemony Zucchini with Basil<\/a>.",
+        "title": "Pork chops with cider and spinach",
+        "readyInMinutes": 30,
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/656746-556x370.jpg",
+        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/TRQ4KBB5\/pork-chops-with-cider-and-spinach",
+        "instructions": "<ol><li>Remove all visible fat from the chops.<\/li><li>Fry chops in hot oil on each side about 3 minutes until browned. Remove, put aside.<\/li><li>Add onion and cook over medium heat for about 5 minutes until soft and caramelized.<\/li><li>Add the cider, stir, bring to a bubble and reduce a little.<\/li><li>Add the cream and mustard, stir, bring to a simmer then put the chops back in and cook for 8-10 minutes or until cooked through.<\/li><li>Put the chops back, season with salt and pepper, and cook for 8-10 minutes or until cooked through.<\/li><li>Meanwhile, cook the spinach in a large pan  with butter and seasoning until wilted.<\/li><li>Serve the chops and sauce with the spinach.<\/li><\/ol>",
+        "summary": "Pork chops with cider and spinach is a main course that serves 4. Watching your figure? This gluten free recipe has <b>528 calories<\/b>, <b>35g of protein<\/b>, and <b>32g of fat<\/b> per serving. For <b>$3.66 per serving<\/b>, this recipe <b>covers 41%<\/b> of your daily requirements of vitamins and minerals. This recipe from Foodista requires onions, dijon mustard, cider, and pork seasoning mix. From preparation to the plate, this recipe takes roughly <b>30 minutes<\/b>. This recipe is liked by 5 foodies and cooks. All things considered, we decided this recipe <b>deserves a spoonacular score of 87%<\/b>. This score is super. If you like this recipe, take a look at these similar recipes: <a href=\"https:\/\/spoonacular.com\/recipes\/cider-pork-chops-446065\">Cider Pork Chops<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/cider-brined-pork-chops-696060\">Cider-Brined Pork Chops<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/pork-chops-with-cider-sauce-118628\">Pork Chops With Cider Sauce<\/a>.",
         "cuisines": [],
         "dishTypes": [
-            "side dish",
             "lunch",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "2 tbsp breadcrumbs",
-            "2 eggs, beaten",
-            "\u00bd cup flour",
-            "1 tsp Garlic Powder",
-            "1 lemon, juiced",
-            "4 tbsp Olive oil, for pan frying",
-            "1 tsp Onion Powder",
-            "1 tbsp Grated Parmesan Cheese",
-            "\u00bd cup parsley, chopped",
-            "1 tsp Pepper",
-            "Plain Greek Yogurt",
-            "2 zucchini (about 8 oz each) trimmed"
+            "1 Tbs butter",
+            "2 Tbs Dijon mustard",
+            "400 ml cider",
+            "2-3 Tbs olive oil",
+            "2 onions, coarsely sliced",
+            "4 pork chops",
+            "Salt and pepper",
+            "2 Tbs pork seasoning mix",
+            "250 ml sour cream",
+            "400 g spinach, cleaned and washed"
         ]
     }
 }
