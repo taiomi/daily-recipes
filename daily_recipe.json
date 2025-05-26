@@ -1,15 +1,18 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-05-25",
+    "lastUpdated": "2025-05-26",
     "recipe": {
-        "title": "Pork chops with cider and spinach",
-        "readyInMinutes": 30,
+        "title": "Indian Lentil Dahl",
+        "readyInMinutes": 45,
         "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/656746-556x370.jpg",
-        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/TRQ4KBB5\/pork-chops-with-cider-and-spinach",
-        "instructions": "<ol><li>Remove all visible fat from the chops.<\/li><li>Fry chops in hot oil on each side about 3 minutes until browned. Remove, put aside.<\/li><li>Add onion and cook over medium heat for about 5 minutes until soft and caramelized.<\/li><li>Add the cider, stir, bring to a bubble and reduce a little.<\/li><li>Add the cream and mustard, stir, bring to a simmer then put the chops back in and cook for 8-10 minutes or until cooked through.<\/li><li>Put the chops back, season with salt and pepper, and cook for 8-10 minutes or until cooked through.<\/li><li>Meanwhile, cook the spinach in a large pan  with butter and seasoning until wilted.<\/li><li>Serve the chops and sauce with the spinach.<\/li><\/ol>",
-        "summary": "Pork chops with cider and spinach is a main course that serves 4. Watching your figure? This gluten free recipe has <b>528 calories<\/b>, <b>35g of protein<\/b>, and <b>32g of fat<\/b> per serving. For <b>$3.66 per serving<\/b>, this recipe <b>covers 41%<\/b> of your daily requirements of vitamins and minerals. This recipe from Foodista requires onions, dijon mustard, cider, and pork seasoning mix. From preparation to the plate, this recipe takes roughly <b>30 minutes<\/b>. This recipe is liked by 5 foodies and cooks. All things considered, we decided this recipe <b>deserves a spoonacular score of 87%<\/b>. This score is super. If you like this recipe, take a look at these similar recipes: <a href=\"https:\/\/spoonacular.com\/recipes\/cider-pork-chops-446065\">Cider Pork Chops<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/cider-brined-pork-chops-696060\">Cider-Brined Pork Chops<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/pork-chops-with-cider-sauce-118628\">Pork Chops With Cider Sauce<\/a>.",
-        "cuisines": [],
+        "image": "https:\/\/img.spoonacular.com\/recipes\/647830-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/XMH8PZ48\/indian-lentil-dahl",
+        "instructions": "<ol><li> In a large saucepan, combine oil, onion and salt at medium-high heat. Cook until onion starts to brown, around 5 minutes or so. Add garlic, ginger and Garam Masala , cook until fragrant, about 1 minute.<\/li><li>Add lentils, coconut milk and water. Bring to a boil, then reduce heat to low and simmer, partially covered until lentils are fully tender and broken down to an almost paste-like consistency, about 25-30 minutes.<\/li><li>Add lime juice and cilantro. Check for seasoning. Serve (over rice if you like), topped with the diced tomatoes.<\/li><\/ol>",
+        "summary": "The recipe Indian Lentil Dahl can be made <b>in about 45 minutes<\/b>. This recipe makes 4 servings with <b>400 calories<\/b>, <b>17g of protein<\/b>, and <b>20g of fat<\/b> each. For <b>$1.06 per serving<\/b>, this recipe <b>covers 23%<\/b> of your daily requirements of vitamins and minerals. It is brought to you by Foodista. A mixture of lime juice, lentils, coconut milk, and a handful of other ingredients are all it takes to make this recipe so yummy. 13 people were glad they tried this recipe. It works well as a main course. It is a <b>rather inexpensive<\/b> recipe for fans of Indian food. It is a good option if you're following a <b>gluten free, dairy free, lacto ovo vegetarian, and vegan<\/b> diet. Taking all factors into account, this recipe <b>earns a spoonacular score of 75%<\/b>, which is solid. Similar recipes include <a href=\"https:\/\/spoonacular.com\/recipes\/indian-spice-52-diet-for-red-lentil-dahl-1368615\">Indian Spice \u2013 5:2 Diet for Red Lentil Dahl<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/indian-spice-52-diet-for-red-lentil-dahl-1201527\">Indian Spice \u2013 5:2 Diet for Red Lentil Dahl<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/indian-spice-52-diet-for-red-lentil-dahl-666725\">Indian Spice \u2013 5:2 Diet for Red Lentil Dahl<\/a>.",
+        "cuisines": [
+            "Indian",
+            "Asian"
+        ],
         "dishTypes": [
             "lunch",
             "main course",
@@ -17,16 +20,18 @@
             "dinner"
         ],
         "ingredients": [
-            "1 Tbs butter",
-            "2 Tbs Dijon mustard",
-            "400 ml cider",
-            "2-3 Tbs olive oil",
-            "2 onions, coarsely sliced",
-            "4 pork chops",
-            "Salt and pepper",
-            "2 Tbs pork seasoning mix",
-            "250 ml sour cream",
-            "400 g spinach, cleaned and washed"
+            "2 T. canola oil",
+            "1\/3 c. coarsely chopped cilantro",
+            "1 c. coconut milk",
+            "1 T. minced fresh ginger",
+            "1 t. Garam Masala (can be easily found in the supermarket spice isle)",
+            "4 garlic cloves, minced",
+            "1 T. lime juice",
+            "1 onion, finely chopped",
+            "3 . plum tomatoes",
+            "1 1\/4 c. split red lentils",
+            "3\/4 t. salt",
+            "3 c. water"
         ]
     }
 }
