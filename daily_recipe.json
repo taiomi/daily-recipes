@@ -1,15 +1,17 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-05-30",
+    "lastUpdated": "2025-06-01",
     "recipe": {
-        "title": "Baked Chicken Dijon",
+        "title": "Chili-Garlic Stir Fry",
         "readyInMinutes": 45,
         "servings": 6,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/633519-556x370.jpg",
-        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/K3ZQSDXQ\/baked-chicken-dijon",
-        "instructions": "<ol><li>Preheat oven to 350 F. Lightly coat 1 or 2 large baking sheets with cooking spray. Trim all visible fat from chicken and sprinkle lightly with salt and pepper. Stir yogurt and mustard in a small bowl. Spread mixture on bottom sides of chicken. Place on baking sheets, coated sides down, leaving space between pieces. Spread mixture over top. Combine bread crumbs, marjoram, salt and pepper. Sprinkle over chicken. Bake for 30 to 35 minutes until golden brown and no longer pink <\/li><li>Makes 6 servings (about4-ounces each)<\/li><\/ol>",
-        "summary": "Baked Chicken Dijon is a <b>ketogenic<\/b> main course. One serving contains <b>1887 calories<\/b>, <b>163g of protein<\/b>, and <b>125g of fat<\/b>. This recipe serves 6. For <b>$7.98 per serving<\/b>, this recipe <b>covers 50%<\/b> of your daily requirements of vitamins and minerals. It is brought to you by Foodista. 2 people have tried and liked this recipe. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. Head to the store and pick up pepper, chicken, marjoram, and a few other things to make it today. With a spoonacular <b>score of 77%<\/b>, this dish is solid. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/baked-chicken-dijon-1383915\">Baked Chicken Dijon<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/baked-chicken-dijon-168315\">Baked Chicken Dijon<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/baked-chicken-dijon-923277\">Baked Chicken Dijon<\/a>.",
-        "cuisines": [],
+        "image": "https:\/\/img.spoonacular.com\/recipes\/638586-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/7B6SJL27\/chili-garlic-stir-fry",
+        "instructions": "I a wok or large skillet, heat 1 teaspoon sesame oil over medium-high heat. Add chicken and saute until cooked through. Set aside and cover.\nIn the same pan, heat 1 teaspoon sesame oil over medium-high heat. Add bok choy stalks (not the leaves), carrots and snow peas and saute until just tender. Set aside and cover.\nMeanwhile, in a medium bowl, combine broth, sherry, cornstarch and Sriracha.\nHeat final teaspoon sesame oil over medium high heat and add garlic. Saute until fragrant, 30 seconds to 1 minute. Add sauce and bring to a boil. Stir until it thickens then add chicken, veggies, bok choy leaves and green onion. Stir until all are coated and heated through.",
+        "summary": "Chili-Garlic Stir Fry is a <b>gluten free and dairy free<\/b> recipe with 6 servings. One serving contains <b>147 calories<\/b>, <b>15g of protein<\/b>, and <b>4g of fat<\/b>. For <b>$2.13 per serving<\/b>, this recipe <b>covers 20%<\/b> of your daily requirements of vitamins and minerals. This recipe is typical of American cuisine. 3 people were glad they tried this recipe. Head to the store and pick up sesame oil, chicken broth, cooking sherry, and a few other things to make it today. It works well as a rather inexpensive main course. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. It is brought to you by Foodista. Taking all factors into account, this recipe <b>earns a spoonacular score of 73%<\/b>, which is pretty good. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/chili-garlic-shrimp-and-noodle-stir-fry-1653043\">Chili-Garlic Shrimp and Noodle Stir-Fry<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/chili-garlic-shrimp-and-noodle-stir-fry-708070\">Chili-Garlic Shrimp and Noodle Stir-Fry<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/chili-and-garlic-spiced-beef-and-broccoli-stir-fry-1616473\">Chili and Garlic Spiced Beef and Broccoli Stir Fry<\/a>.",
+        "cuisines": [
+            "American"
+        ],
         "dishTypes": [
             "lunch",
             "main course",
@@ -17,15 +19,23 @@
             "dinner"
         ],
         "ingredients": [
-            "1\/2 cup Fine fresh bread crumbs",
-            "6 Boneless skinless chicken",
-            "1\/4 cup Dijon mustard",
-            "1 teaspoon Dried marjoram",
-            "cup Nonfat yogurt",
-            "pepper, onion powder, 2 cans cream of chicken soup",
-            "pound Breasts -- about 2",
-            "1\/2 teaspoon Salt",
-            "Salt and pepper -- optional"
+            "2 teaspoons sesame oil, divided",
+            "12 ounces boneless, skinless chicken breast, cubed",
+            "4 large stalks bok choy, chopped (stalk and leaf divided)",
+            "8 ounces snow peas",
+            "3 mediums carrots, peeled and chopped",
+            "1 yellow pepper, sliced",
+            "1 orange pepper, sliced",
+            "3 mediums green onions, white and green parts, chopped",
+            "Sauce",
+            "3\/4 cup low sodium chicken broth",
+            "2 tablespoons cooking sherry",
+            "2 teaspoons cornstarch",
+            "2 tablespoons Sriracha or other chili-garlic sauce",
+            "6 cloves garlic, minced",
+            "1 teaspoon sesame oil",
+            "Stir fry",
+            "Stir fry"
         ]
     }
 }
