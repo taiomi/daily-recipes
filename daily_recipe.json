@@ -1,17 +1,15 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-06-01",
+    "lastUpdated": "2025-06-02",
     "recipe": {
-        "title": "Chili-Garlic Stir Fry",
+        "title": "Three Meat Stromboli",
         "readyInMinutes": 45,
-        "servings": 6,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/638586-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/7B6SJL27\/chili-garlic-stir-fry",
-        "instructions": "I a wok or large skillet, heat 1 teaspoon sesame oil over medium-high heat. Add chicken and saute until cooked through. Set aside and cover.\nIn the same pan, heat 1 teaspoon sesame oil over medium-high heat. Add bok choy stalks (not the leaves), carrots and snow peas and saute until just tender. Set aside and cover.\nMeanwhile, in a medium bowl, combine broth, sherry, cornstarch and Sriracha.\nHeat final teaspoon sesame oil over medium high heat and add garlic. Saute until fragrant, 30 seconds to 1 minute. Add sauce and bring to a boil. Stir until it thickens then add chicken, veggies, bok choy leaves and green onion. Stir until all are coated and heated through.",
-        "summary": "Chili-Garlic Stir Fry is a <b>gluten free and dairy free<\/b> recipe with 6 servings. One serving contains <b>147 calories<\/b>, <b>15g of protein<\/b>, and <b>4g of fat<\/b>. For <b>$2.13 per serving<\/b>, this recipe <b>covers 20%<\/b> of your daily requirements of vitamins and minerals. This recipe is typical of American cuisine. 3 people were glad they tried this recipe. Head to the store and pick up sesame oil, chicken broth, cooking sherry, and a few other things to make it today. It works well as a rather inexpensive main course. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. It is brought to you by Foodista. Taking all factors into account, this recipe <b>earns a spoonacular score of 73%<\/b>, which is pretty good. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/chili-garlic-shrimp-and-noodle-stir-fry-1653043\">Chili-Garlic Shrimp and Noodle Stir-Fry<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/chili-garlic-shrimp-and-noodle-stir-fry-708070\">Chili-Garlic Shrimp and Noodle Stir-Fry<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/chili-and-garlic-spiced-beef-and-broccoli-stir-fry-1616473\">Chili and Garlic Spiced Beef and Broccoli Stir Fry<\/a>.",
-        "cuisines": [
-            "American"
-        ],
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/663383-556x370.jpg",
+        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/KZ6MP4KH\/three-meat-stromboli",
+        "instructions": "<ol><li>Set dough out and let it come to room temperature and rise to double in size.<\/li><li>Punch down and separate each ball into two pieces (four pieces total).  Form each piece into a rectangle, about 6x8 inches.<\/li><li>Let sit and rise again  about 10- 15 minutes.<\/li><li>Mix garlic powder, oregano, parsley flakes and pepper in small bowl.<\/li><li>Divide the meat and cheese into four equal parts  enough for each Stromboli.<\/li><li>Begin layering the ingredients on the dough  salami, ham, pepperoni, provolone cheese  on each rectangle.<\/li><li>Sprinkle each with equal parts mozzarella cheese, Parmigiano-Reggiano, and seasoning mix.<\/li><li>Roll up each rectangle jelly-roll style, beginning with a long side.<\/li><li>Seal seams and ends.<\/li><li>Using two greased baking sheets, place each one seam side down on sheet.<\/li><li>Brush with egg yolk.<\/li><li>Bake at 375 degrees for 25-30 minutes or until golden brown.<\/li><li>Let stand for 5 minutes before slicing.<\/li><\/ol>",
+        "summary": "Three Meat Stromboli takes approximately <b>45 minutes<\/b> from beginning to end. This recipe serves 4. One serving contains <b>1345 calories<\/b>, <b>75g of protein<\/b>, and <b>89g of fat<\/b>. For <b>$5.04 per serving<\/b>, this recipe <b>covers 36%<\/b> of your daily requirements of vitamins and minerals. 2 people have made this recipe and would make it again. This recipe from Foodista requires ham deli, pizza dough, oregano, and provolone cheese. It works well as a main course. Overall, this recipe earns a <b>solid spoonacular score of 67%<\/b>. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/three-meat-stromboli-1409223\">Three Meat Stromboli<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/three-meat-stromboli-388190\">Three-Meat Stromboli<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/meat-cheese-stromboli-433198\">Meat & Cheese Stromboli<\/a>.",
+        "cuisines": [],
         "dishTypes": [
             "lunch",
             "main course",
@@ -19,23 +17,18 @@
             "dinner"
         ],
         "ingredients": [
-            "2 teaspoons sesame oil, divided",
-            "12 ounces boneless, skinless chicken breast, cubed",
-            "4 large stalks bok choy, chopped (stalk and leaf divided)",
-            "8 ounces snow peas",
-            "3 mediums carrots, peeled and chopped",
-            "1 yellow pepper, sliced",
-            "1 orange pepper, sliced",
-            "3 mediums green onions, white and green parts, chopped",
-            "Sauce",
-            "3\/4 cup low sodium chicken broth",
-            "2 tablespoons cooking sherry",
-            "2 teaspoons cornstarch",
-            "2 tablespoons Sriracha or other chili-garlic sauce",
-            "6 cloves garlic, minced",
-            "1 teaspoon sesame oil",
-            "Stir fry",
-            "Stir fry"
+            "1\/2 pound ham deli slices",
+            "1\/2 teaspoon dried parsley flakes",
+            "1 egg yolk, beaten",
+            "1\/2 tablespoon garlic powder",
+            "1\/2 tablespoon dried oregano",
+            "1\/4 cup grated Parmigiano-Reggiano cheese",
+            "1\/2 teaspoon pepper",
+            "1\/2 pound thinly sliced pepperoni",
+            "2 bags (1 pound) fresh pizza dough",
+            "1\/2 pound thinly sliced provolone cheese",
+            "1\/2 pound thinly sliced salami",
+            "2 cups shredded mozzarella"
         ]
     }
 }
