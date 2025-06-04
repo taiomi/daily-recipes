@@ -1,34 +1,35 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-06-02",
+    "lastUpdated": "2025-06-04",
     "recipe": {
-        "title": "Three Meat Stromboli",
-        "readyInMinutes": 45,
-        "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/663383-556x370.jpg",
-        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/KZ6MP4KH\/three-meat-stromboli",
-        "instructions": "<ol><li>Set dough out and let it come to room temperature and rise to double in size.<\/li><li>Punch down and separate each ball into two pieces (four pieces total).  Form each piece into a rectangle, about 6x8 inches.<\/li><li>Let sit and rise again  about 10- 15 minutes.<\/li><li>Mix garlic powder, oregano, parsley flakes and pepper in small bowl.<\/li><li>Divide the meat and cheese into four equal parts  enough for each Stromboli.<\/li><li>Begin layering the ingredients on the dough  salami, ham, pepperoni, provolone cheese  on each rectangle.<\/li><li>Sprinkle each with equal parts mozzarella cheese, Parmigiano-Reggiano, and seasoning mix.<\/li><li>Roll up each rectangle jelly-roll style, beginning with a long side.<\/li><li>Seal seams and ends.<\/li><li>Using two greased baking sheets, place each one seam side down on sheet.<\/li><li>Brush with egg yolk.<\/li><li>Bake at 375 degrees for 25-30 minutes or until golden brown.<\/li><li>Let stand for 5 minutes before slicing.<\/li><\/ol>",
-        "summary": "Three Meat Stromboli takes approximately <b>45 minutes<\/b> from beginning to end. This recipe serves 4. One serving contains <b>1345 calories<\/b>, <b>75g of protein<\/b>, and <b>89g of fat<\/b>. For <b>$5.04 per serving<\/b>, this recipe <b>covers 36%<\/b> of your daily requirements of vitamins and minerals. 2 people have made this recipe and would make it again. This recipe from Foodista requires ham deli, pizza dough, oregano, and provolone cheese. It works well as a main course. Overall, this recipe earns a <b>solid spoonacular score of 67%<\/b>. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/three-meat-stromboli-1409223\">Three Meat Stromboli<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/three-meat-stromboli-388190\">Three-Meat Stromboli<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/meat-cheese-stromboli-433198\">Meat & Cheese Stromboli<\/a>.",
+        "title": "Stuffed Artichoke Main Dish",
+        "readyInMinutes": 60,
+        "servings": 2,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/640921-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/X8NMGGCS\/crown-chokes",
+        "instructions": "<ol><li>Preparation of the artichoke<\/li><li>Pull apart center leaves of artichoke<\/li><li>Cut the center so that you take the prickly center<\/li><li>Use spoon to get all that out so you only have the center being empty<\/li><li>Add a bit of lemon juice to make sure it doesn't change color<\/li><li>Add artichoke to boiling water<\/li><li>Let boil for 10 min so it gets kind of soft<\/li><li>Take out<\/li><li>Add cold water so it cools<\/li><li>Cut the edges of artichoke<\/li><li>How to make the stuffing.<\/li><li>Boil the potato, or put into microwave to cook it up. (it just needs to be soft)<\/li><li>In a sauce pan at med-high heat add the olive oil, rosemary, maple syrup, crushed and finely sliced garlic and the chicken. Add the lemon sliced  up to the saucepan and cook it all together for for 15 min. So that it is all cooked up.  and put it onto a plate to cool.<\/li><li>Now there should be some sauce still left in the pan, so slice the cooked potatoe and add it to the pan to get all that tasty sauce.<\/li><li>Now cut up the chicken, potato and some grated mozzarella cheese and mash it up so that you can stuff it into the artichoke.<\/li><li>Bake in oven at 350 for 20ish min.<\/li><\/ol>",
+        "summary": "Stuffed Artichoke Main Dish is a <b>gluten free<\/b> recipe with 2 servings. One portion of this dish contains approximately <b>56g of protein<\/b>, <b>9g of fat<\/b>, and a total of <b>500 calories<\/b>. For <b>$3.58 per serving<\/b>, this recipe <b>covers 41%<\/b> of your daily requirements of vitamins and minerals. This recipe from Foodista requires mozzarella cheese, chicken breasts, garlic, and parmesan. 18 people have tried and liked this recipe. A few people really liked this main course. From preparation to the plate, this recipe takes approximately <b>1 hour<\/b>. With a spoonacular <b>score of 95%<\/b>, this dish is excellent. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/main-dish-minestrone-167120\">Main-Dish Minestrone<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/main-dish-shrimp-salad-421296\">Main-Dish Shrimp Salad<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/tuna-noodle-main-dish-410596\">Tuna Noodle Main Dish<\/a>.",
         "cuisines": [],
         "dishTypes": [
+            "side dish",
             "lunch",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "1\/2 pound ham deli slices",
-            "1\/2 teaspoon dried parsley flakes",
-            "1 egg yolk, beaten",
-            "1\/2 tablespoon garlic powder",
-            "1\/2 tablespoon dried oregano",
-            "1\/4 cup grated Parmigiano-Reggiano cheese",
-            "1\/2 teaspoon pepper",
-            "1\/2 pound thinly sliced pepperoni",
-            "2 bags (1 pound) fresh pizza dough",
-            "1\/2 pound thinly sliced provolone cheese",
-            "1\/2 pound thinly sliced salami",
-            "2 cups shredded mozzarella"
+            "1 Large Artichoke",
+            "2 chicken breasts",
+            "2 cloves of garlic",
+            "1 lemon",
+            "1 teaspoon of maple syrup",
+            "1 teaspoon of olive olive oil",
+            "1 teaspoon Parmesan",
+            "pepper",
+            "1 large potato",
+            "1 sprig of rosemary",
+            "salt",
+            "1 handful shredded mozzarella cheese"
         ]
     }
 }
