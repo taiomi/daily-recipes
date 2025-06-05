@@ -1,35 +1,32 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-06-04",
+    "lastUpdated": "2025-06-05",
     "recipe": {
-        "title": "Stuffed Artichoke Main Dish",
-        "readyInMinutes": 60,
-        "servings": 2,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/640921-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/X8NMGGCS\/crown-chokes",
-        "instructions": "<ol><li>Preparation of the artichoke<\/li><li>Pull apart center leaves of artichoke<\/li><li>Cut the center so that you take the prickly center<\/li><li>Use spoon to get all that out so you only have the center being empty<\/li><li>Add a bit of lemon juice to make sure it doesn't change color<\/li><li>Add artichoke to boiling water<\/li><li>Let boil for 10 min so it gets kind of soft<\/li><li>Take out<\/li><li>Add cold water so it cools<\/li><li>Cut the edges of artichoke<\/li><li>How to make the stuffing.<\/li><li>Boil the potato, or put into microwave to cook it up. (it just needs to be soft)<\/li><li>In a sauce pan at med-high heat add the olive oil, rosemary, maple syrup, crushed and finely sliced garlic and the chicken. Add the lemon sliced  up to the saucepan and cook it all together for for 15 min. So that it is all cooked up.  and put it onto a plate to cool.<\/li><li>Now there should be some sauce still left in the pan, so slice the cooked potatoe and add it to the pan to get all that tasty sauce.<\/li><li>Now cut up the chicken, potato and some grated mozzarella cheese and mash it up so that you can stuff it into the artichoke.<\/li><li>Bake in oven at 350 for 20ish min.<\/li><\/ol>",
-        "summary": "Stuffed Artichoke Main Dish is a <b>gluten free<\/b> recipe with 2 servings. One portion of this dish contains approximately <b>56g of protein<\/b>, <b>9g of fat<\/b>, and a total of <b>500 calories<\/b>. For <b>$3.58 per serving<\/b>, this recipe <b>covers 41%<\/b> of your daily requirements of vitamins and minerals. This recipe from Foodista requires mozzarella cheese, chicken breasts, garlic, and parmesan. 18 people have tried and liked this recipe. A few people really liked this main course. From preparation to the plate, this recipe takes approximately <b>1 hour<\/b>. With a spoonacular <b>score of 95%<\/b>, this dish is excellent. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/main-dish-minestrone-167120\">Main-Dish Minestrone<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/main-dish-shrimp-salad-421296\">Main-Dish Shrimp Salad<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/tuna-noodle-main-dish-410596\">Tuna Noodle Main Dish<\/a>.",
+        "title": "Pork chops with cider and spinach",
+        "readyInMinutes": 30,
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/656746-556x370.jpg",
+        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/TRQ4KBB5\/pork-chops-with-cider-and-spinach",
+        "instructions": "<ol><li>Remove all visible fat from the chops.<\/li><li>Fry chops in hot oil on each side about 3 minutes until browned. Remove, put aside.<\/li><li>Add onion and cook over medium heat for about 5 minutes until soft and caramelized.<\/li><li>Add the cider, stir, bring to a bubble and reduce a little.<\/li><li>Add the cream and mustard, stir, bring to a simmer then put the chops back in and cook for 8-10 minutes or until cooked through.<\/li><li>Put the chops back, season with salt and pepper, and cook for 8-10 minutes or until cooked through.<\/li><li>Meanwhile, cook the spinach in a large pan  with butter and seasoning until wilted.<\/li><li>Serve the chops and sauce with the spinach.<\/li><\/ol>",
+        "summary": "Pork chops with cider and spinach is a main course that serves 4. Watching your figure? This gluten free recipe has <b>528 calories<\/b>, <b>35g of protein<\/b>, and <b>32g of fat<\/b> per serving. For <b>$3.66 per serving<\/b>, this recipe <b>covers 41%<\/b> of your daily requirements of vitamins and minerals. This recipe from Foodista requires onions, dijon mustard, cider, and pork seasoning mix. From preparation to the plate, this recipe takes roughly <b>30 minutes<\/b>. This recipe is liked by 5 foodies and cooks. All things considered, we decided this recipe <b>deserves a spoonacular score of 87%<\/b>. This score is super. If you like this recipe, take a look at these similar recipes: <a href=\"https:\/\/spoonacular.com\/recipes\/cider-pork-chops-446065\">Cider Pork Chops<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/cider-brined-pork-chops-696060\">Cider-Brined Pork Chops<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/pork-chops-with-cider-sauce-118628\">Pork Chops With Cider Sauce<\/a>.",
         "cuisines": [],
         "dishTypes": [
-            "side dish",
             "lunch",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "1 Large Artichoke",
-            "2 chicken breasts",
-            "2 cloves of garlic",
-            "1 lemon",
-            "1 teaspoon of maple syrup",
-            "1 teaspoon of olive olive oil",
-            "1 teaspoon Parmesan",
-            "pepper",
-            "1 large potato",
-            "1 sprig of rosemary",
-            "salt",
-            "1 handful shredded mozzarella cheese"
+            "1 Tbs butter",
+            "2 Tbs Dijon mustard",
+            "400 ml cider",
+            "2-3 Tbs olive oil",
+            "2 onions, coarsely sliced",
+            "4 pork chops",
+            "Salt and pepper",
+            "2 Tbs pork seasoning mix",
+            "250 ml sour cream",
+            "400 g spinach, cleaned and washed"
         ]
     }
 }
