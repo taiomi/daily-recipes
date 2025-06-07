@@ -1,14 +1,14 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-06-05",
+    "lastUpdated": "2025-06-07",
     "recipe": {
-        "title": "Pork chops with cider and spinach",
-        "readyInMinutes": 30,
+        "title": "Green Beans with Pearl Onions and Salmon",
+        "readyInMinutes": 45,
         "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/656746-556x370.jpg",
-        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/TRQ4KBB5\/pork-chops-with-cider-and-spinach",
-        "instructions": "<ol><li>Remove all visible fat from the chops.<\/li><li>Fry chops in hot oil on each side about 3 minutes until browned. Remove, put aside.<\/li><li>Add onion and cook over medium heat for about 5 minutes until soft and caramelized.<\/li><li>Add the cider, stir, bring to a bubble and reduce a little.<\/li><li>Add the cream and mustard, stir, bring to a simmer then put the chops back in and cook for 8-10 minutes or until cooked through.<\/li><li>Put the chops back, season with salt and pepper, and cook for 8-10 minutes or until cooked through.<\/li><li>Meanwhile, cook the spinach in a large pan  with butter and seasoning until wilted.<\/li><li>Serve the chops and sauce with the spinach.<\/li><\/ol>",
-        "summary": "Pork chops with cider and spinach is a main course that serves 4. Watching your figure? This gluten free recipe has <b>528 calories<\/b>, <b>35g of protein<\/b>, and <b>32g of fat<\/b> per serving. For <b>$3.66 per serving<\/b>, this recipe <b>covers 41%<\/b> of your daily requirements of vitamins and minerals. This recipe from Foodista requires onions, dijon mustard, cider, and pork seasoning mix. From preparation to the plate, this recipe takes roughly <b>30 minutes<\/b>. This recipe is liked by 5 foodies and cooks. All things considered, we decided this recipe <b>deserves a spoonacular score of 87%<\/b>. This score is super. If you like this recipe, take a look at these similar recipes: <a href=\"https:\/\/spoonacular.com\/recipes\/cider-pork-chops-446065\">Cider Pork Chops<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/cider-brined-pork-chops-696060\">Cider-Brined Pork Chops<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/pork-chops-with-cider-sauce-118628\">Pork Chops With Cider Sauce<\/a>.",
+        "image": "https:\/\/img.spoonacular.com\/recipes\/645418-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/PDS5KZWD\/green-beans-with-pearl-onions-and-salmon",
+        "instructions": "In a large pot add some water the frozen beans and frozen pearl onions. Cover and cook over medium heat until they are tender. Drain and set aside.\nIn a large skillet over medium high heat melt 1 tablespoon of butter and the olive oil. Add the green beans and pearl onions and saut for 1 minute. Add the chicken stock and cook for another minute until the stock is evaporated.\nAdd 1 tablespoon of butter and the brown sugar; lower the heat to low and mix gently until slightly caramelized.\nRemove from the heat and keep warm.\nReturn the skillet back to medium high heat and melt the remaining  teaspoon of butter in the center, add the salmon over and season with Slavosalt generously. Cook for 3-5 minutes until a golden crust is formed. Turn and cook for another 3 minutes.\nPlace the green beans with pearl onions on the plate and top with the salmon.",
+        "summary": "If you have approximately <b>45 minutes<\/b> to spend in the kitchen, Green Beans with Pearl Onions and Salmon might be an awesome <b>gluten free and pescatarian<\/b> recipe to try. This recipe makes 4 servings with <b>368 calories<\/b>, <b>37g of protein<\/b>, and <b>18g of fat<\/b> each. For <b>$4.91 per serving<\/b>, this recipe <b>covers 33%<\/b> of your daily requirements of vitamins and minerals. 7 people found this recipe to be yummy and satisfying. This recipe from Foodista requires chicken stock, pearl onions, brown sugar, and butter. Only a few people really liked this main course. All things considered, we decided this recipe <b>deserves a spoonacular score of 31%<\/b>. This score is not so super. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/green-beans-and-pearl-onions-113045\">Green Beans and Pearl Onions<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/hearty-green-beans-with-mushrooms-and-pearl-onions-608084\">Hearty Green Beans With Mushrooms and Pearl Onions<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/hearty-green-beans-with-mushrooms-and-pearl-onions-1341951\">Hearty Green Beans With Mushrooms and Pearl Onions<\/a>.",
         "cuisines": [],
         "dishTypes": [
             "lunch",
@@ -17,16 +17,14 @@
             "dinner"
         ],
         "ingredients": [
-            "1 Tbs butter",
-            "2 Tbs Dijon mustard",
-            "400 ml cider",
-            "2-3 Tbs olive oil",
-            "2 onions, coarsely sliced",
-            "4 pork chops",
-            "Salt and pepper",
-            "2 Tbs pork seasoning mix",
-            "250 ml sour cream",
-            "400 g spinach, cleaned and washed"
+            "1 pound frozen green beans",
+            "1 cup frozen pearl onions",
+            "1 teaspoon olive oil",
+            "2 tablespoon unsalted butter + \u00bd teaspoon",
+            "\u00bc cup chicken stock, sodium free",
+            "1 teaspoon brown sugar",
+            "Slavosalt seasoning \u2013 or salt and pepper",
+            "Salmon steaks, skinless"
         ]
     }
 }
