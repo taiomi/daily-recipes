@@ -346,3 +346,7 @@
 [2025-06-08 02:52:48] Fetching recipe with day of year: 159
 [2025-06-08 02:52:48] Successfully fetched and saved recipe: Balsamic-Honey Chicken Drumsticks
 [2025-06-08 02:52:48] Recipe fetch process completed
+[2025-06-09 02:50:55] Starting recipe fetch process
+[2025-06-09 02:50:55] Fetching recipe with day of year: 160
+[2025-06-09 02:50:56] ERROR: Failed to get API response
+[2025-06-09 02:50:56] Recipe fetch process completed
