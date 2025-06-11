@@ -1,28 +1,40 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-06-10",
+    "lastUpdated": "2025-06-11",
     "recipe": {
-        "title": "Easy Baked Pork Chop",
+        "title": "Farm Fresh Vegetable Stew",
         "readyInMinutes": 45,
-        "servings": 3,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/715481-556x370.jpg",
-        "sourceUrl": "http:\/\/www.pinkwhen.com\/easy-baked-pork-chop-recipe\/",
-        "instructions": "Heat your oven up to 350. Mix in a small bowl the soy sauce, worcestershire sauce, ketchup, vegetable oil, and lemon juice together. Rinse your pork chops, and place them in a glass baking dish. Place half of your mixture over the top of the pork chops and bake for 30 minutes. Remove from oven, turn over pork chops, and cover with the remaining mixture. Bake for an additional 30 minutes.You are all done! Add a salad, mashed potatoes, and some bread!Simple, Quick, and Easy.JOIN 500,000 SUBSCRIBERS!Join over 500,000 others who follow PinkWhen on Social Media, the PinkWhen blog, and email. Sign up to receive exclusive bonuses like this FREE Simple Fit Dinners Ebook.Don't wait! You won't want to miss a thing.Success! Now check your email to confirm your subscription and download your FREE ebook.There was an error submitting your subscription. Please try again.First NameEmail AddressSubscribePowered by ConvertKit",
-        "summary": "Easy Baked Pork Chop requires approximately <b>45 minutes<\/b> from start to finish. One portion of this dish contains roughly <b>59g of protein<\/b>, <b>28g of fat<\/b>, and a total of <b>520 calories<\/b>. This gluten free, dairy free, and fodmap friendly recipe serves 3 and costs <b>$3.19 per serving<\/b>. It is brought to you by Pink When. If you have worcestershire sauce, lemon juice, cut pork chops, and a few other ingredients on hand, you can make it. It works well as a rather pricey main course. This recipe is liked by 405 foodies and cooks. Taking all factors into account, this recipe <b>earns a spoonacular score of 92%<\/b>, which is super. If you like this recipe, take a look at these similar recipes: <a href=\"https:\/\/spoonacular.com\/recipes\/easy-baked-pork-chop-1370031\">Easy Baked Pork Chop<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/easy-dinner-s-baked-pork-chop-528251\">Easy Dinner s: Baked Pork Chop<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/one-dish-baked-pork-chop-dinner-526437\">One Dish Baked Pork Chop Dinner<\/a>.",
+        "servings": 7,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/642610-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/74C4RHHH\/farm-fresh-vegetable-stew",
+        "instructions": "Advanced Prep work\nCut an eggplant into rounds. Lay the eggplant on a paper towel and sprinkle with kosher salt. After about 15 minutes, dice and add to the stew.\nRemove the skins from the tomato. If you have a soft skin peeler, you can use it to remove the skins. Otherwise, you can blanch the tomatoes in boiling water, scoring the tops first, and then removing the skins.\nCook the lentils in boiling water for 8 minutes, drain and run under cool water.\nCooking Instructions\nIn a large stock pot, heat olive oil on a medium heat. Saute the garlic for just a minute and add the onions. Season with 2 teaspoons of kosher salt and cook for about 10 minutes. Begin adding the other vegetables gradually, starting with the peppers, carrots and squash. When all the vegetables are in the stew, add the thyme, cumin, salt and oregano. Let the vegetables simmer until tender as a stock begins to form. Mix in the lentils and kidney beans. Simmer for as long as you have, up to an hour and a half.",
+        "summary": "Farm Fresh Vegetable Stew requires approximately <b>45 minutes<\/b> from start to finish. This recipe serves 7 and costs $1.47 per serving. Watching your figure? This gluten free, dairy free, lacto ovo vegetarian, and vegan recipe has <b>264 calories<\/b>, <b>13g of protein<\/b>, and <b>5g of fat<\/b> per serving. Not a lot of people made this recipe, and 3 would say it hit the spot. If you have kidney beans, peppers, cumin, and a few other ingredients on hand, you can make it. It works well as a main course. It will be a hit at your <b>Autumn<\/b> event. It is brought to you by Foodista. All things considered, we decided this recipe <b>deserves a spoonacular score of 86%<\/b>. This score is awesome. Try <a href=\"https:\/\/spoonacular.com\/recipes\/farm-fresh-quiche-394093\">Farm Fresh Quiche<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/farm-fresh-turkey-chili-506270\">Farm Fresh Turkey Chili<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/farm-fresh-portobella-burgers-99089\">Farm Fresh Portobella Burgers<\/a> for similar recipes.",
         "cuisines": [],
         "dishTypes": [
             "lunch",
+            "soup",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "2 tbsp ketchup",
-            "1 tbsp lemon juice",
-            "6 medium cut pork chops",
-            "1 tbsp soy sauce",
-            "2 tbsp vegetable oil",
-            "2 tbsp worcestershire sauce"
+            "1\/8 cup extra virgin olive oil",
+            "10 cloves of garlic, chopped",
+            "3 onions, diced",
+            "3 cups diced assorted peppers (sweet red Italian, green and red bell)",
+            "1 1\/2 cups diced carrots",
+            "1\/2 cup celery (4 stalks)",
+            "2 cups diced eggplant (salted)",
+            "1\/2 cup green beans, roughly cut",
+            "2 yellow squash, diced",
+            "1 zucchini, diced",
+            "4 tomatoes, skins removed and diced",
+            "1 teaspoon fresh thyme leaves",
+            "1 teaspoon cumin",
+            "4 teaspoons kosher salt",
+            "1 teaspoon dried oregano",
+            "2 cans kidney beans, drained and rinsed",
+            "8 ounces of brown lentils, cooked al dente for 8 minutes"
         ]
     }
 }
