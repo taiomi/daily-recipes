@@ -1,40 +1,30 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-06-11",
+    "lastUpdated": "2025-06-13",
     "recipe": {
-        "title": "Farm Fresh Vegetable Stew",
+        "title": "Fettuccine With Smashed Peas",
         "readyInMinutes": 45,
-        "servings": 7,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/642610-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/74C4RHHH\/farm-fresh-vegetable-stew",
-        "instructions": "Advanced Prep work\nCut an eggplant into rounds. Lay the eggplant on a paper towel and sprinkle with kosher salt. After about 15 minutes, dice and add to the stew.\nRemove the skins from the tomato. If you have a soft skin peeler, you can use it to remove the skins. Otherwise, you can blanch the tomatoes in boiling water, scoring the tops first, and then removing the skins.\nCook the lentils in boiling water for 8 minutes, drain and run under cool water.\nCooking Instructions\nIn a large stock pot, heat olive oil on a medium heat. Saute the garlic for just a minute and add the onions. Season with 2 teaspoons of kosher salt and cook for about 10 minutes. Begin adding the other vegetables gradually, starting with the peppers, carrots and squash. When all the vegetables are in the stew, add the thyme, cumin, salt and oregano. Let the vegetables simmer until tender as a stock begins to form. Mix in the lentils and kidney beans. Simmer for as long as you have, up to an hour and a half.",
-        "summary": "Farm Fresh Vegetable Stew requires approximately <b>45 minutes<\/b> from start to finish. This recipe serves 7 and costs $1.47 per serving. Watching your figure? This gluten free, dairy free, lacto ovo vegetarian, and vegan recipe has <b>264 calories<\/b>, <b>13g of protein<\/b>, and <b>5g of fat<\/b> per serving. Not a lot of people made this recipe, and 3 would say it hit the spot. If you have kidney beans, peppers, cumin, and a few other ingredients on hand, you can make it. It works well as a main course. It will be a hit at your <b>Autumn<\/b> event. It is brought to you by Foodista. All things considered, we decided this recipe <b>deserves a spoonacular score of 86%<\/b>. This score is awesome. Try <a href=\"https:\/\/spoonacular.com\/recipes\/farm-fresh-quiche-394093\">Farm Fresh Quiche<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/farm-fresh-turkey-chili-506270\">Farm Fresh Turkey Chili<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/farm-fresh-portobella-burgers-99089\">Farm Fresh Portobella Burgers<\/a> for similar recipes.",
+        "servings": 8,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/642722-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/R6STXF7C\/fettuccine-with-smashed-peas",
+        "instructions": "Cook the pasta according to package directions.\nMeanwhile, pulse the thawed peas in a food processor or blender until chopped (take care not to puree). Add  cup ricotta, salt and pepper to the peas and pulse to mix everything together.\nDrain the pasta and reserve  cup of the cooking water. Put the pasta back in the pot.\nAdd the peas to the cooking water and to the pot and toss together.\nArrange the pasta in a large bowl or platter, and top with the remaining ricotta and sprinkle with the chives.\nDrizzle the olive oil over top. Serve in individual bowls, making sure to distribute the ricotta cheese topping,",
+        "summary": "Fettuccine With Smashed Peas is a main course that serves 8. For <b>49 cents per serving<\/b>, this recipe <b>covers 14%<\/b> of your daily requirements of vitamins and minerals. One portion of this dish contains about <b>13g of protein<\/b>, <b>6g of fat<\/b>, and a total of <b>312 calories<\/b>. If you have fettuccine pasta, chives, ricotta cheese, and a few other ingredients on hand, you can make it. Only a few people made this recipe, and 3 would say it hit the spot. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. It is brought to you by Foodista. Overall, this recipe earns a <b>pretty good spoonacular score of 76%<\/b>. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/pasta-with-smashed-peas-18151\">Pasta with Smashed Peas<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/smashed-peas-and-ricotta-cheese-318639\">Smashed Peas and Ricotta Cheese<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/pasta-with-smashed-peas-and-ricotta-18657\">Pasta With Smashed Peas And Ricotta<\/a>.",
         "cuisines": [],
         "dishTypes": [
+            "side dish",
             "lunch",
-            "soup",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "1\/8 cup extra virgin olive oil",
-            "10 cloves of garlic, chopped",
-            "3 onions, diced",
-            "3 cups diced assorted peppers (sweet red Italian, green and red bell)",
-            "1 1\/2 cups diced carrots",
-            "1\/2 cup celery (4 stalks)",
-            "2 cups diced eggplant (salted)",
-            "1\/2 cup green beans, roughly cut",
-            "2 yellow squash, diced",
-            "1 zucchini, diced",
-            "4 tomatoes, skins removed and diced",
-            "1 teaspoon fresh thyme leaves",
-            "1 teaspoon cumin",
-            "4 teaspoons kosher salt",
-            "1 teaspoon dried oregano",
-            "2 cans kidney beans, drained and rinsed",
-            "8 ounces of brown lentils, cooked al dente for 8 minutes"
+            "1 pound fettuccine pasta",
+            "1 16 ounce package frozen peas, thawed",
+            "3\/4 cup ricotta cheese",
+            "1 1\/4 teaspoons coarse salt",
+            "1\/4 teaspoon black pepper",
+            "1 tablespoon chopped fresh chives",
+            "1 tablespoon extra-virgin olive oil"
         ]
     }
 }
