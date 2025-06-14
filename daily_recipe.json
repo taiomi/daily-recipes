@@ -1,14 +1,14 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-06-13",
+    "lastUpdated": "2025-06-14",
     "recipe": {
-        "title": "Fettuccine With Smashed Peas",
+        "title": "Creamy Mushrooms Over Soba Noodles (Vegan)",
         "readyInMinutes": 45,
-        "servings": 8,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/642722-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/R6STXF7C\/fettuccine-with-smashed-peas",
-        "instructions": "Cook the pasta according to package directions.\nMeanwhile, pulse the thawed peas in a food processor or blender until chopped (take care not to puree). Add  cup ricotta, salt and pepper to the peas and pulse to mix everything together.\nDrain the pasta and reserve  cup of the cooking water. Put the pasta back in the pot.\nAdd the peas to the cooking water and to the pot and toss together.\nArrange the pasta in a large bowl or platter, and top with the remaining ricotta and sprinkle with the chives.\nDrizzle the olive oil over top. Serve in individual bowls, making sure to distribute the ricotta cheese topping,",
-        "summary": "Fettuccine With Smashed Peas is a main course that serves 8. For <b>49 cents per serving<\/b>, this recipe <b>covers 14%<\/b> of your daily requirements of vitamins and minerals. One portion of this dish contains about <b>13g of protein<\/b>, <b>6g of fat<\/b>, and a total of <b>312 calories<\/b>. If you have fettuccine pasta, chives, ricotta cheese, and a few other ingredients on hand, you can make it. Only a few people made this recipe, and 3 would say it hit the spot. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. It is brought to you by Foodista. Overall, this recipe earns a <b>pretty good spoonacular score of 76%<\/b>. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/pasta-with-smashed-peas-18151\">Pasta with Smashed Peas<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/smashed-peas-and-ricotta-cheese-318639\">Smashed Peas and Ricotta Cheese<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/pasta-with-smashed-peas-and-ricotta-18657\">Pasta With Smashed Peas And Ricotta<\/a>.",
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/640666-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/FJXT4TLQ\/creamy-mushrooms-over-soba-noodles-vegan",
+        "instructions": "<ol><li>Melt 1 tbs of the Earth Balance in a saute pan.<\/li><li>Add mushrooms & garlic stirring until the mushrooms are dark and reduced.<\/li><li>Set the mushrooms aside.<\/li><li>In the same pan, melt the second tbs of Earth Balance and stir in the flour.  <\/li><li>Cook stirring for about a minute, making a roux to thicken your sauce.<\/li><li>  Slowly add the soy milk, stirring until it is smooth and thickened.<\/li><li>Add the mushrooms, lemon juice, thyme, salt, & pepper<\/li><li> Add a 1\/4 cup of white wine.<\/li><li>And cook until reduced and sauce has a pleasant consistency<\/li><li>Divide the cooked soba noodles into bowls<\/li><li>Ladle the sauce over soba noodles.<\/li><li>Garnish with sprigs of fresh thyme if you like.<\/li><li>Enjoy!<\/li><\/ol>",
+        "summary": "Creamy Mushrooms Over Soba Noodles (Vegan) is a main course that serves 4. One serving contains <b>587 calories<\/b>, <b>23g of protein<\/b>, and <b>24g of fat<\/b>. For <b>$2.54 per serving<\/b>, this recipe <b>covers 23%<\/b> of your daily requirements of vitamins and minerals. 3 people were glad they tried this recipe. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. This recipe from Foodista requires mushrooms, white wine, juice of lemon, and thyme. It is a good option if you're following a <b>dairy free<\/b> diet. Overall, this recipe earns a <b>solid spoonacular score of 59%<\/b>. Similar recipes include <a href=\"https:\/\/spoonacular.com\/recipes\/sweet-sour-soba-noodles-with-three-mushrooms-478539\">Sweet-sour soba noodles with three mushrooms<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/soba-noodles-with-roasted-tomatoes-mushrooms-and-eggs-602855\">Soba Noodles with Roasted Tomatoes, Mushrooms and Eggs<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/black-bean-soba-noodles-with-mushrooms-cabbage-211612\">Black bean soba noodles with mushrooms & cabbage<\/a>.",
         "cuisines": [],
         "dishTypes": [
             "side dish",
@@ -18,13 +18,17 @@
             "dinner"
         ],
         "ingredients": [
-            "1 pound fettuccine pasta",
-            "1 16 ounce package frozen peas, thawed",
-            "3\/4 cup ricotta cheese",
-            "1 1\/4 teaspoons coarse salt",
-            "1\/4 teaspoon black pepper",
-            "1 tablespoon chopped fresh chives",
-            "1 tablespoon extra-virgin olive oil"
+            "1 tablespoon all purpose flour",
+            "chicken stock or white wine",
+            "cremini; but your choice)",
+            "1 teaspoon minced fresh thyme (or 1 Tbs fresh parsley)",
+            "2 cloves garlic, minced",
+            "Juice of 1\/2 lemon (I cheated, used bottled, was fine)",
+            "Salt & Pepper to taste",
+            "12 ounces soba noodles",
+            "2 tablespoons Earth Balance buttery spread",
+            "1 1\/4 cups unsweetened soy milk",
+            "12 ounces of mushrooms (I used a combo of white &"
         ]
     }
 }
