@@ -1,33 +1,31 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-06-17",
+    "lastUpdated": "2025-06-19",
     "recipe": {
-        "title": "Baked Crusty Chicken",
+        "title": "Artisan Farfalle Pasta With Smoked Salmon and Cream Sauce",
         "readyInMinutes": 45,
-        "servings": 6,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/633569-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/83RKWBB6\/baked-crusty-chicken",
-        "instructions": "<ol><li>Heat oven to 350. Combine bread crumbs, flour, parsley, basil, salt, paprika and pepper in small brown paper bag; seal and shake to mix. Combine lemon juice, butter and oil in large bowl. Add the chicken, turning the pieces to coat. Working with a few pieces at a time, shake the chicken in crumb mixture in the bag to coat evenly; place the pieces on 15x10x1\" baking pan. Bake in 350 oven for 45 minutes or until the chicken meat is no longer pink near the bone. Increase the oven <\/li><li>NOTES : For a quick sauce, combine equal parts mustard and horseradish; serve chicken with buttered noodles tossed with pepper and zucchini strips.<\/li><\/ol>",
-        "summary": "Baked Crusty Chicken is a <b>dairy free<\/b> recipe with 6 servings. This main course has <b>367 calories<\/b>, <b>26g of protein<\/b>, and <b>24g of fat<\/b> per serving. For <b>$1.0 per serving<\/b>, this recipe <b>covers 13%<\/b> of your daily requirements of vitamins and minerals. This recipe is liked by 2 foodies and cooks. It is brought to you by Foodista. From preparation to the plate, this recipe takes about <b>45 minutes<\/b>. If you have parsley, ground pepper, flour, and a few other ingredients on hand, you can make it. Taking all factors into account, this recipe <b>earns a spoonacular score of 40%<\/b>, which is not so tremendous. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/crusty-baked-chicken-136602\">Crusty Baked Chicken<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/baked-crusty-chicken-1368607\">Baked Crusty Chicken<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/baked-crusty-chicken-1294351\">Baked Crusty Chicken<\/a>.",
+        "servings": 2,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/632778-556x370.jpg",
+        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/KTCQCFSJ\/artisan-farfalle-pasta-with-smoked-salmon-and-cream-sauce",
+        "instructions": "<ol><li>In a large pot of boiling salted water, add 85 grams of pasta and cook according to direction about 7 minutes.<\/li><li>Heat the oil in a saute pan and add the chopped shallots. Cook until transparent, about 2 minutes. Add the wine and the chicken broth and continue to cook for an additional 3-4 minutes until the liquids reduce. Stir in the pesto and sun dried tomatoes. Add the salmon and cream and allow to heat through, about 1-2 minutes.  Serve on the drained cooked pasta.  Serves 2 main courses<\/li><li>In a large pot of boiling salted water, add 85 grams of pasta and cook according to direction about 7 minutes.<\/li><li>Heat the oil in a saute pan and add the chopped shallots. Cook until transparent, about 2 minutes.<\/li><li>Add the wine and the chicken broth and continue to cook for an additional 3-4 minutes until the liquids reduce.<\/li><li>Stir in the pesto and sun dried tomatoes.<\/li><li>Add the salmon and cream and allow to heat through, about 1-2 minutes.  Serve on the drained cooked pasta.<\/li><\/ol>",
+        "summary": "Artisan Farfalle Pasta With Smoked Salmon and Cream Sauce might be just the main course you are searching for. This recipe makes 2 servings with <b>762 calories<\/b>, <b>28g of protein<\/b>, and <b>48g of fat<\/b> each. For <b>$6.5 per serving<\/b>, this recipe <b>covers 31%<\/b> of your daily requirements of vitamins and minerals. It is brought to you by Foodista. Only a few people made this recipe, and 3 would say it hit the spot. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. If you have chicken broth, artisan pasta, extra virgin oil, and a few other ingredients on hand, you can make it. Overall, this recipe earns a <b>pretty good spoonacular score of 78%<\/b>. Similar recipes include <a href=\"https:\/\/spoonacular.com\/recipes\/farfalle-pasta-with-smoked-salmon-and-cream-cheese-1233493\">Farfalle Pasta With Smoked Salmon And Cream Cheese<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/farfalle-pasta-with-smoked-salmon-and-cream-cheese-30071\">Farfalle Pasta With Smoked Salmon And Cream Cheese<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/smoked-salmon-and-farfalle-in-lemon-cream-sauce-321798\">Smoked Salmon and Farfalle in Lemon Cream Sauce<\/a>.",
         "cuisines": [],
         "dishTypes": [
+            "side dish",
             "lunch",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "1\/2 cup Dried bread crumbs",
-            "2 tablespoons butter or margarine divided",
-            "1 Chicken, cut into pieces",
-            "1 teaspoon Dried basil",
-            "1\/4 cup plus 1 tablespoon flour divided",
-            "1 tablespoon Fresh parsley, chopped",
-            "1\/4 teaspoon Ground black pepper",
-            "1 Lemon juice of",
-            "1\/2 teaspoon Paprika",
-            "1\/2 teaspoon salt",
-            "1\/2 teaspoon vegetable oil"
+            "1\/2 cup chicken broth",
+            "1\/2 cup 15%% cooking cream (or 35%% cream)",
+            "3 tablespoons extra virgin oil",
+            "85 grams artisan pasta",
+            "2 shallots, chopped",
+            "6 ounces smoked salmon cut into bite size pieces",
+            "1\/2 cup sun dried tomatoes, cut into thin slices",
+            "1\/4 cup white wine"
         ]
     }
 }
