@@ -1,31 +1,37 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-06-19",
+    "lastUpdated": "2025-06-20",
     "recipe": {
-        "title": "Artisan Farfalle Pasta With Smoked Salmon and Cream Sauce",
+        "title": "Ground Turkey Stuffed Peppers",
         "readyInMinutes": 45,
-        "servings": 2,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/632778-556x370.jpg",
-        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/KTCQCFSJ\/artisan-farfalle-pasta-with-smoked-salmon-and-cream-sauce",
-        "instructions": "<ol><li>In a large pot of boiling salted water, add 85 grams of pasta and cook according to direction about 7 minutes.<\/li><li>Heat the oil in a saute pan and add the chopped shallots. Cook until transparent, about 2 minutes. Add the wine and the chicken broth and continue to cook for an additional 3-4 minutes until the liquids reduce. Stir in the pesto and sun dried tomatoes. Add the salmon and cream and allow to heat through, about 1-2 minutes.  Serve on the drained cooked pasta.  Serves 2 main courses<\/li><li>In a large pot of boiling salted water, add 85 grams of pasta and cook according to direction about 7 minutes.<\/li><li>Heat the oil in a saute pan and add the chopped shallots. Cook until transparent, about 2 minutes.<\/li><li>Add the wine and the chicken broth and continue to cook for an additional 3-4 minutes until the liquids reduce.<\/li><li>Stir in the pesto and sun dried tomatoes.<\/li><li>Add the salmon and cream and allow to heat through, about 1-2 minutes.  Serve on the drained cooked pasta.<\/li><\/ol>",
-        "summary": "Artisan Farfalle Pasta With Smoked Salmon and Cream Sauce might be just the main course you are searching for. This recipe makes 2 servings with <b>762 calories<\/b>, <b>28g of protein<\/b>, and <b>48g of fat<\/b> each. For <b>$6.5 per serving<\/b>, this recipe <b>covers 31%<\/b> of your daily requirements of vitamins and minerals. It is brought to you by Foodista. Only a few people made this recipe, and 3 would say it hit the spot. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. If you have chicken broth, artisan pasta, extra virgin oil, and a few other ingredients on hand, you can make it. Overall, this recipe earns a <b>pretty good spoonacular score of 78%<\/b>. Similar recipes include <a href=\"https:\/\/spoonacular.com\/recipes\/farfalle-pasta-with-smoked-salmon-and-cream-cheese-1233493\">Farfalle Pasta With Smoked Salmon And Cream Cheese<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/farfalle-pasta-with-smoked-salmon-and-cream-cheese-30071\">Farfalle Pasta With Smoked Salmon And Cream Cheese<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/smoked-salmon-and-farfalle-in-lemon-cream-sauce-321798\">Smoked Salmon and Farfalle in Lemon Cream Sauce<\/a>.",
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/645978-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/VKY3BZ5J\/ground-turkey-stuffed-peppers",
+        "instructions": "<ol><li>Cook rice then knead it together with remaining filling ingredients. Cut tops off peppers and fill each one. Place in your slow cooker or a large stove-top pot. Mix together sauce ingredients. Top each stuffed pepper with sauce and pour remaining sauce all around the stuffed peppers. Cook on medium\/low for about an hour. Top with grated parmesan cheese and a little parsley for looks and serve warm.<\/li><\/ol>",
+        "summary": "Ground Turkey Stuffed Peppers might be just the main course you are searching for. Watching your figure? This gluten free recipe has <b>463 calories<\/b>, <b>34g of protein<\/b>, and <b>17g of fat<\/b> per serving. This recipe serves 4 and costs $3.0 per serving. 112 people were glad they tried this recipe. A mixture of bell peppers, garlic, onion, and a handful of other ingredients are all it takes to make this recipe so yummy. It is brought to you by Foodista. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. Taking all factors into account, this recipe <b>earns a spoonacular score of 94%<\/b>, which is spectacular. Try <a href=\"https:\/\/spoonacular.com\/recipes\/ground-turkey-stuffed-peppers-1311407\">Ground Turkey Stuffed Peppers<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/ground-turkey-stuffed-peppers-1227903\">Ground Turkey Stuffed Peppers<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/ground-turkey-stuffed-peppers-1353987\">Ground Turkey Stuffed Peppers<\/a> for similar recipes.",
         "cuisines": [],
         "dishTypes": [
-            "side dish",
             "lunch",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "1\/2 cup chicken broth",
-            "1\/2 cup 15%% cooking cream (or 35%% cream)",
-            "3 tablespoons extra virgin oil",
-            "85 grams artisan pasta",
-            "2 shallots, chopped",
-            "6 ounces smoked salmon cut into bite size pieces",
-            "1\/2 cup sun dried tomatoes, cut into thin slices",
-            "1\/4 cup white wine"
+            "4 bell peppers (choose your favorite color!)",
+            "1 tsp black pepper",
+            "1 (8oz) can tomato sauce",
+            "1 (8oz) can diced tomatoes",
+            "2 tbsp dried parsley",
+            "2 eggs",
+            "1 tbsp minced garlic",
+            "1\/2 lb ground beef",
+            "1\/2 lb ground turkey",
+            "1 onion, diced",
+            "1\/4 cup grated parmesan cheese",
+            "1\/2 cup uncooked rice",
+            "1 heaping tbsp sugar",
+            "1 (8oz) can tomato soup",
+            "1 tbsp Worcestershire sauce"
         ]
     }
 }
