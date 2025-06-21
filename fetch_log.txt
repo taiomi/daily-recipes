@@ -394,3 +394,7 @@
 [2025-06-20 02:45:49] Fetching recipe with day of year: 171
 [2025-06-20 02:45:50] Successfully fetched and saved recipe: Ground Turkey Stuffed Peppers
 [2025-06-20 02:45:50] Recipe fetch process completed
+[2025-06-21 02:41:30] Starting recipe fetch process
+[2025-06-21 02:41:30] Fetching recipe with day of year: 172
+[2025-06-21 02:41:30] ERROR: Failed to get API response
+[2025-06-21 02:41:30] Recipe fetch process completed
