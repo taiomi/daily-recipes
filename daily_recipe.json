@@ -1,38 +1,29 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-06-23",
+    "lastUpdated": "2025-06-25",
     "recipe": {
-        "title": "Turkey and Sausage Boulettes",
+        "title": "Chicken-Tortilla Chip Soup",
         "readyInMinutes": 45,
-        "servings": 6,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/663987-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/62JDVTNB\/turkey-and-sausage-boulettes",
-        "instructions": "<ol><li>Soak the bread in the milk.<\/li><li>In a large skillet over medium high heat warm the oil.  Add the onion and cook stirring for about 3 minutes. Add the mushrooms and the parsley and cook 5 minutes or until there is no more juices running from the mushrooms.<\/li><li>In a large mixing bowl, mix the turkey and the sausage meat.<\/li><li>Add the egg, parmesan cheese, sage, squeeze the milk out of the bread and add the bread to the meat mixture.<\/li><li>Add the onion mixture and mix well. Season with salt and pepper. Mix everything together until the bread is well worked in and the vegetables are evenly distributed.<\/li><li>Place in the refrigerator for 10 minutes  to solidify.<\/li><li>With your hands form individual meat boulettes or patties. Roll them on the bread crumbs and place them on a large piece of parchment paper.<\/li><li>In a very large skillet over medium high heat, add the oil. When the oil is hot but not burning, saut the meat until golden brown and no juices are running out when slightly pressed down.<\/li><li>Remove from the pan  and place on paper towel before serving.<\/li><\/ol>",
-        "summary": "Turkey and Sausage Boulettes requires roughly <b>45 minutes<\/b> from start to finish. For <b>$2.56 per serving<\/b>, you get a main course that serves 6. One portion of this dish contains approximately <b>35g of protein<\/b>, <b>30g of fat<\/b>, and a total of <b>484 calories<\/b>. Not a lot of people made this recipe, and 5 would say it hit the spot. It is brought to you by Foodista. Head to the store and pick up oil, egg, sausage meat, and a few other things to make it today. Overall, this recipe earns a <b>good spoonacular score of 60%<\/b>. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/shrimp-boulettes-244617\">Shrimp Boulettes<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/ragot-de-boulettes-et-de-pattes-de-cochon-or-so-it-will-have-you-believe-551323\">Rago\u00fbt de boulettes et de pattes de cochon \u2013 Or so it will have you believe\u2026<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/marys-cajun-beef-pork-boulettes-with-brown-sauce-245038\">Mary's Cajun Beef & Pork Boulettes with Brown Sauce<\/a>.",
+        "servings": 8,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/638488-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/CGYQCRH6\/chicken-tortilla-chip-soup",
+        "instructions": "Boil all of the above for 30-40 minutes. On serving, add corn chips, Monterey Jack cheese and slices of avocado.",
+        "summary": "Chicken-Tortilla Chip Soup could be just the <b>gluten free, dairy free, fodmap friendly, and whole 30<\/b> recipe you've been looking for. For <b>$1.09 per serving<\/b>, you get a main course that serves 8. One portion of this dish contains around <b>24g of protein<\/b>, <b>3g of fat<\/b>, and a total of <b>137 calories<\/b>. 11 person have tried and liked this recipe. Head to the store and pick up carrots, cilantro, bouillon cubes, and a few other things to make it today. It can be enjoyed any time, but it is especially good for <b>Autumn<\/b>. From preparation to the plate, this recipe takes about <b>45 minutes<\/b>. It is brought to you by Foodista. Taking all factors into account, this recipe <b>earns a spoonacular score of 58%<\/b>, which is good. <a href=\"https:\/\/spoonacular.com\/recipes\/tortilla-chip-crusted-chicken-with-queso-sauce-1562207\">Tortilla Chip Crusted Chicken with Queso Sauce<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/cheese-tortilla-chip-chicken-enchilada-chilaquiles-1014028\">Cheese Tortilla Chip Chicken Enchilada Chilaquiles<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/garden-of-eatin-tortilla-chip-chicken-strips-83735\">Garden Of Eatin\u2019 Tortilla Chip Chicken Strips<\/a> are very similar to this recipe.",
         "cuisines": [],
         "dishTypes": [
             "lunch",
+            "soup",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "\u00bd teaspoon black pepper",
-            "2 slices of stale bread cut into cubes",
-            "Breadcrumbs",
-            "1 tablespoon Cognac (optional)",
-            "1 teaspoon dried sage",
-            "1 egg",
-            "3 tablespoons finely chopped fresh parsley",
-            "1 pound ground turkey",
-            "\u00be cup milk",
-            "Oil for frying",
-            "1 tablespoon olive oil",
-            "1 large onion, finely chopped",
-            "3 tablespoons parmesan cheese",
-            "1 teaspoon salt",
-            "1 pound sausage meat",
-            "4 large white mushrooms, cleaned, stem removed and sliced thinly"
+            "5 cups water",
+            "4 chicken breasts",
+            "2 bouillon cubes (chicken)",
+            "2 carrots, diced",
+            "1\/2 cup diced cilantro (coriander)",
+            "1 teaspoon Lawry's seasoned salt"
         ]
     }
 }
