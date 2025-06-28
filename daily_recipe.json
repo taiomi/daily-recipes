@@ -1,19 +1,15 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-06-26",
+    "lastUpdated": "2025-06-28",
     "recipe": {
-        "title": "Tomato Free Mexican Lasagna",
+        "title": "Beans Hawaiian",
         "readyInMinutes": 45,
-        "servings": 10,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/663595-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/JJNWNK2P\/tomato-free-mexican-lasagna",
-        "instructions": "Preheat oven to 350 degrees. Spray a non-stick skillet with non-stick cooking spray and heat on medium. Add beef, onion and mushrooms and cook until meat is cooked through. Drain if needed, I bought extra lean beef and there was no grease to drain today. Add garlic and cook another minute. Add beans, diced green chilies, corn, oregano, chili powder, garlic powder, cumin, pepper and kosher salt. Mix thoroughly.\nSpray a 9 x 13 pan with non-stick cooking spray. Lay half of corn tortillas on bottom of pan. Add half of the beef mixture and 1\/2 c of cheese. Layer remaining corn tortillas and top with beef mixture and 3\/4 c cheese. Bake in oven uncovered for 15 minutes.\nAfter cooking sprinkle with diced avocado and lettuce. Slice and serve and add a dollop of sour cream on top of slice.",
-        "summary": "The recipe Tomato Free Mexican Lasagnan is ready <b>in around 45 minutes<\/b> and is definitely a super <b>gluten free<\/b> option for lovers of Mediterranean food. For <b>$1.79 per serving<\/b>, this recipe <b>covers 19%<\/b> of your daily requirements of vitamins and minerals. This main course has <b>324 calories<\/b>, <b>16g of protein<\/b>, and <b>19g of fat<\/b> per serving. This recipe serves 10. Head to the store and pick up garlic cloves, cumin, oregano, and a few other things to make it today. This recipe from Foodista has 3 fans. Taking all factors into account, this recipe <b>earns a spoonacular score of 42%<\/b>, which is pretty good. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/mexican-lasagna-1513909\">Mexican Lasagna<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/mexican-lasagna-801824\">Mexican Lasagna<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/mexican-lasagna-544123\">Mexican Lasagna<\/a>.",
-        "cuisines": [
-            "Mediterranean",
-            "Italian",
-            "European"
-        ],
+        "servings": 8,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/634545-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/FL3QKDTP\/beans-hawaiian",
+        "instructions": "Soak dried navy beans overnight in a large pot. You want the water to be cold and about 2-3 inches above the beans. Cover and refrigerate at least 8 hours.\nDrain and rinse the beans. Place in a large pot and cover by 4-5 inches of fresh water. Bring to a boil, reduce heat and simmer for 1  1 hours until the beans are tender but not bursting.\nIn the meantime, combine teriyaki sauce, soy sauce, pineapple juice, brown sugar and ginger in a medium bowl. Whisk until brown sugar has dissolved. Set aside.\nPreheat oven to 350\nReserving 2 cups of the boiled water, drain the beans.\nIn a large Dutch oven, saut bacon for 3-4 minutes over medium high heat. With a slotted spoon remove bacon and set aside.\nAdd onions to the bacon fat and cook until translucent, about 5 minutes. Add garlic and pineapple and saut for an additional minute, until the garlic becomes fragrant.\nPlace bacon back into the dutch oven and add the cubed ham steak, beans, reserved water, and prepared sauce. Stir well to combine.\nBake in the oven covered for 10 minutes. Reduce heat to 200 and continue to cook for 6 hours, stirring halfway through.\nAfter 6 hours, remove lid, increase heat to 350 and cook for an additional 1-2 hours stirring every twenty minutes until the sauce has thickened.",
+        "summary": "Beans Hawaiian requires around <b>45 minutes<\/b> from start to finish. This gluten free and dairy free recipe serves 8 and costs <b>$1.79 per serving<\/b>. One portion of this dish contains around <b>30g of protein<\/b>, <b>14g of fat<\/b>, and a total of <b>486 calories<\/b>. This recipe is liked by 6 foodies and cooks. It works well as a main course. Head to the store and pick up navy beans, pineapple, soy sauce, and a few other things to make it today. It is brought to you by Foodista. Taking all factors into account, this recipe <b>earns a spoonacular score of 65%<\/b>, which is solid. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/hawaiian-barbecue-beans-424564\">Hawaiian Barbecue Beans<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/green-beans-with-fermented-black-beans-aka-dirty-green-beans-603179\">green beans with fermented black beans ~ aka dirty green beans<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/best-darn-pot-of-beans-ever-homestyle-pinto-beans-with-a-pressure-cooker-option-543037\">Best Darn Pot of Beans EVER - Homestyle Pinto Beans with a Pressure Cooker Option<\/a>.",
+        "cuisines": [],
         "dishTypes": [
             "lunch",
             "main course",
@@ -21,23 +17,17 @@
             "dinner"
         ],
         "ingredients": [
-            "8 smalls corn tortillas",
-            "1 pound extra lean ground beef",
-            "1 small onion, diced",
-            "3 large garlic cloves, minced",
-            "1 portobello mushrooms, minced",
-            "4 ounces can diced green chilies [use diced jalapenos if desire more spicy]",
-            "1 cup canned black beans, washed, drained",
-            "1 cup canned corn, drained",
-            "1\/2 teaspoon oregano",
-            "1\/2 teaspoon chili powder",
-            "1\/4 teaspoon garlic powder",
-            "1 1\/4 teaspoons cumin",
-            "1\/2 teaspoon fresh ground black pepper",
-            "1 teaspoon kosher salt",
-            "1\/2 cup plus \u00be c reduced fat shredded Mexican blend cheese",
-            "1 cup shredded iceberg lettuce",
-            "avocado diced"
+            "2 cups dried navy beans",
+            "1 \u00bd cups teriyaki sauce",
+            "1 Tbsp. soy sauce",
+            "2\/3 cup pineapple juice",
+            "\u00bd cup brown sugar",
+            "1 Tsp. fresly grated ginger",
+            "6 slices thick cut bacon",
+            "1 onion, finely diced",
+            "1 garlic clove, minced",
+            "1 cup fresh pineapple, roughly chopped",
+            "16 oz ham steak, cubed"
         ]
     }
 }
