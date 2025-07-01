@@ -1,28 +1,37 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-06-29",
+    "lastUpdated": "2025-07-01",
     "recipe": {
-        "title": "Prosciutto Wrapped Broccolini With Basil Crisps",
+        "title": "Gnocchi and Wilted Spinach Salad",
         "readyInMinutes": 45,
         "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/657167-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/7435XMJZ\/prosciutto-wrapped-broccolini-with-basil-crisps",
-        "instructions": "Prepare an ice bath. Trim the bottom tip off the broccolini. Bring a large pot of water to a rolling boil. Add a generous amount of salt. Blanch the broccolini for 30 seconds, remove, then submerge into the ice bath. When the broccolini is fully cooled, drain and pat dry with a kitchen towel.\nReduce the balsamic vinegar over medium heat until it becomes 1\/4 cup of sticky syrup. Set aside.\nDrop a small handful of basil leaves into the oil. Shield yourself from potential splatter. It only takes one second for the leaves to pop. Immediately fish them from the oil with a strainer and place onto a towel-lined plate. The leaves should become crisp and translucent, but not darkened or it will be bitter.\nHeat up the grill and coat generously with olive oil. Grill the broccolini until slightly charred and softened. Season with salt and pepper.\nWrap the broccolini with prosciutto. Place onto serving platter, drizzle with some extra virgin olive oil and the balsamic reduction.\nGarnish with basil crisps when ready to serve.",
-        "summary": "Prosciutto Wrapped Broccolini With Basil Crisps might be a good recipe to expand your main course recipe box. One portion of this dish contains about <b>146g of protein<\/b>, <b>32g of fat<\/b>, and a total of <b>971 calories<\/b>. This gluten free, dairy free, paleolithic, and primal recipe serves 4 and costs <b>$7.67 per serving<\/b>. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. It is brought to you by Foodista. Not a lot of people made this recipe, and 8 would say it hit the spot. If you have salt and pepper, olive oil, your preferred cured meat, and a few other ingredients on hand, you can make it. Overall, this recipe earns an <b>excellent spoonacular score of 87%<\/b>. Try <a href=\"https:\/\/spoonacular.com\/recipes\/prosciutto-wrapped-shrimp-with-mozzarella-and-basil-149340\">Prosciutto-Wrapped Shrimp with Mozzarellan and Basil<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/pass-the-prosciutto-prosciutto-wrapped-pear-with-parmesan-551304\">pass the prosciutto \u2013 prosciutto wrapped pear with parmesan<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/caramelized-onion-prosciutto-and-broccolini-crustless-quiche-592959\">Caramelized Onion, Prosciutto and Broccolini Crustless Quiche<\/a> for similar recipes.",
-        "cuisines": [],
+        "image": "https:\/\/img.spoonacular.com\/recipes\/644917-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/BV8CS8DP\/gnocchi-and-wilted-spinach-salad",
+        "instructions": "Bring a large pot of salted water to a boil.\nPlace a large skillet over medium heat. Add the bacon and sizzle until red and crispy.\nAdd the shallots to the bacon and saut for 1-2 minutes. Then add the walnuts and nutmeg.\nMeanwhile drop the gnocchi into the boiling water. Cook until all the gnocchi are floating~3-4 minutes. Once the gnocchi is ready, use a slotted spoon to transfer it to the skillet.\nAdd the cherries and stir. Finally add the lemon juice, honey and 2-3 Tb. of pasta water. Salt and pepper to taste.\nPlace the spinach in a large bowl. Pour the hot gnocchi mixture over the spinach and toss. Serve immediately!",
+        "summary": "Gnocchi and Wilted Spinach Salad could be just the <b>dairy free<\/b> recipe you've been looking for. This main course has <b>578 calories<\/b>, <b>15g of protein<\/b>, and <b>30g of fat<\/b> per serving. This recipe serves 4 and costs $3.11 per serving. 2 people were impressed by this recipe. This recipe from Foodista requires juice of lemon, baby spinach leaves, honey, and shallots. This recipe is typical of Mediterranean cuisine. From preparation to the plate, this recipe takes about <b>45 minutes<\/b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 60%<\/b>. This score is solid. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/gnocchi-and-wilted-spinach-salad-1404263\">Gnocchi and Wilted Spinach Salad<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/gnocchi-and-wilted-spinach-salad-551837\">Gnocchi and Wilted Spinach Salad<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/gnocchi-and-wilted-spinach-salad-1257245\">Gnocchi and Wilted Spinach Salad<\/a>.",
+        "cuisines": [
+            "Mediterranean",
+            "Italian",
+            "European"
+        ],
         "dishTypes": [
+            "side dish",
             "lunch",
             "main course",
+            "salad",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "1 bunch of Broccolini",
-            "1 bunch of Fresh Basil",
-            "12 Thinly sliced Prosciutto or your preferred cured meat",
-            "1 cup Balsamic Vinegar",
-            "Olive Oil",
-            "Salt and Pepper"
+            "1 pound packaged gnocchi",
+            "6 ounces baby spinach leaves",
+            "4 strips thick cut bacon, chopped",
+            "2 shallots, thinly sliced",
+            "3\/4 cup walnut pieces",
+            "1 juice of lemon",
+            "1\/4 + tsp. nutmeg",
+            "2 tablespoons Honey",
+            "1\/2 cup dried cherries (optional)"
         ]
     }
 }
