@@ -1,38 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-07-04",
+    "lastUpdated": "2025-07-05",
     "recipe": {
-        "title": "Light Greek Lemon Chicken Orzo Soup",
-        "readyInMinutes": 30,
-        "servings": 8,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/1098350-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/DPVTGWX6\/light-greek-lemon-chicken-orzo-soup",
-        "instructions": "<ol><li>In a large soup pot, heat olive oil on medium high.<\/li><li>Add carrots and celery and cook for 5 minutes on medium.<\/li><li>Add chicken broth.<\/li><li>Add ground thyme, salt and pepper.<\/li><li>Add cooked, diced chicken breasts and fresh thyme.<\/li><li>Bring to boil.<\/li><li>Add orzo and cook for 7-10 minutes until pasta is cooked.<\/li><li>Add the lemon zest and juice from 1 large lemon.<\/li><li>Serve with a slice of lemon.<\/li><\/ol>",
-        "summary": "Light Greek Lemon Chicken Orzo Soup requires roughly <b>30 minutes<\/b> from start to finish. This dairy free recipe serves 8 and costs <b>$2.4 per serving<\/b>. One portion of this dish contains around <b>27g of protein<\/b>, <b>4g of fat<\/b>, and a total of <b>281 calories<\/b>. It can be enjoyed any time, but it is especially good for <b>Autumn<\/b>. It works well as a main course. 14 people have made this recipe and would make it again. It is a <b>rather inexpensive<\/b> recipe for fans of Mediterranean food. If you have salt, pepper, ground thyme, and a few other ingredients on hand, you can make it. It is brought to you by Foodista. All things considered, we decided this recipe <b>deserves a spoonacular score of 69%<\/b>. This score is good. If you like this recipe, take a look at these similar recipes: <a href=\"https:\/\/spoonacular.com\/recipes\/light-greek-lemon-chicken-orzo-soup-1376625\">Light Greek Lemon Chicken Orzo Soup<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/light-greek-lemon-chicken-orzo-soup-1379105\">Light Greek Lemon Chicken Orzo Soup<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/light-greek-lemon-chicken-orzo-soup-1378919\">Light Greek Lemon Chicken Orzo Soup<\/a>.",
-        "cuisines": [
-            "Mediterranean",
-            "European",
-            "Greek"
-        ],
+        "title": "Alouette Chicken Paprika",
+        "readyInMinutes": 45,
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/632244-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/62BLCZVT\/alouette-chicken-paprika",
+        "instructions": "<ol><li>Coat chicken with a mixture of 6 tsp. of paprika and all of the garlic powder.<\/li><li>Saut chicken in butter over medium heat about 5 minutes on each side.<\/li><li>Cover and simmer 15 minutes on low heat. Remove chicken from skillet, reserving liquid.<\/li><li>Combine milk, Alouette Spreadable Cheese and remaining paprika in a small mixing bowl.<\/li><li>Pour Alouette Garlic & Herbs Spreadable Cheese mixture into skillet, stirring well with reserved liquid.<\/li><li>To serve, pour sauce over chicken. Use remaining sauce over rice, pasta or potatoes.<\/li><\/ol>",
+        "summary": "Alouette Chicken Paprika takes around <b>45 minutes<\/b> from beginning to end. One serving contains <b>461 calories<\/b>, <b>51g of protein<\/b>, and <b>25g of fat<\/b>. This recipe serves 4 and costs $3.3 per serving. This recipe is liked by 49 foodies and cooks. A mixture of butter, alouette garlic & herbs spreadable cheese, paprika, and a handful of other ingredients are all it takes to make this recipe so tasty. A couple people really liked this main course. It is brought to you by Foodista. It is a good option if you're following a <b>gluten free and primal<\/b> diet. With a spoonacular <b>score of 95%<\/b>, this dish is spectacular. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/chicken-alouette-1300127\">Chicken Alouette<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/chicken-alouette-135800\">Chicken Alouette<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/alouette-summer-vegetables-105199\">Alouette Summer Vegetables<\/a>.",
+        "cuisines": [],
         "dishTypes": [
-            "soup",
             "lunch",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "3 cooked chicken breasts",
-            "2 32 oz. boxes of chicken broth",
-            "3 carrots, peeled and diced",
-            "3 celery stalks, diced",
-            "3-4 sprigs fresh thyme",
-            "1 teaspoon extra virgin olive oil",
-            "2 cups orzo pasta",
-            "1 Tbs ground thyme",
-            "1 Tbs salt",
-            "1 Tbs pepper",
-            "1 large lemon"
+            "1 tablespoon butter",
+            "4 boneless chicken breasts halves",
+            "2 teaspoons garlic powder",
+            "1 package (6.5 oz.) Alouette Garlic & Herbs Spreadable Cheese",
+            "1 tablespoon milk",
+            "8 teaspoons paprika"
         ]
     }
 }
