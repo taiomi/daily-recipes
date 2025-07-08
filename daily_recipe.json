@@ -1,40 +1,33 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-07-07",
+    "lastUpdated": "2025-07-08",
     "recipe": {
-        "title": "Cabbage Soup",
+        "title": "Old Fashioned Mac and Cheese",
         "readyInMinutes": 45,
-        "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/636669-556x370.jpg",
-        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/DJ7836VG\/cabbage-soup",
-        "instructions": "<ol><li>In a large soup pot drizzle olive oil and heat. Add the cabbage, scallions, garlic, parsley and onion and saut until the cabbage becomes slightly wilted. Add the tomatoes, bay leaves, beans and the seasonings and stir.<\/li><li>Add the chicken broth and simmer on low for about 20 minutes.<\/li><li>Prepare the macaroni as directed.<\/li><li>Spoon the macaroni in a bowl and add the soup. Grate Romano cheese on top and enjoy.<\/li><\/ol>",
-        "summary": "Cabbage Soup might be a good recipe to expand your main course repertoire. This recipe serves 4. One portion of this dish contains roughly <b>46g of protein<\/b>, <b>26g of fat<\/b>, and a total of <b>1003 calories<\/b>. For <b>$3.18 per serving<\/b>, this recipe <b>covers 51%<\/b> of your daily requirements of vitamins and minerals. Not a lot of people made this recipe, and 3 would say it hit the spot. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. Head to the store and pick up bay leaves, oregano, macaroni, and a few other things to make it today. It will be a hit at your <b>Autumn<\/b> event. It is brought to you by Foodista. With a spoonacular <b>score of 94%<\/b>, this dish is great. Try <a href=\"https:\/\/spoonacular.com\/recipes\/colcannon-soup-aka-irish-potato-and-cabbage-soup-with-bacon-1380345\">Colcannon Soup (akan Irish Potato and Cabbage Soup with Bacon)<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/colcannon-soup-aka-irish-potato-and-cabbage-soup-with-bacon-1081918\">Colcannon Soup (akan Irish Potato and Cabbage Soup with Bacon)<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/cabbage-soup-93363\">Cabbage Soup<\/a> for similar recipes.",
-        "cuisines": [],
+        "servings": 2,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/653593-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/2PC6VL3L\/old-fashioned-mac-and-cheese-sundaysupper",
+        "instructions": "Grate the cheese and set aside.\nCook macaroni as per manufacturers directions.\nMelt 6 tbs butter in a medium sauce pan over medium low heat.\nSlowly sprinkle flour over the melted butter and whisk into a thick paste, about 3 minutes.\nSlowly pour one cup of milk into the flour and butter, whisking to break up any lumps. Add salt and pepper and mix.\nAdd remaining milk, continue to whisk. Turn heat up to medium.\nCook sauce, whisking to prevent scorching for about five minutes or until thickened.\nWhen pasta is done cooking drain well and set aside.\nMelt the remaining two tablespoons of butter and stir into the bread crumbs.\nAssemble the macaroni and cheese by layering the sauce, cheese and macaroni in a baking dish or individual oven safe bowls.\nTop with breadcrumbs and bake at 400 for 20 minutes, until the cheese is melted and the macaroni and cheese is bubbling.\nCool about 10 minutes before serving. Makes about 6-8 servings.\nThis recipe may be divided in half if you need smaller portions.",
+        "summary": "The recipe Old Fashioned Mac and Cheese could satisfy your American craving in around <b>45 minutes<\/b>. This recipe makes 2 servings with <b>2590 calories<\/b>, <b>102g of protein<\/b>, and <b>140g of fat<\/b> each. For <b>$4.06 per serving<\/b>, this recipe <b>covers 55%<\/b> of your daily requirements of vitamins and minerals. A mixture of seasoned bread crumbs, salt, pepper, and a handful of other ingredients are all it takes to make this recipe so tasty. A couple people really liked this main course. It is a good option if you're following a <b>lacto ovo vegetarian<\/b> diet. It is brought to you by Foodista. This recipe is liked by 11 foodies and cooks. With a spoonacular <b>score of 90%<\/b>, this dish is great. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/old-fashioned-mac-and-cheese-1367375\">Old Fashioned Mac and Cheese<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/21-day-fix-broccoli-mac-cheese-aka-the-perfect-mac-cheese-1304249\">21 Day Fix Broccoli Mac & Cheese (AKA the perfect Mac & Cheese)<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/21-day-fix-broccoli-mac-cheese-aka-the-perfect-mac-cheese-1232171\">21 Day Fix Broccoli Mac & Cheese (AKA the perfect Mac & Cheese)<\/a>.",
+        "cuisines": [
+            "American"
+        ],
         "dishTypes": [
+            "side dish",
             "lunch",
-            "soup",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "2 bay leaves",
-            "1 medium cabbage, torn up",
-            "29 oz. can of cannellini beans \u2013 drained",
-            "1 Large can diced tomatoes",
-            "4 stalks of celery \u2013 chopped",
-            "5 cups of chicken broth",
-            "4 cloves of garlic",
-            "Dashes of fresh ground black pepper",
-            "Box of your favorite macaroni",
-            "Olive oil for drizzling",
-            "Dashes of oregano",
-            "Healthy handful of Italian parsley \u2013 chopped",
-            "1\/2 red onion \u2013 sliced",
-            "Dashes of red pepper flakes - (extra for a nice kick!)",
-            "Romano Cheese for grating",
-            "2 bunchs of scallions \u2013 chopped",
-            "Dashes of sea salt"
+            "1 16 ounce box of Elbow Macaroni",
+            "1 16 ounce block of Medium Cheddar Cheese",
+            "3 cups milk",
+            "1 stick of unsalted butter",
+            "6 tablespoons flour",
+            "1 teaspoon salt",
+            "1\/2 teaspoon pepper",
+            "1\/2 cup seasoned bread crumbs"
         ]
     }
 }
