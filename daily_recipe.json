@@ -1,41 +1,35 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-07-10",
+    "lastUpdated": "2025-07-11",
     "recipe": {
-        "title": "Vegetable Fried Rice",
+        "title": "Peruvian Roast Chicken",
         "readyInMinutes": 45,
-        "servings": 2,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/664553-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/TNCSDDXY\/vegetable-fried-rice",
-        "instructions": "Cook the basmati rice with 4 cups water..\nMeanwhile, in a saucepan add the oil and fry the onions..\nOnce they turn soft and translucent add the ginger garlic paste and green chillies and saute for a minute..\nThen add all the vegetables,salt and pepper..\nSprinkle very little water and allow the veggies to cook for two minutes..\nThey should be half cooked..\nNow add the soya sauce and chilli sauce..\nNow add the cooked rice to this vegetable mixture and stir this mixture for a minute or two in low flame..\nRoast some cashews and raisins in ghee and also add them..\nIf you dont like the sweet taste you can omit the raisins..\nFried rice is ready..\nIt tastes good when served with gobi Manchurian..\nOr just tomato sauce and raita will do..",
-        "summary": "The recipe Vegetable Fried Rice can be made <b>in approximately 45 minutes<\/b>. For <b>$3.22 per serving<\/b>, you get a main course that serves 2. Watching your figure? This gluten free, dairy free, lacto ovo vegetarian, and vegan recipe has <b>777 calories<\/b>, <b>25g of protein<\/b>, and <b>18g of fat<\/b> per serving. 2 people have tried and liked this recipe. It is a <b>pretty expensive<\/b> recipe for fans of Chinese food. A mixture of basmati rice - 2, salt and pepper, peas - \u00bc, and a handful of other ingredients are all it takes to make this recipe so delicious. It is brought to you by Foodista. Overall, this recipe earns an <b>awesome spoonacular score of 81%<\/b>. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/veg-fried-rice-how-to-make-vegetable-fried-rice-rice-s-1218263\">veg fried rice , how to make vegetable fried rice | rice s<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/veg-fried-rice-how-to-make-vegetable-fried-rice-rice-s-1227723\">veg fried rice , how to make vegetable fried rice | rice s<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/veg-fried-rice-how-to-make-vegetable-fried-rice-rice-s-1222461\">veg fried rice , how to make vegetable fried rice | rice s<\/a>.",
-        "cuisines": [
-            "Chinese",
-            "Asian"
-        ],
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/655793-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/48JPTJ2N\/peruvian-roast-chicken",
+        "instructions": "1. Mix together the marinade ingredients.\n2. Place the whole chicken into a large (about 2 gallon size) ziploc bag and pour in the marinade.\n3. Spread the marinade so that it covers all the chicken.\n4. Marinade overnight.\n5. Take the chicken out of the fridge about 30-45 minutes before you roast it, so it comes closer to room temperature. This helps the chicken become more moist and cooked evenly.\n6. Preheat the oven to 450F.\n7. Remove the chicken from the marinate and brush off any garlic so it will not burn.\n8. Lay the chicken breast side up in a roasting pan or cast iron skillet.\n9. Truss the chicken. This keeps the juices in during the roasting and makes the meat more tender.\n10. Roast 45-55 minutes.\n11. Let rest 5 minutes before carving.",
+        "summary": "If you have about <b>45 minutes<\/b> to spend in the kitchen, Peruvian Roast Chicken might be an outstanding <b>gluten free, dairy free, and ketogenic<\/b> recipe to try. This main course has <b>472 calories<\/b>, <b>32g of protein<\/b>, and <b>36g of fat<\/b> per serving. This recipe serves 4 and costs $1.7 per serving. This recipe from Foodista requires olive oil, garlic cloves, juice of lemon, and red wine vinegar. 2 people were impressed by this recipe. All things considered, we decided this recipe <b>deserves a spoonacular score of 54%<\/b>. This score is solid. If you like this recipe, take a look at these similar recipes: <a href=\"https:\/\/spoonacular.com\/recipes\/peruvian-roast-chicken-1583009\">Peruvian Roast Chicken<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/peruvian-roast-chicken-600230\">Peruvian Roast Chicken<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/peruvian-roast-chicken-1262947\">Peruvian Roast Chicken<\/a>.",
+        "cuisines": [],
         "dishTypes": [
-            "side dish",
             "lunch",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "cup Basmati Rice - 2",
-            "Bell peppers - I used half of red and yellow colour",
-            "Carrot - 1 cut into thin strips",
-            "cup Beans - \u00bd",
-            "cup Green peas - \u00bc",
-            "cup Corn - \u00bc",
-            "cup Cabbage - \u00bc finely grated",
-            "small Onions - 1 finely sliced",
-            "Ginger garlic paste - 1 tbspn",
-            "Green chillies - 2 to 3 depending on your taste",
-            "Soya sauce - 1 tbspn",
-            "Chilli sauce\/tomato sauce - 1 tbspn",
-            "Cashews and raisins",
-            "Oil - 3 spoons",
-            "Salt and pepper to taste"
+            "1 3-4 lb. whole chicken",
+            "4 garlic cloves, chopped",
+            "juice of 1\/2 lemon",
+            "3 tablespoons white vinegar or red wine vinegar",
+            "1 tablespoon soy sauce",
+            "3 tablespoons canola or olive oil",
+            "2 tablespoons paprika",
+            "1 tablespoon cumin",
+            "1 teaspoon turmeric",
+            "salt",
+            "black pepper",
+            "kitchen twine",
+            "kitchen twine"
         ]
     }
 }
