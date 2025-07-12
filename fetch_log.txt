@@ -478,3 +478,7 @@
 [2025-07-11 02:54:10] Fetching recipe with day of year: 192
 [2025-07-11 02:54:10] Successfully fetched and saved recipe: Peruvian Roast Chicken
 [2025-07-11 02:54:10] Recipe fetch process completed
+[2025-07-12 02:53:26] Starting recipe fetch process
+[2025-07-12 02:53:26] Fetching recipe with day of year: 193
+[2025-07-12 02:53:26] ERROR: Failed to get API response
+[2025-07-12 02:53:26] Recipe fetch process completed
