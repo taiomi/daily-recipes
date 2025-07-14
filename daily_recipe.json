@@ -1,39 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-07-13",
+    "lastUpdated": "2025-07-14",
     "recipe": {
-        "title": "Jambalaya Stew",
+        "title": "BLT Sandwich",
         "readyInMinutes": 45,
-        "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/648432-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/HG72GN7R\/jambalaya-stew",
-        "instructions": "Add all ingredients except shrimp to a large pot on the stove. Mix thoroughly. Bring to a boil.\nReduce heat to medium low. Cover and simmer until vegetables are tender and rice is fluffy, about 35 minutes.\nAdd shrimp and re-cover. Continue to cook until shrimp are tender and cooked through, about 6 minutes.\nIf you like, season to taste with salt, black pepper, and additional hot sauce. Serve and enjoy!!!",
-        "summary": "Forget going out to eat or ordering takeout every time you crave Cajun food. Try making Jambalaya Stew at home. This recipe serves 4. This main course has <b>263 calories<\/b>, <b>17g of protein<\/b>, and <b>8g of fat<\/b> per serving. For <b>$2.3 per serving<\/b>, this recipe <b>covers 15%<\/b> of your daily requirements of vitamins and minerals. It can be enjoyed any time, but it is especially good for <b>Autumn<\/b>. This recipe is liked by 11 foodies and cooks. If you have chicken sausage links, brown rice, shrimp, and a few other ingredients on hand, you can make it. It is a good option if you're following a <b>gluten free and dairy free<\/b> diet. It is brought to you by Foodista. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. With a spoonacular <b>score of 81%<\/b>, this dish is spectacular. Try <a href=\"https:\/\/spoonacular.com\/recipes\/jambalaya-stew-1369341\">Jambalaya Stew<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/jambalaya-stew-34848\">Jambalaya Stew<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/gumbo-laya-gumbo-jambalaya-stew-793549\">Gumbo-laya\u201d (Gumbo + Jambalaya) Stew<\/a> for similar recipes.",
-        "cuisines": [
-            "Creole",
-            "Cajun"
-        ],
+        "servings": 2,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/635342-556x370.jpg",
+        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/24R6RD65\/blt-sandwich",
+        "instructions": "<ol><li>Brown bacon in a skillet<\/li><li>Remove and pat off excess oil<\/li><li>Slice tomato into 1\/4 inches slices<\/li><li>Toast bread<\/li><li>Spread a thin layer of mayonnaise on bread<\/li><li>Layer all ingredients on bread and close sandwich<\/li><li>Add fresh cracked black pepper<\/li><\/ol>",
+        "summary": "BLT Sandwich might be just the main course you are searching for. One portion of this dish contains approximately <b>20g of protein<\/b>, <b>60g of fat<\/b>, and a total of <b>657 calories<\/b>. This recipe serves 2 and costs $2.6 per serving. 63 people have tried and liked this recipe. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. Head to the store and pick up bell pepper, bread, lettuce, and a few other things to make it today. It is brought to you by Foodista. It is a good option if you're following a <b>dairy free<\/b> diet. With a spoonacular <b>score of 72%<\/b>, this dish is pretty good. If you like this recipe, take a look at these similar recipes: <a href=\"https:\/\/spoonacular.com\/recipes\/blt-sandwich-1363939\">BLT Sandwich<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/best-blt-sandwich-1239867\">Best BLT Sandwich<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/best-blt-sandwich-492238\">Best BLT Sandwich<\/a>.",
+        "cuisines": [],
         "dishTypes": [
             "lunch",
-            "soup",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "2 fully cooked chicken sausage Links (about 6 oz) sliced into coins \u2013 I used Trader Joe's Sweet Italian Chicken Sausage",
-            "1 14.5-oz. can fire-roasted diced tomatoes, no salt added",
-            "3\/4 cup onion, chopped",
-            "1 large green bell pepper, seeded, chopped \u2013 I used yellow",
-            "1 cup celery, chopped",
-            "1 cup low-sodium chicken broth",
-            "1\/2 cup uncooked brown rice",
-            "1 tbsp. garlic, minced",
-            "1 tsp. cajun seasoning",
-            "1\/2 tsp. hot sauce, or more to taste",
-            "1\/4 tsp. dried oregano",
-            "1\/4 tsp. dried thyme",
-            "6 oz. raw shrimp, tails removed, deveined, chopped"
+            "Black pepper",
+            "4 pieces of good quality bread, lightly toasted",
+            "Lettuce",
+            "Mayonnaise",
+            "8 pieces Thick-sliced bacon",
+            "1 tomato, sliced thin"
         ]
     }
 }
