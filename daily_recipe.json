@@ -1,28 +1,33 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-07-14",
+    "lastUpdated": "2025-07-16",
     "recipe": {
-        "title": "BLT Sandwich",
+        "title": "Baked Eggs With Asparagus and Sun Dried Tomatoes",
         "readyInMinutes": 45,
         "servings": 2,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/635342-556x370.jpg",
-        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/24R6RD65\/blt-sandwich",
-        "instructions": "<ol><li>Brown bacon in a skillet<\/li><li>Remove and pat off excess oil<\/li><li>Slice tomato into 1\/4 inches slices<\/li><li>Toast bread<\/li><li>Spread a thin layer of mayonnaise on bread<\/li><li>Layer all ingredients on bread and close sandwich<\/li><li>Add fresh cracked black pepper<\/li><\/ol>",
-        "summary": "BLT Sandwich might be just the main course you are searching for. One portion of this dish contains approximately <b>20g of protein<\/b>, <b>60g of fat<\/b>, and a total of <b>657 calories<\/b>. This recipe serves 2 and costs $2.6 per serving. 63 people have tried and liked this recipe. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. Head to the store and pick up bell pepper, bread, lettuce, and a few other things to make it today. It is brought to you by Foodista. It is a good option if you're following a <b>dairy free<\/b> diet. With a spoonacular <b>score of 72%<\/b>, this dish is pretty good. If you like this recipe, take a look at these similar recipes: <a href=\"https:\/\/spoonacular.com\/recipes\/blt-sandwich-1363939\">BLT Sandwich<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/best-blt-sandwich-1239867\">Best BLT Sandwich<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/best-blt-sandwich-492238\">Best BLT Sandwich<\/a>.",
+        "image": "https:\/\/img.spoonacular.com\/recipes\/633595-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/B5DH4SJK\/baked-eggs-with-asparagus-and-sun-dried-tomatoes",
+        "instructions": "Preheat oven to 375.\nSteam asparagus until tender.\nWhip eggs with quark, thyme and salt and pepper to your taste.\nHeat non-stick skillet over medium heat and spray with cooking spray. Saute onion and tomato for 4 minutes until onion is translucent.\nSpray small baking dish with cooking spray and add onion and tomato. Add eggs. Top with spinach or asparagus and parmesan cheese.\nBake for 10 - 15 minutes until egg is set.",
+        "summary": "Need a <b>gluten free and primal main course<\/b>? Baked Eggs With Asparagus and Sun Dried Tomatoes could be a super recipe to try. This recipe serves 2 and costs $2.23 per serving. One portion of this dish contains approximately <b>21g of protein<\/b>, <b>7g of fat<\/b>, and a total of <b>178 calories<\/b>. If you have spinach, quark, sun tomato, and a few other ingredients on hand, you can make it. It is brought to you by Foodista. Not a lot of people made this recipe, and 3 would say it hit the spot. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 38%<\/b>. This score is not so outstanding. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/creamy-baked-eggs-with-asparagus-and-sun-dried-tomatoes-530611\">Creamy Baked Eggs with Asparagus and Sun Dried Tomatoes<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/baked-eggs-with-garlic-kale-and-sun-dried-tomatoes-537955\">Baked Eggs with Garlic Kale and Sun-dried Tomatoes<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/baked-eggs-with-garlic-kale-and-sun-dried-tomatoes-1241145\">Baked Eggs with Garlic Kale and Sun-dried Tomatoes<\/a>.",
         "cuisines": [],
         "dishTypes": [
             "lunch",
             "main course",
+            "morning meal",
+            "brunch",
             "main dish",
+            "breakfast",
             "dinner"
         ],
         "ingredients": [
-            "Black pepper",
-            "4 pieces of good quality bread, lightly toasted",
-            "Lettuce",
-            "Mayonnaise",
-            "8 pieces Thick-sliced bacon",
-            "1 tomato, sliced thin"
+            "2 large eggs",
+            "2 large egg whites",
+            "2 tablespoons sun dried tomato, finely chopped",
+            "2 tablespoons onion , finely chopped",
+            "1 teaspoon thyme, minced",
+            "1\/2 cup quark (a creamy cheese that can be found in your grocery dairy section)",
+            "2 tablespoons parmesan cheese , shredded",
+            "8 smalls spinach or asparagus"
         ]
     }
 }
