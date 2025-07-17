@@ -1,33 +1,35 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-07-16",
+    "lastUpdated": "2025-07-17",
     "recipe": {
-        "title": "Baked Eggs With Asparagus and Sun Dried Tomatoes",
+        "title": "Warm Goat Cheese Salad",
         "readyInMinutes": 45,
         "servings": 2,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/633595-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/B5DH4SJK\/baked-eggs-with-asparagus-and-sun-dried-tomatoes",
-        "instructions": "Preheat oven to 375.\nSteam asparagus until tender.\nWhip eggs with quark, thyme and salt and pepper to your taste.\nHeat non-stick skillet over medium heat and spray with cooking spray. Saute onion and tomato for 4 minutes until onion is translucent.\nSpray small baking dish with cooking spray and add onion and tomato. Add eggs. Top with spinach or asparagus and parmesan cheese.\nBake for 10 - 15 minutes until egg is set.",
-        "summary": "Need a <b>gluten free and primal main course<\/b>? Baked Eggs With Asparagus and Sun Dried Tomatoes could be a super recipe to try. This recipe serves 2 and costs $2.23 per serving. One portion of this dish contains approximately <b>21g of protein<\/b>, <b>7g of fat<\/b>, and a total of <b>178 calories<\/b>. If you have spinach, quark, sun tomato, and a few other ingredients on hand, you can make it. It is brought to you by Foodista. Not a lot of people made this recipe, and 3 would say it hit the spot. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 38%<\/b>. This score is not so outstanding. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/creamy-baked-eggs-with-asparagus-and-sun-dried-tomatoes-530611\">Creamy Baked Eggs with Asparagus and Sun Dried Tomatoes<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/baked-eggs-with-garlic-kale-and-sun-dried-tomatoes-537955\">Baked Eggs with Garlic Kale and Sun-dried Tomatoes<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/baked-eggs-with-garlic-kale-and-sun-dried-tomatoes-1241145\">Baked Eggs with Garlic Kale and Sun-dried Tomatoes<\/a>.",
+        "image": "https:\/\/img.spoonacular.com\/recipes\/664961-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/78R2D43F\/warm-goat-cheese-salad",
+        "instructions": "<ol><li>Whisk together 3 tablespoons of walnut oil with lemon juice, minced shallot, salt and pepper to make a vinaigrette. Coat each goat cheese round with walnut oil and then the bread crumbs, patting the crumbs to adhere.<\/li><li>Combine the greens and the walnuts in a large bowl. Add in enough of the vinaigrette and toss well. Adjust the seasoning and divide among two serving plates.<\/li><li>Heat a nonstick skillet over medium heat. Add in olive oil. When the oil is hot, add the goat cheese rounds. Cook until nicely browned, about 30 seconds. Turn and cook the other side. Do not allow it to burn or melt. Transfer the goat cheese to the plates, placing 2 or 3 atop each salad. Sprinkle the cheese with freshly ground pepper and garnish with grape wedges.<\/li><\/ol>",
+        "summary": "If you want to add more <b>lacto ovo vegetarian<\/b> recipes to your recipe box, Warm Goat Cheese Salad might be a recipe you should try. This recipe serves 2 and costs $3.06 per serving. One serving contains <b>481 calories<\/b>, <b>14g of protein<\/b>, and <b>42g of fat<\/b>. 2 people were glad they tried this recipe. It is brought to you by Foodista. A mixture of olive oil, shallot, lemon juice, and a handful of other ingredients are all it takes to make this recipe so flavorful. Not a lot of people really liked this main course. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. Overall, this recipe earns a <b>pretty good spoonacular score of 75%<\/b>. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/warm-goats-cheese-salad-1091197\">Warm Goat's Cheese Salad<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/salad-with-warm-goat-cheese-377474\">Salad with Warm Goat Cheese<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/warm-goat-cheese-salad-100001\">Warm Goat Cheese Salad<\/a>.",
         "cuisines": [],
         "dishTypes": [
+            "side dish",
             "lunch",
             "main course",
-            "morning meal",
-            "brunch",
+            "salad",
             "main dish",
-            "breakfast",
             "dinner"
         ],
         "ingredients": [
-            "2 large eggs",
-            "2 large egg whites",
-            "2 tablespoons sun dried tomato, finely chopped",
-            "2 tablespoons onion , finely chopped",
-            "1 teaspoon thyme, minced",
-            "1\/2 cup quark (a creamy cheese that can be found in your grocery dairy section)",
-            "2 tablespoons parmesan cheese , shredded",
-            "8 smalls spinach or asparagus"
+            "Some bread crumbs",
+            "100 grams \/ 5 rounds Fresh goat cheese",
+            "5 Grapes, cut into wedges",
+            "2 tablespoons freshly squeezed lemon juice",
+            "2 tablespoons olive oil",
+            "Freshly ground pepper to taste",
+            "60 grams Salad greens",
+            "Salt and pepper",
+            "1 Shallot, finely minced",
+            "1 tablespoon Walnut oil",
+            "30 grams Walnuts, toasted and coarsely chopped"
         ]
     }
 }
