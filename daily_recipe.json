@@ -1,38 +1,36 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-07-19",
+    "lastUpdated": "2025-07-20",
     "recipe": {
-        "title": "A Post Thanksgiving \u201csopa De Tortilla\u201d",
-        "readyInMinutes": 150,
-        "servings": 5,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/631912-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/JF3JJTKG\/a-post-thanksgiving-sopa-de-tortilla",
-        "instructions": "<p>Stock Instructions:<\/p><ol><li>Drizzle 2 tablespoons of olive oil in bottom of large stock pot.<\/li><li>Add quartered onion, 2 cloves of garlic and 2 stalks of celery, and turkey breast.<\/li><li>Peel two carrots and add the peels to the stock pot along with 2 carrots and 2 celery stalks.  Reserve two carrots and 2 celery stalks for later use.<\/li><li>Cut the stems off your Cilantro bunch.   Reserve the leaves. Add stems to the stock pot.<\/li><li>Add water to your pot so that it is 3\/4 full.<\/li><li>Cover and boil for at least 1 hour, preferably 2 hours.  You should set a timer to check on your stock. Do not add salt before you have reduced your stock.  The stock should not reduce to less than one quarter of your pot.<\/li><li>Remove turkey from bone.  Reserve the meat.  Discard the bone<\/li><li>Strain the soup by using a colander over another stock pot<\/li><li>Discard the vegetables<\/li><li>Set aside the stock you will use for the soup (1 to 2 cups per guest) and pour the rest into ice cubes for later use.<\/li><\/ol><p>Soup Instructions:<\/p><ol><li>In blender add 1  8 oz. can of organic stewed tomatoes and  cup of olive oil, pinch of salt  and puree with roasted pepper* and set aside for later use.<\/li><li>Add 2 carrots cubed to stock<\/li><li>Add 2 celery stalks chopped to stock<\/li><li>Cover and boil for 30 minutes until the vegetables are tender.<\/li><li>Add 1\/4cup increments pureed pepper-tomato mixture to your broth.<\/li><li>Add 1\/3 cup of turkey meat per cup of stock and allow simmering.<\/li><li>Taste for salt and finish with a pinch of ground cumin.<\/li><li>Ladle soup into bowls and add extra turkey meat, top with strips of fried corn tortillas or good quality store bought tortilla chips.  Top with fresh cilantro and cubes of avocado.<\/li><\/ol><p>*Roast 1 Poblano pepper stove top or in your oven until charred and tender. Peel and devein the Poblano pepper.<\/p>",
-        "summary": "A Post Thanksgiving \u201csopa De Tortilla\u201d is a <b>gluten free, dairy free, and whole 30<\/b> main course. One serving contains <b>443 calories<\/b>, <b>36g of protein<\/b>, and <b>26g of fat<\/b>. This recipe serves 5. For <b>$3.08 per serving<\/b>, this recipe <b>covers 30%<\/b> of your daily requirements of vitamins and minerals. 5 people have tried and liked this recipe. It is a <b>rather expensive<\/b> recipe for fans of Latin American food. It will be a hit at your <b>Thanksgiving<\/b> event. If you have fried tortilla strips, carrots, onion, and a few other ingredients on hand, you can make it. It is brought to you by Foodista. From preparation to the plate, this recipe takes approximately <b>2 hours and 30 minutes<\/b>. Taking all factors into account, this recipe <b>earns a spoonacular score of 81%<\/b>, which is amazing. Similar recipes include <a href=\"https:\/\/spoonacular.com\/recipes\/thanksgiving-appetizers-two-s-in-one-post-509189\">Thanksgiving Appetizers \u2013 Two s in One Post<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/sopa-azteca-tortilla-soup-1596219\">Sopan Azteca (Tortilla Soup)<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/easy-thanksgiving-menu-free-thanksgiving-planner-printable-1051051\">Easy Thanksgiving Menu + FREE Thanksgiving Planner Printable<\/a>.",
-        "cuisines": [
-            "South American",
-            "Latin American"
-        ],
+        "title": "Plantain Salad",
+        "readyInMinutes": 45,
+        "servings": 1,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/729366-556x370.jpg",
+        "sourceUrl": "http:\/\/www.afrolems.com\/2016\/04\/07\/plantain-salad\/",
+        "instructions": "Cube your plantain, fry and set aside.Chop your vegetables into your salad bowl and tossIn a pan, heat up vegetable oil and stir fry your shrimps and season. Allow to coolToss in your plantain and shrimps once cool into your bowl of vegetables.Sprinkle the parmesan cheese over the saladDrizzle your dressing over and serve cool.\u00a0\u00a0\u00a0",
+        "summary": "Plantain Salad could be just the <b>gluten free and pescatarian<\/b> recipe you've been looking for. For <b>$5.4 per serving<\/b>, you get a main course that serves 1. One serving contains <b>607 calories<\/b>, <b>21g of protein<\/b>, and <b>18g of fat<\/b>. Head to the store and pick up finger of plantain, parmesan cheese, bell pepper, and a few other things to make it today. This recipe from Afrolems has 126 fans. From preparation to the plate, this recipe takes about <b>45 minutes<\/b>. With a spoonacular <b>score of 98%<\/b>, this dish is spectacular. Try <a href=\"https:\/\/spoonacular.com\/recipes\/how-to-spiralize-a-plantain-plantain-rice-and-beans-563745\">How to Spiralize a Plantain & Plantain \u201cRice\u201d and Beans<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/honey-mustard-crunchy-chicken-plantain-salad-509763\">Honey Mustard Crunchy Chicken Plantain Salad<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/collard-greens-salad-with-fried-plantain-and-sumac-1432767\">Collard Greens Salad With Fried Plantain and Sumac<\/a> for similar recipes.",
+        "cuisines": [],
         "dishTypes": [
+            "side dish",
             "lunch",
             "main course",
+            "salad",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "1 Avocado",
-            "4 Carrots",
-            "4 stalks of celery",
-            "1 bunch of cilantro",
-            "Pinch of cumin",
-            "2 cloves of garlic peeled",
-            "1\/4 cup of olive oil",
-            "2 tablespoons Olive Oil",
-            "1 Onion, peeled and quartered",
-            "1 Poblano pepper",
-            "8 ounces canned stewed tomatoes",
-            "1 cup of fried tortilla strips",
-            "1 whole Turkey breast"
+            "1 tablespoon of sweet chili dressing",
+            "1 small green bell pepper",
+            "1\/2 seasoning cube",
+            "A head of lettuce",
+            "1 small bulb of red onions",
+            "1 tablespoon of parmesan cheese",
+            "1 finger of ripe plantain",
+            "1 small red bell pepper",
+            "3 medium shrimps",
+            "2 firm tomatoes",
+            "1 tablespoon of vegetable oil",
+            "1 small yellow bell pepper"
         ]
     }
 }
