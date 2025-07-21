@@ -514,3 +514,7 @@
 [2025-07-20 03:05:21] Fetching recipe with day of year: 201
 [2025-07-20 03:05:22] Successfully fetched and saved recipe: Plantain Salad
 [2025-07-20 03:05:22] Recipe fetch process completed
+[2025-07-21 03:04:09] Starting recipe fetch process
+[2025-07-21 03:04:09] Fetching recipe with day of year: 202
+[2025-07-21 03:04:09] ERROR: Failed to get API response
+[2025-07-21 03:04:09] Recipe fetch process completed
