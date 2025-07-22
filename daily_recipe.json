@@ -1,36 +1,29 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-07-20",
+    "lastUpdated": "2025-07-22",
     "recipe": {
-        "title": "Plantain Salad",
+        "title": "Sweet Mustard BBQ Pork Chops",
         "readyInMinutes": 45,
-        "servings": 1,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/729366-556x370.jpg",
-        "sourceUrl": "http:\/\/www.afrolems.com\/2016\/04\/07\/plantain-salad\/",
-        "instructions": "Cube your plantain, fry and set aside.Chop your vegetables into your salad bowl and tossIn a pan, heat up vegetable oil and stir fry your shrimps and season. Allow to coolToss in your plantain and shrimps once cool into your bowl of vegetables.Sprinkle the parmesan cheese over the saladDrizzle your dressing over and serve cool.\u00a0\u00a0\u00a0",
-        "summary": "Plantain Salad could be just the <b>gluten free and pescatarian<\/b> recipe you've been looking for. For <b>$5.4 per serving<\/b>, you get a main course that serves 1. One serving contains <b>607 calories<\/b>, <b>21g of protein<\/b>, and <b>18g of fat<\/b>. Head to the store and pick up finger of plantain, parmesan cheese, bell pepper, and a few other things to make it today. This recipe from Afrolems has 126 fans. From preparation to the plate, this recipe takes about <b>45 minutes<\/b>. With a spoonacular <b>score of 98%<\/b>, this dish is spectacular. Try <a href=\"https:\/\/spoonacular.com\/recipes\/how-to-spiralize-a-plantain-plantain-rice-and-beans-563745\">How to Spiralize a Plantain & Plantain \u201cRice\u201d and Beans<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/honey-mustard-crunchy-chicken-plantain-salad-509763\">Honey Mustard Crunchy Chicken Plantain Salad<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/collard-greens-salad-with-fried-plantain-and-sumac-1432767\">Collard Greens Salad With Fried Plantain and Sumac<\/a> for similar recipes.",
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/662535-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/WGDGFHFH\/sweet-mustard-bbq-pork-chops",
+        "instructions": "<ol><li>Combine honey, Dijon mustard, lemon juice, soy sauce, and garlic in a bowl. Stir until sugar dissolves.<\/li><li>Place pork chops in large resealable plastic container or bag. Pour marinade over pork chops; seal bag\/container. Refrigerate for at least 4 hours (preferably overnight), shaking container or turning bag occasionally.<\/li><li>Prepare barbecue (medium-high heat). Sprinkle pork chops with fresh cracked pepper.<\/li><li>Grill pork chops until instant-read thermometer inserted into center of chops registers 145 F to 150 F, about 5-7 minutes per side, brushing with leftover marinade and moving chops to cooler part of rack if burning.<\/li><li>Transfer chops to platter; cover with foil, and let stand 5 minutes. Serve.<\/li><\/ol>",
+        "summary": "Sweet Mustard BBQ Pork Chops requires approximately <b>45 minutes<\/b> from start to finish. For <b>$2.15 per serving<\/b>, you get a main course that serves 4. One serving contains <b>445 calories<\/b>, <b>38g of protein<\/b>, and <b>16g of fat<\/b>. This recipe from Foodista requires soy sauce, dijon mustard, garlic, and coarsely ground pepper. 69 people were glad they tried this recipe. It is a good option if you're following a <b>gluten free and dairy free<\/b> diet. All things considered, we decided this recipe <b>deserves a spoonacular score of 73%<\/b>. This score is solid. <a href=\"https:\/\/spoonacular.com\/recipes\/sweet-mustard-bbq-pork-chops-1364587\">Sweet Mustard BBQ Pork Chops<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/honey-mustard-bbq-pork-chops-471552\">Honey Mustard BBQ Pork Chops<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/sauted-pork-chops-with-sweet-potato-apples-and-mustard-sauce-185639\">Saut\u00e9ed Pork Chops with Sweet Potato, Apples and Mustard Sauce<\/a> are very similar to this recipe.",
         "cuisines": [],
         "dishTypes": [
-            "side dish",
             "lunch",
             "main course",
-            "salad",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "1 tablespoon of sweet chili dressing",
-            "1 small green bell pepper",
-            "1\/2 seasoning cube",
-            "A head of lettuce",
-            "1 small bulb of red onions",
-            "1 tablespoon of parmesan cheese",
-            "1 finger of ripe plantain",
-            "1 small red bell pepper",
-            "3 medium shrimps",
-            "2 firm tomatoes",
-            "1 tablespoon of vegetable oil",
-            "1 small yellow bell pepper"
+            "4 bone-in pork chops",
+            "1\/4 cup dijon mustard",
+            "2 cloves garlic, crushed",
+            "3 teaspoons coarsely ground black pepper",
+            "1\/2 cup honey",
+            "1\/4 cup lemon juice",
+            "1\/4 cup soy sauce"
         ]
     }
 }
