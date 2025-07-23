@@ -1,29 +1,30 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-07-22",
+    "lastUpdated": "2025-07-23",
     "recipe": {
-        "title": "Sweet Mustard BBQ Pork Chops",
-        "readyInMinutes": 45,
+        "title": "Farfalle with Peas, Ham and Cream",
+        "readyInMinutes": 30,
         "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/662535-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/WGDGFHFH\/sweet-mustard-bbq-pork-chops",
-        "instructions": "<ol><li>Combine honey, Dijon mustard, lemon juice, soy sauce, and garlic in a bowl. Stir until sugar dissolves.<\/li><li>Place pork chops in large resealable plastic container or bag. Pour marinade over pork chops; seal bag\/container. Refrigerate for at least 4 hours (preferably overnight), shaking container or turning bag occasionally.<\/li><li>Prepare barbecue (medium-high heat). Sprinkle pork chops with fresh cracked pepper.<\/li><li>Grill pork chops until instant-read thermometer inserted into center of chops registers 145 F to 150 F, about 5-7 minutes per side, brushing with leftover marinade and moving chops to cooler part of rack if burning.<\/li><li>Transfer chops to platter; cover with foil, and let stand 5 minutes. Serve.<\/li><\/ol>",
-        "summary": "Sweet Mustard BBQ Pork Chops requires approximately <b>45 minutes<\/b> from start to finish. For <b>$2.15 per serving<\/b>, you get a main course that serves 4. One serving contains <b>445 calories<\/b>, <b>38g of protein<\/b>, and <b>16g of fat<\/b>. This recipe from Foodista requires soy sauce, dijon mustard, garlic, and coarsely ground pepper. 69 people were glad they tried this recipe. It is a good option if you're following a <b>gluten free and dairy free<\/b> diet. All things considered, we decided this recipe <b>deserves a spoonacular score of 73%<\/b>. This score is solid. <a href=\"https:\/\/spoonacular.com\/recipes\/sweet-mustard-bbq-pork-chops-1364587\">Sweet Mustard BBQ Pork Chops<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/honey-mustard-bbq-pork-chops-471552\">Honey Mustard BBQ Pork Chops<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/sauted-pork-chops-with-sweet-potato-apples-and-mustard-sauce-185639\">Saut\u00e9ed Pork Chops with Sweet Potato, Apples and Mustard Sauce<\/a> are very similar to this recipe.",
+        "image": "https:\/\/img.spoonacular.com\/recipes\/642583-556x370.jpg",
+        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/V7DKVTXY\/farfalle-with-peas-ham-and-cream",
+        "instructions": "<ol><li>Cook pasta according to package directions.<\/li><li>In a skillet add the peas, butter, ham. Sautee for 5 minutes. Add the cream, salt and pepper and cook under medium heat for 5 to 10 minutes, or until the cream is slightly becoming thick. Remove from heat. When the pasta is cooked and drained, return to pan and add the sauce. Stir well and add the cheese.<\/li><li>Serve nice and hot.<\/li><\/ol>",
+        "summary": "The recipe Farfalle with Peas, Ham and Cream can be made <b>in about 30 minutes<\/b>. This recipe serves 4. One portion of this dish contains around <b>15g of protein<\/b>, <b>16g of fat<\/b>, and a total of <b>397 calories<\/b>. For <b>77 cents per serving<\/b>, this recipe <b>covers 13%<\/b> of your daily requirements of vitamins and minerals. 3 people found this recipe to be scrumptious and satisfying. A mixture of salt and pepper, ham, farfalle pasta, and a handful of other ingredients are all it takes to make this recipe so scrumptious. It works well as a very reasonably priced main course. It is brought to you by Foodista. Taking all factors into account, this recipe <b>earns a spoonacular score of 42%<\/b>, which is pretty good. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/farfalle-with-gorgonzola-ham-and-peas-149446\">Farfalle With Gorgonzola, Ham And Peas<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/ham-and-peas-farfalle-in-creamy-lemon-parmesan-sauce-646183\">Ham and Peas Farfalle In Creamy Lemon Parmesan Sauce<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/pasta-with-ham-peas-and-cream-18210\">Pasta With Ham, Peas And Cream<\/a>.",
         "cuisines": [],
         "dishTypes": [
+            "side dish",
             "lunch",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "4 bone-in pork chops",
-            "1\/4 cup dijon mustard",
-            "2 cloves garlic, crushed",
-            "3 teaspoons coarsely ground black pepper",
-            "1\/2 cup honey",
-            "1\/4 cup lemon juice",
-            "1\/4 cup soy sauce"
+            "1 teaspoon butter",
+            "3-4 slices of ham, diced",
+            "Farfalle Pasta, or any shape pasta desired",
+            "\u00bd cup heavy cream ( milk can be a substitute)",
+            "\u00bd cup parmesan cheese",
+            "1 cup frozen peas",
+            "Salt and pepper"
         ]
     }
 }
