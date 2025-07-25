@@ -1,30 +1,41 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-07-23",
+    "lastUpdated": "2025-07-25",
     "recipe": {
-        "title": "Farfalle with Peas, Ham and Cream",
-        "readyInMinutes": 30,
-        "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/642583-556x370.jpg",
-        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/V7DKVTXY\/farfalle-with-peas-ham-and-cream",
-        "instructions": "<ol><li>Cook pasta according to package directions.<\/li><li>In a skillet add the peas, butter, ham. Sautee for 5 minutes. Add the cream, salt and pepper and cook under medium heat for 5 to 10 minutes, or until the cream is slightly becoming thick. Remove from heat. When the pasta is cooked and drained, return to pan and add the sauce. Stir well and add the cheese.<\/li><li>Serve nice and hot.<\/li><\/ol>",
-        "summary": "The recipe Farfalle with Peas, Ham and Cream can be made <b>in about 30 minutes<\/b>. This recipe serves 4. One portion of this dish contains around <b>15g of protein<\/b>, <b>16g of fat<\/b>, and a total of <b>397 calories<\/b>. For <b>77 cents per serving<\/b>, this recipe <b>covers 13%<\/b> of your daily requirements of vitamins and minerals. 3 people found this recipe to be scrumptious and satisfying. A mixture of salt and pepper, ham, farfalle pasta, and a handful of other ingredients are all it takes to make this recipe so scrumptious. It works well as a very reasonably priced main course. It is brought to you by Foodista. Taking all factors into account, this recipe <b>earns a spoonacular score of 42%<\/b>, which is pretty good. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/farfalle-with-gorgonzola-ham-and-peas-149446\">Farfalle With Gorgonzola, Ham And Peas<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/ham-and-peas-farfalle-in-creamy-lemon-parmesan-sauce-646183\">Ham and Peas Farfalle In Creamy Lemon Parmesan Sauce<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/pasta-with-ham-peas-and-cream-18210\">Pasta With Ham, Peas And Cream<\/a>.",
-        "cuisines": [],
+        "title": "Chili-Garlic Stir Fry",
+        "readyInMinutes": 45,
+        "servings": 6,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/638586-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/7B6SJL27\/chili-garlic-stir-fry",
+        "instructions": "I a wok or large skillet, heat 1 teaspoon sesame oil over medium-high heat. Add chicken and saute until cooked through. Set aside and cover.\nIn the same pan, heat 1 teaspoon sesame oil over medium-high heat. Add bok choy stalks (not the leaves), carrots and snow peas and saute until just tender. Set aside and cover.\nMeanwhile, in a medium bowl, combine broth, sherry, cornstarch and Sriracha.\nHeat final teaspoon sesame oil over medium high heat and add garlic. Saute until fragrant, 30 seconds to 1 minute. Add sauce and bring to a boil. Stir until it thickens then add chicken, veggies, bok choy leaves and green onion. Stir until all are coated and heated through.",
+        "summary": "Chili-Garlic Stir Fry is a <b>gluten free and dairy free<\/b> recipe with 6 servings. One serving contains <b>147 calories<\/b>, <b>15g of protein<\/b>, and <b>4g of fat<\/b>. For <b>$2.13 per serving<\/b>, this recipe <b>covers 20%<\/b> of your daily requirements of vitamins and minerals. This recipe is typical of American cuisine. 3 people were glad they tried this recipe. Head to the store and pick up sesame oil, chicken broth, cooking sherry, and a few other things to make it today. It works well as a rather inexpensive main course. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. It is brought to you by Foodista. Taking all factors into account, this recipe <b>earns a spoonacular score of 73%<\/b>, which is pretty good. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/chili-garlic-shrimp-and-noodle-stir-fry-1653043\">Chili-Garlic Shrimp and Noodle Stir-Fry<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/chili-garlic-shrimp-and-noodle-stir-fry-708070\">Chili-Garlic Shrimp and Noodle Stir-Fry<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/chili-and-garlic-spiced-beef-and-broccoli-stir-fry-1616473\">Chili and Garlic Spiced Beef and Broccoli Stir Fry<\/a>.",
+        "cuisines": [
+            "American"
+        ],
         "dishTypes": [
-            "side dish",
             "lunch",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "1 teaspoon butter",
-            "3-4 slices of ham, diced",
-            "Farfalle Pasta, or any shape pasta desired",
-            "\u00bd cup heavy cream ( milk can be a substitute)",
-            "\u00bd cup parmesan cheese",
-            "1 cup frozen peas",
-            "Salt and pepper"
+            "2 teaspoons sesame oil, divided",
+            "12 ounces boneless, skinless chicken breast, cubed",
+            "4 large stalks bok choy, chopped (stalk and leaf divided)",
+            "8 ounces snow peas",
+            "3 mediums carrots, peeled and chopped",
+            "1 yellow pepper, sliced",
+            "1 orange pepper, sliced",
+            "3 mediums green onions, white and green parts, chopped",
+            "Sauce",
+            "3\/4 cup low sodium chicken broth",
+            "2 tablespoons cooking sherry",
+            "2 teaspoons cornstarch",
+            "2 tablespoons Sriracha or other chili-garlic sauce",
+            "6 cloves garlic, minced",
+            "1 teaspoon sesame oil",
+            "Stir fry",
+            "Stir fry"
         ]
     }
 }
