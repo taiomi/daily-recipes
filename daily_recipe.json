@@ -1,41 +1,34 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-07-25",
+    "lastUpdated": "2025-07-26",
     "recipe": {
-        "title": "Chili-Garlic Stir Fry",
+        "title": "Pasta With Tuna",
         "readyInMinutes": 45,
-        "servings": 6,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/638586-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/7B6SJL27\/chili-garlic-stir-fry",
-        "instructions": "I a wok or large skillet, heat 1 teaspoon sesame oil over medium-high heat. Add chicken and saute until cooked through. Set aside and cover.\nIn the same pan, heat 1 teaspoon sesame oil over medium-high heat. Add bok choy stalks (not the leaves), carrots and snow peas and saute until just tender. Set aside and cover.\nMeanwhile, in a medium bowl, combine broth, sherry, cornstarch and Sriracha.\nHeat final teaspoon sesame oil over medium high heat and add garlic. Saute until fragrant, 30 seconds to 1 minute. Add sauce and bring to a boil. Stir until it thickens then add chicken, veggies, bok choy leaves and green onion. Stir until all are coated and heated through.",
-        "summary": "Chili-Garlic Stir Fry is a <b>gluten free and dairy free<\/b> recipe with 6 servings. One serving contains <b>147 calories<\/b>, <b>15g of protein<\/b>, and <b>4g of fat<\/b>. For <b>$2.13 per serving<\/b>, this recipe <b>covers 20%<\/b> of your daily requirements of vitamins and minerals. This recipe is typical of American cuisine. 3 people were glad they tried this recipe. Head to the store and pick up sesame oil, chicken broth, cooking sherry, and a few other things to make it today. It works well as a rather inexpensive main course. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. It is brought to you by Foodista. Taking all factors into account, this recipe <b>earns a spoonacular score of 73%<\/b>, which is pretty good. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/chili-garlic-shrimp-and-noodle-stir-fry-1653043\">Chili-Garlic Shrimp and Noodle Stir-Fry<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/chili-garlic-shrimp-and-noodle-stir-fry-708070\">Chili-Garlic Shrimp and Noodle Stir-Fry<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/chili-and-garlic-spiced-beef-and-broccoli-stir-fry-1616473\">Chili and Garlic Spiced Beef and Broccoli Stir Fry<\/a>.",
-        "cuisines": [
-            "American"
-        ],
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/654959-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/K6QWSKQM\/pasta-with-tuna",
+        "instructions": "<ol><li>Cook pasta in a large pot of boiling water until al dente. Drain and return to warm pot. Put olive oil in saucepan and add onion. Saute until transparent. Stir in flour and cook for a few seconds and then whisk in milk. Stir constantly until this thickens. Add peas, tuna (shredded into chunks,) parsley, green onions, cheese and hot pepper sauce. Pour over pasta and stir gently to mix. Serve at once.<\/li><\/ol>",
+        "summary": "Pasta With Tunan is a <b>pescatarian<\/b> main course. This recipe serves 4. For <b>$1.68 per serving<\/b>, this recipe <b>covers 28%<\/b> of your daily requirements of vitamins and minerals. One serving contains <b>423 calories<\/b>, <b>24g of protein<\/b>, and <b>10g of fat<\/b>. 2 people have made this recipe and would make it again. This recipe from Foodista requires flour, parsley, non-fat milk, and parmesan cheese. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 92%<\/b>. This score is amazing. <a href=\"https:\/\/spoonacular.com\/recipes\/pasta-and-tuna-salad-ensalada-de-pasta-y-atn-226303\">Pastan and Tuna Salad (Ensalada de Pasta y At\u00fan)<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/tuna-pasta-565100\">Tuna Pasta<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/tuna-pasta-89136\">Tuna Pasta<\/a> are very similar to this recipe.",
+        "cuisines": [],
         "dishTypes": [
+            "side dish",
             "lunch",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "2 teaspoons sesame oil, divided",
-            "12 ounces boneless, skinless chicken breast, cubed",
-            "4 large stalks bok choy, chopped (stalk and leaf divided)",
-            "8 ounces snow peas",
-            "3 mediums carrots, peeled and chopped",
-            "1 yellow pepper, sliced",
-            "1 orange pepper, sliced",
-            "3 mediums green onions, white and green parts, chopped",
-            "Sauce",
-            "3\/4 cup low sodium chicken broth",
-            "2 tablespoons cooking sherry",
-            "2 teaspoons cornstarch",
-            "2 tablespoons Sriracha or other chili-garlic sauce",
-            "6 cloves garlic, minced",
-            "1 teaspoon sesame oil",
-            "Stir fry",
-            "Stir fry"
+            "2 tablespoons Flour",
+            "cup Green Onions, chopped",
+            "1 1\/4 cups Non-Fat Milk",
+            "2 tablespoons Olive Oil",
+            "2 tablespoons Onion, minced",
+            "1\/4 cup Parmesan Cheese, grated",
+            "cup Fresh Parsley or Basil, chopped",
+            "8 ounces Tubular Pasta",
+            "1 cup Frozen Peas, thawed",
+            "1 dsh Hot Pepper Sauce",
+            "6 1\/2 ounces Can Water-Packed Tuna, drained"
         ]
     }
 }
