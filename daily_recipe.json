@@ -1,33 +1,33 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-07-28",
+    "lastUpdated": "2025-07-29",
     "recipe": {
-        "title": "Balsamic Marinated Lamb Chops",
+        "title": "Mushroom Spinach Soup",
         "readyInMinutes": 45,
-        "servings": 2,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/633932-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/2H3M2FWV\/balsamic-marinated-lamb-chops",
-        "instructions": "In a mixing bowl, mix above ingredients, except salt and pepper. Set aside\nSalt and Pepper the Lamb Chops on both sides on a plate\nToss Lamb in bowl with marinade\nCover and refrigerate at least 1 to 2 hours, turning occaisionally\nGet your BBQ ready! Medium-High, indirect heat\nGrill Lamb Chops on the BBQ to a nice medium rare\n5 to 7 minutes per side, depending on thickness",
-        "summary": "Balsamic Marinated Lamb Chops might be just the main course you are searching for. One portion of this dish contains about <b>38g of protein<\/b>, <b>75g of fat<\/b>, and a total of <b>887 calories<\/b>. This recipe serves 2. For <b>$6.26 per serving<\/b>, this recipe <b>covers 24%<\/b> of your daily requirements of vitamins and minerals. This recipe from Foodista requires kosher salt, each; oregano, olive oil, and all of these herbs. 2 people found this recipe to be scrumptious and satisfying. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. It is a good option if you're following a <b>gluten free and dairy free<\/b> diet. All things considered, we decided this recipe <b>deserves a spoonacular score of 62%<\/b>. This score is solid. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/grilled-marinated-lamb-chops-with-balsamic-cherry-tomatoes-97264\">Grilled Marinated Lamb Chops With Balsamic Cherry Tomatoes<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/grilled-marinated-lamb-chops-with-balsamic-cherry-tomatoes-16129\">Grilled Marinated Lamb Chops with Balsamic Cherry Tomatoes<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/marinated-lamb-chops-317248\">Marinated Lamb Chops<\/a>.",
+        "servings": 1,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/652696-556x370.jpg",
+        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/4H82K32R\/mushroom-spinach-soup",
+        "instructions": "<ol><li>Saute onion, celery. garlic and mushrooms in butter until tender. Add spinach, chicken broth and heavy cream. Bring to a simmer. Add pepper and salt. Thicken with Roux. Garnish with a slice of mushroom and fresh chopped spinach.<\/li><\/ol>",
+        "summary": "Mushroom Spinach Soup could be just the <b>gluten free, lacto ovo vegetarian, and primal<\/b> recipe you've been looking for. This main course has <b>2330 calories<\/b>, <b>44g of protein<\/b>, and <b>222g of fat<\/b> per serving. This recipe serves 1. For <b>$12.24 per serving<\/b>, this recipe <b>covers 76%<\/b> of your daily requirements of vitamins and minerals. 2 people have made this recipe and would make it again. Head to the store and pick up heavy cream, celery, chicken broth, and a few other things to make it today. <b>Autumn<\/b> will be even more special with this recipe. It is brought to you by Foodista. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. Overall, this recipe earns a <b>tremendous spoonacular score of 90%<\/b>. <a href=\"https:\/\/spoonacular.com\/recipes\/farro-mushroom-and-spinach-soup-839982\">Farro, Mushroom, and Spinach Soup<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/mushroom-spinach-cream-soup-403699\">Mushroom-Spinach Cream Soup<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/spinach-and-mushroom-tortellini-soup-480097\">Spinach and Mushroom Tortellini Soup<\/a> are very similar to this recipe.",
         "cuisines": [],
         "dishTypes": [
             "lunch",
+            "soup",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "4-6 Lamb Loin Chops",
-            "1 Clove of Garlic, sliced",
-            "1\/4 cup Balsamic Vinegar",
-            "1 Tbs. Dijon Mustard",
-            "1 Sprig each; Fresh Oregano, Thyme, or Rosemary",
-            "Use any or all of these herbs, roughly chopped",
-            "1 Tbs. Red Wine Vinegar",
-            "2 Tbs. Olive Oil",
-            "1 Tbs. Brown Sugar",
-            "Kosher Salt",
-            "Black Pepper, freshly cracked"
+            "4 tablespoons Butter",
+            "1 cup Celery, minced",
+            "3 cups Chicken broth",
+            "3 Cloves garlic, minced",
+            "2 cups Heavy cream",
+            "3 cups Mushrooms, sliced",
+            "1 cup Onion, minced",
+            "Salt to taste",
+            "16 ounces Spinach, chopped",
+            "1 1\/2 teaspoons White pepper"
         ]
     }
 }
