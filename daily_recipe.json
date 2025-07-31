@@ -1,33 +1,33 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-07-29",
+    "lastUpdated": "2025-07-31",
     "recipe": {
-        "title": "Mushroom Spinach Soup",
+        "title": "Spicy Korean Bbq Pork",
         "readyInMinutes": 45,
-        "servings": 1,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/652696-556x370.jpg",
-        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/4H82K32R\/mushroom-spinach-soup",
-        "instructions": "<ol><li>Saute onion, celery. garlic and mushrooms in butter until tender. Add spinach, chicken broth and heavy cream. Bring to a simmer. Add pepper and salt. Thicken with Roux. Garnish with a slice of mushroom and fresh chopped spinach.<\/li><\/ol>",
-        "summary": "Mushroom Spinach Soup could be just the <b>gluten free, lacto ovo vegetarian, and primal<\/b> recipe you've been looking for. This main course has <b>2330 calories<\/b>, <b>44g of protein<\/b>, and <b>222g of fat<\/b> per serving. This recipe serves 1. For <b>$12.24 per serving<\/b>, this recipe <b>covers 76%<\/b> of your daily requirements of vitamins and minerals. 2 people have made this recipe and would make it again. Head to the store and pick up heavy cream, celery, chicken broth, and a few other things to make it today. <b>Autumn<\/b> will be even more special with this recipe. It is brought to you by Foodista. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. Overall, this recipe earns a <b>tremendous spoonacular score of 90%<\/b>. <a href=\"https:\/\/spoonacular.com\/recipes\/farro-mushroom-and-spinach-soup-839982\">Farro, Mushroom, and Spinach Soup<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/mushroom-spinach-cream-soup-403699\">Mushroom-Spinach Cream Soup<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/spinach-and-mushroom-tortellini-soup-480097\">Spinach and Mushroom Tortellini Soup<\/a> are very similar to this recipe.",
-        "cuisines": [],
+        "servings": 10,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/661117-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/6C67RJHP\/spicy-korean-bbq-pork",
+        "instructions": "<ol><li>Mix the marinade ingredients (brown sugar, soy sauce, ginger, sesame oil, chili garlic sauce, and ginger). Pour over your sliced pork.<\/li><li>Marinate no less then 4 hours; overnight is recommended.<\/li><li>Preheat your grill to high. Place pork on grill and grill each side 3 minutes or until cooked through.<\/li><li>If you want a sauce to pour over your meat, boil your leftover marinade in a sauce pan for a few minutes until it boils down and thickens. You can then add rice vinegar to taste to thin it and decrease the sweetness. Pour sauce over meat.<\/li><\/ol>",
+        "summary": "The recipe Spicy Korean Bbq Pork is ready <b>in roughly 45 minutes<\/b> and is definitely a spectacular <b>gluten free and dairy free<\/b> option for lovers of Korean food. For <b>$1.17 per serving<\/b>, you get a main course that serves 10. One serving contains <b>157 calories<\/b>, <b>21g of protein<\/b>, and <b>5g of fat<\/b>. This recipe from Foodista requires rice vinegar, garlic cloves, chili garlic sauce, and soy sauce. This recipe is liked by 4 foodies and cooks. All things considered, we decided this recipe <b>deserves a spoonacular score of 63%<\/b>. This score is pretty good. Try <a href=\"https:\/\/spoonacular.com\/recipes\/spicy-korean-bbq-pork-1527885\">Spicy Korean Bbq Pork<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/daeji-bulgogi-korean-spicy-bbq-pork-249076\">Daeji Bulgogi (Korean Spicy BBQ Pork)<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/grilled-korean-bbq-short-rib-dogs-with-sweet-peach-relish-spicy-korean-slaw-549399\">Grilled Korean BBQ Short Rib Dogs with Sweet Peach Relish + Spicy Korean Slaw<\/a> for similar recipes.",
+        "cuisines": [
+            "Korean",
+            "Asian"
+        ],
         "dishTypes": [
             "lunch",
-            "soup",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "4 tablespoons Butter",
-            "1 cup Celery, minced",
-            "3 cups Chicken broth",
-            "3 Cloves garlic, minced",
-            "2 cups Heavy cream",
-            "3 cups Mushrooms, sliced",
-            "1 cup Onion, minced",
-            "Salt to taste",
-            "16 ounces Spinach, chopped",
-            "1 1\/2 teaspoons White pepper"
+            "2 pounds boneless pork loin",
+            "1\/4 cup brown sugar",
+            "3 teaspoons chili garlic sauce",
+            "2 teaspoons fresh ginger, minced",
+            "6 garlic cloves, minced",
+            "rice vinegar",
+            "2 teaspoons sesame oil",
+            "1\/4 cup soy sauce"
         ]
     }
 }
