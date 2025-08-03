@@ -1,30 +1,40 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-08-01",
+    "lastUpdated": "2025-08-03",
     "recipe": {
-        "title": "Easy Ginger Beef Broccoli",
+        "title": "Crisp Winter Salad with Maple Gorgonzola Dressing",
         "readyInMinutes": 45,
         "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/641975-556x370.jpg",
-        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/VGNCTK3S\/easy-ginger-beef-broccoli",
-        "instructions": "<ol><li>In a small bowl, combine flour, broth, sugar, and soy sauce. Stir until sugar and flour are dissolved.<\/li><li>In a large skillet or wok over high heat, cook and stir beef 2 to 4 minutes, or until browned. Stir in broth mixture, ginger, garlic, and broccoli. Bring to a boil, then reduce heat. Simmer 5 to 10 minutes, or until sauce thickens.<\/li><li>Excellent served over rice.<\/li><\/ol>",
-        "summary": "The recipe Easy Ginger Beef Broccoli can be made <b>in approximately 45 minutes<\/b>. This dairy free recipe serves 4 and costs <b>$2.14 per serving<\/b>. One portion of this dish contains about <b>49g of protein<\/b>, <b>12g of fat<\/b>, and a total of <b>386 calories<\/b>. It works well as a rather cheap main course. Head to the store and pick up sugar, chicken broth, garlic, and a few other things to make it today. 23 people found this recipe to be tasty and satisfying. It is brought to you by Foodista. All things considered, we decided this recipe <b>deserves a spoonacular score of 97%<\/b>. This score is awesome. If you like this recipe, take a look at these similar recipes: <a href=\"https:\/\/spoonacular.com\/recipes\/easy-ginger-beef-broccoli-1215371\">Easy Ginger Beef Broccoli<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/easy-ginger-beef-broccoli-1229745\">Easy Ginger Beef Broccoli<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/easy-ginger-beef-broccoli-1228803\">Easy Ginger Beef Broccoli<\/a>.",
+        "image": "https:\/\/img.spoonacular.com\/recipes\/640798-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/GFW8V24K\/crisp-winter-salad-with-maple-gorgonzola-dressing",
+        "instructions": "<ol><li>In a large bowl, toss the salad ingredients.<\/li><li>In a medium bowl, whisk the sour cream, oil, vinegar, mustard, maple syrup, salt, and pepper until smooth. Add the cheese and mix with a fork to combine without mashing the cheese. There should be visible chunks in the dressing.<\/li><li>Add the walnuts to the salad, then add the dressing and toss to combine. Serve.<\/li><\/ol>",
+        "summary": "Crisp Winter Salad with Maple Gorgonzola Dressing takes about <b>45 minutes<\/b> from beginning to end. This main course has <b>679 calories<\/b>, <b>21g of protein<\/b>, and <b>56g of fat<\/b> per serving. This recipe serves 4. For <b>$3.13 per serving<\/b>, this recipe <b>covers 28%<\/b> of your daily requirements of vitamins and minerals. 5 people have tried and liked this recipe. Head to the store and pick up cream, radishes, olive oil, and a few other things to make it today. <b>Winter<\/b> will be even more special with this recipe. It is brought to you by Foodista. It is a good option if you're following a <b>gluten free, lacto ovo vegetarian, and primal<\/b> diet. Overall, this recipe earns a <b>solid spoonacular score of 79%<\/b>. Similar recipes include <a href=\"https:\/\/spoonacular.com\/recipes\/apple-and-gorgonzola-salad-with-maple-dressing-284988\">Apple-and-Gorgonzola Salad With Maple Dressing<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/pear-walnut-and-gorgonzola-salad-with-maple-dijon-dressing-1525845\">Pear, Walnut and Gorgonzola Salad with Maple Dijon Dressing<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/winter-fruit-salad-with-citrus-maple-dressing-1694705\">Winter Fruit Salad with Citrus Maple Dressing<\/a>.",
         "cuisines": [],
         "dishTypes": [
+            "side dish",
             "lunch",
             "main course",
+            "salad",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "4 cups broccoli, chopped",
-            "1 10.5-ounce can beef or chicken broth",
-            "1\/4 cup flour",
-            "1\/4 teaspoon fresh ginger, minced",
-            "1 clove garlic, minced",
-            "1 pound boneless round steak, cut into bite size strips",
-            "2 tablespoons soy sauce",
-            "2 tablespoons sugar"
+            "\u00bd cup peeled, julienned broccoli stems (1 inch long)",
+            "1 cup julienned celery (1 inch long)",
+            "2 tablespoons cider vinegar",
+            "2 teaspoons Dijon mustard",
+            "8 ounces gorgonzola cheese, crumbled and partially chunky",
+            "1 cup peeled, julienned jicama (1 inch long)",
+            "1 teaspoon kosher salt",
+            "1 cup sour cream, low-fat or non-fat",
+            "2 tablespoons maple syrup, grade B preferred",
+            "Olive oil",
+            "1 cup julienned radishes (about 1 small bag or 10 radishes)",
+            "1 cup julienned apple (about 2 apples, red and green)",
+            "2 cups thinly sliced romaine lettuce",
+            "2 cups julienned savoy cabbage",
+            "1 cup toasted chopped walnuts, optional",
+            "1 teaspoon freshly ground white pepper"
         ]
     }
 }
