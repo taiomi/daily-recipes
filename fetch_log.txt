@@ -574,3 +574,7 @@
 [2025-08-04 03:11:52] Fetching recipe with day of year: 216
 [2025-08-04 03:11:52] Successfully fetched and saved recipe: Bigoli with smoked salmon
 [2025-08-04 03:11:52] Recipe fetch process completed
+[2025-08-05 03:04:20] Starting recipe fetch process
+[2025-08-05 03:04:20] Fetching recipe with day of year: 217
+[2025-08-05 03:04:21] ERROR: Failed to get API response
+[2025-08-05 03:04:21] Recipe fetch process completed
