@@ -1,32 +1,33 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-08-07",
+    "lastUpdated": "2025-08-09",
     "recipe": {
-        "title": "Eggplant & Artichoke Heart Galettes",
+        "title": "Beef Lo Mein Noodles",
         "readyInMinutes": 45,
-        "servings": 2,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/642272-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/LD5GLFXJ\/eggplant-artichoke-heart-galettes",
-        "instructions": "<ol><li>Peel and thinly slice the eggplant. Place in a drainer or bowl and toss with sea salt. Let it sit for one hour for the bitter juices to be drawn out. Rinse under running water to remove the salt and squeeze tightly with your hands to remove excess water. Place in a mixing bowl.<\/li><li>In a medium bowl, beat eggs with flour to make a thick paste. If paste is thin, add extra flour. Mix well till the mixture is smooth. Stir in eggplant &amp; artichoke hearts and mix till they are well coated.<\/li><li>Add rosemary, chili flakes, garlic and season to taste with sea salt and pepper (be careful not to add too much salt) . Add goat cheese and mix carefully so not to cream it - you want them to be chunky.<\/li><li>Heat a large oiled pan. When hot, pour about 2 spoonfuls of mixture into the pan and they should form into galettes or \"cakes\". Cook until both sides are golden brown.<\/li><li>Makes 6 galettes\/cakes. Serving size is 3 cakes per person.<\/li><\/ol>",
-        "summary": "Eggplant & Artichoke Heart Galettes is a main course that serves 2. One serving contains <b>463 calories<\/b>, <b>21g of protein<\/b>, and <b>14g of fat<\/b>. For <b>$3.73 per serving<\/b>, this recipe <b>covers 33%<\/b> of your daily requirements of vitamins and minerals. If you have goat cheese, bell pepper, garlic cloves, and a few other ingredients on hand, you can make it. 13 people have made this recipe and would make it again. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. It is a good option if you're following a <b>gluten free and lacto ovo vegetarian<\/b> diet. It is brought to you by Foodista. Taking all factors into account, this recipe <b>earns a spoonacular score of 81%<\/b>, which is awesome. Try <a href=\"https:\/\/spoonacular.com\/recipes\/jerusalem-artichoke-and-artichoke-heart-linguine-190961\">Jerusalem Artichoke and Artichoke Heart Linguine<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/artichoke-heart-dip-109092\">Artichoke Heart Dip<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/artichoke-heart-chicken-109207\">Artichoke Heart Chicken<\/a> for similar recipes.",
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/634629-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/8QKG6BC8\/beef-lo-mein",
+        "instructions": "Drop noodles into a large quantity of boiling water and cook 3-5 minutes, until barely tender to the bite. Drain, rinse with cold water and reserve.\nCombine the beef and oyster sauce in a bowl; stir to coat. Let stand for 10 minutes.\nIn another bowl, combine the chicken broth, soy sauce and sesame oil. Set aside.\nHeat a wok over high heat. When hot, add the vegetable oil, swirling to coat the sides. Add the garlic, ginger, and green onions and cook, stirring until fragrant, about 30 seconds. Add the beef and cook, stirring constantly, about 1 minute.\nAdd the sauce and noodles.\nGently toss until heated through and sauce has thickened. Serve immediately.",
+        "summary": "The recipe Beef Lo Mein Noodles can be made <b>in around 45 minutes<\/b>. This recipe serves 4 and costs $2.28 per serving. One portion of this dish contains around <b>23g of protein<\/b>, <b>18g of fat<\/b>, and a total of <b>344 calories<\/b>. It works well as a reasonably priced main course. This recipe from Foodista requires soba noodles, flank steak, green onions, and garlic. It is a good option if you're following a <b>dairy free<\/b> diet. 22 people were impressed by this recipe. With a spoonacular <b>score of 67%<\/b>, this dish is pretty good. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/beef-lo-mein-noodles-1299671\">Beef Lo Mein Noodles<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/lo-mein-noodles-471994\">Lo Mein Noodles<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/pork-lo-mein-with-zucchini-noodles-1270489\">Pork Lo Mein with Zucchini Noodles<\/a>.",
         "cuisines": [],
         "dishTypes": [
+            "side dish",
             "lunch",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "1 can plain artichoke hearts, chopped",
-            "10 tablespoons brown rice flour (or regular)",
-            "1 teaspoon chili flakes",
-            "1 medium\/large eggplant",
-            "3 eggs",
-            "3 teaspoons fresh rosemary, finely chopped",
-            "2 garlic cloves, minced",
-            "1\/4 cup fresh goat cheese (or cheese)",
-            "pepper",
-            "1 tablespoon sea salt"
+            "8 ounces dried Chinese egg noodles or soba (buckwheat) noodles",
+            "3\/4 pound flank steak, trimmed of any fat and cut into thin strips",
+            "1 tablespoon oyster sauce",
+            "1\/2 cup chicken stock",
+            "2 tablespoons soy sauce",
+            "2 teaspoons sesame oil",
+            "3 tablespoons vegetable oil",
+            "2 teaspoons garlic, minced",
+            "2 teaspoon ginger, minced",
+            "1\/4 cup green onions, chopped"
         ]
     }
 }
