@@ -1,33 +1,34 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-08-10",
+    "lastUpdated": "2025-08-12",
     "recipe": {
-        "title": "Curried Chicken Salad With Red Grapes and Walnuts",
+        "title": "Stuffed zucchini with rice and mushroom",
         "readyInMinutes": 45,
-        "servings": 1,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/641071-556x370.jpg",
-        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/S86GT8SW\/curried-chicken-salad-with-red-grapes-and-walnuts",
-        "instructions": "<ol><li>If not using leftover chicken, season your chicken breasts with salt and pepper and place on a hot grill, cooking about 5 minutes on each side.<\/li><li>Chop into 1\/2 inch chunks, or shred.<\/li><li>In a medium bowl, whisk mayo, yogurt, curry, salt and pepper.<\/li><li>Reserve half of mayo mixture and set aside.<\/li><li>Add chicken, grapes, and walnuts to medium bowl and toss to coat.<\/li><li>Add 1 Tbls. mayo mixture, oil, and vinegar to a large bowl and whisk to combine.<\/li><li>Add greens and toss to coat.<\/li><li>Divide greens among four plates and top each with equal servings of chicken mixture.<\/li><li>Reserve leftover mayo mixture in an air tight container. It will keep in the fridge for several weeks.<\/li><\/ol>",
-        "summary": "Curried Chicken Salad With Red Grapes and Walnuts is a <b>gluten free<\/b> recipe with 1 servings. For <b>$13.27 per serving<\/b>, this recipe <b>covers 61%<\/b> of your daily requirements of vitamins and minerals. This main course has <b>1794 calories<\/b>, <b>207g of protein<\/b>, and <b>89g of fat<\/b> per serving. 3 people have tried and liked this recipe. If you have olive oil, mayo, pepper, and a few other ingredients on hand, you can make it. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. It is brought to you by Foodista. With a spoonacular <b>score of 86%<\/b>, this dish is super. If you like this recipe, take a look at these similar recipes: <a href=\"https:\/\/spoonacular.com\/recipes\/curried-chicken-salad-with-grapes-and-red-peppers-123004\">Curried Chicken Salad With Grapes and Red Peppers<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/red-leaf-salad-with-candied-walnuts-and-grapes-750912\">Red Leaf Salad with Candied Walnuts and Grapes<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/chicken-salad-with-grapes-and-walnuts-191162\">Chicken Salad with Grapes and Walnuts<\/a>.",
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/666262-556x370.jpg",
+        "sourceUrl": "https:\/\/spoonacular.com\/-1430135955370",
+        "instructions": "<p>Read the detailed instructions on <a href=\"http:\/\/myzucchinirecipes.com\/stuffed-zucchini-with-rice-and-mushroom\/\">myzucchinirecipes.com<\/a><\/p>",
+        "summary": "Stuffed zucchini with rice and mushroom takes roughly <b>45 minutes<\/b> from beginning to end. One serving contains <b>508 calories<\/b>, <b>20g of protein<\/b>, and <b>18g of fat<\/b>. For <b>$2.25 per serving<\/b>, this recipe <b>covers 31%<\/b> of your daily requirements of vitamins and minerals. This recipe serves 4. Head to the store and pick up rice, salt, garlic, and a few other things to make it today. It works well as a main course. It is brought to you by spoonacular user <a href=\"\/profile\/jeremyzkc\">jeremyzkc<\/a>. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/stuffed-zucchini-with-rice-and-mushroom-1368639\">Stuffed zucchini with rice and mushroom<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/mushroom-stuffed-zucchini-with-parmesan-panko-topping-28003\">Mushroom Stuffed Zucchini With Parmesan Panko Topping<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/mushroom-and-rice-stuffed-squash-510377\">Mushroom and Rice Stuffed Squash<\/a>.",
         "cuisines": [],
         "dishTypes": [
+            "side dish",
             "lunch",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "1 tablespoon red wine or champagne vinegar",
-            "4 chicken breasts, skinned",
-            "1 teaspoon curry",
-            "1\/4 cup light mayo",
-            "4 cups mixed greens",
-            "1 tablespoon olive oil",
-            "1\/2 teaspoon pepper",
-            "1\/4 cup non fat plain yogurt",
-            "1\/2 cup red grapes, halved",
-            "2 teaspoons salt",
-            "1\/2 cup walnuts, coarsely chopped"
+            "150 g grated cheese",
+            "1 tablespoon flour",
+            "2 cloves garlic",
+            "400 g mushroom",
+            "1 tablespoon oil",
+            "pepper",
+            "1 red onion",
+            "250 g rice",
+            "salt",
+            "1 cup tomato sauce",
+            "4 small fresh zucchinis"
         ]
     }
 }
