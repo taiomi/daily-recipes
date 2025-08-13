@@ -1,34 +1,32 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-08-12",
+    "lastUpdated": "2025-08-13",
     "recipe": {
-        "title": "Stuffed zucchini with rice and mushroom",
-        "readyInMinutes": 45,
-        "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/666262-556x370.jpg",
-        "sourceUrl": "https:\/\/spoonacular.com\/-1430135955370",
-        "instructions": "<p>Read the detailed instructions on <a href=\"http:\/\/myzucchinirecipes.com\/stuffed-zucchini-with-rice-and-mushroom\/\">myzucchinirecipes.com<\/a><\/p>",
-        "summary": "Stuffed zucchini with rice and mushroom takes roughly <b>45 minutes<\/b> from beginning to end. One serving contains <b>508 calories<\/b>, <b>20g of protein<\/b>, and <b>18g of fat<\/b>. For <b>$2.25 per serving<\/b>, this recipe <b>covers 31%<\/b> of your daily requirements of vitamins and minerals. This recipe serves 4. Head to the store and pick up rice, salt, garlic, and a few other things to make it today. It works well as a main course. It is brought to you by spoonacular user <a href=\"\/profile\/jeremyzkc\">jeremyzkc<\/a>. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/stuffed-zucchini-with-rice-and-mushroom-1368639\">Stuffed zucchini with rice and mushroom<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/mushroom-stuffed-zucchini-with-parmesan-panko-topping-28003\">Mushroom Stuffed Zucchini With Parmesan Panko Topping<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/mushroom-and-rice-stuffed-squash-510377\">Mushroom and Rice Stuffed Squash<\/a>.",
-        "cuisines": [],
+        "title": "Slow Cooker Chicken Taco Soup",
+        "readyInMinutes": 485,
+        "servings": 6,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/715391-556x370.jpg",
+        "sourceUrl": "https:\/\/www.pinkwhen.com\/slow-cooker-chicken-taco-soup-recipe\/",
+        "instructions": "Once you have all of your ingredients added, allow it to cook all day for 8 hours on low. If you are wanting to make this a little faster, turn it on high and cook for 4 hours.When your Chicken Taco Soup is ready to serve, add in some crushed tortilla shells, shredded cheddar cheese, and a little sour cream.",
+        "summary": "Forget going out to eat or ordering takeout every time you crave Mexican food. Try making Slow Cooker Chicken Taco Soup at home. One portion of this dish contains about <b>24g of protein<\/b>, <b>4g of fat<\/b>, and a total of <b>312 calories<\/b>. This gluten free and dairy free recipe serves 6 and costs <b>$1.41 per serving<\/b>. 2182 people have tried and liked this recipe. It works well as a main course. If you have black beans, chili beans, canned tomatoes, and a few other ingredients on hand, you can make it. It is perfect for <b>Autumn<\/b>. From preparation to the plate, this recipe takes around <b>8 hours and 5 minutes<\/b>. It is brought to you by Pink When. Overall, this recipe earns an <b>awesome spoonacular score of 95%<\/b>. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/slow-cooker-chicken-taco-soup-1399115\">Slow Cooker Chicken Taco Soup<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/slow-cooker-chicken-taco-soup-1228993\">Slow Cooker Chicken Taco Soup<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/slow-cooker-chicken-taco-soup-1369307\">Slow Cooker Chicken Taco Soup<\/a>.",
+        "cuisines": [
+            "Mexican"
+        ],
         "dishTypes": [
-            "side dish",
+            "soup",
             "lunch",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "150 g grated cheese",
-            "1 tablespoon flour",
-            "2 cloves garlic",
-            "400 g mushroom",
-            "1 tablespoon oil",
-            "pepper",
-            "1 red onion",
-            "250 g rice",
-            "salt",
-            "1 cup tomato sauce",
-            "4 small fresh zucchinis"
+            "1 (15 oz.) can black beans",
+            "2 (10 oz.) cans diced tomatoes with green chilis",
+            "1 (15 oz.) can diced tomatoes",
+            "1 (15 oz.) can chili beans",
+            "1 (15 oz.) can whole kernal corn",
+            "1 large red onion (finely chopped)",
+            "3 boneless skinless chicken breasts (cut into 1\" cubes)"
         ]
     }
 }
