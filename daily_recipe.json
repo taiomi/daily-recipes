@@ -1,32 +1,34 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-08-13",
+    "lastUpdated": "2025-08-15",
     "recipe": {
-        "title": "Slow Cooker Chicken Taco Soup",
-        "readyInMinutes": 485,
-        "servings": 6,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/715391-556x370.jpg",
-        "sourceUrl": "https:\/\/www.pinkwhen.com\/slow-cooker-chicken-taco-soup-recipe\/",
-        "instructions": "Once you have all of your ingredients added, allow it to cook all day for 8 hours on low. If you are wanting to make this a little faster, turn it on high and cook for 4 hours.When your Chicken Taco Soup is ready to serve, add in some crushed tortilla shells, shredded cheddar cheese, and a little sour cream.",
-        "summary": "Forget going out to eat or ordering takeout every time you crave Mexican food. Try making Slow Cooker Chicken Taco Soup at home. One portion of this dish contains about <b>24g of protein<\/b>, <b>4g of fat<\/b>, and a total of <b>312 calories<\/b>. This gluten free and dairy free recipe serves 6 and costs <b>$1.41 per serving<\/b>. 2182 people have tried and liked this recipe. It works well as a main course. If you have black beans, chili beans, canned tomatoes, and a few other ingredients on hand, you can make it. It is perfect for <b>Autumn<\/b>. From preparation to the plate, this recipe takes around <b>8 hours and 5 minutes<\/b>. It is brought to you by Pink When. Overall, this recipe earns an <b>awesome spoonacular score of 95%<\/b>. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/slow-cooker-chicken-taco-soup-1399115\">Slow Cooker Chicken Taco Soup<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/slow-cooker-chicken-taco-soup-1228993\">Slow Cooker Chicken Taco Soup<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/slow-cooker-chicken-taco-soup-1369307\">Slow Cooker Chicken Taco Soup<\/a>.",
-        "cuisines": [
-            "Mexican"
-        ],
+        "title": "Lentil Mango Salad",
+        "readyInMinutes": 45,
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/649944-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/TTBNDB7Q\/lentill-mango-salad",
+        "instructions": "<ol><li>Clean and chop the onion, red pepper, garlic, Cilantro<\/li><li>Peel and chop mango<\/li><li>Place all salad ingredients in a bowl, add the oil, vinegar, season with salt and pepper<\/li><li>Mix well and leave in the refrigerator for 1 \/ 2 hour<\/li><li>This salad is left to eat alone or to accompany meat and poultry dishes, enjoy ...<\/li><\/ol>",
+        "summary": "Lentil Mango Salad is a main course that serves 4. One serving contains <b>253 calories<\/b>, <b>12g of protein<\/b>, and <b>6g of fat<\/b>. For <b>$1.59 per serving<\/b>, this recipe <b>covers 25%<\/b> of your daily requirements of vitamins and minerals. It is brought to you by Foodista. 3 people found this recipe to be tasty and satisfying. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. It is a good option if you're following a <b>gluten free, dairy free, lacto ovo vegetarian, and vegan<\/b> diet. Head to the store and pick up cilantro, white wine vinegar, onion, and a few other things to make it today. Taking all factors into account, this recipe <b>earns a spoonacular score of 94%<\/b>, which is amazing. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/lentil-burger-with-mango-salsa-509088\">LENTIL BURGER with Mango Salsa<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/plumcot-orange-lentil-salad-fave-five-friday-lovely-lentil-dishes-529696\">Plumcot, Orange & Lentil Salad\u2026 & Fave Five Friday: Lovely Lentil Dishes<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/simple-coconut-quinoa-and-lentil-curry-with-lime-mango-705061\">Simple Coconut Quinoan and Lentil Curry with Lime Mango<\/a>.",
+        "cuisines": [],
         "dishTypes": [
-            "soup",
+            "side dish",
             "lunch",
+            "salad",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "1 (15 oz.) can black beans",
-            "2 (10 oz.) cans diced tomatoes with green chilis",
-            "1 (15 oz.) can diced tomatoes",
-            "1 (15 oz.) can chili beans",
-            "1 (15 oz.) can whole kernal corn",
-            "1 large red onion (finely chopped)",
-            "3 boneless skinless chicken breasts (cut into 1\" cubes)"
+            "1 bunch Cilantro",
+            "1 pound cooked lentils",
+            "1 clove garlic",
+            "1 mango",
+            "1\/2 cup olive oil",
+            "pepper",
+            "1 red bell pepper",
+            "1 red onion",
+            "Salt",
+            "1\/4 cup white wine vinegar"
         ]
     }
 }
