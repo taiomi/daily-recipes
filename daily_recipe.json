@@ -1,34 +1,33 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-08-15",
+    "lastUpdated": "2025-08-16",
     "recipe": {
-        "title": "Lentil Mango Salad",
-        "readyInMinutes": 45,
-        "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/649944-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/TTBNDB7Q\/lentill-mango-salad",
-        "instructions": "<ol><li>Clean and chop the onion, red pepper, garlic, Cilantro<\/li><li>Peel and chop mango<\/li><li>Place all salad ingredients in a bowl, add the oil, vinegar, season with salt and pepper<\/li><li>Mix well and leave in the refrigerator for 1 \/ 2 hour<\/li><li>This salad is left to eat alone or to accompany meat and poultry dishes, enjoy ...<\/li><\/ol>",
-        "summary": "Lentil Mango Salad is a main course that serves 4. One serving contains <b>253 calories<\/b>, <b>12g of protein<\/b>, and <b>6g of fat<\/b>. For <b>$1.59 per serving<\/b>, this recipe <b>covers 25%<\/b> of your daily requirements of vitamins and minerals. It is brought to you by Foodista. 3 people found this recipe to be tasty and satisfying. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. It is a good option if you're following a <b>gluten free, dairy free, lacto ovo vegetarian, and vegan<\/b> diet. Head to the store and pick up cilantro, white wine vinegar, onion, and a few other things to make it today. Taking all factors into account, this recipe <b>earns a spoonacular score of 94%<\/b>, which is amazing. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/lentil-burger-with-mango-salsa-509088\">LENTIL BURGER with Mango Salsa<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/plumcot-orange-lentil-salad-fave-five-friday-lovely-lentil-dishes-529696\">Plumcot, Orange & Lentil Salad\u2026 & Fave Five Friday: Lovely Lentil Dishes<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/simple-coconut-quinoa-and-lentil-curry-with-lime-mango-705061\">Simple Coconut Quinoan and Lentil Curry with Lime Mango<\/a>.",
+        "title": "Easy Homemade Rice and Beans",
+        "readyInMinutes": 35,
+        "servings": 2,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/716627-556x370.jpg",
+        "sourceUrl": "http:\/\/cooking2perfection.blogspot.com\/2012\/11\/easy-homemade-rice-and-beans.html",
+        "instructions": "<p>Heat the olive oil in a large pot over medium heat. Add onions and saute until soft, or for about 5 minutes. Add all other remaining ingredients and stir together. Increase the heat to medium high and bring to a boil. Cover and reduce heat to medium low so that the mixture simmers. Cook for 15-20 minutes, or until rice is fluffy and liquid is absorbed.* Serve with salsa, cheese, and sour cream.<\/p>",
+        "summary": "Easy Homemade Rice and Beans is a main course that serves 2. One serving contains <b>446 calories<\/b>, <b>19g of protein<\/b>, and <b>4g of fat<\/b>. For <b>$1.06 per serving<\/b>, this recipe <b>covers 26%<\/b> of your daily requirements of vitamins and minerals. A mixture of optional: of hot sauce, canned tomatoes, water, and a handful of other ingredients are all it takes to make this recipe so yummy. This recipe from cooking2perfection.blogspot.com has 471 fans. It is a good option if you're following a <b>gluten free, dairy free, lacto ovo vegetarian, and vegan<\/b> diet. From preparation to the plate, this recipe takes around <b>35 minutes<\/b>. Overall, this recipe earns a <b>tremendous spoonacular score of 98%<\/b>. <a href=\"https:\/\/spoonacular.com\/recipes\/easy-homemade-rice-and-beans-1311839\">Easy Homemade Rice and Beans<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/easy-homemade-rice-and-beans-1303021\">Easy Homemade Rice and Beans<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/easy-homemade-rice-and-beans-1230117\">Easy Homemade Rice and Beans<\/a> are very similar to this recipe.",
         "cuisines": [],
         "dishTypes": [
             "side dish",
             "lunch",
-            "salad",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "1 bunch Cilantro",
-            "1 pound cooked lentils",
-            "1 clove garlic",
-            "1 mango",
-            "1\/2 cup olive oil",
-            "pepper",
-            "1 red bell pepper",
-            "1 red onion",
-            "Salt",
-            "1\/4 cup white wine vinegar"
+            "1 15-ounce can black beans, not drained",
+            "1 10-ounce can Rotel tomatoes with diced green chilies, not drained",
+            "2 tsp chili powder",
+            "1\/2 tsp cumin",
+            "1\/4 tsp ground black pepper",
+            "optional: 4-5 dashes of hot sauce",
+            "1 tsp olive oil",
+            "1\/4 cup onion, chopped",
+            "1\/2 cup uncooked rice",
+            "3 Tbsp water"
         ]
     }
 }
