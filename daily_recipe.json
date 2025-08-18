@@ -1,15 +1,19 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-08-16",
+    "lastUpdated": "2025-08-18",
     "recipe": {
-        "title": "Easy Homemade Rice and Beans",
-        "readyInMinutes": 35,
+        "title": "Mushroom and Parmesan Brown Rice Risotto",
+        "readyInMinutes": 45,
         "servings": 2,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/716627-556x370.jpg",
-        "sourceUrl": "http:\/\/cooking2perfection.blogspot.com\/2012\/11\/easy-homemade-rice-and-beans.html",
-        "instructions": "<p>Heat the olive oil in a large pot over medium heat. Add onions and saute until soft, or for about 5 minutes. Add all other remaining ingredients and stir together. Increase the heat to medium high and bring to a boil. Cover and reduce heat to medium low so that the mixture simmers. Cook for 15-20 minutes, or until rice is fluffy and liquid is absorbed.* Serve with salsa, cheese, and sour cream.<\/p>",
-        "summary": "Easy Homemade Rice and Beans is a main course that serves 2. One serving contains <b>446 calories<\/b>, <b>19g of protein<\/b>, and <b>4g of fat<\/b>. For <b>$1.06 per serving<\/b>, this recipe <b>covers 26%<\/b> of your daily requirements of vitamins and minerals. A mixture of optional: of hot sauce, canned tomatoes, water, and a handful of other ingredients are all it takes to make this recipe so yummy. This recipe from cooking2perfection.blogspot.com has 471 fans. It is a good option if you're following a <b>gluten free, dairy free, lacto ovo vegetarian, and vegan<\/b> diet. From preparation to the plate, this recipe takes around <b>35 minutes<\/b>. Overall, this recipe earns a <b>tremendous spoonacular score of 98%<\/b>. <a href=\"https:\/\/spoonacular.com\/recipes\/easy-homemade-rice-and-beans-1311839\">Easy Homemade Rice and Beans<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/easy-homemade-rice-and-beans-1303021\">Easy Homemade Rice and Beans<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/easy-homemade-rice-and-beans-1230117\">Easy Homemade Rice and Beans<\/a> are very similar to this recipe.",
-        "cuisines": [],
+        "image": "https:\/\/img.spoonacular.com\/recipes\/652624-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/LS5G883S\/mushroom-and-parmesan-brown-rice-risotto",
+        "instructions": "<ol><li>Heat oil and butter in a saucepan over medium heat. Add onion and saut until translucent.<\/li><li>Add mushrooms and stir for about 2 minutes. Add garlic and saut, stirring constantly, until fragrant.<\/li><li>Add rice and stir for 1-2 minutes.<\/li><li>Pour in chicken stock and bring to a boil.<\/li><li>Reduce heat to low and cover. Allow rice to cook for 35-40 minutes, or until all of the liquid is absorbed. Stir in the parmesan cheese and parsley.<\/li><\/ol>",
+        "summary": "Mushroom and Parmesan Brown Rice Risotto is a Mediterranean main course. This recipe serves 2. For <b>$1.73 per serving<\/b>, this recipe <b>covers 17%<\/b> of your daily requirements of vitamins and minerals. One serving contains <b>525 calories<\/b>, <b>15g of protein<\/b>, and <b>32g of fat<\/b>. 2 people were glad they tried this recipe. It is brought to you by Foodista. A mixture of pepper, parsley, cremini mushrooms, and a handful of other ingredients are all it takes to make this recipe so delicious. It is a good option if you're following a <b>gluten free<\/b> diet. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 49%<\/b>. This score is good. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/mushroom-brown-rice-risotto-36346\">Mushroom-Brown Rice Risotto<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/365-days-of-slow-cooking-for-slow-cooker-no-stir-brown-rice-mushroom-risotto-631601\">365 Days of Slow Cooking: for Slow Cooker No-Stir Brown Rice Mushroom Risotto<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/365-days-of-slow-cooking-for-slow-cooker-no-stir-brown-rice-mushroom-risotto-1377103\">365 Days of Slow Cooking: for Slow Cooker No-Stir Brown Rice Mushroom Risotto<\/a>.",
+        "cuisines": [
+            "Mediterranean",
+            "Italian",
+            "European"
+        ],
         "dishTypes": [
             "side dish",
             "lunch",
@@ -18,16 +22,17 @@
             "dinner"
         ],
         "ingredients": [
-            "1 15-ounce can black beans, not drained",
-            "1 10-ounce can Rotel tomatoes with diced green chilies, not drained",
-            "2 tsp chili powder",
-            "1\/2 tsp cumin",
-            "1\/4 tsp ground black pepper",
-            "optional: 4-5 dashes of hot sauce",
-            "1 tsp olive oil",
-            "1\/4 cup onion, chopped",
-            "1\/2 cup uncooked rice",
-            "3 Tbsp water"
+            "Pinch black pepper",
+            "1\/2 tablespoon butter",
+            "1\/2 cup sliced cremini mushrooms",
+            "1 tablespoon minced garlic",
+            "3 tablespoons olive oil",
+            "1\/4 cup finely diced onion",
+            "55 grams Parmesan cheese, finely grated",
+            "2 teaspoons minced parsley",
+            "Pinch Salt",
+            "1\/2 cup short grain brown rice",
+            "1 1\/4 cups chicken or vegetable stock"
         ]
     }
 }
