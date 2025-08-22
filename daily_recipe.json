@@ -1,27 +1,40 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-08-21",
+    "lastUpdated": "2025-08-22",
     "recipe": {
-        "title": "Basil Marinated Grilled Chicken",
-        "readyInMinutes": 45,
-        "servings": 8,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/634434-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/6FPGHLSQ\/basil-marinated-grilled-chicken",
-        "instructions": "Mince garlic in a food processor, then add basil and process until roughly chopped.\nDrizzle in olive oil until a thin ketchup consistency is achieved. Add salt and whirl for 5 seconds to combine.\nPlace chicken in a baking dish and pour marinade over chicken, turning pieces to coat evenly. Cover and refrigerate for 4 hours.\nGrill over medium high heat until cooked through, about 8 minutes per side.",
-        "summary": "Basil Marinated Grilled Chicken is a <b>gluten free, dairy free, paleolithic, and primal<\/b> recipe with 8 servings. One serving contains <b>309 calories<\/b>, <b>48g of protein<\/b>, and <b>11g of fat<\/b>. For <b>$2.59 per serving<\/b>, this recipe <b>covers 25%<\/b> of your daily requirements of vitamins and minerals. Head to the store and pick up garlic, chicken breasts, salt, and a few other things to make it today. 11 person have tried and liked this recipe. It will be a hit at your <b>The Fourth Of July<\/b> event. It works well as a rather cheap main course. It is brought to you by Foodista. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. Taking all factors into account, this recipe <b>earns a spoonacular score of 80%<\/b>, which is excellent. Try <a href=\"https:\/\/spoonacular.com\/recipes\/basil-marinated-grilled-chicken-1380155\">Basil Marinated Grilled Chicken<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/basil-marinated-grilled-chicken-1255469\">Basil Marinated Grilled Chicken<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/all-purpose-lemon-basil-marinated-chicken-1202589\">All Purpose Lemon Basil Marinated Chicken<\/a> for similar recipes.",
-        "cuisines": [],
+        "title": "Rotisserie Chicken and Bean Tostadas",
+        "readyInMinutes": 30,
+        "servings": 3,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/1098354-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/YQF7DW47\/rotisserie-chicken-and-bean-toastatas",
+        "instructions": "<ol><li>Preheat oven to 350 degrees.<\/li><li>Place corn tortillas on a cookie sheet and bake for 16-17 minutes or until the edges brown and curl.<\/li><li>Cool cooked tortillas at room temperature.<\/li><li>To build the tostadas, start by spreading 1-2 tablespoons of refried beans on each tortilla.<\/li><li>Next, top with a handful of shredded rotisserie chicken, shredded iceberg lettuce, diced tomato, and guacamole.<\/li><li>Drizzle with the juice of one lime wedge.<\/li><li>Sprinkle with cotija cheese.<\/li><li>Drizzle with salsa.<\/li><li>Garnish with jalapeos.<\/li><li>Serve open-faced.<\/li><\/ol><p>Makes 6 tostadas. Serving size is 2 tostadas.<\/p>",
+        "summary": "Rotisserie Chicken and Bean Tostadas could be just the <b>gluten free<\/b> recipe you've been looking for. This recipe serves 3. This hor d'oeuvre has <b>558 calories<\/b>, <b>54g of protein<\/b>, and <b>23g of fat<\/b> per serving. For <b>$2.31 per serving<\/b>, this recipe <b>covers 18%<\/b> of your daily requirements of vitamins and minerals. It is a <b>reasonably priced<\/b> recipe for fans of Mexican food. 7 people found this recipe to be flavorful and satisfying. It is brought to you by Foodista. If you have salsa, lime, refried beans, and a few other ingredients on hand, you can make it. From preparation to the plate, this recipe takes approximately <b>30 minutes<\/b>. With a spoonacular <b>score of 59%<\/b>, this dish is solid. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/rotisserie-chicken-and-bean-tostadas-1378939\">Rotisserie Chicken and Bean Tostadas<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/rotisserie-chicken-and-bean-tostadas-1385259\">Rotisserie Chicken and Bean Tostadas<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/rotisserie-chicken-and-bean-tostadas-1385867\">Rotisserie Chicken and Bean Tostadas<\/a>.",
+        "cuisines": [
+            "Mexican"
+        ],
         "dishTypes": [
+            "antipasti",
             "lunch",
             "main course",
+            "starter",
+            "snack",
+            "appetizer",
             "main dish",
+            "antipasto",
+            "hor d'oeuvre",
             "dinner"
         ],
         "ingredients": [
-            "4 cloves garlic",
-            "2 cups lightly packed basil leaves",
-            "cup extra virgin olive oil, about \u00bd",
-            "1\/2 teaspoon salt",
-            "8 boneless chicken breasts, patted dry so the marinade wil"
+            "2 cups rotisserie chicken \u2013 shredded",
+            "6 small corn tortillas",
+            "1\/3 can refried beans",
+            "1\/2 tomato, diced small",
+            "1 jalape\u00f1o, sliced",
+            "Shredded iceberg lettuce",
+            "Cotija cheese (Mexican queso)",
+            "1 lime \u2013 cut into wedges",
+            "6 teaspoons guacamole",
+            "Salsa"
         ]
     }
 }
