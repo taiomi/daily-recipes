@@ -1,40 +1,33 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-08-22",
+    "lastUpdated": "2025-08-24",
     "recipe": {
-        "title": "Rotisserie Chicken and Bean Tostadas",
-        "readyInMinutes": 30,
-        "servings": 3,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/1098354-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/YQF7DW47\/rotisserie-chicken-and-bean-toastatas",
-        "instructions": "<ol><li>Preheat oven to 350 degrees.<\/li><li>Place corn tortillas on a cookie sheet and bake for 16-17 minutes or until the edges brown and curl.<\/li><li>Cool cooked tortillas at room temperature.<\/li><li>To build the tostadas, start by spreading 1-2 tablespoons of refried beans on each tortilla.<\/li><li>Next, top with a handful of shredded rotisserie chicken, shredded iceberg lettuce, diced tomato, and guacamole.<\/li><li>Drizzle with the juice of one lime wedge.<\/li><li>Sprinkle with cotija cheese.<\/li><li>Drizzle with salsa.<\/li><li>Garnish with jalapeos.<\/li><li>Serve open-faced.<\/li><\/ol><p>Makes 6 tostadas. Serving size is 2 tostadas.<\/p>",
-        "summary": "Rotisserie Chicken and Bean Tostadas could be just the <b>gluten free<\/b> recipe you've been looking for. This recipe serves 3. This hor d'oeuvre has <b>558 calories<\/b>, <b>54g of protein<\/b>, and <b>23g of fat<\/b> per serving. For <b>$2.31 per serving<\/b>, this recipe <b>covers 18%<\/b> of your daily requirements of vitamins and minerals. It is a <b>reasonably priced<\/b> recipe for fans of Mexican food. 7 people found this recipe to be flavorful and satisfying. It is brought to you by Foodista. If you have salsa, lime, refried beans, and a few other ingredients on hand, you can make it. From preparation to the plate, this recipe takes approximately <b>30 minutes<\/b>. With a spoonacular <b>score of 59%<\/b>, this dish is solid. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/rotisserie-chicken-and-bean-tostadas-1378939\">Rotisserie Chicken and Bean Tostadas<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/rotisserie-chicken-and-bean-tostadas-1385259\">Rotisserie Chicken and Bean Tostadas<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/rotisserie-chicken-and-bean-tostadas-1385867\">Rotisserie Chicken and Bean Tostadas<\/a>.",
-        "cuisines": [
-            "Mexican"
-        ],
+        "title": "Marinated Flat Iron Steak",
+        "readyInMinutes": 45,
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/651034-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/JL7Y23HM\/marinated-flat-iron-steak",
+        "instructions": "<ol><li>Cut the flat iron steak lengthwise to form two equal strips.<\/li><li>Place all the above ingredients in a large baking pan, or Ziploc bag.<\/li><li>Add the meat to it and place in the refrigerator for an hour or more.<\/li><li>Start the BBQ . When temperature reaches high, add the steaks. Cover and cook for 3 minutes.<\/li><li>Turn the steaks and cook the other side for another 3 minutes, or to required doneness.<\/li><\/ol>",
+        "summary": "The recipe Marinated Flat Iron Steak can be made <b>in approximately 45 minutes<\/b>. For <b>$4.09 per serving<\/b>, this recipe <b>covers 33%<\/b> of your daily requirements of vitamins and minerals. This recipe makes 4 servings with <b>505 calories<\/b>, <b>44g of protein<\/b>, and <b>32g of fat<\/b> each. <b>valentin day<\/b> will be even more special with this recipe. 5 people found this recipe to be delicious and satisfying. It works well as a main course. It is brought to you by Foodista. If you have herbs: rosemary, garlic cloves, olive oil, and a few other ingredients on hand, you can make it. It is a good option if you're following a <b>gluten free, dairy free, whole 30, and ketogenic<\/b> diet. All things considered, we decided this recipe <b>deserves a spoonacular score of 80%<\/b>. This score is solid. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/szechwan-marinated-flat-iron-steak-407967\">Szechwan-Marinated Flat Iron Steak<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/lemon-and-garlic-marinated-flat-iron-steak-311161\">Lemon-and-Garlic-Marinated Flat Iron Steak<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/orange-jalapeno-marinated-grilled-flat-iron-steak-481801\">Orange & Jalapeno Marinated Grilled Flat Iron Steak<\/a>.",
+        "cuisines": [],
         "dishTypes": [
-            "antipasti",
             "lunch",
             "main course",
-            "starter",
-            "snack",
-            "appetizer",
             "main dish",
-            "antipasto",
-            "hor d'oeuvre",
             "dinner"
         ],
         "ingredients": [
-            "2 cups rotisserie chicken \u2013 shredded",
-            "6 small corn tortillas",
-            "1\/3 can refried beans",
-            "1\/2 tomato, diced small",
-            "1 jalape\u00f1o, sliced",
-            "Shredded iceberg lettuce",
-            "Cotija cheese (Mexican queso)",
-            "1 lime \u2013 cut into wedges",
-            "6 teaspoons guacamole",
-            "Salsa"
+            "3 tablespoons Balsamic vinegar",
+            "1 tablespoon Dijon mustard",
+            "1 2 lb Flat Iron Steak",
+            "2 garlic cloves chopped",
+            "Grated Ginger",
+            "Fresh herbs: rosemary, sage, marjoram, thyme, chives ( anything in hand)",
+            "Grated zest of 1 lemon",
+            "2 lemons juiced",
+            "1 tablespoon mayonnaise",
+            "1\/2 cup Olive oil",
+            "to taste salt and pepper"
         ]
     }
 }
