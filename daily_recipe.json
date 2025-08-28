@@ -1,33 +1,31 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-08-27",
+    "lastUpdated": "2025-08-28",
     "recipe": {
-        "title": "Mushroom Spinach Soup",
+        "title": "Glazed pork chops",
         "readyInMinutes": 45,
-        "servings": 1,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/652696-556x370.jpg",
-        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/4H82K32R\/mushroom-spinach-soup",
-        "instructions": "<ol><li>Saute onion, celery. garlic and mushrooms in butter until tender. Add spinach, chicken broth and heavy cream. Bring to a simmer. Add pepper and salt. Thicken with Roux. Garnish with a slice of mushroom and fresh chopped spinach.<\/li><\/ol>",
-        "summary": "Mushroom Spinach Soup could be just the <b>gluten free, lacto ovo vegetarian, and primal<\/b> recipe you've been looking for. This main course has <b>2330 calories<\/b>, <b>44g of protein<\/b>, and <b>222g of fat<\/b> per serving. This recipe serves 1. For <b>$12.24 per serving<\/b>, this recipe <b>covers 76%<\/b> of your daily requirements of vitamins and minerals. 2 people have made this recipe and would make it again. Head to the store and pick up heavy cream, celery, chicken broth, and a few other things to make it today. <b>Autumn<\/b> will be even more special with this recipe. It is brought to you by Foodista. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. Overall, this recipe earns a <b>tremendous spoonacular score of 90%<\/b>. <a href=\"https:\/\/spoonacular.com\/recipes\/farro-mushroom-and-spinach-soup-839982\">Farro, Mushroom, and Spinach Soup<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/mushroom-spinach-cream-soup-403699\">Mushroom-Spinach Cream Soup<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/spinach-and-mushroom-tortellini-soup-480097\">Spinach and Mushroom Tortellini Soup<\/a> are very similar to this recipe.",
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/644761-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/HZVLJQMT\/glazed-pork-chops",
+        "instructions": "<ol><li>Press one side of each chop into the black pepper.<\/li><li>Heat nonstick grill skillet until hot.<\/li><li>Add pork chops, pepper side down, and cook about 4 minutes or until browned.<\/li><li>Reduce heat to medium, turn pork chops and cook 6-8 minutes longer.<\/li><li>When done, take the skillet from the heat, cover the pork chops and set aside.<\/li><li>Meanwhile, mix honey, soy sauce, balsamic vinegar and cornstarch until smooth.<\/li><li>Add the cracked pepper, stir.<\/li><li>Melt the butter in a small pan, add garlic and cook for 30 seconds, stirring.<\/li><li>Stir honey mixture into pan, let it boil, cook for 1 minute, stirring.<\/li><li>Spoon sauce over pork chops, sprinkle with fresh chives or green onions.<\/li><li>Serve with polenta and green salad.<\/li><\/ol>",
+        "summary": "If you have roughly <b>45 minutes<\/b> to spend in the kitchen, Glazed pork chops might be an amazing <b>gluten free and ketogenic<\/b> recipe to try. This recipe serves 4 and costs $2.06 per serving. One portion of this dish contains roughly <b>31g of protein<\/b>, <b>32g of fat<\/b>, and a total of <b>459 calories<\/b>. 8 people have tried and liked this recipe. It is brought to you by Foodista. If you have balsamic vinegar, honey, garlic cloves, and a few other ingredients on hand, you can make it. Not a lot of people really liked this main course. Taking all factors into account, this recipe <b>earns a spoonacular score of 53%<\/b>, which is solid. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/glazed-pork-chops-1345505\">Glazed Pork Chops<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/glazed-pork-chops-443748\">Glazed Pork Chops<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/glazed-pork-chops-1222579\">Glazed Pork Chops<\/a>.",
         "cuisines": [],
         "dishTypes": [
             "lunch",
-            "soup",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "4 tablespoons Butter",
-            "1 cup Celery, minced",
-            "3 cups Chicken broth",
-            "3 Cloves garlic, minced",
-            "2 cups Heavy cream",
-            "3 cups Mushrooms, sliced",
-            "1 cup Onion, minced",
-            "Salt to taste",
-            "16 ounces Spinach, chopped",
-            "1 1\/2 teaspoons White pepper"
+            "1 Tbs balsamic vinegar",
+            "\u00bc tsp black pepper, cracked",
+            "1\/2 cup butter, melted",
+            "\u00bd tsp cornstarch",
+            "2 garlic cloves, minced",
+            "Fresh chives or green onions, sliced, for garnish",
+            "2 tablespoons honey",
+            "4 boneless pork chops, trimmed",
+            "1\/4 cup soy sauce"
         ]
     }
 }
