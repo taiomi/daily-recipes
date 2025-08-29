@@ -670,3 +670,7 @@
 [2025-08-28 02:24:51] Fetching recipe with day of year: 240
 [2025-08-28 02:24:52] Successfully fetched and saved recipe: Glazed pork chops
 [2025-08-28 02:24:52] Recipe fetch process completed
+[2025-08-29 02:24:59] Starting recipe fetch process
+[2025-08-29 02:24:59] Fetching recipe with day of year: 241
+[2025-08-29 02:24:59] ERROR: Failed to get API response
+[2025-08-29 02:24:59] Recipe fetch process completed
