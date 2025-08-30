@@ -1,31 +1,34 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-08-28",
+    "lastUpdated": "2025-08-30",
     "recipe": {
-        "title": "Glazed pork chops",
+        "title": "Chicken Sausage, White Bean and Cabbage Soup",
         "readyInMinutes": 45,
-        "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/644761-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/HZVLJQMT\/glazed-pork-chops",
-        "instructions": "<ol><li>Press one side of each chop into the black pepper.<\/li><li>Heat nonstick grill skillet until hot.<\/li><li>Add pork chops, pepper side down, and cook about 4 minutes or until browned.<\/li><li>Reduce heat to medium, turn pork chops and cook 6-8 minutes longer.<\/li><li>When done, take the skillet from the heat, cover the pork chops and set aside.<\/li><li>Meanwhile, mix honey, soy sauce, balsamic vinegar and cornstarch until smooth.<\/li><li>Add the cracked pepper, stir.<\/li><li>Melt the butter in a small pan, add garlic and cook for 30 seconds, stirring.<\/li><li>Stir honey mixture into pan, let it boil, cook for 1 minute, stirring.<\/li><li>Spoon sauce over pork chops, sprinkle with fresh chives or green onions.<\/li><li>Serve with polenta and green salad.<\/li><\/ol>",
-        "summary": "If you have roughly <b>45 minutes<\/b> to spend in the kitchen, Glazed pork chops might be an amazing <b>gluten free and ketogenic<\/b> recipe to try. This recipe serves 4 and costs $2.06 per serving. One portion of this dish contains roughly <b>31g of protein<\/b>, <b>32g of fat<\/b>, and a total of <b>459 calories<\/b>. 8 people have tried and liked this recipe. It is brought to you by Foodista. If you have balsamic vinegar, honey, garlic cloves, and a few other ingredients on hand, you can make it. Not a lot of people really liked this main course. Taking all factors into account, this recipe <b>earns a spoonacular score of 53%<\/b>, which is solid. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/glazed-pork-chops-1345505\">Glazed Pork Chops<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/glazed-pork-chops-443748\">Glazed Pork Chops<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/glazed-pork-chops-1222579\">Glazed Pork Chops<\/a>.",
+        "servings": 6,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/638315-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/R66F23JJ\/chicken-sausage-white-bean-and-cabbage-soup",
+        "instructions": "In a large pot, heat oil over medium heat.\nSaute onions until tender, about 8 minutes.\nAdd carrots and continue cooking for another 5 minutes.\nSeason with salt, pepper, garlic and red pepper flakes; cook for another minute.\nRemove sausage from casing and break into small chunks in the pot.\nToss with vegetables to brown meat, cooking for another 8-10 minutes.\nPour in stock, enough to cover everything; bring to a simmer.\nAdd white beans and cabbage, stirring to combine.\nSimmer, covered, until cabbage is wilted but not mushy, about 10 minutes.\nGenerally the sausage will contain enough salt for the soup, but check seasoning and add more salt or pepper if needed.",
+        "summary": "If you want to add more <b>gluten free and dairy free<\/b> recipes to your recipe box, Chicken Sausage, White Bean and Cabbage Soup might be a recipe you should try. One serving contains <b>312 calories<\/b>, <b>19g of protein<\/b>, and <b>13g of fat<\/b>. For <b>$1.96 per serving<\/b>, this recipe <b>covers 17%<\/b> of your daily requirements of vitamins and minerals. This recipe serves 6. 13 people have made this recipe and would make it again. A mixture of olive oil, mild chicken sausage, salt, and a handful of other ingredients are all it takes to make this recipe so flavorful. It can be enjoyed any time, but it is especially good for <b>Autumn<\/b>. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. It works well as a main course. It is brought to you by Foodista. Overall, this recipe earns a <b>pretty good spoonacular score of 67%<\/b>. Try <a href=\"https:\/\/spoonacular.com\/recipes\/white-bean-and-chicken-sausage-soup-1065782\">White Bean and Chicken Sausage Soup<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/chicken-sausage-and-white-bean-soup-video-850572\">Chicken Sausage and White Bean Soup Video<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/cabbage-and-white-bean-soup-11799\">Cabbage and White Bean Soup<\/a> for similar recipes.",
         "cuisines": [],
         "dishTypes": [
             "lunch",
+            "soup",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "1 Tbs balsamic vinegar",
-            "\u00bc tsp black pepper, cracked",
-            "1\/2 cup butter, melted",
-            "\u00bd tsp cornstarch",
-            "2 garlic cloves, minced",
-            "Fresh chives or green onions, sliced, for garnish",
-            "2 tablespoons honey",
-            "4 boneless pork chops, trimmed",
-            "1\/4 cup soy sauce"
+            "1 tablespoon olive oil",
+            "1 medium white onion, small dice (about 2 cups chopped)",
+            "2 carrots, peeled and diced",
+            "1\/2 teaspoon salt",
+            "1\/4 teaspoon black pepper",
+            "1 clove garlic, minced",
+            "1\/4 teaspoon crushed red pepper flakes",
+            "1 pound mild Italian chicken sausage",
+            "5 cups low sodium chicken or vegetable stock",
+            "15 oz can white beans, drained and rinsed",
+            "1\/2 head green cabbage"
         ]
     }
 }
