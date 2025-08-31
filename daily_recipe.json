@@ -1,34 +1,33 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-08-30",
+    "lastUpdated": "2025-08-31",
     "recipe": {
-        "title": "Chicken Sausage, White Bean and Cabbage Soup",
+        "title": "Chicken Pasta With Anchovy Rosemary Sauce",
         "readyInMinutes": 45,
-        "servings": 6,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/638315-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/R66F23JJ\/chicken-sausage-white-bean-and-cabbage-soup",
-        "instructions": "In a large pot, heat oil over medium heat.\nSaute onions until tender, about 8 minutes.\nAdd carrots and continue cooking for another 5 minutes.\nSeason with salt, pepper, garlic and red pepper flakes; cook for another minute.\nRemove sausage from casing and break into small chunks in the pot.\nToss with vegetables to brown meat, cooking for another 8-10 minutes.\nPour in stock, enough to cover everything; bring to a simmer.\nAdd white beans and cabbage, stirring to combine.\nSimmer, covered, until cabbage is wilted but not mushy, about 10 minutes.\nGenerally the sausage will contain enough salt for the soup, but check seasoning and add more salt or pepper if needed.",
-        "summary": "If you want to add more <b>gluten free and dairy free<\/b> recipes to your recipe box, Chicken Sausage, White Bean and Cabbage Soup might be a recipe you should try. One serving contains <b>312 calories<\/b>, <b>19g of protein<\/b>, and <b>13g of fat<\/b>. For <b>$1.96 per serving<\/b>, this recipe <b>covers 17%<\/b> of your daily requirements of vitamins and minerals. This recipe serves 6. 13 people have made this recipe and would make it again. A mixture of olive oil, mild chicken sausage, salt, and a handful of other ingredients are all it takes to make this recipe so flavorful. It can be enjoyed any time, but it is especially good for <b>Autumn<\/b>. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. It works well as a main course. It is brought to you by Foodista. Overall, this recipe earns a <b>pretty good spoonacular score of 67%<\/b>. Try <a href=\"https:\/\/spoonacular.com\/recipes\/white-bean-and-chicken-sausage-soup-1065782\">White Bean and Chicken Sausage Soup<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/chicken-sausage-and-white-bean-soup-video-850572\">Chicken Sausage and White Bean Soup Video<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/cabbage-and-white-bean-soup-11799\">Cabbage and White Bean Soup<\/a> for similar recipes.",
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/638245-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/QVWP6WF5\/chicken-pasta-with-anchovy-rosemary-sauce",
+        "instructions": "<ol><li>Place garlic, anchovies (with their oil), rosemary and lemon juice in a food processor.  Blend until fairly smooth.  Add lemon juice followed by olive oil and continue to blend until smooth.  Cover and set aside.<\/li><li>Season chicken with red pepper flakes, poultry seasoning and a pinch of kosher salt.  Set aside.<\/li><li>Start a pot of water boiling for the pasta.  Add a pinch of salt.  Once boiling, cook pasta to desired doneness, approximately 6-9 minutes for al dente.<\/li><li>As pasta cooks, drizzle a bit of olive oil in a wide pan.  When hot, add the chicken and cook until no longer pink inside, approximately 5-7 minutes.<\/li><li>Drain pasta and drop the noodles directly into the pan with the chicken.  Add anchovy sauce and toss to coat. Sprinkle with fresh parsley if desired.<\/li><\/ol>",
+        "summary": "If you have around <b>45 minutes<\/b> to spend in the kitchen, Chicken Pasta With Anchovy Rosemary Sauce might be an awesome <b>dairy free<\/b> recipe to try. This recipe serves 4. One serving contains <b>394 calories<\/b>, <b>23g of protein<\/b>, and <b>14g of fat<\/b>. For <b>$1.59 per serving<\/b>, this recipe <b>covers 16%<\/b> of your daily requirements of vitamins and minerals. It works well as a rather inexpensive main course. 2 people were impressed by this recipe. A mixture of olive oil, garlic, juice of lemon, and a handful of other ingredients are all it takes to make this recipe so tasty. It is brought to you by Foodista. Overall, this recipe earns a <b>solid spoonacular score of 58%<\/b>. If you like this recipe, take a look at these similar recipes: <a href=\"https:\/\/spoonacular.com\/recipes\/chicken-pasta-with-anchovy-rosemary-sauce-1375729\">Chicken Pasta With Anchovy Rosemary Sauce<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/pasta-with-walnut-anchovy-sauce-1108338\">Pasta with Walnut Anchovy Sauce<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/pasta-with-anchovy-walnut-sauce-238\">Pasta With Anchovy-walnut Sauce<\/a>.",
         "cuisines": [],
         "dishTypes": [
+            "side dish",
             "lunch",
-            "soup",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "1 tablespoon olive oil",
-            "1 medium white onion, small dice (about 2 cups chopped)",
-            "2 carrots, peeled and diced",
-            "1\/2 teaspoon salt",
-            "1\/4 teaspoon black pepper",
-            "1 clove garlic, minced",
-            "1\/4 teaspoon crushed red pepper flakes",
-            "1 pound mild Italian chicken sausage",
-            "5 cups low sodium chicken or vegetable stock",
-            "15 oz can white beans, drained and rinsed",
-            "1\/2 head green cabbage"
+            "2 ounces anchovies, in oil",
+            "1 boneless Chicken Breast",
+            "4 tablespoons fresh rosemary",
+            "1 large clove garlic, peeled and roughly chopped",
+            "Juice of 1\/2 lemon",
+            "Kosher salt",
+            "3 tablespoons Olive Oil",
+            "1 tablespoon poultry seasoning",
+            "1\/2 teaspoon red pepper flakes",
+            "1\/2 pound spaghetti"
         ]
     }
 }
