@@ -682,3 +682,7 @@
 [2025-08-31 02:37:38] Fetching recipe with day of year: 243
 [2025-08-31 02:37:39] Successfully fetched and saved recipe: Chicken Pasta With Anchovy Rosemary Sauce
 [2025-08-31 02:37:39] Recipe fetch process completed
+[2025-09-01 02:51:06] Starting recipe fetch process
+[2025-09-01 02:51:06] Fetching recipe with day of year: 244
+[2025-09-01 02:51:06] ERROR: Failed to get API response
+[2025-09-01 02:51:06] Recipe fetch process completed
