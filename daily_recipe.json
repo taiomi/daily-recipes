@@ -1,34 +1,36 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-09-02",
+    "lastUpdated": "2025-09-03",
     "recipe": {
-        "title": "Creamy Mushrooms Over Soba Noodles (Vegan)",
+        "title": "Plantain Salad",
         "readyInMinutes": 45,
-        "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/640666-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/FJXT4TLQ\/creamy-mushrooms-over-soba-noodles-vegan",
-        "instructions": "<ol><li>Melt 1 tbs of the Earth Balance in a saute pan.<\/li><li>Add mushrooms & garlic stirring until the mushrooms are dark and reduced.<\/li><li>Set the mushrooms aside.<\/li><li>In the same pan, melt the second tbs of Earth Balance and stir in the flour.  <\/li><li>Cook stirring for about a minute, making a roux to thicken your sauce.<\/li><li>  Slowly add the soy milk, stirring until it is smooth and thickened.<\/li><li>Add the mushrooms, lemon juice, thyme, salt, & pepper<\/li><li> Add a 1\/4 cup of white wine.<\/li><li>And cook until reduced and sauce has a pleasant consistency<\/li><li>Divide the cooked soba noodles into bowls<\/li><li>Ladle the sauce over soba noodles.<\/li><li>Garnish with sprigs of fresh thyme if you like.<\/li><li>Enjoy!<\/li><\/ol>",
-        "summary": "Creamy Mushrooms Over Soba Noodles (Vegan) is a main course that serves 4. One serving contains <b>587 calories<\/b>, <b>23g of protein<\/b>, and <b>24g of fat<\/b>. For <b>$2.54 per serving<\/b>, this recipe <b>covers 23%<\/b> of your daily requirements of vitamins and minerals. 3 people were glad they tried this recipe. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. This recipe from Foodista requires mushrooms, white wine, juice of lemon, and thyme. It is a good option if you're following a <b>dairy free<\/b> diet. Overall, this recipe earns a <b>solid spoonacular score of 59%<\/b>. Similar recipes include <a href=\"https:\/\/spoonacular.com\/recipes\/sweet-sour-soba-noodles-with-three-mushrooms-478539\">Sweet-sour soba noodles with three mushrooms<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/soba-noodles-with-roasted-tomatoes-mushrooms-and-eggs-602855\">Soba Noodles with Roasted Tomatoes, Mushrooms and Eggs<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/black-bean-soba-noodles-with-mushrooms-cabbage-211612\">Black bean soba noodles with mushrooms & cabbage<\/a>.",
+        "servings": 1,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/729366-556x370.jpg",
+        "sourceUrl": "http:\/\/www.afrolems.com\/2016\/04\/07\/plantain-salad\/",
+        "instructions": "Cube your plantain, fry and set aside.Chop your vegetables into your salad bowl and tossIn a pan, heat up vegetable oil and stir fry your shrimps and season. Allow to coolToss in your plantain and shrimps once cool into your bowl of vegetables.Sprinkle the parmesan cheese over the saladDrizzle your dressing over and serve cool.\u00a0\u00a0\u00a0",
+        "summary": "Plantain Salad could be just the <b>gluten free and pescatarian<\/b> recipe you've been looking for. For <b>$5.4 per serving<\/b>, you get a main course that serves 1. One serving contains <b>607 calories<\/b>, <b>21g of protein<\/b>, and <b>18g of fat<\/b>. Head to the store and pick up finger of plantain, parmesan cheese, bell pepper, and a few other things to make it today. This recipe from Afrolems has 126 fans. From preparation to the plate, this recipe takes about <b>45 minutes<\/b>. With a spoonacular <b>score of 98%<\/b>, this dish is spectacular. Try <a href=\"https:\/\/spoonacular.com\/recipes\/how-to-spiralize-a-plantain-plantain-rice-and-beans-563745\">How to Spiralize a Plantain & Plantain \u201cRice\u201d and Beans<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/honey-mustard-crunchy-chicken-plantain-salad-509763\">Honey Mustard Crunchy Chicken Plantain Salad<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/collard-greens-salad-with-fried-plantain-and-sumac-1432767\">Collard Greens Salad With Fried Plantain and Sumac<\/a> for similar recipes.",
         "cuisines": [],
         "dishTypes": [
             "side dish",
             "lunch",
             "main course",
+            "salad",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "1 tablespoon all purpose flour",
-            "chicken stock or white wine",
-            "cremini; but your choice)",
-            "1 teaspoon minced fresh thyme (or 1 Tbs fresh parsley)",
-            "2 cloves garlic, minced",
-            "Juice of 1\/2 lemon (I cheated, used bottled, was fine)",
-            "Salt & Pepper to taste",
-            "12 ounces soba noodles",
-            "2 tablespoons Earth Balance buttery spread",
-            "1 1\/4 cups unsweetened soy milk",
-            "12 ounces of mushrooms (I used a combo of white &"
+            "1 tablespoon of sweet chili dressing",
+            "1 small green bell pepper",
+            "1\/2 seasoning cube",
+            "A head of lettuce",
+            "1 small bulb of red onions",
+            "1 tablespoon of parmesan cheese",
+            "1 finger of ripe plantain",
+            "1 small red bell pepper",
+            "3 medium shrimps",
+            "2 firm tomatoes",
+            "1 tablespoon of vegetable oil",
+            "1 small yellow bell pepper"
         ]
     }
 }
