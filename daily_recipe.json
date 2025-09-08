@@ -1,43 +1,34 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-09-06",
+    "lastUpdated": "2025-09-08",
     "recipe": {
-        "title": "Gluten Free Dairy Free Sugar Free Chinese Chicken Salad",
+        "title": "Steak with lemon and capers",
         "readyInMinutes": 45,
-        "servings": 6,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/644826-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/ZSNGMXBF\/gluten-free-dairy-free-sugar-free-chinese-chicken-salad",
-        "instructions": "<ol><li>For the salad:<\/li><li>Finely slice the red, and green cabbage.<\/li><li>Remove ends and finely slice romaine lettuce.<\/li><li>Trim ends of scallions (white and green side) and finely slice.<\/li><li>Peel and grate carrots, or put into a mini food processor to finely chop.<\/li><li>Peel clementines then remove pith from slices.<\/li><li>Add all the ingredients into a large serving bowl.<\/li><li>For the dressing:<\/li><li>Add all the ingredients into a glass jar and shake until well blended, or whisk all the ingredients in a mixing bowl.<\/li><li>Pour dressing over salad, toss to combine well.<\/li><li>If making ahead, dress the salad just before serving.<\/li><\/ol>",
-        "summary": "Gluten Free Dairy Free Sugar Free Chinese Chicken Salad is a <b>gluten free and dairy free<\/b> main course. This recipe serves 6 and costs $3.06 per serving. One serving contains <b>364 calories<\/b>, <b>31g of protein<\/b>, and <b>15g of fat<\/b>. If you have scallions, pepper, kosher salt, and a few other ingredients on hand, you can make it. This recipe from Foodista has 3 fans. Not a lot of people really liked this Chinese dish. From preparation to the plate, this recipe takes about <b>45 minutes<\/b>. With a spoonacular <b>score of 94%<\/b>, this dish is great. If you like this recipe, take a look at these similar recipes: <a href=\"https:\/\/spoonacular.com\/recipes\/gluten-free-dairy-free-sugar-free-chinese-chicken-salad-1364955\">Gluten Free Dairy Free Sugar Free Chinese Chicken Salad<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/thousand-island-dressing-gluten-free-corn-free-dairy-free-soy-free-nut-free-gum-free-and-refined-sugar-free-512186\">Thousand Island Dressing (Gluten-Free, Corn-Free, Dairy-Free, Soy-Free, Nut-Free, Gum-Free and Refined Sugar-Free)<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/skinny-double-chocolate-muffins-vegan-gluten-free-dairy-free-egg-free-and-refined-sugar-free-1149614\">Skinny Double Chocolate Muffins-Vegan, Gluten Free, Dairy Free, Egg Free and Refined Sugar Free<\/a>.",
-        "cuisines": [
-            "Chinese",
-            "Asian"
-        ],
+        "servings": 2,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/661531-556x370.jpg",
+        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/JKGPWDDP\/steak-with-lemon-and-capers",
+        "instructions": "<ol><li>Flatten the steaks lightly with a meat mallet.<\/li><li>Combine flour, salt and pepper, dip steaks into the mixture, coating both sides.<\/li><li>Saut the steaks in a hot mixture of butter and olive oil over medium heat, about 4 minutes on each side. Remove from the pan and set aside.<\/li><li>Saut the garlic in the same fat for about 1 minute, stirring.<\/li><li>Add the wine and lemon juice, stir and simmer for 5 minutes to slightly reduce the liquid.<\/li><li>Add capers, stir. Return the steaks to the pan, cover and simmer over low heat for 4 minutes.<\/li><\/ol>",
+        "summary": "You can never have too many main course recipes, so give Steak with lemon and capers a try. One serving contains <b>949 calories<\/b>, <b>47g of protein<\/b>, and <b>54g of fat<\/b>. For <b>$6.46 per serving<\/b>, this recipe <b>covers 31%<\/b> of your daily requirements of vitamins and minerals. This recipe serves 2. This recipe is liked by 9 foodies and cooks. <b>valentin day<\/b> will be even more special with this recipe. Head to the store and pick up beef steak, wine, capers, and a few other things to make it today. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. It is brought to you by Foodista. With a spoonacular <b>score of 71%<\/b>, this dish is good. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/steak-salad-sandwiches-with-capers-30072\">Steak Salad Sandwiches with Capers<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/steak-salad-with-arugula-parmesan-crispy-capers-8826\">Steak Salad With Arugula, Parmesan & Crispy Capers<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/veal-with-lemon-and-capers-754915\">Veal with Lemon and Capers<\/a>.",
+        "cuisines": [],
         "dishTypes": [
-            "side dish",
             "lunch",
             "main course",
-            "salad",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "1 tsp. (5ml) of organic apple cider vinegar",
-            "1 teaspoon crushed black pepper",
-            "1 1\/2 tablespoons black sesame seeds",
-            "3 carrots",
-            "1\/4 C extra virgin olive oil + 7-8 Tbsp for frying",
-            "1\/2 green cabbage",
-            "1\/2 teaspoon kosher salt",
-            "6-8 fresh satsuma mandarins",
-            "1\/2 red cabbage",
-            "3 chicken breasts (bone in, preferably organic) roasted and shredded",
-            "2 bunches romaine lettuce hearts",
-            "6 scallions",
-            "3 tablespoons sesame oil",
-            "juice of 1 mandarin (cut crosswise then tablespoon into jar over a strainer)",
-            "3 tablespoons white sesame seeds",
-            "1 1\/2 tablespoons xylitol (I use Epic Dental brand)"
+            "400g beef steak (minute steak from leg)",
+            "2 tablespoons Butter",
+            "2 Tbs capers",
+            "\u00be cup dry white wine",
+            "1 cup flour",
+            "2 to 3 large cloves garlic, pressed",
+            "\u00bc tsp ground black pepper",
+            "1 teaspoon lemon juice",
+            "Lemon wedges",
+            "2 Tbs olive oil",
+            "2 teaspoons parsley, finely chopped",
+            "\u00be tsp salt"
         ]
     }
 }
