@@ -1,15 +1,18 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-09-08",
+    "lastUpdated": "2025-09-09",
     "recipe": {
-        "title": "Steak with lemon and capers",
+        "title": "Indian-Spiced Ground Beef Main Dish",
         "readyInMinutes": 45,
-        "servings": 2,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/661531-556x370.jpg",
-        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/JKGPWDDP\/steak-with-lemon-and-capers",
-        "instructions": "<ol><li>Flatten the steaks lightly with a meat mallet.<\/li><li>Combine flour, salt and pepper, dip steaks into the mixture, coating both sides.<\/li><li>Saut the steaks in a hot mixture of butter and olive oil over medium heat, about 4 minutes on each side. Remove from the pan and set aside.<\/li><li>Saut the garlic in the same fat for about 1 minute, stirring.<\/li><li>Add the wine and lemon juice, stir and simmer for 5 minutes to slightly reduce the liquid.<\/li><li>Add capers, stir. Return the steaks to the pan, cover and simmer over low heat for 4 minutes.<\/li><\/ol>",
-        "summary": "You can never have too many main course recipes, so give Steak with lemon and capers a try. One serving contains <b>949 calories<\/b>, <b>47g of protein<\/b>, and <b>54g of fat<\/b>. For <b>$6.46 per serving<\/b>, this recipe <b>covers 31%<\/b> of your daily requirements of vitamins and minerals. This recipe serves 2. This recipe is liked by 9 foodies and cooks. <b>valentin day<\/b> will be even more special with this recipe. Head to the store and pick up beef steak, wine, capers, and a few other things to make it today. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. It is brought to you by Foodista. With a spoonacular <b>score of 71%<\/b>, this dish is good. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/steak-salad-sandwiches-with-capers-30072\">Steak Salad Sandwiches with Capers<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/steak-salad-with-arugula-parmesan-crispy-capers-8826\">Steak Salad With Arugula, Parmesan & Crispy Capers<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/veal-with-lemon-and-capers-754915\">Veal with Lemon and Capers<\/a>.",
-        "cuisines": [],
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/645961-556x370.jpg",
+        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/JJJPDFJX\/ground-beef-with-spinach-and-mint",
+        "instructions": "<ol><li>Make a paste by pureeing the spinach, cilantro and mint in a food processor, with a tbsp or two of water. (don't go overboard on the mint otherwise the whole paste tastes bitter)<\/li><li>Heat the oil on medium and throw in the cardamom pods, cloves and cinnamon stick. After 1 minute add the onion and saute till golden-brown.<\/li><li>Then put in the green chillies, chopped garlic and ginger and cook for another minute.<\/li><li>Stir in the beef, red chilli powder, ground cumin, garam masala, ground black pepper, salt and cook on medium-high heat for 10 mins, stirring often.<\/li><li>Add half of the yogurt and mix well till incorporated and cook for another 2 mins.<\/li><li>Put in all of the green paste, mix well, and simmer for 10 mins.<\/li><li>Stir in the rest of the yogurt, cooking the whole thing for a further 5 mins. Taste for salt. Serve hot with parathas and fresh tomato salsa!<\/li><\/ol>",
+        "summary": "The recipe Indian-Spiced Ground Beef Main Dish can be made <b>in roughly 45 minutes<\/b>. One serving contains <b>466 calories<\/b>, <b>25g of protein<\/b>, and <b>36g of fat<\/b>. This recipe serves 4. For <b>$2.16 per serving<\/b>, this recipe <b>covers 30%<\/b> of your daily requirements of vitamins and minerals. 2 people were impressed by this recipe. It is a <b>reasonably priced<\/b> recipe for fans of Indian food. It works well as a main course. It is a good option if you're following a <b>gluten free and ketogenic<\/b> diet. Head to the store and pick up spinach, mint leaves, chillies, and a few other things to make it today. It is brought to you by Foodista. Overall, this recipe earns a <b>solid spoonacular score of 76%<\/b>. If you like this recipe, take a look at these similar recipes: <a href=\"https:\/\/spoonacular.com\/recipes\/indian-spiced-ground-beef-main-dish-1632293\">Indian-Spiced Ground Beef Main Dish<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/beef-stir-fry-salad-main-dish-386200\">Beef Stir-Fry Salad Main Dish<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/picadillo-cubano-cuban-ground-beef-dish-1275283\">Picadillo Cubano (Cuban Ground Beef Dish)<\/a>.",
+        "cuisines": [
+            "Indian",
+            "Asian"
+        ],
         "dishTypes": [
             "lunch",
             "main course",
@@ -17,18 +20,23 @@
             "dinner"
         ],
         "ingredients": [
-            "400g beef steak (minute steak from leg)",
-            "2 tablespoons Butter",
-            "2 Tbs capers",
-            "\u00be cup dry white wine",
-            "1 cup flour",
-            "2 to 3 large cloves garlic, pressed",
-            "\u00bc tsp ground black pepper",
-            "1 teaspoon lemon juice",
-            "Lemon wedges",
-            "2 Tbs olive oil",
-            "2 teaspoons parsley, finely chopped",
-            "\u00be tsp salt"
+            "3 tablespoons canola oil",
+            "1 teaspoon red chilli powder",
+            "1\/2 cup cilantro",
+            "1 inch cinnamon stick",
+            "1\/4 cup fresh mint leaves",
+            "10 ounces frozen spinach, thawed",
+            "1\/4 teaspoon garam masala",
+            "1 garlic glove, minced",
+            "1 teaspoon ginger paste",
+            "3 green cardamom pods",
+            "2 hot green chillies, finely sliced (less if you don't",
+            "1 pound ground beef",
+            "1\/2 teaspoon ground cumin",
+            "1\/4 teaspoon ground black pepper",
+            "1\/2 cup onion, chopped",
+            "1 cup plain yogurt, whipped smooth",
+            "1\/2 teaspoon Salt"
         ]
     }
 }
