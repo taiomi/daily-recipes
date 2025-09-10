@@ -718,3 +718,7 @@
 [2025-09-09 02:24:05] Fetching recipe with day of year: 252
 [2025-09-09 02:24:06] Successfully fetched and saved recipe: Indian-Spiced Ground Beef Main Dish
 [2025-09-09 02:24:06] Recipe fetch process completed
+[2025-09-10 02:18:46] Starting recipe fetch process
+[2025-09-10 02:18:46] Fetching recipe with day of year: 253
+[2025-09-10 02:18:46] ERROR: Failed to get API response
+[2025-09-10 02:18:46] Recipe fetch process completed
