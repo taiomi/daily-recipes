@@ -1,42 +1,41 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-09-09",
+    "lastUpdated": "2025-09-11",
     "recipe": {
-        "title": "Indian-Spiced Ground Beef Main Dish",
+        "title": "Classic French Mussels",
         "readyInMinutes": 45,
-        "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/645961-556x370.jpg",
-        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/JJJPDFJX\/ground-beef-with-spinach-and-mint",
-        "instructions": "<ol><li>Make a paste by pureeing the spinach, cilantro and mint in a food processor, with a tbsp or two of water. (don't go overboard on the mint otherwise the whole paste tastes bitter)<\/li><li>Heat the oil on medium and throw in the cardamom pods, cloves and cinnamon stick. After 1 minute add the onion and saute till golden-brown.<\/li><li>Then put in the green chillies, chopped garlic and ginger and cook for another minute.<\/li><li>Stir in the beef, red chilli powder, ground cumin, garam masala, ground black pepper, salt and cook on medium-high heat for 10 mins, stirring often.<\/li><li>Add half of the yogurt and mix well till incorporated and cook for another 2 mins.<\/li><li>Put in all of the green paste, mix well, and simmer for 10 mins.<\/li><li>Stir in the rest of the yogurt, cooking the whole thing for a further 5 mins. Taste for salt. Serve hot with parathas and fresh tomato salsa!<\/li><\/ol>",
-        "summary": "The recipe Indian-Spiced Ground Beef Main Dish can be made <b>in roughly 45 minutes<\/b>. One serving contains <b>466 calories<\/b>, <b>25g of protein<\/b>, and <b>36g of fat<\/b>. This recipe serves 4. For <b>$2.16 per serving<\/b>, this recipe <b>covers 30%<\/b> of your daily requirements of vitamins and minerals. 2 people were impressed by this recipe. It is a <b>reasonably priced<\/b> recipe for fans of Indian food. It works well as a main course. It is a good option if you're following a <b>gluten free and ketogenic<\/b> diet. Head to the store and pick up spinach, mint leaves, chillies, and a few other things to make it today. It is brought to you by Foodista. Overall, this recipe earns a <b>solid spoonacular score of 76%<\/b>. If you like this recipe, take a look at these similar recipes: <a href=\"https:\/\/spoonacular.com\/recipes\/indian-spiced-ground-beef-main-dish-1632293\">Indian-Spiced Ground Beef Main Dish<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/beef-stir-fry-salad-main-dish-386200\">Beef Stir-Fry Salad Main Dish<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/picadillo-cubano-cuban-ground-beef-dish-1275283\">Picadillo Cubano (Cuban Ground Beef Dish)<\/a>.",
+        "servings": 2,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/639599-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/X2W746Q6\/classic-french-mussels-done-light",
+        "instructions": "<ol><li>Scrub mussels with a stiff brush, discard any that are open and stay that way even when you close the shell. Discard any with broken shells.<\/li><li>Soak them in cool clean water for at least an hour. Mussels are alive and breathing and have taken in sand over time. This allows them to expel the sand.<\/li><li>Mussels have a small fibrous \"beard\" that should be removed. Pull it out toward the hinge of the shell to keep from injuring the mussel.<\/li><li>Heat the olive oil in a large pot over medium-high heat. Add the shallots and garlic and cook until soft, about 5 minutes. Add the mussels, wine, buttermilk, butter, and parsley and season well with the kosher salt. Give it a good stir, cover the pot, and cook until mussels open and are cooked through, 10 to 15 minutes. Divide the mussels and the juices between 2 bowls and serve with a crusty whole-grain bread to sop up that wonderful sauce.<\/li><\/ol>",
+        "summary": "You can never have too many hor d'oeuvre recipes, so give Classic French Mussels a try. This recipe serves 2 and costs $2.93 per serving. Watching your figure? This gluten free, primal, and pescatarian recipe has <b>501 calories<\/b>, <b>32g of protein<\/b>, and <b>28g of fat<\/b> per serving. From preparation to the plate, this recipe takes about <b>45 minutes<\/b>. 2 people have made this recipe and would make it again. It is brought to you by Foodista. It is a <b>reasonably priced<\/b> recipe for fans of Mediterranean food. If you have buttermilk, parsley, butter, and a few other ingredients on hand, you can make it. All things considered, we decided this recipe <b>deserves a spoonacular score of 72%<\/b>. This score is solid. Similar recipes include <a href=\"https:\/\/spoonacular.com\/recipes\/classic-french-mussels-738888\">Classic French Mussels<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/french-country-mussels-138579\">French Country Mussels<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/french-steamed-mussels-1180539\">French Steamed Mussels<\/a>.",
         "cuisines": [
-            "Indian",
-            "Asian"
+            "Mediterranean",
+            "French",
+            "European"
         ],
         "dishTypes": [
+            "antipasti",
             "lunch",
             "main course",
+            "starter",
+            "snack",
+            "appetizer",
             "main dish",
+            "antipasto",
+            "hor d'oeuvre",
             "dinner"
         ],
         "ingredients": [
-            "3 tablespoons canola oil",
-            "1 teaspoon red chilli powder",
-            "1\/2 cup cilantro",
-            "1 inch cinnamon stick",
-            "1\/4 cup fresh mint leaves",
-            "10 ounces frozen spinach, thawed",
-            "1\/4 teaspoon garam masala",
-            "1 garlic glove, minced",
-            "1 teaspoon ginger paste",
-            "3 green cardamom pods",
-            "2 hot green chillies, finely sliced (less if you don't",
-            "1 pound ground beef",
-            "1\/2 teaspoon ground cumin",
-            "1\/4 teaspoon ground black pepper",
-            "1\/2 cup onion, chopped",
-            "1 cup plain yogurt, whipped smooth",
-            "1\/2 teaspoon Salt"
+            "1\/2 cup dry white wine",
+            "3 sprigs fresh parsley",
+            "4 garlic cloves, finely chopped",
+            "Kosher salt",
+            "1\/2 cup low-fat buttermilk",
+            "2 pounds mussels, cleaned",
+            "1 Tbs olive oil",
+            "2 shallots, finely chopped",
+            "4 tablespoons unsalted light butter, cut into pieces"
         ]
     }
 }
