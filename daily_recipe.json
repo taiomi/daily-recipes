@@ -1,41 +1,36 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-09-11",
+    "lastUpdated": "2025-09-12",
     "recipe": {
-        "title": "Classic French Mussels",
+        "title": "Lamb Tagine Stew",
         "readyInMinutes": 45,
-        "servings": 2,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/639599-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/X2W746Q6\/classic-french-mussels-done-light",
-        "instructions": "<ol><li>Scrub mussels with a stiff brush, discard any that are open and stay that way even when you close the shell. Discard any with broken shells.<\/li><li>Soak them in cool clean water for at least an hour. Mussels are alive and breathing and have taken in sand over time. This allows them to expel the sand.<\/li><li>Mussels have a small fibrous \"beard\" that should be removed. Pull it out toward the hinge of the shell to keep from injuring the mussel.<\/li><li>Heat the olive oil in a large pot over medium-high heat. Add the shallots and garlic and cook until soft, about 5 minutes. Add the mussels, wine, buttermilk, butter, and parsley and season well with the kosher salt. Give it a good stir, cover the pot, and cook until mussels open and are cooked through, 10 to 15 minutes. Divide the mussels and the juices between 2 bowls and serve with a crusty whole-grain bread to sop up that wonderful sauce.<\/li><\/ol>",
-        "summary": "You can never have too many hor d'oeuvre recipes, so give Classic French Mussels a try. This recipe serves 2 and costs $2.93 per serving. Watching your figure? This gluten free, primal, and pescatarian recipe has <b>501 calories<\/b>, <b>32g of protein<\/b>, and <b>28g of fat<\/b> per serving. From preparation to the plate, this recipe takes about <b>45 minutes<\/b>. 2 people have made this recipe and would make it again. It is brought to you by Foodista. It is a <b>reasonably priced<\/b> recipe for fans of Mediterranean food. If you have buttermilk, parsley, butter, and a few other ingredients on hand, you can make it. All things considered, we decided this recipe <b>deserves a spoonacular score of 72%<\/b>. This score is solid. Similar recipes include <a href=\"https:\/\/spoonacular.com\/recipes\/classic-french-mussels-738888\">Classic French Mussels<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/french-country-mussels-138579\">French Country Mussels<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/french-steamed-mussels-1180539\">French Steamed Mussels<\/a>.",
-        "cuisines": [
-            "Mediterranean",
-            "French",
-            "European"
-        ],
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/649248-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/W5XY7PWG\/lamb-tagine-stew",
+        "instructions": "<ol><li>Saute lamb chops in 2 teaspoons of olive oil.<\/li><li>Place 2 teaspoons of olive oil in a wok and add onions, carrots, salt and pepper, oregano and stock. Add lamb, mushrooms and peas.<\/li><li>In a separate bowl, mix parsley, lemon juice and cinnamon. Add this mixture to the wok. Serve with couscous.<\/li><\/ol>",
+        "summary": "The recipe Lamb Tagine Stew can be made <b>in about 45 minutes<\/b>. Watching your figure? This gluten free, dairy free, paleolithic, and primal recipe has <b>941 calories<\/b>, <b>48g of protein<\/b>, and <b>71g of fat<\/b> per serving. This recipe serves 4. For <b>$4.7 per serving<\/b>, this recipe <b>covers 41%<\/b> of your daily requirements of vitamins and minerals. It works well as a rather pricey main course for <b>Autumn<\/b>. 2 people were glad they tried this recipe. Head to the store and pick up oregano, juice of lemon, lamb stock, and a few other things to make it today. It is brought to you by Foodista. Taking all factors into account, this recipe <b>earns a spoonacular score of 83%<\/b>, which is amazing. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/lamb-tagine-stew-1404521\">Lamb Tagine Stew<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/lamb-tagine-97554\">Lamb Tagine<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/lamb-tagine-97171\">Lamb Tagine<\/a>.",
+        "cuisines": [],
         "dishTypes": [
-            "antipasti",
             "lunch",
+            "soup",
             "main course",
-            "starter",
-            "snack",
-            "appetizer",
             "main dish",
-            "antipasto",
-            "hor d'oeuvre",
             "dinner"
         ],
         "ingredients": [
-            "1\/2 cup dry white wine",
-            "3 sprigs fresh parsley",
-            "4 garlic cloves, finely chopped",
-            "Kosher salt",
-            "1\/2 cup low-fat buttermilk",
-            "2 pounds mussels, cleaned",
-            "1 Tbs olive oil",
-            "2 shallots, finely chopped",
-            "4 tablespoons unsalted light butter, cut into pieces"
+            "1\/2 teaspoon Black pepper, ground",
+            "4 carrot, sliced",
+            "1\/2 teaspoon Cinnamon",
+            "1\/2 pound green peas",
+            "Half a lemon, juice of",
+            "2 pounds Lamb, cubed",
+            "4 cups lamb stock, (or chicken stock)",
+            "1 cup mushroom",
+            "4 tablespoons Olive oil",
+            "1 small onion, chopped",
+            "1\/2 teaspoon oregano",
+            "3 teaspoons parsley, chopped",
+            "salt"
         ]
     }
 }
