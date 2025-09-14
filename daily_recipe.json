@@ -1,36 +1,30 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-09-12",
+    "lastUpdated": "2025-09-14",
     "recipe": {
-        "title": "Lamb Tagine Stew",
+        "title": "Bbq Pork Steak",
         "readyInMinutes": 45,
-        "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/649248-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/W5XY7PWG\/lamb-tagine-stew",
-        "instructions": "<ol><li>Saute lamb chops in 2 teaspoons of olive oil.<\/li><li>Place 2 teaspoons of olive oil in a wok and add onions, carrots, salt and pepper, oregano and stock. Add lamb, mushrooms and peas.<\/li><li>In a separate bowl, mix parsley, lemon juice and cinnamon. Add this mixture to the wok. Serve with couscous.<\/li><\/ol>",
-        "summary": "The recipe Lamb Tagine Stew can be made <b>in about 45 minutes<\/b>. Watching your figure? This gluten free, dairy free, paleolithic, and primal recipe has <b>941 calories<\/b>, <b>48g of protein<\/b>, and <b>71g of fat<\/b> per serving. This recipe serves 4. For <b>$4.7 per serving<\/b>, this recipe <b>covers 41%<\/b> of your daily requirements of vitamins and minerals. It works well as a rather pricey main course for <b>Autumn<\/b>. 2 people were glad they tried this recipe. Head to the store and pick up oregano, juice of lemon, lamb stock, and a few other things to make it today. It is brought to you by Foodista. Taking all factors into account, this recipe <b>earns a spoonacular score of 83%<\/b>, which is amazing. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/lamb-tagine-stew-1404521\">Lamb Tagine Stew<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/lamb-tagine-97554\">Lamb Tagine<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/lamb-tagine-97171\">Lamb Tagine<\/a>.",
+        "servings": 2,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/634509-556x370.jpg",
+        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/ZWWD5DZQ\/bbq-pork-steak",
+        "instructions": "<ol><li>Marinate pork steak for 24 hours in meat marinate mix and Italian dressing. Remove from marinate and brown on grill for about 20 minutes. After preparing barbeque sauce, use liberally on grilling pork steak.<\/li><li>Sauce preparation: Mix sauce in small saucepan and cook to blend. Add corn syrup to taste.<\/li><\/ol>",
+        "summary": "Bbq Pork Steak is a main course that serves 2. One portion of this dish contains approximately <b>114g of protein<\/b>, <b>73g of fat<\/b>, and a total of <b>1946 calories<\/b>. For <b>$10.28 per serving<\/b>, this recipe <b>covers 44%<\/b> of your daily requirements of vitamins and minerals. From preparation to the plate, this recipe takes about <b>45 minutes<\/b>. A mixture of butter, corn syrup, reg. flavor open bit, and a handful of other ingredients are all it takes to make this recipe so tasty. It can be enjoyed any time, but it is especially good for <b>valentin day<\/b>. 2 people were glad they tried this recipe. It is a good option if you're following a <b>gluten free<\/b> diet. It is brought to you by Foodista. All things considered, we decided this recipe <b>deserves a spoonacular score of 68%<\/b>. This score is solid. <a href=\"https:\/\/spoonacular.com\/recipes\/bbq-pork-steak-1371701\">Bbq Pork Steak<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/bbq-pork-steak-crock-pot-1231179\">BBQ Pork Steak Crock Pot<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/bbq-pork-steak-crock-pot-146231\">BBQ Pork Steak Crock Pot<\/a> are very similar to this recipe.",
         "cuisines": [],
         "dishTypes": [
             "lunch",
-            "soup",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "1\/2 teaspoon Black pepper, ground",
-            "4 carrot, sliced",
-            "1\/2 teaspoon Cinnamon",
-            "1\/2 pound green peas",
-            "Half a lemon, juice of",
-            "2 pounds Lamb, cubed",
-            "4 cups lamb stock, (or chicken stock)",
-            "1 cup mushroom",
-            "4 tablespoons Olive oil",
-            "1 small onion, chopped",
-            "1\/2 teaspoon oregano",
-            "3 teaspoons parsley, chopped",
-            "salt"
+            "3 tablespoons butter, divided",
+            "White corn syrup, to taste",
+            "1 (18 oz.) reg. flavor Open Bit",
+            "1 (8 oz.) bottle Italian dressing",
+            "1 env. meat marinade",
+            "1\/2 onion, finely chopped",
+            "6 pork chops",
+            "1 teaspoon Worcestershire"
         ]
     }
 }
