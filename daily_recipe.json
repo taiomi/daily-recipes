@@ -1,14 +1,14 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-09-15",
+    "lastUpdated": "2025-09-17",
     "recipe": {
-        "title": "Easy Baked Parmesan Chicken",
+        "title": "Salmon with roasted vegetables",
         "readyInMinutes": 45,
-        "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/641836-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/KVKJYVHX\/easy-parmesan-chicken",
-        "instructions": "Preheat oven to 400 degrees. Dip chicken in egg, then bread crumbs.\nIn 13 X 9 inch baking dish, arrange chicken. bake uncovered 20 minutes.\nPour pasta sauce over chicken, then top with cheese. Bake 10 more minutes or until chicken reaches 170 degrees and is no longer pink.\nServe immediately with or over pasta.",
-        "summary": "Easy Baked Parmesan Chicken might be a good recipe to expand your main course recipe box. This recipe serves 4 and costs $3.4 per serving. One portion of this dish contains roughly <b>62g of protein<\/b>, <b>20g of fat<\/b>, and a total of <b>497 calories<\/b>. This recipe is liked by 92 foodies and cooks. This recipe from Foodista requires chicken breast halves, egg, parmesan cheese, and mozzarella cheese. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. With a spoonacular <b>score of 93%<\/b>, this dish is amazing. <a href=\"https:\/\/spoonacular.com\/recipes\/easy-baked-chicken-parmesan-1450493\">Easy Baked Chicken Parmesan<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/easy-parmesan-baked-chicken-137192\">Easy Parmesan Baked Chicken<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/weight-watchers-easy-healthy-baked-chicken-parmesan-1293595\">Weight Watchers Easy Healthy Baked Chicken Parmesan<\/a> are very similar to this recipe.",
+        "servings": 2,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/659135-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/7TTSVX56\/salmon-with-roasted-vegetables",
+        "instructions": "Season the salmon fillets with some salt, pepper and a pinch of paprika and keep aside.\nPreheat the oven to 200 C.  Roughly dice the potatoes, parsnips and carrots and add to a roasting tray. Drizzle over the olive oil and season with salt and pepper. Mix well and roast for 15 minutes. Add in the onion and roast for a further 10-15 minutes\nPlace the salmon fillets and tomatoes between the veg. Drizzle the lemon juice and sprinkle over the rosemary and thyme. Season lightly with salt and pepper and roast for 10-15 minutes or until the salmon and veg is cooked through.\nServe with some green salad.",
+        "summary": "Salmon with roasted vegetables takes approximately <b>45 minutes<\/b> from beginning to end. For <b>$5.2 per serving<\/b>, this recipe <b>covers 45%<\/b> of your daily requirements of vitamins and minerals. This recipe serves 2. One serving contains <b>496 calories<\/b>, <b>39g of protein<\/b>, and <b>18g of fat<\/b>. Head to the store and pick up lemon juice, salt, carrot, and a few other things to make it today. Not a lot of people made this recipe, and 7 would say it hit the spot. It works well as a main course. It is a good option if you're following a <b>gluten free, dairy free, whole 30, and pescatarian<\/b> diet. It is brought to you by Foodista. Overall, this recipe earns a <b>great spoonacular score of 94%<\/b>. If you like this recipe, take a look at these similar recipes: <a href=\"https:\/\/spoonacular.com\/recipes\/roasted-salmon-vegetables-1312689\">Roasted Salmon & Vegetables<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/roasted-salmon-vegetables-36765\">Roasted Salmon & Vegetables<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/salmon-with-roasted-vegetables-1333407\">Salmon with roasted vegetables<\/a>.",
         "cuisines": [],
         "dishTypes": [
             "lunch",
@@ -17,12 +17,16 @@
             "dinner"
         ],
         "ingredients": [
-            "8 boneless, skinless chicken breast halves",
-            "2 egg, slightly beaten",
-            "1 1\/2 cups Italian bread crumbs",
-            "1 jar pasta sauce",
-            "1 cup mozzarella cheese, shredded",
-            "1\/4 cup Parmesan cheese, grated"
+            "1 potato",
+            "1 parsnip",
+            "1 carrot",
+            "1 onion, sliced",
+            "150 g cherry tomatoes",
+            "2 salmon fillets",
+            "1 tbsp olive oil",
+            "1 tsp lemon juice",
+            "Salt, pepper and paprika for seasoning",
+            "2 tsp of fresh rosemary and thyme, chopped"
         ]
     }
 }
