@@ -1,14 +1,14 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-09-21",
+    "lastUpdated": "2025-09-23",
     "recipe": {
-        "title": "Herb chicken with sweet potato mash and saut\u00e9ed broccoli",
+        "title": "Eggplant & Artichoke Heart Galettes",
         "readyInMinutes": 45,
-        "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/646651-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/NHZKT2K8\/serve-a-sensationally-seasoned-chicken-dish",
-        "instructions": "<ol><li> Preheat the oven to 350F (180C) or 320F (160C) for convection oven and cook the chicken according to the pack instructions.<\/li><li> About 15 minutes before the end of the chicken cooking time, place the diced potato into boiling water for 5 minutes, then add the sweet potato and cook until the potatoes are tender. Roughly mash, adding butter, salt, and pepper to taste, then mash thoroughly.<\/li><li> Heat the oil in a pan and quickly saut the broccoli until tender. Cover to keep warm.<\/li><li> Remove the chicken from the oven, leave to cool for a minute then cut the bag open and gently tip the contents into a dish.<\/li><li> Slice the chicken breasts into chunky pieces on a board, keeping the chicken breast shape together.<\/li><li> Serve the mash potato topped with the chicken and remaining sauce with a side of broccoli.<\/li><\/ol>",
-        "summary": "Herb chicken with sweet potato mash and saut\u00e9ed broccoli might be a good recipe to expand your main course recipe box. One portion of this dish contains roughly <b>47g of protein<\/b>, <b>25g of fat<\/b>, and a total of <b>710 calories<\/b>. For <b>$3.13 per serving<\/b>, this recipe <b>covers 50%<\/b> of your daily requirements of vitamins and minerals. This recipe serves 4. 9 people have made this recipe and would make it again. Head to the store and pick up broccoli, butter, pepper and salt, and a few other things to make it today. It is a good option if you're following a <b>gluten free<\/b> diet. It is brought to you by Foodista. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. Taking all factors into account, this recipe <b>earns a spoonacular score of 95%<\/b>, which is awesome. Try <a href=\"https:\/\/spoonacular.com\/recipes\/herb-chicken-with-sweet-potato-mash-and-sauted-broccoli-1263701\">Herb chicken with sweet potato mash and saut\u00e9ed broccoli<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/herb-chicken-with-sweet-potato-mash-and-sauted-broccoli-1516743\">Herb chicken with sweet potato mash and saut\u00e9ed broccoli<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/herb-chicken-with-sweet-potato-mash-and-sauted-broccoli-1337501\">Herb chicken with sweet potato mash and saut\u00e9ed broccoli<\/a> for similar recipes.",
+        "servings": 2,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/642272-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/LD5GLFXJ\/eggplant-artichoke-heart-galettes",
+        "instructions": "<ol><li>Peel and thinly slice the eggplant. Place in a drainer or bowl and toss with sea salt. Let it sit for one hour for the bitter juices to be drawn out. Rinse under running water to remove the salt and squeeze tightly with your hands to remove excess water. Place in a mixing bowl.<\/li><li>In a medium bowl, beat eggs with flour to make a thick paste. If paste is thin, add extra flour. Mix well till the mixture is smooth. Stir in eggplant &amp; artichoke hearts and mix till they are well coated.<\/li><li>Add rosemary, chili flakes, garlic and season to taste with sea salt and pepper (be careful not to add too much salt) . Add goat cheese and mix carefully so not to cream it - you want them to be chunky.<\/li><li>Heat a large oiled pan. When hot, pour about 2 spoonfuls of mixture into the pan and they should form into galettes or \"cakes\". Cook until both sides are golden brown.<\/li><li>Makes 6 galettes\/cakes. Serving size is 3 cakes per person.<\/li><\/ol>",
+        "summary": "Eggplant & Artichoke Heart Galettes is a main course that serves 2. One serving contains <b>463 calories<\/b>, <b>21g of protein<\/b>, and <b>14g of fat<\/b>. For <b>$3.73 per serving<\/b>, this recipe <b>covers 33%<\/b> of your daily requirements of vitamins and minerals. If you have goat cheese, bell pepper, garlic cloves, and a few other ingredients on hand, you can make it. 13 people have made this recipe and would make it again. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. It is a good option if you're following a <b>gluten free and lacto ovo vegetarian<\/b> diet. It is brought to you by Foodista. Taking all factors into account, this recipe <b>earns a spoonacular score of 81%<\/b>, which is awesome. Try <a href=\"https:\/\/spoonacular.com\/recipes\/jerusalem-artichoke-and-artichoke-heart-linguine-190961\">Jerusalem Artichoke and Artichoke Heart Linguine<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/artichoke-heart-dip-109092\">Artichoke Heart Dip<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/artichoke-heart-chicken-109207\">Artichoke Heart Chicken<\/a> for similar recipes.",
         "cuisines": [],
         "dishTypes": [
             "lunch",
@@ -17,14 +17,16 @@
             "dinner"
         ],
         "ingredients": [
-            "1 medium head of broccoli, cut into florets",
-            "1 x pack Maggi So Juicy Mixed Herbs",
-            "1\/4 cup olive oil (60 mL)",
-            "1 large Russet potato, peeled and diced",
-            "Freshly ground black pepper and salt",
-            "1 1\/2 pounds of boneless, skinless chicken breasts",
-            "3 large sweet potatoes, peeled and diced",
-            "2 tablespoons Chilled unsalted butter"
+            "1 can plain artichoke hearts, chopped",
+            "10 tablespoons brown rice flour (or regular)",
+            "1 teaspoon chili flakes",
+            "1 medium\/large eggplant",
+            "3 eggs",
+            "3 teaspoons fresh rosemary, finely chopped",
+            "2 garlic cloves, minced",
+            "1\/4 cup fresh goat cheese (or cheese)",
+            "pepper",
+            "1 tablespoon sea salt"
         ]
     }
 }
