@@ -1,32 +1,35 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-09-23",
+    "lastUpdated": "2025-09-24",
     "recipe": {
-        "title": "Eggplant & Artichoke Heart Galettes",
+        "title": "Creamy Mushroom Soup ~ with a \u201cKick\u201d",
         "readyInMinutes": 45,
-        "servings": 2,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/642272-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/LD5GLFXJ\/eggplant-artichoke-heart-galettes",
-        "instructions": "<ol><li>Peel and thinly slice the eggplant. Place in a drainer or bowl and toss with sea salt. Let it sit for one hour for the bitter juices to be drawn out. Rinse under running water to remove the salt and squeeze tightly with your hands to remove excess water. Place in a mixing bowl.<\/li><li>In a medium bowl, beat eggs with flour to make a thick paste. If paste is thin, add extra flour. Mix well till the mixture is smooth. Stir in eggplant &amp; artichoke hearts and mix till they are well coated.<\/li><li>Add rosemary, chili flakes, garlic and season to taste with sea salt and pepper (be careful not to add too much salt) . Add goat cheese and mix carefully so not to cream it - you want them to be chunky.<\/li><li>Heat a large oiled pan. When hot, pour about 2 spoonfuls of mixture into the pan and they should form into galettes or \"cakes\". Cook until both sides are golden brown.<\/li><li>Makes 6 galettes\/cakes. Serving size is 3 cakes per person.<\/li><\/ol>",
-        "summary": "Eggplant & Artichoke Heart Galettes is a main course that serves 2. One serving contains <b>463 calories<\/b>, <b>21g of protein<\/b>, and <b>14g of fat<\/b>. For <b>$3.73 per serving<\/b>, this recipe <b>covers 33%<\/b> of your daily requirements of vitamins and minerals. If you have goat cheese, bell pepper, garlic cloves, and a few other ingredients on hand, you can make it. 13 people have made this recipe and would make it again. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. It is a good option if you're following a <b>gluten free and lacto ovo vegetarian<\/b> diet. It is brought to you by Foodista. Taking all factors into account, this recipe <b>earns a spoonacular score of 81%<\/b>, which is awesome. Try <a href=\"https:\/\/spoonacular.com\/recipes\/jerusalem-artichoke-and-artichoke-heart-linguine-190961\">Jerusalem Artichoke and Artichoke Heart Linguine<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/artichoke-heart-dip-109092\">Artichoke Heart Dip<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/artichoke-heart-chicken-109207\">Artichoke Heart Chicken<\/a> for similar recipes.",
+        "servings": 8,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/640663-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/7PHPCY4V\/creamy-mushroom-soup-with-a-kick",
+        "instructions": "<ol><li>Heat a large saucepot with a drizzle of olive oil. Place the garlic, long hot pepper, onion and mushrooms in the pot to saut until the onion is clear.<\/li><li>Prepare the bacon on a heated griddle and let the bacon get nice and crispy. When the bacon is done set it aside.<\/li><li>Add the tablespoon of bouillon and the cups of water to the pot and simmer. Add the cup of potato buds, stir and continue to simmer on low. Add the cups of milk and simmer on low for a few more minutes.<\/li><li>When the soup is ready to be served add the lime juice and stir. Top the soup with the bacon bits, cilantro and cheddar cheese.<\/li><\/ol>",
+        "summary": "Creamy Mushroom Soup ~ with a \u201cKick\u201d could be just the <b>gluten free<\/b> recipe you've been looking for. For <b>$1.58 per serving<\/b>, you get a main course that serves 8. One portion of this dish contains roughly <b>16g of protein<\/b>, <b>33g of fat<\/b>, and a total of <b>414 calories<\/b>. This recipe from Foodista requires bacon, vegeta bouillon - plus 6 of water, long pepper, and juice of lime. It can be enjoyed any time, but it is especially good for <b>Autumn<\/b>. This recipe is liked by 2 foodies and cooks. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 51%<\/b>. This score is pretty good. Similar recipes include <a href=\"https:\/\/spoonacular.com\/recipes\/creamy-mushroom-soup-1540179\">Creamy Mushroom Soup<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/creamy-mushroom-soup-76435\">Creamy Mushroom Soup<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/creamy-mushroom-soup-278369\">Creamy Mushroom Soup<\/a>.",
         "cuisines": [],
         "dishTypes": [
             "lunch",
+            "soup",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "1 can plain artichoke hearts, chopped",
-            "10 tablespoons brown rice flour (or regular)",
-            "1 teaspoon chili flakes",
-            "1 medium\/large eggplant",
-            "3 eggs",
-            "3 teaspoons fresh rosemary, finely chopped",
-            "2 garlic cloves, minced",
-            "1\/4 cup fresh goat cheese (or cheese)",
-            "pepper",
-            "1 tablespoon sea salt"
+            "1\/4 pound bacon \u2013 cut into pieces",
+            "1 quart of button mushrooms \u2013 sliced",
+            "Cilantro \u2013 chopped- for garnish",
+            "1 large clove of garlic, minced",
+            "1\/2 Juice of lime",
+            "1 long hot pepper \u2013 chopped with seeds",
+            "3 cups of milk",
+            "Olive oil for drizzling",
+            "1 cup of potato buds",
+            "Shredded cheddar cheese \u2013 for garnish",
+            "1\/2 sweet onion \u2013 chopped",
+            "1 cup tablespoon of Vegeta bouillon \u2013 (or your favorite bouillon) plus 6 of water"
         ]
     }
 }
