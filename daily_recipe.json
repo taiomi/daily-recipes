@@ -1,35 +1,32 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-09-24",
+    "lastUpdated": "2025-09-26",
     "recipe": {
-        "title": "Creamy Mushroom Soup ~ with a \u201cKick\u201d",
+        "title": "Spaghetti With Pesto Trapanese",
         "readyInMinutes": 45,
-        "servings": 8,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/640663-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/7PHPCY4V\/creamy-mushroom-soup-with-a-kick",
-        "instructions": "<ol><li>Heat a large saucepot with a drizzle of olive oil. Place the garlic, long hot pepper, onion and mushrooms in the pot to saut until the onion is clear.<\/li><li>Prepare the bacon on a heated griddle and let the bacon get nice and crispy. When the bacon is done set it aside.<\/li><li>Add the tablespoon of bouillon and the cups of water to the pot and simmer. Add the cup of potato buds, stir and continue to simmer on low. Add the cups of milk and simmer on low for a few more minutes.<\/li><li>When the soup is ready to be served add the lime juice and stir. Top the soup with the bacon bits, cilantro and cheddar cheese.<\/li><\/ol>",
-        "summary": "Creamy Mushroom Soup ~ with a \u201cKick\u201d could be just the <b>gluten free<\/b> recipe you've been looking for. For <b>$1.58 per serving<\/b>, you get a main course that serves 8. One portion of this dish contains roughly <b>16g of protein<\/b>, <b>33g of fat<\/b>, and a total of <b>414 calories<\/b>. This recipe from Foodista requires bacon, vegeta bouillon - plus 6 of water, long pepper, and juice of lime. It can be enjoyed any time, but it is especially good for <b>Autumn<\/b>. This recipe is liked by 2 foodies and cooks. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 51%<\/b>. This score is pretty good. Similar recipes include <a href=\"https:\/\/spoonacular.com\/recipes\/creamy-mushroom-soup-1540179\">Creamy Mushroom Soup<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/creamy-mushroom-soup-76435\">Creamy Mushroom Soup<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/creamy-mushroom-soup-278369\">Creamy Mushroom Soup<\/a>.",
+        "servings": 6,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/660835-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/VWV2WXBJ\/spaghetti-with-pesto-trapanese",
+        "instructions": "Place a large (this is key) pot of water to boil. Salt when it boils, not before.\nMeanwhile, make the pesto: In a mortar (or use a food processor with a blade) pound together the oil, almonds and pine-nuts. Add the garlic, 2 ice cubes and the rest of the ingredients, pounding quickly to make a paste.You want to leave a bit of a texture for crunch.\nCook the pasta al dente, as per directions, drain and reserve some of the boiling water. Toss the pasta with the pesto, using some of the reserved water to make it creamier. Grate some fresh pecorino or ricotta salata (or both) over and serve hot with a leaf of basil to garnish.",
+        "summary": "Spaghetti With Pesto Trapanese is a <b>lacto ovo vegetarian<\/b> recipe with 6 servings. For <b>$1.46 per serving<\/b>, this recipe <b>covers 19%<\/b> of your daily requirements of vitamins and minerals. One serving contains <b>433 calories<\/b>, <b>14g of protein<\/b>, and <b>15g of fat<\/b>. Not a lot of people made this recipe, and 4 would say it hit the spot. Head to the store and pick up spaghetti, almonds, pine nuts, and a few other things to make it today. It works best as a main course, and is done in around <b>45 minutes<\/b>. It is brought to you by Foodista. All things considered, we decided this recipe <b>deserves a spoonacular score of 86%<\/b>. This score is tremendous. Try <a href=\"https:\/\/spoonacular.com\/recipes\/spaghetti-with-pesto-trapanese-530919\">Spaghetti with Pesto Trapanese<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/pasta-con-il-pesto-alla-trapanese-tomato-and-almond-pesto-1219115\">Pasta con il pesto alla Trapanese (Tomato and almond pesto)<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/pasta-con-il-pesto-alla-trapanese-tomato-and-almond-pesto-218612\">Pasta con il pesto alla Trapanese (Tomato and almond pesto)<\/a> for similar recipes.",
         "cuisines": [],
         "dishTypes": [
+            "side dish",
             "lunch",
-            "soup",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "1\/4 pound bacon \u2013 cut into pieces",
-            "1 quart of button mushrooms \u2013 sliced",
-            "Cilantro \u2013 chopped- for garnish",
-            "1 large clove of garlic, minced",
-            "1\/2 Juice of lime",
-            "1 long hot pepper \u2013 chopped with seeds",
-            "3 cups of milk",
-            "Olive oil for drizzling",
-            "1 cup of potato buds",
-            "Shredded cheddar cheese \u2013 for garnish",
-            "1\/2 sweet onion \u2013 chopped",
-            "1 cup tablespoon of Vegeta bouillon \u2013 (or your favorite bouillon) plus 6 of water"
+            "1 pound spaghetti",
+            "1\/2 cup (80 gr) almonds (if you can get the Sicilian ones from Noto they are wonderful)",
+            "1\/4 cup (30 gr) pine nuts",
+            "1\/2 cup (100 gr) extra virgin olive oil",
+            "3 garlic cloves",
+            "2 tomatoes, peeled and seeded",
+            "2 1\/2 cups (60 gr) basil",
+            "Salt and pepper as needed",
+            "Ricotta salata or pecorino, to be grated fresh over the past"
         ]
     }
 }
