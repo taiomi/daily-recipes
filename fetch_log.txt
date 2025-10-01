@@ -802,3 +802,7 @@
 [2025-09-30 02:20:02] Fetching recipe with day of year: 273
 [2025-09-30 02:20:03] Successfully fetched and saved recipe: Farmer's Strata with Kale and Tomatoes
 [2025-09-30 02:20:03] Recipe fetch process completed
+[2025-10-01 02:41:38] Starting recipe fetch process
+[2025-10-01 02:41:38] Fetching recipe with day of year: 274
+[2025-10-01 02:41:39] ERROR: Failed to get API response
+[2025-10-01 02:41:39] Recipe fetch process completed
