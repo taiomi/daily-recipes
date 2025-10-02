@@ -1,15 +1,17 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-09-30",
+    "lastUpdated": "2025-10-02",
     "recipe": {
-        "title": "Farmer's Strata with Kale and Tomatoes",
+        "title": "Baked Fried Chicken With Cauliflower Mash",
         "readyInMinutes": 45,
-        "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/642596-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/4ZKH33CK\/farmer-s-strata-with-kale-and-tomatoes",
-        "instructions": "<ol><li>Preheat oven to 325 degrees F.<\/li><li>Beat eggs, salt, and pepper, in a medium bowl. Set aside.<\/li><li>Heat oil in a 10\" oven safe skillet over medium heat.<\/li><li>Add mushrooms, green onions, and sliced kale stems to skillet. Saute for 4 minutes.<\/li><li>Add garlic and herbs. Saute for an additional 2 minutes. Herbs will be wilted and the mushrooms are starting to brown.Handful of fresh parsley, chopped (about 3 Tablespoons)<\/li><li>Add layer of kale to mixture. Do not mix in, just lay on top of mushroom and herb mixture.<\/li><li>Add a layer of tomatoes over kale and sprinkle crumbled feta over tomatoes.<\/li><li>Evenly pour eggs over tomatoes and feta. Cook for 5 minutes over medium heat.<\/li><li>As eggs are cooking, lift edges of strata with a spatula allowing eggs in fill in the gaps.<\/li><li>Once bottom of strata begins to brown, transfer to the oven. Cook for 20 minutes, or until eggs are set.<\/li><li>Remove from pan and cut into wedges.<\/li><li>Remove from oven and take strata out of pan with a large spatula. Slice into wedges and serve.<\/li><\/ol>",
-        "summary": "Farmer's Strata with Kale and Tomatoes is a main course that serves 4. One portion of this dish contains approximately <b>17g of protein<\/b>, <b>13g of fat<\/b>, and a total of <b>211 calories<\/b>. For <b>$1.67 per serving<\/b>, this recipe <b>covers 31%<\/b> of your daily requirements of vitamins and minerals. 3 people have made this recipe and would make it again. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. It is brought to you by Foodista. A mixture of salt, roma tomatoes, pepper, and a handful of other ingredients are all it takes to make this recipe so delicious. It is a good option if you're following a <b>gluten free, lacto ovo vegetarian, primal, and ketogenic<\/b> diet. Overall, this recipe earns a <b>pretty good spoonacular score of 71%<\/b>. Similar recipes include <a href=\"https:\/\/spoonacular.com\/recipes\/farmers-strata-375520\">Farmer's Strata<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/farmers-strata-283662\">Farmer's Strata<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/kale-strata-700077\">Kale Strata<\/a>.",
-        "cuisines": [],
+        "servings": 6,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/633624-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/GPDLDNDC\/baked-fried-chicken-with-cauliflower-mash",
+        "instructions": "<ol><li>For marinade:<\/li><li>Fillet chicken breast in half to make thinner pieces, and cut in half again to make smaller pieces.<\/li><li>Whisk all marinade ingredients (except for the chicken) in large bowl.<\/li><li>Add chicken and coat in marinade.<\/li><li>Chill overnight for more intense flavor. But if you are short on time (which I usually am) it is ok to use right away as well.<\/li><li>For breading:<\/li><li>Preheat to 450F<\/li><li>Mix breading ingredients large bowl. Place wire rack on baking sheets. Remove chicken breast from bowl and place in coating mixture. Transfer to rack. Repeat with remaining chicken breasts.- Place chicken breasts on rack and spray with olive oil .<\/li><li>Bake chicken 20 minutes or until coating is browned and instant-read thermometer registers 155F.<\/li><li>For Cauliflower:<\/li><li>Cut up cauliflower in small pieces.<\/li><li>Place in large saut pan with about 1 cup of water (enough to cover the bottom of pan, plus a little extra to make sure it doesn't all evaporate)<\/li><li>Cook until tender.<\/li><li>Combine cauliflower with buttermilk, sour cream, ricotta and salt and pepper.<\/li><li>In batches, place in blender and puree until smooth. (if it is having a hard time blending, add either some chicken or vegetable stock, or even more buttermilk)<\/li><\/ol>",
+        "summary": "If you want to add more <b>Southern<\/b> recipes to your recipe box, Baked Fried Chicken With Cauliflower Mash might be a recipe you should try. This recipe makes 6 servings with <b>662 calories<\/b>, <b>66g of protein<\/b>, and <b>29g of fat<\/b> each. For <b>$3.96 per serving<\/b>, this recipe <b>covers 42%<\/b> of your daily requirements of vitamins and minerals. It works well as a main course. 19 people found this recipe to be delicious and satisfying. If you have garlic cloves, dijon mustard, chicken, and a few other ingredients on hand, you can make it. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. It is brought to you by Foodista. Overall, this recipe earns a <b>great spoonacular score of 92%<\/b>. <a href=\"https:\/\/spoonacular.com\/recipes\/sticky-honey-sriracha-cauliflower-wings-baked-or-fried-1325605\">Sticky Honey Sriracha Cauliflower \"wings\" (Baked or Fried)<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/sticky-honey-sriracha-cauliflower-wings-baked-or-fried-1349941\">Sticky Honey Sriracha Cauliflower \"wings\" (Baked or Fried)<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/sticky-honey-sriracha-cauliflower-wings-baked-or-fried-841792\">Sticky Honey Sriracha Cauliflower \"wings\" (Baked or Fried)<\/a> are very similar to this recipe.",
+        "cuisines": [
+            "Southern"
+        ],
         "dishTypes": [
             "lunch",
             "main course",
@@ -17,18 +19,26 @@
             "dinner"
         ],
         "ingredients": [
-            "1 teaspoon olive oil or coconut oil",
-            "8 eggs",
-            "1\/4 cup Feta cheese, crumbled",
-            "Handful of fresh cilantro, chopped (about 3 Tablespoons)",
-            "Handful of fresh parsley, chopped (about 3 Tablespoons)",
-            "2 cloves of garlic, minced",
-            "2 green onions, white and green segments sliced",
-            "6 large leaves of red kale, chopped and stems removed and sliced",
-            "1 cup sliced Shitake mushrooms, about 4-5",
-            "1\/8 teaspoon pepper",
-            "4 Roma tomatoes, sliced into 1\/4\" slices",
-            "2 tablespoons salt"
+            "1\/4 cup buttermilk",
+            "1 1\/2 cups buttermilk",
+            "2 heads of cauliflower",
+            "Cauliflower Mash",
+            "1\/2 teaspoon cayenne pepper",
+            "Chicken (Baked chicken recipe adapted from Epicurious.com)",
+            "3 tablespoons Dijon mustard",
+            "1 1\/2 teaspoons dry mustard",
+            "6 tablespoons flour",
+            "2 garlic cloves, pressed",
+            "2 tablespoons fresh lemon juice",
+            "2 teaspoons lemon peel",
+            "1\/4 cup low fat sour cream",
+            "1 1\/2 cups whole wheat panko",
+            "1 teaspoon Paprika",
+            "1\/2 cup grated Parmesan cheese",
+            "1\/4 cup low fat ricotta",
+            "Salt and pepper",
+            "2 pounds boneless, skinless chicken breast",
+            "1 tablespoon minced thyme"
         ]
     }
 }
