@@ -1,44 +1,36 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-10-02",
+    "lastUpdated": "2025-10-03",
     "recipe": {
-        "title": "Baked Fried Chicken With Cauliflower Mash",
+        "title": "Asparagus and Asiago Frittata",
         "readyInMinutes": 45,
-        "servings": 6,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/633624-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/GPDLDNDC\/baked-fried-chicken-with-cauliflower-mash",
-        "instructions": "<ol><li>For marinade:<\/li><li>Fillet chicken breast in half to make thinner pieces, and cut in half again to make smaller pieces.<\/li><li>Whisk all marinade ingredients (except for the chicken) in large bowl.<\/li><li>Add chicken and coat in marinade.<\/li><li>Chill overnight for more intense flavor. But if you are short on time (which I usually am) it is ok to use right away as well.<\/li><li>For breading:<\/li><li>Preheat to 450F<\/li><li>Mix breading ingredients large bowl. Place wire rack on baking sheets. Remove chicken breast from bowl and place in coating mixture. Transfer to rack. Repeat with remaining chicken breasts.- Place chicken breasts on rack and spray with olive oil .<\/li><li>Bake chicken 20 minutes or until coating is browned and instant-read thermometer registers 155F.<\/li><li>For Cauliflower:<\/li><li>Cut up cauliflower in small pieces.<\/li><li>Place in large saut pan with about 1 cup of water (enough to cover the bottom of pan, plus a little extra to make sure it doesn't all evaporate)<\/li><li>Cook until tender.<\/li><li>Combine cauliflower with buttermilk, sour cream, ricotta and salt and pepper.<\/li><li>In batches, place in blender and puree until smooth. (if it is having a hard time blending, add either some chicken or vegetable stock, or even more buttermilk)<\/li><\/ol>",
-        "summary": "If you want to add more <b>Southern<\/b> recipes to your recipe box, Baked Fried Chicken With Cauliflower Mash might be a recipe you should try. This recipe makes 6 servings with <b>662 calories<\/b>, <b>66g of protein<\/b>, and <b>29g of fat<\/b> each. For <b>$3.96 per serving<\/b>, this recipe <b>covers 42%<\/b> of your daily requirements of vitamins and minerals. It works well as a main course. 19 people found this recipe to be delicious and satisfying. If you have garlic cloves, dijon mustard, chicken, and a few other ingredients on hand, you can make it. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. It is brought to you by Foodista. Overall, this recipe earns a <b>great spoonacular score of 92%<\/b>. <a href=\"https:\/\/spoonacular.com\/recipes\/sticky-honey-sriracha-cauliflower-wings-baked-or-fried-1325605\">Sticky Honey Sriracha Cauliflower \"wings\" (Baked or Fried)<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/sticky-honey-sriracha-cauliflower-wings-baked-or-fried-1349941\">Sticky Honey Sriracha Cauliflower \"wings\" (Baked or Fried)<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/sticky-honey-sriracha-cauliflower-wings-baked-or-fried-841792\">Sticky Honey Sriracha Cauliflower \"wings\" (Baked or Fried)<\/a> are very similar to this recipe.",
-        "cuisines": [
-            "Southern"
-        ],
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/632925-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/KYWTWPZT\/asparagus-and-asiago-frittata",
+        "instructions": "In a large bowl, combine the eggs, whipping cream, salt, pepper, and half the fresh thyme. Beat with a whisk until the eggs and cream are incorporated.\nIn an ovenproof saut pan over medium heat, add the butter and olive oil. When the mixture is hot, add the asparagus pieces and cook for 3-4 minutes, stirring. Add the garlic and cook for about a minute. Spread the asparagus so it is evenly distributed across the bottom of the pan.\nAdd the egg mixture to the pan and allow the eggs to cook without mixing them. Use a rubber spatula to run around the edges of the frittata as it cooks so the edges dont stick and burn. After 1-2 minutes, add the cheese evenly to the egg mixture.\nWhen the outer edges of the frittata have set but the center is still slightly runny, arrange the cherry tomatoes and asparagus spears on the top of the frittata, sprinkle the remaining thyme over the top, then remove the pan from the heat and place it in an oven set to broil.\nThe broiler will allow the top portion of the egg mixture to set and cook thoroughly. Keep a close watch so the frittata doesnt burn.\nAfter a few minutes, when the eggs have set completely and begin to turn golden, carefully remove the pan from the oven.\nUse a rubber spatula to run around the edges and underside of the frittata, and slide it onto a round serving plate.\nSlice and serve warm or at room temperature.",
+        "summary": "Asparagus and Asiago Frittatan is a <b>gluten free, lacto ovo vegetarian, primal, and ketogenic<\/b> main course. One portion of this dish contains around <b>17g of protein<\/b>, <b>19g of fat<\/b>, and a total of <b>261 calories<\/b>. This recipe serves 4 and costs $1.79 per serving. A couple people made this recipe, and 13 would say it hit the spot. A mixture of olive oil, cherry tomatoes, butter, and a handful of other ingredients are all it takes to make this recipe so flavorful. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. It is brought to you by Foodista. All things considered, we decided this recipe <b>deserves a spoonacular score of 49%<\/b>. This score is solid. If you like this recipe, take a look at these similar recipes: <a href=\"https:\/\/spoonacular.com\/recipes\/asparagus-and-asiago-frittata-1584579\">Asparagus and Asiago Frittata<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/kale-asiago-frittata-584923\">Kale & Asiago Frittata<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/vegetable-frittata-with-asiago-cheese-1747605\">Vegetable Frittata with Asiago Cheese<\/a>.",
+        "cuisines": [],
         "dishTypes": [
             "lunch",
             "main course",
+            "morning meal",
+            "brunch",
             "main dish",
+            "breakfast",
             "dinner"
         ],
         "ingredients": [
-            "1\/4 cup buttermilk",
-            "1 1\/2 cups buttermilk",
-            "2 heads of cauliflower",
-            "Cauliflower Mash",
-            "1\/2 teaspoon cayenne pepper",
-            "Chicken (Baked chicken recipe adapted from Epicurious.com)",
-            "3 tablespoons Dijon mustard",
-            "1 1\/2 teaspoons dry mustard",
-            "6 tablespoons flour",
-            "2 garlic cloves, pressed",
-            "2 tablespoons fresh lemon juice",
-            "2 teaspoons lemon peel",
-            "1\/4 cup low fat sour cream",
-            "1 1\/2 cups whole wheat panko",
-            "1 teaspoon Paprika",
-            "1\/2 cup grated Parmesan cheese",
-            "1\/4 cup low fat ricotta",
-            "Salt and pepper",
-            "2 pounds boneless, skinless chicken breast",
-            "1 tablespoon minced thyme"
+            "5 eggs",
+            "1 small bunch of thin asparagus (about 3\/4 pound), washed, trimmed, and cut into 1-inch pieces",
+            "1 tablespoon butter",
+            "1 tablespoon olive oil",
+            "1-1\/2 tablespoons heavy whipping cream",
+            "1 tablespoon fresh thyme, chopped and divided",
+            "1 garlic clove, minced",
+            "1\/4 teaspoon salt",
+            "1\/4 teaspoon ground black pepper",
+            "3 ounces Asiago cheese, sliced thin",
+            "4-5 cherry tomatoes sliced in half, and 6, 4-inch asparagus spears for garnish"
         ]
     }
 }
