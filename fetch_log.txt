@@ -814,3 +814,7 @@
 [2025-10-03 02:19:23] Fetching recipe with day of year: 276
 [2025-10-03 02:19:24] Successfully fetched and saved recipe: Asparagus and Asiago Frittata
 [2025-10-03 02:19:24] Recipe fetch process completed
+[2025-10-04 02:14:22] Starting recipe fetch process
+[2025-10-04 02:14:22] Fetching recipe with day of year: 277
+[2025-10-04 02:14:22] ERROR: Failed to get API response
+[2025-10-04 02:14:22] Recipe fetch process completed
