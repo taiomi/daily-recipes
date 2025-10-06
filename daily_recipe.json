@@ -1,34 +1,37 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-10-05",
+    "lastUpdated": "2025-10-06",
     "recipe": {
-        "title": "Frittata with Mushrooms, Thyme, and Parmigiano Cheese",
+        "title": "Tasty Easy Meatloaf",
         "readyInMinutes": 45,
         "servings": 8,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/643859-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/ZPHDGMDB\/frittata-with-mushrooms-thyme-and-parmigiano-cheese",
-        "instructions": "<ol><li>Pre-heat oven on to 350 degrees (later you'll change it to \"Broil\").<\/li><li>Heat an 8-inch ovenproof skillet over medium-high heat.<\/li><li>Coat pan with cooking spray or butter.<\/li><li>Add mushrooms and green onions to pan; saut 12 minutes or until mushrooms are nicely browned.<\/li><li>In a medium bowl, add the eggs and egg replacement.<\/li><li>Add the half and half.<\/li><li>Add the Parmesan cheese.<\/li><li>Add the thyme and any additional herbs that you like.<\/li><li>Add salt and pepper and whisk everything together.<\/li><li>Pour the egg\/cheese mixture into the same pan with the sauteed mushrooms and green onions.<\/li><li>Heat pan over medium heat.<\/li><li>Cook, covered, for about 6 minutes or when it is just a little bit liquid-y\/runny on the top.<\/li><li>At that point, place the pan into the oven and cook on 350 for another 5 - 10 minutes.<\/li><li>Once the frittata is completely set and cooked (not runny on top) change the oven temperature to \"Broil\".<\/li><li>Place the pan on the lowest rack of the oven and broil for about 2 minutes or until a golden brown color forms on the top.<\/li><\/ol>",
-        "summary": "If you want to add more <b>gluten free<\/b> recipes to your recipe box, Frittata with Mushrooms, Thyme, and Parmigiano Cheese might be a recipe you should try. This recipe serves 8. For <b>$1.04 per serving<\/b>, this recipe <b>covers 15%<\/b> of your daily requirements of vitamins and minerals. One serving contains <b>190 calories<\/b>, <b>21g of protein<\/b>, and <b>8g of fat<\/b>. A few people made this recipe, and 59 would say it hit the spot. If you have parmigiano cheese, eggs, green onions, and a few other ingredients on hand, you can make it. It works best as a main course, and is done in about <b>45 minutes<\/b>. It is brought to you by Foodista. Overall, this recipe earns a <b>solid spoonacular score of 59%<\/b>. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/mushrooms-parmigiano-cheese-and-courgettes-8905\">Mushrooms, Parmigiano Cheese And Courgettes<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/asparagus-frittata-with-smoked-paprika-thyme-feta-cheese-584610\">Asparagus Frittata with Smoked Paprika, Thyme & Feta Cheese<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/creamy-baked-leeks-with-garlic-thyme-and-parmigiano-39090\">Creamy Baked Leeks With Garlic, Thyme, And Parmigiano<\/a>.",
+        "image": "https:\/\/img.spoonacular.com\/recipes\/662917-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/RFC3GL4B\/tasty-easy-meatloaf",
+        "instructions": "<ol><li>Mix beef, sausage, bread crumbs, onion, egg, salt, pepper, cumin, garlic powder,  cup tomato sauce. Do not over mix or your meatloaf will become chewy. Simply use your fingers and mush it together and only do this until it is just mixed.<\/li><li>Place in a shallow oven proof pan and form into a loaf. Stir together the remaining sauce, vinegar, sugar, mustard, water and Worcestershire<\/li><li>Pour the sauce over the meatloaf and bake x 1 hour until cooked through. While cooking, spoon the sauce over the top of the meatloaf about every 20 minutes.<\/li><li>Remove from the oven and spoon the sauce over the top a final time. Allow to rest for 10 minutes before serving.<\/li><\/ol>",
+        "summary": "Tasty Easy Meatloaf is a <b>dairy free<\/b> main course. This recipe serves 8 and costs $1.17 per serving. One portion of this dish contains roughly <b>18g of protein<\/b>, <b>20g of fat<\/b>, and a total of <b>334 calories<\/b>. Not a lot of people made this recipe, and 2 would say it hit the spot. This recipe from Foodista requires salt, worcestershire, pepper, and grain mustard. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. Overall, this recipe earns a <b>rather bad spoonacular score of 38%<\/b>. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/easy-tasty-fish-tomatoes-111655\">Easy & Tasty Fish & Tomatoes<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/easy-and-tasty-baked-ziti-138765\">Easy and Tasty Baked Ziti<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/easy-and-tasty-pizza-sauce-546686\">Easy and Tasty Pizza Sauce<\/a>.",
         "cuisines": [],
         "dishTypes": [
             "lunch",
             "main course",
-            "morning meal",
-            "brunch",
             "main dish",
-            "breakfast",
             "dinner"
         ],
         "ingredients": [
-            "3\/4 cup egg replacement",
-            "3 jumbo eggs",
-            "16 ounces fresh mushrooms (of your choice), wiped clean, stems trimmed, sliced",
-            "1 1\/2 tablespoons chopped, fresh thyme leaves",
-            "6 green onions, sliced",
-            "fresh ground black pepper to taste",
-            "1\/4 cup half and half (or you can use whole milk)",
-            "1\/2 cup Parmigiano cheese, fresh and finely grated",
-            "salt"
+            "1 cup breadcrumbs",
+            "3 Tbs brown sugar \u2013 packed",
+            "\u00bd lb bulk sausage",
+            "2 8 oz cans tomato sauce - divided",
+            "3 Tbs Cider vinegar",
+            "\u00bd tsp cumin",
+            "1 egg beaten",
+            "1 tsp garlic powder",
+            "1 lb Ground Beef",
+            "1 small onion \u2013 diced.",
+            "\u00bd tsp pepper",
+            "1 \u00bd tsp salt",
+            "\u00bd cup water",
+            "2 Tbs good quality whole grain mustard",
+            "2 Tbs Worcestershire"
         ]
     }
 }
