@@ -1,14 +1,14 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-10-06",
+    "lastUpdated": "2025-10-08",
     "recipe": {
-        "title": "Tasty Easy Meatloaf",
+        "title": "Kashmir Pulav",
         "readyInMinutes": 45,
-        "servings": 8,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/662917-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/RFC3GL4B\/tasty-easy-meatloaf",
-        "instructions": "<ol><li>Mix beef, sausage, bread crumbs, onion, egg, salt, pepper, cumin, garlic powder,  cup tomato sauce. Do not over mix or your meatloaf will become chewy. Simply use your fingers and mush it together and only do this until it is just mixed.<\/li><li>Place in a shallow oven proof pan and form into a loaf. Stir together the remaining sauce, vinegar, sugar, mustard, water and Worcestershire<\/li><li>Pour the sauce over the meatloaf and bake x 1 hour until cooked through. While cooking, spoon the sauce over the top of the meatloaf about every 20 minutes.<\/li><li>Remove from the oven and spoon the sauce over the top a final time. Allow to rest for 10 minutes before serving.<\/li><\/ol>",
-        "summary": "Tasty Easy Meatloaf is a <b>dairy free<\/b> main course. This recipe serves 8 and costs $1.17 per serving. One portion of this dish contains roughly <b>18g of protein<\/b>, <b>20g of fat<\/b>, and a total of <b>334 calories<\/b>. Not a lot of people made this recipe, and 2 would say it hit the spot. This recipe from Foodista requires salt, worcestershire, pepper, and grain mustard. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. Overall, this recipe earns a <b>rather bad spoonacular score of 38%<\/b>. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/easy-tasty-fish-tomatoes-111655\">Easy & Tasty Fish & Tomatoes<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/easy-and-tasty-baked-ziti-138765\">Easy and Tasty Baked Ziti<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/easy-and-tasty-pizza-sauce-546686\">Easy and Tasty Pizza Sauce<\/a>.",
+        "servings": 1,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/648769-556x370.jpg",
+        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/LY3GGV22\/kashmir-pulav",
+        "instructions": "<ol><li>Wash and soak rice.<\/li><li>Heat oil and fry onions till golden brown and remove.<\/li><li>Fry whole spices, turmeric powder, add rice and saut.<\/li><li>Add half-saffron dissolved in little warm milk.<\/li><li>Add hot water and mix well.<\/li><li>Cook a little. Finish with remaining saffron and cook till grains are separated and done.<\/li><li>Garnish kashmiri pulao with fried onions, walnuts & cashew nuts.<\/li><\/ol>",
+        "summary": "You can never have too many main course recipes, so give Kashmir Pulav a try. Watching your figure? This gluten free and lacto ovo vegetarian recipe has <b>2268 calories<\/b>, <b>45g of protein<\/b>, and <b>40g of fat<\/b> per serving. For <b>$5.76 per serving<\/b>, this recipe <b>covers 41%<\/b> of your daily requirements of vitamins and minerals. This recipe serves 1. It is brought to you by Foodista. 3 people were glad they tried this recipe. Head to the store and pick up cardamom, cashew nut, rice, and a few other things to make it today. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. Overall, this recipe earns a <b>tremendous spoonacular score of 87%<\/b>. Users who liked this recipe also liked .",
         "cuisines": [],
         "dishTypes": [
             "lunch",
@@ -17,21 +17,18 @@
             "dinner"
         ],
         "ingredients": [
-            "1 cup breadcrumbs",
-            "3 Tbs brown sugar \u2013 packed",
-            "\u00bd lb bulk sausage",
-            "2 8 oz cans tomato sauce - divided",
-            "3 Tbs Cider vinegar",
-            "\u00bd tsp cumin",
-            "1 egg beaten",
-            "1 tsp garlic powder",
-            "1 lb Ground Beef",
-            "1 small onion \u2013 diced.",
-            "\u00bd tsp pepper",
-            "1 \u00bd tsp salt",
-            "\u00bd cup water",
-            "2 Tbs good quality whole grain mustard",
-            "2 Tbs Worcestershire"
+            "5 grams cardamom (Elaichi)",
+            "20 grams cashew nut",
+            "5 grams Cinnamon (dalchini)",
+            "500 grams Long Grain (Basmati) Rice",
+            "10 ml Milk",
+            "Oil for cooking 1 cup",
+            "100 grams Onion sliced vertically",
+            "1 gram saffron (kesar)",
+            "Salt- to taste",
+            "a pinch of turmeric powder",
+            "20 grams walnut",
+            "1\/2 cup Hot water-"
         ]
     }
 }
