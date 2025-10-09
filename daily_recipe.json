@@ -1,15 +1,18 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-10-08",
+    "lastUpdated": "2025-10-09",
     "recipe": {
-        "title": "Kashmir Pulav",
+        "title": "Pork schnitzel with tarragon cream sauce",
         "readyInMinutes": 45,
-        "servings": 1,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/648769-556x370.jpg",
-        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/LY3GGV22\/kashmir-pulav",
-        "instructions": "<ol><li>Wash and soak rice.<\/li><li>Heat oil and fry onions till golden brown and remove.<\/li><li>Fry whole spices, turmeric powder, add rice and saut.<\/li><li>Add half-saffron dissolved in little warm milk.<\/li><li>Add hot water and mix well.<\/li><li>Cook a little. Finish with remaining saffron and cook till grains are separated and done.<\/li><li>Garnish kashmiri pulao with fried onions, walnuts & cashew nuts.<\/li><\/ol>",
-        "summary": "You can never have too many main course recipes, so give Kashmir Pulav a try. Watching your figure? This gluten free and lacto ovo vegetarian recipe has <b>2268 calories<\/b>, <b>45g of protein<\/b>, and <b>40g of fat<\/b> per serving. For <b>$5.76 per serving<\/b>, this recipe <b>covers 41%<\/b> of your daily requirements of vitamins and minerals. This recipe serves 1. It is brought to you by Foodista. 3 people were glad they tried this recipe. Head to the store and pick up cardamom, cashew nut, rice, and a few other things to make it today. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. Overall, this recipe earns a <b>tremendous spoonacular score of 87%<\/b>. Users who liked this recipe also liked .",
-        "cuisines": [],
+        "servings": 2,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/656819-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/ZBY4H35V\/pork-schnitzel-with-tarragon-cream-sauce",
+        "instructions": "<ol><li>Using the side of a rolling pin or a meat tenderiser, gently beat the pork until flattened to a 0.5cm thickness.<\/li><li>Sprinkle the seasoned flour onto a plate. Beat the eggs in a bowl. Mix the breadcrumbs with the grated parmesan and sprinkle the mixture onto another plate.<\/li><li>Dredge each escalope lightly in the flour on both sides, shaking off any excess, then dip into the egg, then press into the breadcrumb mixture, to coat on both sides. Chill in the fridge for 20 minutes before cooking.<\/li><li>Heat the oil in a frying pan over a medium heat and fry the schnitzels for 2-3 minutes on each side, or until golden-brown on both sides and completely cooked through (there should be no trace of pink in the middle). Remove from the pan and set aside to drain on kitchen paper.<\/li><li>For the sauce, pour the wine into a small saucepan, add the tarragon sprig and bring to the boil. Continue to boil for 1-2 minutes, or until the volume of liquid has almost completely reduced.<\/li><li>Pour in the stock and return the mixture to the boil. Boil for 3-4 minutes, or until reduced in volume by half, then add the cream and simmer for 2-3 minutes until thickened. Season, to taste, with salt and freshly ground black pepper, then stir in the chopped tarragon.<\/li><li>To serve, place one pork schnitzel onto each of two plates and spoon over the sauce. Garnish with wedges of lemon and serve with your choice of vegetables on the side.<\/li><\/ol>",
+        "summary": "The recipe Pork schnitzel with tarragon cream sauce can be made <b>in roughly 45 minutes<\/b>. This recipe serves 2 and costs $3.92 per serving. One serving contains <b>1070 calories<\/b>, <b>56g of protein<\/b>, and <b>78g of fat<\/b>. It is brought to you by Foodista. Not a lot of people really liked this European dish. This recipe is liked by 4 foodies and cooks. It works well as a main course. If you have cornstarch, breadcrumbs, vegetable stock from, and a few other ingredients on hand, you can make it. Taking all factors into account, this recipe <b>earns a spoonacular score of 53%<\/b>, which is good. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/pork-medallions-with-tarragon-cream-sauce-1573407\">Pork Medallions with Tarragon Cream Sauce<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/pork-schnitzel-with-sauce-389086\">Pork Schnitzel with Sauce<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/pork-schnitzel-with-lemon-caper-cream-99629\">Pork Schnitzel With Lemon-Caper Cream<\/a>.",
+        "cuisines": [
+            "German",
+            "European"
+        ],
         "dishTypes": [
             "lunch",
             "main course",
@@ -17,18 +20,18 @@
             "dinner"
         ],
         "ingredients": [
-            "5 grams cardamom (Elaichi)",
-            "20 grams cashew nut",
-            "5 grams Cinnamon (dalchini)",
-            "500 grams Long Grain (Basmati) Rice",
-            "10 ml Milk",
-            "Oil for cooking 1 cup",
-            "100 grams Onion sliced vertically",
-            "1 gram saffron (kesar)",
-            "Salt- to taste",
-            "a pinch of turmeric powder",
-            "20 grams walnut",
-            "1\/2 cup Hot water-"
+            "\u00bd tsp black pepper",
+            "70g homemade breadcrumbs",
+            "50g cornflour, seasoned with salt and black pepper",
+            "1 tsp cornstarch",
+            "\u00be cup double cream",
+            "2 eggs, lightly beaten",
+            "50g parmesan cheese, grated",
+            "2 pork escalopes (about 125g each)",
+            "4 Tbs sunflower oil, for shallow frying",
+            "1 tsp tarragon, dry, finely chopped leaves only",
+            "\u00be cup vegetable stock from \u00bd cube",
+            "\u00bc cup white wine"
         ]
     }
 }
