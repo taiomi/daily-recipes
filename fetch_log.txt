@@ -850,3 +850,7 @@
 [2025-10-12 02:24:38] Fetching recipe with day of year: 285
 [2025-10-12 02:24:39] Successfully fetched and saved recipe: Wildwood Ovens Bourbon Apple Glazed Cedar Plank Salmon
 [2025-10-12 02:24:39] Recipe fetch process completed
+[2025-10-13 02:39:48] Starting recipe fetch process
+[2025-10-13 02:39:48] Fetching recipe with day of year: 286
+[2025-10-13 02:39:48] ERROR: Failed to get API response
+[2025-10-13 02:39:48] Recipe fetch process completed
