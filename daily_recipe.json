@@ -1,14 +1,14 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-10-12",
+    "lastUpdated": "2025-10-14",
     "recipe": {
-        "title": "Wildwood Ovens Bourbon Apple Glazed Cedar Plank Salmon",
+        "title": "Lemon - Garlic Chicken",
         "readyInMinutes": 45,
-        "servings": 6,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/665352-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/P5XGZL3X\/wildwood-ovens-bourbon-apple-glazed-cedar-plank-salmon",
-        "instructions": "<ol><li>Soak cedar plank in water for 2 hours.  Rinse salmon under cold water and pat dry with paper towels.  Place a medium sauce pan over medium high heat and add bourbon or brandy.  Use caution as the alcohol can ignite; never pour directly from the bottle.   When alcohol is reduced and there is only a small amount left, add apple juice, brown sugar, and garlic.  Continue to cook over medium high heat until reduced to about  of the original volume (should be slightly thinner than syrup).<\/li><li>Season salmon with salt and pepper on both sides, brush skin side with olive oil and place on cedar plank, skin side down.  Place cedar plank on a medium high grill, or in a wood fired oven pre-heated to 500F near the fire.  Use a probe thermometer to check the internal temperature of the salmon after 10 minutes, and every 5 minutes or so thereafter.  Once the salmon has an internal temperature of at least 100F, brush on the apple glaze that you made earlier, repeat this step every few minutes. Cook salmon until<\/li><\/ol>",
-        "summary": "The recipe Wildwood Ovens Bourbon Apple Glazed Cedar Plank Salmon can be made <b>in about 45 minutes<\/b>. This gluten free, dairy free, and pescatarian recipe serves 6 and costs <b>$3.88 per serving<\/b>. One portion of this dish contains about <b>30g of protein<\/b>, <b>10g of fat<\/b>, and a total of <b>297 calories<\/b>. It is brought to you by Foodista. 3 people were impressed by this recipe. If you have apple juice, brown sugar, cedar plank, and a few other ingredients on hand, you can make it. It works well as a pretty expensive main course. All things considered, we decided this recipe <b>deserves a spoonacular score of 77%<\/b>. This score is solid. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/apricot-jalapeo-glazed-cedar-plank-salmon-519520\">Apricot Jalape\u00f1o Glazed Cedar Plank Salmon<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/cedar-plank-salmon-5007\">Cedar Plank Salmon<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/cedar-plank-salmon-4420\">Cedar-Plank Salmon<\/a>.",
+        "servings": 1,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/649487-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/8MG4RL8G\/lemon-garlic-chicken",
+        "instructions": "<ol><li>Wash and pat dry chicken breasts. Place chicken in a shallow glass dish. Combine lemon juice, olive oil, mint, garlic, salt and pepper. Pour over chicken breasts. Cover dish and marinate chicken for several hours or overnight in refrigerator, turning occasionally. Brush grill with vegetable oil. Place chicken on grill skin side up, about 6 inches from medium - hot coals. Cook, turning every 8 to 10 minutes, and baste occasionally. Grill<\/li><\/ol>",
+        "summary": "Lemon - Garlic Chicken takes about <b>45 minutes<\/b> from beginning to end. For <b>$5.35 per serving<\/b>, you get a main course that serves 1. One portion of this dish contains approximately <b>97g of protein<\/b>, <b>40g of fat<\/b>, and a total of <b>798 calories<\/b>. 3 people were impressed by this recipe. If you have chicken breasts, salt and pepper, garlic, and a few other ingredients on hand, you can make it. It is a good option if you're following a <b>gluten free, dairy free, paleolithic, and primal<\/b> diet. It is brought to you by Foodista. With a spoonacular <b>score of 81%<\/b>, this dish is spectacular. If you like this recipe, take a look at these similar recipes: <a href=\"https:\/\/spoonacular.com\/recipes\/lemon-chicken-scallopini-with-lemon-garlic-cream-sauce-862682\">Lemon Chicken Scallopini with Lemon Garlic Cream Sauce<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/lemon-garlic-chicken-136790\">Lemon Garlic Chicken<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/lemon-garlic-chicken-266325\">Lemon & Garlic Chicken<\/a>.",
         "cuisines": [],
         "dishTypes": [
             "lunch",
@@ -17,14 +17,12 @@
             "dinner"
         ],
         "ingredients": [
-            "1 cup Apple Juice",
-            "1\/4 cup Brown Sugar",
-            "1 Cedar Plank",
-            "2 Garlic Cloves (minced)",
-            "TT Kosher salt",
-            "TT Fresh cracked black pepper.",
-            "2 pounds Salmon Filet",
-            "1\/4 cup Bourbon Whiskey, or Brandy"
+            "2 whole chicken breasts, split in half",
+            "1 tablespoon fresh mint or 1 tsp. dried mint",
+            "1 teaspoon Chopped garlic",
+            "1\/2 cup fresh lemon juice",
+            "2 tablespoons olive oil",
+            "Salt and pepper to taste"
         ]
     }
 }
