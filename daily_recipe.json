@@ -1,30 +1,39 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-10-15",
+    "lastUpdated": "2025-10-17",
     "recipe": {
-        "title": "Instant Pot Chicken Tacos",
-        "readyInMinutes": 25,
-        "servings": 6,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/986003-556x370.jpg",
-        "sourceUrl": "https:\/\/www.pinkwhen.com\/instant-pot-chicken-tacos\/",
-        "instructions": "Season both sides of the chicken with pepper and taco seasoning.\nPlace chicken into the bottom of the Instant Pot.\nTop chicken with onion and salsa.\nSecure Instant Pot lid into the lock position.\nPlace the lid onto the Instant Pot and turn on the Poultry setting. Set for 12 minutes.\nOnce finished, allow the Instant Pot to naturally release pressure for 20 minutes.\nRemove chicken from the Instant Pot and shred. Sprinkle with lime juice.\nServe over rice or with tortillas for some amazingly easy and delicious tacos.",
-        "summary": "You can never have too many main course recipes, so give Instant Pot Chicken Tacos a try. Watching your figure? This gluten free, dairy free, and whole 30 recipe has <b>546 calories<\/b>, <b>97g of protein<\/b>, and <b>12g of fat<\/b> per serving. This recipe serves 6. For <b>$4.45 per serving<\/b>, this recipe <b>covers 33%<\/b> of your daily requirements of vitamins and minerals. 7 people have tried and liked this recipe. This recipe is typical of Mexican cuisine. It is brought to you by Pink When. From preparation to the plate, this recipe takes around <b>25 minutes<\/b>. A mixture of pepper, chicken breasts, lime juice, and a handful of other ingredients are all it takes to make this recipe so yummy. Overall, this recipe earns a <b>tremendous spoonacular score of 82%<\/b>. If you like this recipe, take a look at these similar recipes: <a href=\"https:\/\/spoonacular.com\/recipes\/instant-pot-chicken-tacos-shredded-chicken-tacos-1070868\">Instant Pot Chicken Tacos (shredded chicken tacos)<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/instant-pot-chicken-tacos-shredded-chicken-tacos-1368623\">Instant Pot Chicken Tacos (shredded chicken tacos)<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/instant-pot-chicken-tacos-1655889\">Instant Pot Chicken Tacos<\/a>.",
+        "title": "Thai Fried Rice",
+        "readyInMinutes": 45,
+        "servings": 1,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/663104-556x370.jpg",
+        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/C8D432DB\/thai-fried-rice",
+        "instructions": "<ol><li>Saute garlic in oil. Add sliced pork; cook until brown. Add onion, tomato, and green pepper; fry slightly. Cook rice in water; add to fried mixture. Add eggs and fry. Continue stirring until eggs are cooked. Add soy sauce, salt, sugar, and pepper. Yields 6-8 servings.<\/li><\/ol>",
+        "summary": "If you want to add more <b>gluten free and dairy free<\/b> recipes to your recipe box, Thai Fried Rice might be a recipe you should try. This recipe serves 1. For <b>$6.78 per serving<\/b>, this recipe <b>covers 68%<\/b> of your daily requirements of vitamins and minerals. This main course has <b>2953 calories<\/b>, <b>122g of protein<\/b>, and <b>122g of fat<\/b> per serving. This recipe from Foodista has 2 fans. Only a few people really liked this Chinese dish. If you have water, salt, soy sauce, and a few other ingredients on hand, you can make it. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 89%<\/b>. This score is outstanding. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/thai-fried-rice-35966\">Thai Fried Rice<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/thai-fried-rice-1234777\">Thai Fried Rice<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/thai-fried-rice-10071\">Thai Fried Rice<\/a>.",
         "cuisines": [
-            "Mexican"
+            "Chinese",
+            "Asian"
         ],
         "dishTypes": [
+            "side dish",
             "lunch",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "\u00bd teaspoon black pepper",
-            "3- 4 medium chicken breasts",
-            "\u00bc cup freshly squeezed lime juice (from about 1 medium lime)",
-            "1 small purple onion chopped",
-            "1 (14-ounce) can salsa",
-            "2 Tablespoons taco seasoning"
+            "2 eggs",
+            "clove garlic, minced fine",
+            "1\/2 green pepper, chopped",
+            "\u2022 Oil for fry",
+            "1 big onion, sliced",
+            "Pepper to taste",
+            "1 pound lean pork, sliced",
+            "2 cups rice",
+            "\u2022 Salt to taste",
+            "2 1\/2 tablespoons soy sauce",
+            "2 teaspoons sugar",
+            "1 tomato, diced",
+            "4 cups water"
         ]
     }
 }
