@@ -1,33 +1,37 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-10-20",
+    "lastUpdated": "2025-10-21",
     "recipe": {
-        "title": "Caldo Verde - Portuguese Kale Soup",
+        "title": "Skillet Chili Mac",
         "readyInMinutes": 45,
-        "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/636787-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/7SDK7CGK\/caldo-verde-portuguese-kale-soup",
-        "instructions": "Chop your onions, slice your carrots and smash your garlic. Set aside.\nPeel and chop the potatoes. Set aside in a bowl of cold water.\nRemove the casing from your chorizo. This is an important step. Chorizo casing is tough and unforgiving and will make the sausage link curl during the cooking process. Just remove it and don't worry about appearance. Cut the links length-wise then chop into half-moons. Sautee in a separate pan until the are nice and browned. Don't put into the pot until the last minute, otherwise the color of the chorizo will leach into the soup turning it a weird red color.\nNow it's time to prepare the kale. With each individual leaf, cut out the stem. You can do this several ways. Cut a triangle out of the leaf, or fold over the leaf and cut out the stem that way. Or rip off the halves of the leaves off the stem. I like a little bit of stem to give some crunch and texture.\nTightly roll the leaf into a bundle.\nRun your knife over it to julienne the leaf into thin strips.\nDon't worry if it's not perfect. Set aside the kale.\nIn a big pot, sautee your onions, carrots and garlic in a bit of olive oil.\nOnce the vegetables start to soften, add the potatoes and some crushed red pepper flakes. Stir the pot and cook the potatoes until the outer edges start turning clear.\nThen add the 6 cups of water and 2 bouillion packets (or 4 cups of broth and 2 cups of water) to the pot. Bring to a boil then let simmer until the potatoes are cooked.\nWith a wooden spoon, mash the potatoes against the side of the pot. Do this until almost all the chunks of potatoes are mashed. Leave some chunks behind. This will give your soup a wonderful hearty texture.\nNow it's time to add the Kale. It looks like a lot and will fill up your whole pot but not to worry because it wilts down pretty quickly.\nCook for 5 minutes at a simmer then stir in chorizo sausage. Serve hot or at room temperature (the latter is my favorite). Eat with a nice crusty loaf of Portuguese bread. Enjoy!",
-        "summary": "Caldo Verde - Portuguese Kale Soup takes approximately <b>45 minutes<\/b> from beginning to end. One portion of this dish contains around <b>20g of protein<\/b>, <b>10g of fat<\/b>, and a total of <b>493 calories<\/b>. For <b>$2.24 per serving<\/b>, this recipe <b>covers 35%<\/b> of your daily requirements of vitamins and minerals. This recipe serves 4. 13 people were glad they tried this recipe. It is a good option if you're following a <b>gluten free, dairy free, and whole 30<\/b> diet. It is brought to you by Foodista. It works well as a main course. It will be a hit at your <b>Autumn<\/b> event. Head to the store and pick up onion, carrots, pepper flakes, and a few other things to make it today. With a spoonacular <b>score of 92%<\/b>, this dish is outstanding. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/portuguese-kale-soup-caldo-verde-499535\">Portuguese Kale Soup (Caldo Verde)<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/caldo-verde-portuguese-kale-soup-1274837\">Caldo Verde - Portuguese Kale Soup<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/caldo-verde-portuguese-kale-soup-598606\">Caldo Verde | Portuguese Kale Soup<\/a>.",
-        "cuisines": [],
+        "servings": 6,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/660216-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/T5H745JJ\/skillet-chili-mac",
+        "instructions": "1. Heat the oil in a large (12 inch) nonstick skillet over medium-high heat. Add the ground beef, onion, chili powder, cumin, cayenne and 1\/2 t. salt. Cook, breaking up meat into small pieces, until it looses all the pink color, about 5 minutes. Add garlic and cook until fragrant, about 30 seconds or so.\n2. Add brown sugar, tomato sauce, water and macaroni. Bring to a boil. Cover and cook, stirring often and adjusting the heat so that it maintains a lively simmer (somewhere between medium\/medium-high heat), until the macaroni is tender, about 10 minutes or so. Season with salt & pepper if needed.\n3. Off heat, stir in half the cheese. Sprinkle the remaining cheese on top.",
+        "summary": "You can never have too many American recipes, so give Skillet Chili Mac a try. This recipe serves 6. One serving contains <b>431 calories<\/b>, <b>30g of protein<\/b>, and <b>19g of fat<\/b>. For <b>$1.53 per serving<\/b>, this recipe <b>covers 19%<\/b> of your daily requirements of vitamins and minerals. 2 people have made this recipe and would make it again. Head to the store and pick up ground cumin, water, grain macaroni, and a few other things to make it today. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. <b>The Super Bowl<\/b> will be even more special with this recipe. It is brought to you by Foodista. It works well as a main course. Overall, this recipe earns a <b>solid spoonacular score of 52%<\/b>. If you like this recipe, take a look at these similar recipes: <a href=\"https:\/\/spoonacular.com\/recipes\/skillet-chili-mac-112558\">Skillet Chili-Mac<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/skillet-chili-mac-243658\">Skillet Chili Mac<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/skillet-chili-mac-1247581\">Skillet Chili Mac<\/a>.",
+        "cuisines": [
+            "American"
+        ],
         "dishTypes": [
-            "soup",
+            "side dish",
             "lunch",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "1\/2 large onion chopped",
-            "3 carrots peeled and sliced",
-            "3 garlic cloves smashed",
-            "4 large yellow potatoes chopped",
-            "2 chorizo links with casings removed, halved and chopped",
-            "4 cups of chicken stock and 2 cups of water",
-            "1 bunch of kale julienned",
-            "cup or 6 of water and 2 packets of Chicken Boullion",
-            "crushed red pepper flakes",
-            "salt and pepper to taste"
+            "1 1\/2 t. canola oil",
+            "1 lb. lean ground beef",
+            "1 onion, chopped fine",
+            "1 T. chili powder",
+            "2 t. ground cumin",
+            "1\/8 - 1\/4 t. cayenne pepper (to taste, I used 1\/8 t.)",
+            "salt & pepper",
+            "3 garlic cloves, minced",
+            "1 T. brown sugar",
+            "2 c. water",
+            "8 oz. whole grain macaroni",
+            "2 c. shredded cheddar cheese"
         ]
     }
 }
