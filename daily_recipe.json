@@ -1,14 +1,14 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-10-23",
+    "lastUpdated": "2025-10-24",
     "recipe": {
-        "title": "Lemony Zucchini Fritters",
+        "title": "Pasta With Salmon Cream Sauce",
         "readyInMinutes": 45,
-        "servings": 3,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/631754-556x370.jpg",
-        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/GZLSBH4T\/lemony-zucchini-fritters",
-        "instructions": "<ol><li>Chop the zucchini into small pieces. Place in food processor and pulse until there are small bits left. (If you have a grating attachment on your food processor you can use that instead).<\/li><li>In a medium bowl add zucchini, lemon juice, parsley, flour, eggs, spices, Parmesan cheese, and breadcrumbs. Mix together until evenly distributed.<\/li><li>Place olive oil in a large frying pan and heat over medium high heat. Working in batches, add a little less than a cup of batter to the frying pan for each fritter. Cook until golden brown on the bottom, about 45 seconds. Flip over and cook until golden brown on the other side.<\/li><li>Place a few layers of paper towel on a baking sheet or plate. Once fritters are done, transfer to the lined baking sheet or dish and let the paper towel soak up extra oil.<\/li><li>Garnish with more lemon juice and a dollop of Greek yogurt before serving.<\/li><\/ol>",
-        "summary": "Lemony Zucchini Fritters requires about <b>45 minutes<\/b> from start to finish. One portion of this dish contains approximately <b>30g of protein<\/b>, <b>24g of fat<\/b>, and a total of <b>477 calories<\/b>. This recipe serves 3. For <b>$2.89 per serving<\/b>, this recipe <b>covers 29%<\/b> of your daily requirements of vitamins and minerals. If you have parsley, juice of lemon, flour, and a few other ingredients on hand, you can make it. This recipe from Foodista has 2 fans. It works well as a reasonably priced main course. With a spoonacular <b>score of 75%<\/b>, this dish is solid. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/lemony-zucchini-fritters-1403049\">Lemony Zucchini Fritters<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/lemony-corn-fritters-woolworths-masterchef-513195\">Lemony Corn Fritters {Woolworths\/Masterchef}<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/lemony-zucchini-with-basil-25123\">Lemony Zucchini with Basil<\/a>.",
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/654944-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/WRF73JT3\/pasta-with-salmon-cream-sauce",
+        "instructions": "<ol><li>Calories per serving: 300 In large pot of boiling water, cook pasta al dente (tender but firm) about 10 12 minutes. Drain and return to pot. In saucepan, melt butter over medium heat add onion and cook until tender.<\/li><li>Stir in flour and cook for a few seconds. Whisk in milk and bring to sa simmer, stirring constantly. Add peas, salmon brokin into chunks and salmon juices, parsley, cheese, pepper. Pour mixture over pasta and stir gently to mix. Serve Immediately. Microwave method: Cook pasta as above in glass bowl or 4 cup measure. Microwave butter and onion at Medium-High for 1 minute or until onion is tender. Stir in flour to form smooth paste. Gradually whisk in milk. <\/li><\/ol>",
+        "summary": "Pasta With Salmon Cream Sauce is a <b>pescatarian<\/b> main course. One portion of this dish contains approximately <b>23g of protein<\/b>, <b>15g of fat<\/b>, and a total of <b>439 calories<\/b>. For <b>$1.6 per serving<\/b>, this recipe <b>covers 23%<\/b> of your daily requirements of vitamins and minerals. This recipe serves 4. 3 people were impressed by this recipe. It is brought to you by Foodista. If you have peas, salmon, milk, and a few other ingredients on hand, you can make it. From preparation to the plate, this recipe takes about <b>45 minutes<\/b>. Taking all factors into account, this recipe <b>earns a spoonacular score of 68%<\/b>, which is pretty good. Similar recipes include <a href=\"https:\/\/spoonacular.com\/recipes\/pasta-with-salmon-cream-sauce-1241307\">Pasta With Salmon Cream Sauce<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/spinach-pasta-with-salmon-and-cream-sauce-86877\">Spinach Pasta with Salmon and Cream Sauce<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/artisan-farfalle-pasta-with-smoked-salmon-and-cream-sauce-632778\">Artisan Farfalle Pasta With Smoked Salmon and Cream Sauce<\/a>.",
         "cuisines": [],
         "dishTypes": [
             "side dish",
@@ -18,18 +18,16 @@
             "dinner"
         ],
         "ingredients": [
-            "2 tbsp breadcrumbs",
-            "2 eggs, beaten",
-            "\u00bd cup flour",
-            "1 tsp Garlic Powder",
-            "1 lemon, juiced",
-            "4 tbsp Olive oil, for pan frying",
-            "1 tsp Onion Powder",
-            "1 tbsp Grated Parmesan Cheese",
-            "\u00bd cup parsley, chopped",
-            "1 tsp Pepper",
-            "Plain Greek Yogurt",
-            "2 zucchini (about 8 oz each) trimmed"
+            "2 tablespoons butter - (\u00bc stick)",
+            "2 teaspoons Flour, all purpose",
+            "1 1\/4 cups Milk",
+            "2 teaspoons Onion, minced",
+            "1\/2 cup Parmesan cheese, grated",
+            "1\/4 cup Parsley",
+            "1 cup Peas",
+            "8 ounces Penne or zita or other tubul",
+            "1\/4 teaspoon Pepper",
+            "1 cup Salmon, red sockeye"
         ]
     }
 }
