@@ -898,3 +898,7 @@
 [2025-10-24 02:21:46] Fetching recipe with day of year: 297
 [2025-10-24 02:21:47] Successfully fetched and saved recipe: Pasta With Salmon Cream Sauce
 [2025-10-24 02:21:47] Recipe fetch process completed
+[2025-10-25 02:23:32] Starting recipe fetch process
+[2025-10-25 02:23:32] Fetching recipe with day of year: 298
+[2025-10-25 02:23:32] ERROR: Failed to get API response
+[2025-10-25 02:23:32] Recipe fetch process completed
