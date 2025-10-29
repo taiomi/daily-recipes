@@ -1,36 +1,36 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-10-27",
+    "lastUpdated": "2025-10-29",
     "recipe": {
-        "title": "Not Momofuku Ginger Scallion Noodles",
+        "title": "Chobani Harvest Fruit Salad",
         "readyInMinutes": 45,
-        "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/653304-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/6W333DRL\/not-momofuku-ginger-scallion-noodles",
-        "instructions": "<ol><li>Heat up the grapeseed oil in a saucepan over high heat until the oil is shimmery and hot, but not smoking.<\/li><li>Add the green onions, ginger, garlic and shallots at once, but be careful, the oil will bubble and splatter. The onions will sizzle and wilt almost immediately and turn a bright green.<\/li><li>Take the pan off the heat and stir the sauce with a wooden spoon. Add the fish sauce, sesame seed oil, rice wine vinegar, soy sauce, honey, crushed red chile pepper and salt to taste.<\/li><li>Let sit for 15 minutes, then toss with your favorite noodles.  I used fresh Chinese egg noodles.<\/li><\/ol>",
-        "summary": "The recipe Not Momofuku Ginger Scallion Noodles can be made <b>in approximately 45 minutes<\/b>. For <b>$1.74 per serving<\/b>, this recipe <b>covers 14%<\/b> of your daily requirements of vitamins and minerals. One serving contains <b>446 calories<\/b>, <b>13g of protein<\/b>, and <b>15g of fat<\/b>. This recipe serves 4. Only a few people made this recipe, and 2 would say it hit the spot. Head to the store and pick up fish sauce, grapeseed oil, soba noodles, and a few other things to make it today. It works well as a main course. It is a good option if you're following a <b>dairy free and pescatarian<\/b> diet. It is brought to you by Foodista. Overall, this recipe earns a <b>pretty good spoonacular score of 58%<\/b>. Similar recipes include <a href=\"https:\/\/spoonacular.com\/recipes\/momofukus-ginger-scallion-noodles-with-tofu-119805\">Momofuku's Ginger-Scallion Noodles with Tofu<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/ginger-scallion-noodles-40766\">Ginger Scallion Noodles<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/ginger-scallion-noodles-40019\">Ginger Scallion Noodles<\/a>.",
+        "servings": 1,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/638779-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/SJ2FLX7W\/chobani-harvest-fruit-salad",
+        "instructions": "In a large bowl, combine the apples, pear, banana and grapes.\nPour in the lemon juice and gently toss.\nAdd the raisins and pecans.\nAfter opening the yogurt container, incorporate the honey and cinnamon. Stir well.\nThen, pour the yogurt mixture over the fruit and toss to coat.\nShare and enjoy!",
+        "summary": "Need a <b>gluten free, lacto ovo vegetarian, and primal main course<\/b>? Chobani Harvest Fruit Salad could be an excellent recipe to try. One portion of this dish contains roughly <b>26g of protein<\/b>, <b>38g of fat<\/b>, and a total of <b>1562 calories<\/b>. For <b>$9.79 per serving<\/b>, this recipe <b>covers 39%<\/b> of your daily requirements of vitamins and minerals. This recipe serves 1. 8 people have tried and liked this recipe. This recipe from Foodista requires pink lady apples, cinnamon, pecan halves, and lemon juice. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. Overall, this recipe earns an <b>excellent spoonacular score of 86%<\/b>. <a href=\"https:\/\/spoonacular.com\/recipes\/harvest-bacon-and-chicken-dinner-salad-with-tangy-fruit-dressing-270038\">Harvest Bacon and Chicken Dinner Salad with Tangy Fruit Dressing<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/waldorf-ish-chicken-salad-with-chobani-0-pear-cawalnuts-493101\">Waldorf-ish Chicken Salad with @Chobani 0% Pear & @CAWalnuts<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/harvest-fruit-puree-195719\">Harvest Fruit Puree<\/a> are very similar to this recipe.",
         "cuisines": [],
         "dishTypes": [
             "side dish",
             "lunch",
+            "salad",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "2 teaspoons fish sauce",
-            "1 tablespoon chopped garlic",
-            "2 tablespoons of ginger finely minced",
-            "1 cup grapeseed oil",
-            "1 bunch large of green onions, sliced",
+            "2 Pink Lady apples, chopped",
+            "2 Granny Smith apples, chopped",
+            "1 Bartlett pear, chopped",
+            "1 banana, sliced",
+            "1 cup green grapes, halved",
+            "1 cup red globe grapes, halved and seeded",
+            "1\/2 teaspoon lemon juice",
+            "1\/2 cup raisins",
+            "1\/2 cup pecan halves",
+            "6 ounces vanilla-flavored Chobani Greek Yogurt",
             "1 tablespoon honey",
-            "kosher, sea or Himalayan salt to taste",
-            "1 crushed red chile pepper",
-            "1 teaspoon rice wine vinegar",
-            "1 tablespoon toasted sesame seed oil",
-            "1 tablespoon chopped shallots",
-            "3\/4 pound soba noodles",
-            "2 teaspoons soy or wheat free tamari sauce"
+            "1\/8 teaspoon cinnamon"
         ]
     }
 }
