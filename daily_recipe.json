@@ -1,15 +1,19 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-11-05",
+    "lastUpdated": "2025-11-07",
     "recipe": {
-        "title": "Pesto Zucchini \"Spaghetti",
+        "title": "3 Cheese Ravioli",
         "readyInMinutes": 45,
-        "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/655853-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/RGY8Z8V3\/pesto-zucchini-spaghetti",
-        "instructions": "Place zucchini strips in a colander over a bowl or in the sink. Sprinkle zucchini with salt and toss to combine. Let the zucchini sit for 15 minutes while the salt extracts the moisture. Drain excess water, squeezing zucchini, if necessary.\nMeanwhile, cook bacon in a skillet over medium heat until crisp, turning frequently. Remove bacon to a stack of paper towels to drain. Crumble bacon. Remove all but 2 T of bacon drippings from the pan.\nReturn the pan to medium heat. Add the green onions and broccoli, stirring frequently for about 3-5 minutes or until crisp-tender. Add zucchini and 2 T of pesto, tossing to combine all ingredients. Taste and add more pesto, if needed. The mixture only needs to warm up, so 2-3 minutes of cooking ought to do it.\nServe with bacon crumbles and freshly grated Parmesan cheese.",
-        "summary": "Pesto Zucchini \"Spaghetti requires around <b>45 minutes<\/b> from start to finish. This main course has <b>336 calories<\/b>, <b>18g of protein<\/b>, and <b>25g of fat<\/b> per serving. For <b>$1.9 per serving<\/b>, this recipe <b>covers 22%<\/b> of your daily requirements of vitamins and minerals. This recipe serves 4. Head to the store and pick up romano cheese, salt, bacon, and a few other things to make it today. 4 people have tried and liked this recipe. It is brought to you by Foodista. It is a good option if you're following a <b>gluten free and primal<\/b> diet. Overall, this recipe earns a <b>pretty good spoonacular score of 62%<\/b>. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/spaghetti-with-zucchini-and-pistachio-pesto-668341\">Spaghetti with Zucchini and Pistachio Pesto<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/spaghetti-with-zucchini-and-pistachio-pesto-1205233\">Spaghetti with Zucchini and Pistachio Pesto<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/zucchini-spaghetti-with-spinach-pesto-520192\">Zucchini \"Spaghetti\" with Spinach Pesto<\/a>.",
-        "cuisines": [],
+        "servings": 6,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/631863-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/Z6KMZCDD\/ravioli",
+        "instructions": "<ol><li>In a large bowl, mix the first four ingredients together (flour, egg, salt and oil). Form a ball of dough using your hands, then let it rest for about 1 hour.<\/li><li>In another bowl, mix together: ricotta, Gruyere and Parmesan cheese, eggs, parsley - then season with nutmeg, salt and pepper. Divide the dough into 2 equal parts. Roll them out (using a rolling pin) to very make a large, thin rectangle.<\/li><li>Place tablespoons of filling on the sheet of dough about 1 inch apart until all the filling and dough have been used up. Using a pizza cutter, cut the ravioli in squares.<\/li><li>Boil the chicken stock or water in a large pot, then add the ravioli and let it boil in the stock for about 3-5 minutes, until cooked.<\/li><li>Remove and drain the ravioli, then sprinkle melted butter and Parmesan cheese. Toss and serve hot.<\/li><\/ol>",
+        "summary": "The recipe 3 Cheese Ravioli could satisfy your Mediterranean craving in about <b>45 minutes<\/b>. One serving contains <b>489 calories<\/b>, <b>22g of protein<\/b>, and <b>25g of fat<\/b>. This recipe serves 6. For <b>$1.5 per serving<\/b>, this recipe <b>covers 17%<\/b> of your daily requirements of vitamins and minerals. Not a lot of people really liked this main course. This recipe from Foodista requires gruyere cheese, chicken stock, cooking oil, and parsley. 3 people have tried and liked this recipe. All things considered, we decided this recipe <b>deserves a spoonacular score of 48%<\/b>. This score is good. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/four-cheese-ravioli-77136\">Four-Cheese Ravioli<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/cheese-filling-for-ravioli-138850\">Cheese Filling for Ravioli<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/veggie-cheese-ravioli-370675\">Veggie Cheese Ravioli<\/a>.",
+        "cuisines": [
+            "Mediterranean",
+            "Italian",
+            "European"
+        ],
         "dishTypes": [
             "side dish",
             "lunch",
@@ -18,13 +22,18 @@
             "dinner"
         ],
         "ingredients": [
-            "4 medium zucchini, julienned thinly (mandoline slicers are great for this)",
-            "generous pinch of salt",
-            "6 slices of uncooked bacon",
-            "1\/2 cup green onions, sliced into 1-inch pieces",
-            "2 cups broccoli florets",
-            "2-3 T prepared basil pesto",
-            "Fresh Parmesan or Romano cheese, for garnish"
+            "2 tablespoons butter, melted",
+            "\u00bc Cup chicken stock",
+            "3 teaspoons cooking oil",
+            "2 large eggs, beaten",
+            "2\/3 pound flour",
+            "ground nutmeg",
+            "1\/4 pound Gruyere cheese, grated",
+            "2 tablespoons Parmesan cheese, grated",
+            "2 tablespoons parsley, chopped",
+            "pound Ricotta cheese",
+            "teaspoon salt",
+            "salt and pepper"
         ]
     }
 }
