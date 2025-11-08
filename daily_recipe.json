@@ -1,39 +1,43 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-11-07",
+    "lastUpdated": "2025-11-08",
     "recipe": {
-        "title": "3 Cheese Ravioli",
-        "readyInMinutes": 45,
-        "servings": 6,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/631863-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/Z6KMZCDD\/ravioli",
-        "instructions": "<ol><li>In a large bowl, mix the first four ingredients together (flour, egg, salt and oil). Form a ball of dough using your hands, then let it rest for about 1 hour.<\/li><li>In another bowl, mix together: ricotta, Gruyere and Parmesan cheese, eggs, parsley - then season with nutmeg, salt and pepper. Divide the dough into 2 equal parts. Roll them out (using a rolling pin) to very make a large, thin rectangle.<\/li><li>Place tablespoons of filling on the sheet of dough about 1 inch apart until all the filling and dough have been used up. Using a pizza cutter, cut the ravioli in squares.<\/li><li>Boil the chicken stock or water in a large pot, then add the ravioli and let it boil in the stock for about 3-5 minutes, until cooked.<\/li><li>Remove and drain the ravioli, then sprinkle melted butter and Parmesan cheese. Toss and serve hot.<\/li><\/ol>",
-        "summary": "The recipe 3 Cheese Ravioli could satisfy your Mediterranean craving in about <b>45 minutes<\/b>. One serving contains <b>489 calories<\/b>, <b>22g of protein<\/b>, and <b>25g of fat<\/b>. This recipe serves 6. For <b>$1.5 per serving<\/b>, this recipe <b>covers 17%<\/b> of your daily requirements of vitamins and minerals. Not a lot of people really liked this main course. This recipe from Foodista requires gruyere cheese, chicken stock, cooking oil, and parsley. 3 people have tried and liked this recipe. All things considered, we decided this recipe <b>deserves a spoonacular score of 48%<\/b>. This score is good. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/four-cheese-ravioli-77136\">Four-Cheese Ravioli<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/cheese-filling-for-ravioli-138850\">Cheese Filling for Ravioli<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/veggie-cheese-ravioli-370675\">Veggie Cheese Ravioli<\/a>.",
+        "title": "How to Make the Best Chicken Jambalaya",
+        "readyInMinutes": 55,
+        "servings": 8,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/715545-556x370.jpg",
+        "sourceUrl": "https:\/\/www.pinkwhen.com\/chicken-and-sausage-jambalaya\/",
+        "instructions": "Instructions\n\nCombine the creole seasoning ingredients in a small bowl and set aside.\n\nMelt butter in a large dutch oven over medium-high heat.\n\nAdd the sausage until it starts to brown, about 3 minutes.\n\nAdd the chicken and continue to cook until brown, about 3-5 minutes. Stir frequently.\n\nTurn the stove top down to medium heat.\n\nPreheat your oven to 350 degrees.\n\nStir in the seasoning mix of cajun spices and 1\/2 of the chopped onion, celery, green bell pepper, and garlic. Cook until vegetables get tender, about 3-5 minutes. Stir frequently and scrape the bottom of the pot frequently.\n\nStir in the tomato sauce and cook for about one minute.\n\nStir in the remaining onion, celery, bell pepper, garlic, and the diced tomatoes then remove from heat.\n\nStir in the rice and chicken stock, mix the ingredients well.\n\nBake uncovered in the oven at 350 degrees for one hour or until the rice is tender but still has a little crunch.\n\nRemove from the oven, add the bay leaves and stir well.\n\nAllow the dish to cool for five minutes before serving. OPTIONAL: Top with green onions before serving.",
+        "summary": "You can never have too many Cajun recipes, so give How to Make the Best Chicken Jambalayan a try. This main course has <b>450 calories<\/b>, <b>26g of protein<\/b>, and <b>21g of fat<\/b> per serving. This recipe serves 8. For <b>$1.86 per serving<\/b>, this recipe <b>covers 20%<\/b> of your daily requirements of vitamins and minerals. This recipe from Pink When requires \u25a2 butter, \u25a2 tomatoes, \u25a2 tomato sauce, and \u25a2 onion. It is a good option if you're following a <b>gluten free<\/b> diet. Plenty of people made this recipe, and 2169 would say it hit the spot. From preparation to the plate, this recipe takes around <b>55 minutes<\/b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 76%<\/b>. This score is good. If you like this recipe, take a look at these similar recipes: <a href=\"https:\/\/spoonacular.com\/recipes\/how-to-make-the-best-chicken-jambalaya-1695727\">How to Make the Best Chicken Jambalaya<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/chicken-jambalaya-1300201\">Chicken Jambalaya<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/chicken-jambalaya-ii-328195\">Chicken Jambalayan II<\/a>.",
         "cuisines": [
-            "Mediterranean",
-            "Italian",
-            "European"
+            "Cajun",
+            "Creole"
         ],
         "dishTypes": [
-            "side dish",
             "lunch",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "2 tablespoons butter, melted",
-            "\u00bc Cup chicken stock",
-            "3 teaspoons cooking oil",
-            "2 large eggs, beaten",
-            "2\/3 pound flour",
-            "ground nutmeg",
-            "1\/4 pound Gruyere cheese, grated",
-            "2 tablespoons Parmesan cheese, grated",
-            "2 tablespoons parsley, chopped",
-            "pound Ricotta cheese",
-            "teaspoon salt",
-            "salt and pepper"
+            "\u25a2 2 tbsp unsalted butter",
+            "\u25a2 1 lb sliced sausage",
+            "\u25a2 1 lb boneless skinless chicken breasts cut into bite sized pieces",
+            "\u25a2 1 cup yellow onion chopped",
+            "\u25a2 1 cup celery chopped",
+            "\u25a2 1\/2 cup bell pepper chopped",
+            "\u25a2 1 tbsp minced garlic",
+            "\u25a2 1 cup tomato sauce",
+            "\u25a2 14.5 oz diced tomatoes",
+            "\u25a2 2 1\/2 cups chicken stock",
+            "\u25a2 1 1\/2 cups rice uncooked and rinsed",
+            "\u25a2 2 bay leaves whole",
+            "\u25a2 2 tsp ground black pepper",
+            "\u25a2 1 tsp salt",
+            "\u25a2 1 tsp white pepper",
+            "\u25a2 1 tsp thyme dried",
+            "\u25a2 1 tsp red pepper flakes",
+            "\u25a2 1\/2 tsp sage"
         ]
     }
 }
