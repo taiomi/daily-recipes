@@ -1,45 +1,30 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-11-11",
+    "lastUpdated": "2025-11-13",
     "recipe": {
-        "title": "Seafood Gumbo",
-        "readyInMinutes": 45,
-        "servings": 12,
-        "image": "https://img.spoonacular.com/recipes/659638-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/XJJFHR6X\/seafood-gumbo",
-        "instructions": "<ol><li>Heat oil in a large heavy stockpot over medium-high heat.<\/li><li>Add the flour and stir constantly until a light brown roux is formed.<\/li><li>Add the onions, bell pepper, celery and garlic. Saut until the onions become translucent and the vegetables are tender.<\/li><li>Add the tomatoes and tomato pure and cook over medium heat for 10 minutes.<\/li><li>Add the Creole seasoning, thyme, bay leaves and about 1\/2 teaspoon each of salt and pepper, and continue to cook another 10 minutes.<\/li><li>Add the okra, and cook for another 10 minutes, then add the stock. Bring to a boil, then reduce heat to simmer and cook another 30 minutes.<\/li><li>Reduce heat to low.<\/li><li>About 10 minutes prior to serving, add the shrimp, oysters and oyster liquor. Just prior to serving, add the crab meat (the crab meat does not need to be cooked, just stir until it is heated through.<\/li><li>Taste and correct seasonings if necessary.<\/li><li>Remove from heat and sprinkle the fil powder on the surface of the gumbo; cover and let stand for 15 minutes. Uncover and stir to mix.<\/li><li>Serve hot with French bread and cold beverages.<\/li><\/ol>",
-        "summary": "Seafood Gumbo could be just the <b>dairy free and pescatarian<\/b> recipe you've been looking for. This recipe serves 12. This main course has <b>376 calories<\/b>, <b>35g of protein<\/b>, and <b>5g of fat<\/b> per serving. For <b>$4.87 per serving<\/b>, this recipe <b>covers 30%<\/b> of your daily requirements of vitamins and minerals. This recipe is liked by 4 foodies and cooks. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. This recipe is typical of Cajun cuisine. A mixture of salt and pepper, lump crab meat, flour, and a handful of other ingredients are all it takes to make this recipe so yummy. It is brought to you by Foodista. With a spoonacular <b>score of 80%<\/b>, this dish is solid. <a href=\"https:\/\/spoonacular.com\/recipes\/seafood-gumbo-1202205\">Seafood Gumbo<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/seafood-gumbo-3129\">Seafood Gumbo<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/seafood-gumbo-1262935\">Seafood Gumbo<\/a> are very similar to this recipe.",
-        "cuisines": [
-            "Cajun",
-            "Creole"
-        ],
+        "title": "Bulgur Pilaf With Green Lentils, Served With Caramelized Onions -Mercimekli Bulgur Pilavi",
+        "readyInMinutes": 35,
+        "servings": 1,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/636436-556x370.jpg",
+        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/7K4XPZ2Q\/bulgur-pilaf-with-green-lentils-served-with-caramelized-onions-mercimekli-bulgur-pilavi",
+        "instructions": "<ol><li>Boil the green lentils in a heavy pan with plenty of hot water for about 15 minutes. Drain the water and set the green lentils aside.<\/li><li>Combine the half cooked green lentils and rinsed the bulgur wheat in a heavy pan. Pour in the hot water and olive oil. Season with salt and pepper to taste and stir to combine thoroughly. Bring to boil for 1-2 minutes, and then reduce the heat. Cover and simmer until all the liquid has been completely absorbed (about 15 minutes).<\/li><li>While the pilaf is cooking, heat the olive oil in a pan and stir in the onion slices. Over a medium heat, cook the onion slices for about 10-15 minutes until they start to get caramelized, stir occasionally. Season with salt and pepper to taste.<\/li><li>Serve the bulgur and green lentils pilaf with the caramelized onion slices over the top. Spicy pickled peppers or a green salad with a sharp lemon juice and olive oil dressing would go really well with the pilaf.<\/li><li>Afiyet Olsun!<\/li><\/ol>",
+        "summary": "Bulgur Pilaf With Green Lentils, Served With Caramelized Onions -Mercimekli Bulgur Pilavi might be just the main course you are searching for. Watching your figure? This dairy free, lacto ovo vegetarian, and vegan recipe has <b>18932 calories<\/b>, <b>94g of protein<\/b>, and <b>1932g of fat<\/b> per serving. For <b>$25.0 per serving<\/b>, this recipe <b>covers 71%<\/b> of your daily requirements of vitamins and minerals. This recipe serves 1. A mixture of onion, preparation time: minutes cooking time: minutes, gr\/8oz\/ green lentils, and a handful of other ingredients are all it takes to make this recipe so flavorful. From preparation to the plate, this recipe takes roughly <b>35 minutes<\/b>. This recipe from Foodista has 3 fans. Overall, this recipe earns a <b>great spoonacular score of 86%<\/b>. Similar recipes include <a href=\"https:\/\/spoonacular.com\/recipes\/lentils-and-bulgur-wheat-with-caramelized-onions-482485\">Lentils and Bulgur Wheat with Caramelized Onions<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/lentils-and-bulgur-wheat-with-caramelized-onions-1535631\">Lentils and Bulgur Wheat with Caramelized Onions<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/bulgur-wheat-pilaf-with-green-lentils-1081576\">Bulgur Wheat Pilaf with Green Lentils<\/a>.",
+        "cuisines": [],
         "dishTypes": [
+            "side dish",
             "lunch",
-            "soup",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "2 bay leaves",
-            "3 ribs celery, finely diced",
-            "8 cups cooked long-grain white rice",
-            "1 tablespoon fil\u00e9 powder",
-            "4 quarts shrimp stock, crab stock or fish stock",
-            "1\/2 cup flour",
-            "6 cloves garlic, minced",
-            "2 green bell peppers, diced",
-            "1 pound fresh lump crab meat, picked over for shells and cartilage",
-            "1\/2 cup oil",
-            "2 pounds okra, chopped",
-            "2 medium onions, diced",
-            "2 dozens oysters, freshly shucked, liquor reserved",
-            "Salt and freshly ground black pepper to taste",
-            "1 tablespoon Creole seasoning blend",
-            "2 pounds medium shrimp, peeled and deveined",
-            "1 teaspoon dried thyme leaves",
-            "1 cup tomato pur\u00e9e",
-            "4 tomatoes, seeded and diced"
+            "350 bulgur wheat, rinsed",
+            "Preparation time: minutes Cooking time: 35 minutes",
+            "1 cup 225 gr\/8oz\/ green lentils",
+            "Salt and ground black pepper to taste",
+            "45 3 tablespoons mild olive oil",
+            "1 small onion",
+            "Pickled green and red peppers"
         ]
     }
 }
