@@ -994,3 +994,7 @@
 [2025-11-17 02:43:48] Fetching recipe with day of year: 321
 [2025-11-17 02:43:49] Successfully fetched and saved recipe: Mixed Paella
 [2025-11-17 02:43:49] Recipe fetch process completed
+[2025-11-18 02:41:29] Starting recipe fetch process
+[2025-11-18 02:41:29] Fetching recipe with day of year: 322
+[2025-11-18 02:41:29] ERROR: Failed to get API response
+[2025-11-18 02:41:29] Recipe fetch process completed
