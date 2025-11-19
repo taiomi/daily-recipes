@@ -1,18 +1,15 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-11-17",
+    "lastUpdated": "2025-11-19",
     "recipe": {
-        "title": "Mixed Paella",
-        "readyInMinutes": 45,
-        "servings": 8,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/652134-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/W5RRXF6W\/mixed-paella",
-        "instructions": "<ol><li>I a very large non-stick skillet or paella pan preheated over medium-high heat, add 2 teaspoons of your oil (you will need more oil if you're not using non-stick), garlic, red pepper flakes and rice. Saute for about 3 minutes. Add saffron, thyme, bay leaf and broth and bring to a boil. Cover and reduce heat to a simmer. Leave covered, do not stir.<\/li><li>In another non-stick skillet, heat to medium-high. Add chorizo and crumble as you saute. When the sausage is cooked through, add red pepper and onion. Salt and pepper to taste if needed. Saute until the onion is tender and remove from heat, set aside.<\/li><li>When the rice is nearly done (about 15 minutes) add fish and shrimp and press into rice. Add mussels, peas and sprinkle with lemon zest. Cover and continue to simmer until the rice is done and the mussels have opened. Discard any that do not.<\/li><li>Top with chorizo mixture and parsley. Serve with lemon wedges and a crusty bread.<\/li><\/ol>",
-        "summary": "Mixed Paella could be just the <b>gluten free and dairy free<\/b> recipe you've been looking for. This main course has <b>394 calories<\/b>, <b>28g of protein<\/b>, and <b>10g of fat<\/b> per serving. This recipe serves 8 and costs $3.18 per serving. It is a <b>rather expensive<\/b> recipe for fans of European food. 2 people have tried and liked this recipe. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. Head to the store and pick up shrimp, peas, lemon, and a few other things to make it today. It is brought to you by Foodista. With a spoonacular <b>score of 80%<\/b>, this dish is good. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/mixed-paella-383976\">Mixed Paella<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/paella-for-four-a-wonderful-spanish-mixed-seafood-stew-654327\">Paella for Four; A Wonderful Spanish Mixed Seafood Stew<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/frying-pan-paella-mixta-paella-with-seafood-and-meat-1250979\">Frying Pan Paella Mixta (Paella with Seafood and Meat)<\/a>.",
-        "cuisines": [
-            "Spanish",
-            "European"
-        ],
+        "title": "Cranberry and Orange Juice Spareribs",
+        "readyInMinutes": 210,
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/640349-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/KND4S2Q4\/cranberry-and-orange-juice-spareribs",
+        "instructions": "<ol><li>Combine all of the ingredients for the marinade in a bowl and stir.<\/li><li>Place ribs in the marinade and refrigerate for at least one hour or more or up to overnight.<\/li><li>Preheat oven to 325 degrees F.<\/li><li>Place the ribs in a roasting pan with the marinade.<\/li><li>Bake uncovered for 2 \u2013 2 \u00bd hours or until the ribs are fall off the bone tender. Allow the marinade to evaporate in the cooking process.<\/li><li>Let the ribs cool slightly; then separate the ribs with a cooking scissor and plate.<\/li><\/ol>",
+        "summary": "Cranberry and Orange Juice Spareribs is a main course that serves 4. For <b>$2.54 per serving<\/b>, this recipe <b>covers 34%<\/b> of your daily requirements of vitamins and minerals. Watching your figure? This gluten free, dairy free, and ketogenic recipe has <b>942 calories<\/b>, <b>51g of protein<\/b>, and <b>75g of fat<\/b> per serving. 7 people were glad they tried this recipe. It is brought to you by Foodista. A mixture of ketchup, orange juice, curry powder, and a handful of other ingredients are all it takes to make this recipe so tasty. From preparation to the plate, this recipe takes about <b>3 hours and 30 minutes<\/b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 71%<\/b>. This score is solid. Similar recipes include <a href=\"https:\/\/spoonacular.com\/recipes\/cranberry-orange-juice-slushee-128682\">Cranberry-Orange Juice Slushee<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/cranberry-orange-juice-bread-1258529\">Cranberry Orange Juice Bread<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/cranberry-orange-juice-bread-515851\">Cranberry Orange Juice Bread<\/a>.",
+        "cuisines": [],
         "dishTypes": [
             "lunch",
             "main course",
@@ -20,24 +17,18 @@
             "dinner"
         ],
         "ingredients": [
-            "1 bay leaf",
-            "1 quart fish stock or chicken broth",
-            "1 pound chorizo sausage, casing removed",
-            "2 teaspoons extra virgin olive oil",
-            "1\/2 pound firm white fish, cut into bite-size pieces",
-            "6 cloves garlic, minced",
-            "1 lemon, cut into wedges",
-            "1 lemon, zested",
-            "24 mediums mussels, cleaned",
-            "1 Spanish onion, chopped",
-            "1\/4 cup parsley, chopped",
-            "1 cup peas",
-            "1 red bell pepper, chopped",
-            "1\/2 teaspoon crushed red pepper flakes",
-            "2 cups dry rice",
-            "1\/4 teaspoon saffron threads",
-            "3\/4 pound peeled and deveined shrimp",
-            "6 sprigs thyme"
+            "1 tsp. black pepper",
+            "\u00bd cup cranberry juice",
+            "1 tsp. curry powder",
+            "1 tsp. garlic powder",
+            "1 tsp. ground cumin",
+            "\u00bc cup ketchup",
+            "\u00bd cup orange juice",
+            "1 tsp. salt",
+            "\u00bc cup soy sauce",
+            "4 lbs. spare ribs",
+            "\u00bc cup vinegar (any kind)",
+            "\u00bc cup water"
         ]
     }
 }
