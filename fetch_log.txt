@@ -1018,3 +1018,7 @@
 [2025-11-23 02:56:16] Fetching recipe with day of year: 327
 [2025-11-23 02:56:17] Successfully fetched and saved recipe: Polla alla Parmigiana: Chicken Parmesan
 [2025-11-23 02:56:17] Recipe fetch process completed
+[2025-11-24 02:51:47] Starting recipe fetch process
+[2025-11-24 02:51:47] Fetching recipe with day of year: 328
+[2025-11-24 02:51:48] ERROR: Failed to get API response
+[2025-11-24 02:51:48] Recipe fetch process completed
