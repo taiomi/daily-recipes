@@ -1,38 +1,30 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-11-23",
+    "lastUpdated": "2025-11-25",
     "recipe": {
-        "title": "Polla alla Parmigiana: Chicken Parmesan",
-        "readyInMinutes": 45,
-        "servings": 6,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/656571-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/PT5ZVJYJ\/polla-alla-parmigiana",
-        "instructions": "<ol><li>Preheat oven at 350<\/li><li>Pound the chicken breast or tights until they are even and  inch thick.<\/li><li>On a shallow dish combine the flour, salt and pepper. On a second dish, beat the eggs with 1 tablespoon of water. On a third dish, combine the bread crumbs, panko, marjoram and parmesan cheese.<\/li><li>Coat the chicken on both sides with the flour mixture, shaking off any excess, then dip both sides into the egg mixture and dredge both sides in the bread crumbs mixture.<\/li><li>Heat the oil in a large saute pan and cook breaded thighs on medium high for 2 to 3 minutes on each side, until the chicken is golden brown on each side. Do not overcrowd the skillet. Remove and place in a cookie sheet.<\/li><li>Smear tomato sauce over the chicken and top with a mozzarella slice.<\/li><li>Place in the oven and cook until the mozzarella has melted.<\/li><\/ol>",
-        "summary": "Pollan alla Parmigiana: Chicken Parmesan might be just the <b>Mediterranean<\/b> recipe you are searching for. For <b>$2.94 per serving<\/b>, you get a main course that serves 6. One serving contains <b>619 calories<\/b>, <b>46g of protein<\/b>, and <b>27g of fat<\/b>. Only a few people made this recipe, and 3 would say it hit the spot. From preparation to the plate, this recipe takes about <b>45 minutes<\/b>. A mixture of bell pepper, tomato sauce, flour, and a handful of other ingredients are all it takes to make this recipe so scrumptious. It is brought to you by Foodista. With a spoonacular <b>score of 82%<\/b>, this dish is outstanding. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/polla-alla-parmigiana-chicken-parmesan-1380533\">Pollan alla Parmigiana: Chicken Parmesan<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/eggplant-parmesan-melanzane-alla-parmigiana-249132\">Eggplant Parmesan (Melanzane alla Parmigiana)<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/aubergine-tomato-parmesan-bake-melanzane-alla-parmigiana-221394\">Aubergine, tomato & Parmesan bake (Melanzane alla Parmigiana)<\/a>.",
-        "cuisines": [
-            "Mediterranean",
-            "Italian",
-            "European"
-        ],
+        "title": "Farfalle with fresh tomatoes, basil and mozzarella",
+        "readyInMinutes": 15,
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/642585-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/B6CC3QXM\/farfalle-with-fresh-tomatoes-basil-and-mozzarella",
+        "instructions": "<ol><li>Boil a large pot of salted water and cook the pasta according to the package directions. When done drain, place back in the cooking pan and add the butter.<\/li><li>In a large skillet saut the tomatoes with the olive oil, 5 minutes. Remove from the heat and add the basil.<\/li><li>In a large bowl add the pasta, the tomatoes and mix well. Add the mozzarella and give it a last light folding.<\/li><li>Serve immediately<\/li><\/ol>",
+        "summary": "Need a <b>lacto ovo vegetarian main course<\/b>? Farfalle with fresh tomatoes, basil and mozzarella could be a tremendous recipe to try. For <b>97 cents per serving<\/b>, this recipe <b>covers 19%<\/b> of your daily requirements of vitamins and minerals. This recipe serves 4. One serving contains <b>557 calories<\/b>, <b>16g of protein<\/b>, and <b>15g of fat<\/b>. 7 people were glad they tried this recipe. Head to the store and pick up butter, basil leaves, tomatoes, and a few other things to make it today. It is brought to you by Foodista. From preparation to the plate, this recipe takes approximately <b>15 minutes<\/b>. Overall, this recipe earns a <b>good spoonacular score of 70%<\/b>. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/orecchiette-with-tomatoes-fresh-mozzarella-and-basil-200966\">Orecchiette with Tomatoes, Fresh Mozzarella, and Basil<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/tomatoes-stuffed-with-fresh-mozzarella-and-basil-153809\">Tomatoes Stuffed with Fresh Mozzarellan and Basil<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/risotto-with-fresh-mozzarella-grape-tomatoes-and-basil-116890\">Risotto With Fresh Mozzarella, Grape Tomatoes, and Basil<\/a>.",
+        "cuisines": [],
         "dishTypes": [
+            "side dish",
             "lunch",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "1 cup dry bread crumbs",
-            "2 extra large eggs",
-            "1 cup all-purpose flour",
-            "1 teaspoon dry marjoram",
-            "1 8 oz ball mozzarella",
-            "4 tablespoons Oil",
-            "1 cup Panko",
-            "\u00bd cup parmesan cheese",
-            "pepper",
-            "Salt",
-            "6 boneless, skinless chicken breasts",
-            "3 cups tomato sauce"
+            "1 pound of Farfalle pasta by Barilla",
+            "24 medium fresh basil leaves",
+            "2 large mozzarella, diced",
+            "2 tbsp olive oil",
+            "Salt and pepper",
+            "4 tomatoes, halved, seeded and cut in small pieces \u00bd inch dice (3 cups)",
+            "2 tablespoons unsalted butter"
         ]
     }
 }
