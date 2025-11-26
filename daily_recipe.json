@@ -1,30 +1,44 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-11-25",
+    "lastUpdated": "2025-11-26",
     "recipe": {
-        "title": "Farfalle with fresh tomatoes, basil and mozzarella",
-        "readyInMinutes": 15,
-        "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/642585-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/B6CC3QXM\/farfalle-with-fresh-tomatoes-basil-and-mozzarella",
-        "instructions": "<ol><li>Boil a large pot of salted water and cook the pasta according to the package directions. When done drain, place back in the cooking pan and add the butter.<\/li><li>In a large skillet saut the tomatoes with the olive oil, 5 minutes. Remove from the heat and add the basil.<\/li><li>In a large bowl add the pasta, the tomatoes and mix well. Add the mozzarella and give it a last light folding.<\/li><li>Serve immediately<\/li><\/ol>",
-        "summary": "Need a <b>lacto ovo vegetarian main course<\/b>? Farfalle with fresh tomatoes, basil and mozzarella could be a tremendous recipe to try. For <b>97 cents per serving<\/b>, this recipe <b>covers 19%<\/b> of your daily requirements of vitamins and minerals. This recipe serves 4. One serving contains <b>557 calories<\/b>, <b>16g of protein<\/b>, and <b>15g of fat<\/b>. 7 people were glad they tried this recipe. Head to the store and pick up butter, basil leaves, tomatoes, and a few other things to make it today. It is brought to you by Foodista. From preparation to the plate, this recipe takes approximately <b>15 minutes<\/b>. Overall, this recipe earns a <b>good spoonacular score of 70%<\/b>. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/orecchiette-with-tomatoes-fresh-mozzarella-and-basil-200966\">Orecchiette with Tomatoes, Fresh Mozzarella, and Basil<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/tomatoes-stuffed-with-fresh-mozzarella-and-basil-153809\">Tomatoes Stuffed with Fresh Mozzarellan and Basil<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/risotto-with-fresh-mozzarella-grape-tomatoes-and-basil-116890\">Risotto With Fresh Mozzarella, Grape Tomatoes, and Basil<\/a>.",
-        "cuisines": [],
+        "title": "Make Olive Garden\u2019s Delicious Pasta Fagioli At Home",
+        "readyInMinutes": 45,
+        "servings": 20,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/650654-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/3Q2XBWRG\/make-olive-gardens-delicious-pasta-fagioli-at-home",
+        "instructions": "Brown beef in a large soup pot.  Drain in a colander in sink.\nIn the same pot, heat the olive oil.  Add the onions, carrots, celery, and garlic and cook for 2 minutes. Stir often.\nAdd the drained beef back to the pot.  Stir in the canned tomatoes, beans, beef broth, spaghetti sauce, zucchini, water, Italian seasonings and pepper.\nBring soup up to a boil.  Turn heat to a simmer, cover and let cook for 50 minutes.\nAdd pasta to the soup.  Cover and cook for about 10 minutes longer until pasta is ready.\nLadle soup into a small bowl or cup.  Top with grated Parmesan cheese, if desired\nMakes 20 cups",
+        "summary": "If you want to add more <b>Mediterranean<\/b> recipes to your recipe box, Make Olive Garden\u2019s Delicious Pasta Fagioli At Home might be a recipe you should try. This recipe serves 20. One portion of this dish contains approximately <b>21g of protein<\/b>, <b>10g of fat<\/b>, and a total of <b>285 calories<\/b>. For <b>$1.58 per serving<\/b>, this recipe <b>covers 18%<\/b> of your daily requirements of vitamins and minerals. It works well as a main course. Not a lot of people made this recipe, and 2 would say it hit the spot. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. It is brought to you by Foodista. If you have kidney beans, garlic cloves, excellent northern beans, and a few other ingredients on hand, you can make it. All things considered, we decided this recipe <b>deserves a spoonacular score of 62%<\/b>. This score is good. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/olive-garden-pasta-e-fagioli-1347881\">Olive Garden Pastan e Fagioli<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/olive-garden-pasta-e-fagioli-1228645\">Olive Garden Pastan e Fagioli<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/olive-garden-pasta-e-fagioli-990430\">Olive Garden Pastan e Fagioli<\/a>.",
+        "cuisines": [
+            "Mediterranean",
+            "Italian",
+            "European"
+        ],
         "dishTypes": [
-            "side dish",
+            "soup",
             "lunch",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "1 pound of Farfalle pasta by Barilla",
-            "24 medium fresh basil leaves",
-            "2 large mozzarella, diced",
-            "2 tbsp olive oil",
-            "Salt and pepper",
-            "4 tomatoes, halved, seeded and cut in small pieces \u00bd inch dice (3 cups)",
-            "2 tablespoons unsalted butter"
+            "1 pound lean ground beef or ground turkey",
+            "1 teaspoon olive oil",
+            "3 cups onions, chopped",
+            "4 carrots, chopped",
+            "4 celery stalks, chopped",
+            "2 garlic cloves, minced",
+            "1 can (28 oz) tomatoes, diced",
+            "1 can (16 oz) red kidney beans, rinsed and drained",
+            "1 can (16 oz) white kidney beans, rinsed and drained",
+            "1 can (16 oz) great northern beans, rinsed and drained",
+            "3 cans (10 oz) reduced-sodium beef broth",
+            "1 jar (24 oz) spaghetti, marinara, or pasta sauce, we used Prego's Heart Smart",
+            "1 zucchini, chopped",
+            "2 tablespoons Italian seasoning blend",
+            "2 teaspoons fresh ground pepper or to taste",
+            "6 ounces whole wheat penne pasta",
+            "Grated Parmesan cheese to top each bowl with, optional"
         ]
     }
 }
