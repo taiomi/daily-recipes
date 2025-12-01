@@ -1,17 +1,17 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-11-29",
+    "lastUpdated": "2025-12-01",
     "recipe": {
-        "title": "Curry-Braised Chicken",
-        "readyInMinutes": 75,
-        "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/641145-556x370.jpg",
-        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/YN6PSSKQ\/curry-braised-chicken",
-        "instructions": "<ol><li>Preheat your oven to 325 degrees Fahrenheit.<\/li><li>Cut the chicken breasts in half. Heat oil over medium-high in a Dutch oven. Dust chicken with salt and pepper, then brown 1-2 minutes per side in the oil, working in batches. Set chicken aside.<\/li><li>Add curry paste to the Dutch oven, then use a wooden spoon to break up large pieces and work the paste into the hot oil. Once combined, add the coconut milk and use the wooden spoon to release any browned pieces of chicken stuck to the pot. Stir in the fish sauce and sugar.<\/li><li>Cover the Dutch oven and place in the oven. Bake for 45-55 minutes, or until chicken is cooked through and no longer pink.<\/li><li>Stir in the lime juice and serve with cooked rice.<\/li><\/ol>",
-        "summary": "Forget going out to eat or ordering takeout every time you crave Indian food. Try making Curry-Braised Chicken at home. This recipe serves 4. For <b>$2.2 per serving<\/b>, this recipe <b>covers 26%<\/b> of your daily requirements of vitamins and minerals. This main course has <b>565 calories<\/b>, <b>19g of protein<\/b>, and <b>33g of fat<\/b> per serving. This recipe is liked by 2 foodies and cooks. If you have lime juice, chicken breasts, coconut milk, and a few other ingredients on hand, you can make it. From preparation to the plate, this recipe takes around <b>1 hour and 15 minutes<\/b>. It is brought to you by Foodista. It is a good option if you're following a <b>gluten free, dairy free, and fodmap friendly<\/b> diet. With a spoonacular <b>score of 64%<\/b>, this dish is good. Try <a href=\"https:\/\/spoonacular.com\/recipes\/curry-braised-chicken-legs-1531923\">Curry Braised Chicken Legs<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/coconut-curry-braised-chicken-thighs-1040009\">Coconut-Curry Braised Chicken Thighs<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/curry-and-yogurt-braised-chicken-thighs-74523\">Curry-and-Yogurt-Braised Chicken Thighs<\/a> for similar recipes.",
+        "title": "Ahi Tuna Ceviche",
+        "readyInMinutes": 45,
+        "servings": 3,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/632021-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/7FBJ3QLN\/ahi-tuna-ceviche",
+        "instructions": "<ol><li>In medium bowl mix soy sauce, toasted sesame oil, rice vinegar, Serrano pepper, lime juice, mint, and sesame seeds. Then add diced tuna and toss to coat.<\/li><li>The tuna is ready to eat as soon as it's tossed and coated but you can marinate it for a few minutes if desired. The tuna will start to turn white almost immediately, a sign that it is cooking from the acidity of the lime juice. It is not necessary to cook the tuna. In fact, it is best served immediately while it is melt-in-your-mouth tender and moist.<\/li><li>Serve immediately by mounding atop crackers, chips, micro-greens, or even roasted sweet potato slices.<\/li><\/ol>",
+        "summary": "If you want to add more <b>Latin American<\/b> recipes to your recipe box, Ahi Tuna Ceviche might be a recipe you should try. One serving contains <b>117 calories<\/b>, <b>16g of protein<\/b>, and <b>4g of fat<\/b>. For <b>$2.29 per serving<\/b>, you get a main course that serves 3. It is brought to you by Foodista. It is a good option if you're following a <b>gluten free, dairy free, and pescatarian<\/b> diet. Not a lot of people made this recipe, and 3 would say it hit the spot. A mixture of ahi tuna steak, sesame oil, serrano pepper, and a handful of other ingredients are all it takes to make this recipe so scrumptious. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 63%<\/b>. This score is good. Similar recipes include <a href=\"https:\/\/spoonacular.com\/recipes\/margarita-ahi-tuna-ceviche-883481\">Margaritan Ahi Tuna Ceviche<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/uncle-bills-ahi-ahi-tuna-85052\">Uncle Bill's Ahi Ahi Tuna<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/chili-crusted-ahi-tuna-avocado-salad-with-cilantro-garlic-dressing-gf-and-fave-five-friday-healthy-tuna-1259649\">Chili Crusted Ahi Tuna & Avocado Salad with Cilantro Garlic Dressing (GF!) \u2026 and Fave Five Friday: Healthy Tuna<\/a>.",
         "cuisines": [
-            "Indian",
-            "Asian"
+            "South American",
+            "Latin American"
         ],
         "dishTypes": [
             "lunch",
@@ -20,16 +20,15 @@
             "dinner"
         ],
         "ingredients": [
-            "basmati rice",
-            "1 Tbsp. palm or brown sugar",
-            "2 Tbsp. fish sauce",
-            "2 Tbsp. fresh lime juice, or wedges for serving",
-            "pepper",
-            "Salt",
-            "2 large boneless, skinless, chicken breasts",
-            "1 (14oz) can unsweetened coconut milk",
-            "2 Tbsp. grapeseed or vegetable oil",
-            "2 Tbsp. curry paste (green, red, or yellow)"
+            "1 ahi tuna steak (approx. less than a 1 lb.)",
+            "5 small leaves of fresh mint",
+            "1\/2 tablespoon rice vinegar (recommended: O Yuzu Rice Vinegar by O 1\/2 of a Serrano pepper, very thinly sliced1 Juice of lime5 small leaves of fresh mintsprinkle of black sesame seeds (optional)",
+            "1 Juice of lime",
+            "1\/2 of a Serrano pepper, very thinly sliced",
+            "1 tsp. sesame oil",
+            "1In medium bowl mix soy sauce, toasted sesame oil, rice vinegar, Serrano pepper, lime juice, mint, and sesame seeds. Then add diced tuna and toss to coat.",
+            "5 tbsp. soy sauce",
+            "3Serve immediately by mounding atop crackers, chips, micro-greens, or even roasted sweet potato slices."
         ]
     }
 }
