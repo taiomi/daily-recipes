@@ -1,18 +1,15 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-12-01",
+    "lastUpdated": "2025-12-02",
     "recipe": {
-        "title": "Ahi Tuna Ceviche",
+        "title": "Pancit Bihon (Filipino Pancit)",
         "readyInMinutes": 45,
-        "servings": 3,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/632021-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/7FBJ3QLN\/ahi-tuna-ceviche",
-        "instructions": "<ol><li>In medium bowl mix soy sauce, toasted sesame oil, rice vinegar, Serrano pepper, lime juice, mint, and sesame seeds. Then add diced tuna and toss to coat.<\/li><li>The tuna is ready to eat as soon as it's tossed and coated but you can marinate it for a few minutes if desired. The tuna will start to turn white almost immediately, a sign that it is cooking from the acidity of the lime juice. It is not necessary to cook the tuna. In fact, it is best served immediately while it is melt-in-your-mouth tender and moist.<\/li><li>Serve immediately by mounding atop crackers, chips, micro-greens, or even roasted sweet potato slices.<\/li><\/ol>",
-        "summary": "If you want to add more <b>Latin American<\/b> recipes to your recipe box, Ahi Tuna Ceviche might be a recipe you should try. One serving contains <b>117 calories<\/b>, <b>16g of protein<\/b>, and <b>4g of fat<\/b>. For <b>$2.29 per serving<\/b>, you get a main course that serves 3. It is brought to you by Foodista. It is a good option if you're following a <b>gluten free, dairy free, and pescatarian<\/b> diet. Not a lot of people made this recipe, and 3 would say it hit the spot. A mixture of ahi tuna steak, sesame oil, serrano pepper, and a handful of other ingredients are all it takes to make this recipe so scrumptious. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 63%<\/b>. This score is good. Similar recipes include <a href=\"https:\/\/spoonacular.com\/recipes\/margarita-ahi-tuna-ceviche-883481\">Margaritan Ahi Tuna Ceviche<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/uncle-bills-ahi-ahi-tuna-85052\">Uncle Bill's Ahi Ahi Tuna<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/chili-crusted-ahi-tuna-avocado-salad-with-cilantro-garlic-dressing-gf-and-fave-five-friday-healthy-tuna-1259649\">Chili Crusted Ahi Tuna & Avocado Salad with Cilantro Garlic Dressing (GF!) \u2026 and Fave Five Friday: Healthy Tuna<\/a>.",
-        "cuisines": [
-            "South American",
-            "Latin American"
-        ],
+        "servings": 6,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/654504-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/W6SPYJMN\/pancit-bihon-filipino-pancit-recipe",
+        "instructions": "Heat a saucepan,put 1 tbsp oil and fry the bacon until brown.Set Aside\nAdd 3 tbsp oil to the sauce pan and caramelized onion then add garlic\nSaute until aroma comes out then add the pork slices,cook stir frying for 10 minutes\nAdd chicken and prawn,saute for 10 minutes.\nThen add in rice vermicelli,fried bacon,shitake mushroom,chicken broth,light soy sauce,thick and dark soy sauce,oyster sauce,ground pepper and sugar.\nCook in medium heat for about 10 minutes\nThen add the veggies:carrot,cabbage and sweet peas.\nCook for another 5 minutes or until the rice noodle is cook.\nDrizzle with sesame oil\nServe hot with Lumpiang Shanghai and soy calamansi dipping.",
+        "summary": "You can never have too many main course recipes, so give Pancit Bihon (Filipino Pancit) a try. One portion of this dish contains approximately <b>57g of protein<\/b>, <b>17g of fat<\/b>, and a total of <b>572 calories<\/b>. This dairy free recipe serves 6 and costs <b>$3.1 per serving<\/b>. 3 people have tried and liked this recipe. It is brought to you by Foodista. Head to the store and pick up rice vermicelli soaked in water, soy sauce, fried bacon, and a few other things to make it today. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 78%<\/b>. This score is good. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/pancit-bihon-filipino-pancit-1220389\">Pancit Bihon (Filipino Pancit)<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/bihon-pancit-filipino-986728\">Bihon Pancit (Filipino)<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/pancit-bihon-1220709\">Pancit Bihon<\/a>.",
+        "cuisines": [],
         "dishTypes": [
             "lunch",
             "main course",
@@ -20,15 +17,25 @@
             "dinner"
         ],
         "ingredients": [
-            "1 ahi tuna steak (approx. less than a 1 lb.)",
-            "5 small leaves of fresh mint",
-            "1\/2 tablespoon rice vinegar (recommended: O Yuzu Rice Vinegar by O 1\/2 of a Serrano pepper, very thinly sliced1 Juice of lime5 small leaves of fresh mintsprinkle of black sesame seeds (optional)",
-            "1 Juice of lime",
-            "1\/2 of a Serrano pepper, very thinly sliced",
-            "1 tsp. sesame oil",
-            "1In medium bowl mix soy sauce, toasted sesame oil, rice vinegar, Serrano pepper, lime juice, mint, and sesame seeds. Then add diced tuna and toss to coat.",
-            "5 tbsp. soy sauce",
-            "3Serve immediately by mounding atop crackers, chips, micro-greens, or even roasted sweet potato slices."
+            "250 grams rice vermicelli (bee hon) soaked in water for 20 minutes",
+            "1 tablespoon tbsp oil+ 3 oil",
+            "1\/4 cup fried chopped bacon",
+            "1 medium onion chopped",
+            "6 cloves grated garlic",
+            "20 pieces medium prawn cleaned and shelled",
+            "150 teaspoons grams pork but shoulder sliced thinly marinate for 20 minutes in: 1 rice wine,a",
+            "150 teaspoons grams chicken breast sliced thinly marinate for 20 minutes in: 1 rice wine,a das",
+            "2 1\/2 cups chicken broth",
+            "1 tablespoon of light soy sauce",
+            "1 tablespoon of thick,dark soy sauce",
+            "1 tablespoon of oyster sauce",
+            "2 teaspoons ground white pepper",
+            "1 teaspoon sugar",
+            "1 teaspoon sesame oil",
+            "1\/2 cup fresh Shitake mushroom slices",
+            "1\/2 cup carrot julienne cut",
+            "1\/2 cup sweet peas julienne cut",
+            "1 cup cabbage cut into medium squares"
         ]
     }
 }
