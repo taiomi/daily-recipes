@@ -1054,3 +1054,7 @@
 [2025-12-02 02:54:14] Fetching recipe with day of year: 336
 [2025-12-02 02:54:15] Successfully fetched and saved recipe: Pancit Bihon (Filipino Pancit)
 [2025-12-02 02:54:15] Recipe fetch process completed
+[2025-12-03 02:45:56] Starting recipe fetch process
+[2025-12-03 02:45:56] Fetching recipe with day of year: 337
+[2025-12-03 02:45:56] ERROR: Failed to get API response
+[2025-12-03 02:45:56] Recipe fetch process completed
