@@ -1,36 +1,37 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-12-04",
+    "lastUpdated": "2025-12-05",
     "recipe": {
-        "title": "Polenta gnocchi with savoy cabbage and cheese",
+        "title": "Lusciously Lemony Lentil Soup",
         "readyInMinutes": 45,
-        "servings": 2,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/656544-556x370.jpg",
-        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/WWSDXGJH\/polenta-gnocchi-with-savoy-cabbage-and-cheese",
-        "instructions": "<ol><li>Put the cold precooked polenta in a mixer and blend it with the egg until creamy.<\/li><li>Add the buckwheat flour. You will need more or less 1\/3 of a cup, but a lot depends on how sticky your polenta. Add enough flour to get a soft dough that doesn't stick to your hand.<\/li><li>Form the gnocchi on a floured surface by rolling out the dough in long logs, more or less as thick as a thumb and then cut them in gnocchi. If you want the gnocchi to look super nice, roll them on a fork to give them the characteristic stripes (I never do). Place the gnocchi in the fridge while you prepare the sauce.<\/li><li>Cut the savoy cabbage in stripes, wash it and stew it with a bit of water until wilted. Drain it and sautee it with 1 spoon butter and salt until cooked.<\/li><li>Prepare the cheese by dicing it and the rest of the butter by melting it with the sage and the garlic.<\/li><li>Cook the gnocchi in salted boiling water in batches. Throw 10-20 gnocchi in the pot of boiling water and fish them out once they start floating. Drain them and add them to a bowl. Dress with cheese, cabbage and butter and keep layering the ingredients in the bowl until you run out.<\/li><li>Do not mix the gnocchi in the bowl, as they are rather soft and would break. If the cheese didn't melt much, you can microwave the bowl for a couple of minutes.<\/li><li>Serve piping hot.<\/li><\/ol>",
-        "summary": "Polenta gnocchi with savoy cabbage and cheese could be just the <b>gluten free and lacto ovo vegetarian<\/b> recipe you've been looking for. For <b>$2.39 per serving<\/b>, you get a main course that serves 2. One serving contains <b>459 calories<\/b>, <b>20g of protein<\/b>, and <b>25g of fat<\/b>. This recipe is liked by 10 foodies and cooks. This recipe from Foodista requires savoy cabbage, sage, polenta, and egg. This recipe is typical of Mediterranean cuisine. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. Taking all factors into account, this recipe <b>earns a spoonacular score of 76%<\/b>, which is pretty good. <a href=\"https:\/\/spoonacular.com\/recipes\/savoy-cabbage-and-potato-soup-with-grated-leicester-cheese-and-greek-yogurt-486567\">Savoy Cabbage and Potato Soup with grated Leicester Cheese and Greek Yogurt<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/savoy-cabbage-and-turnips-11377\">Savoy Cabbage And Turnips<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/savoy-cabbage-with-caraway-11134\">Savoy Cabbage With Caraway<\/a> are very similar to this recipe.",
-        "cuisines": [
-            "Mediterranean",
-            "Italian",
-            "European"
-        ],
+        "servings": 1,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/650487-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/RFKZ88M8\/lusciously-lemony-lentil-soup",
+        "instructions": "Heat the olive oil over medium high heat.\nWhen the oil is hot, add your onion and garlic and cook until soft; about 5 minutes.\nStir in the tomato paste, cumin, salt, pepper, and chili powder. Cook until spices are fragrant; about 2 minutes.\nStir in the chicken broth.\nAdd in the carrots and simmer covered on medium low heat until they are soft; about 15 minutes.\nAdd in the lentils and cook until they are heated through (you can also use dried lentils. Just add in with carrots and let simmer for approximately 30 minutes instead of 15 minutes).\nOnce lentils are heated through, blend soup until smooth. This can be done with with either an emulsifier right in the pot or by putting the soup in batches into a blender.\nStir in the lemon juice and cilantro. Season with salt to taste. Enjoy!",
+        "summary": "Lusciously Lemony Lentil Soup might be just the main course you are searching for. Watching your figure? This gluten free, dairy free, and ketogenic recipe has <b>971 calories<\/b>, <b>44g of protein<\/b>, and <b>76g of fat<\/b> per serving. This recipe serves 1 and costs $3.0 per serving. 3 people were glad they tried this recipe. It can be enjoyed any time, but it is especially good for <b>Autumn<\/b>. Head to the store and pick up olive oil, broth, carrots, and a few other things to make it today. It is brought to you by Foodista. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. Overall, this recipe earns a <b>solid spoonacular score of 55%<\/b>. Similar recipes include <a href=\"https:\/\/spoonacular.com\/recipes\/lusciously-lemony-lentil-soup-1403051\">Lusciously Lemony Lentil Soup<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/lusciously-lemony-lentil-soup-34095\">Lusciously Lemony Lentil Soup<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/lemony-lentil-soup-992087\">Lemony Lentil Soup<\/a>.",
+        "cuisines": [],
         "dishTypes": [
-            "side dish",
+            "soup",
             "lunch",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "1\/3 cup buckwheat flour",
-            "2 tbsp butter",
-            "1\/2 lb cooked polenta",
-            "1 egg",
-            "1\/2 cup fontina",
-            "1 clove garlic",
-            "sage",
-            "salt",
-            "1\/2 savoy cabbage"
+            "3 tablespoons Olive Oil",
+            "1 Large Onion, Chopped",
+            "2 cloves Garlic, Minced",
+            "1 tablespoon Tomato Paste",
+            "1 teaspoon Cumin",
+            "1\/4 teaspoon Salt",
+            "1\/4 teaspoon Pepper",
+            "1\/8 teaspoon Chili Powder",
+            "4 cups Broth (Veggie or Chicken)",
+            "2 Carrots, Peeled and Chopped",
+            "1 Pd Cooked Lentils",
+            "2 tablespoons Lemon Juice",
+            "3 tablespoons Cilantro",
+            "Salt to Taste"
         ]
     }
 }
