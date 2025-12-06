@@ -1066,3 +1066,7 @@
 [2025-12-05 02:47:53] Fetching recipe with day of year: 339
 [2025-12-05 02:47:54] Successfully fetched and saved recipe: Lusciously Lemony Lentil Soup
 [2025-12-05 02:47:54] Recipe fetch process completed
+[2025-12-06 02:39:02] Starting recipe fetch process
+[2025-12-06 02:39:02] Fetching recipe with day of year: 340
+[2025-12-06 02:39:02] ERROR: Failed to get API response
+[2025-12-06 02:39:02] Recipe fetch process completed
