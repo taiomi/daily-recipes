@@ -1,37 +1,34 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-12-05",
+    "lastUpdated": "2025-12-07",
     "recipe": {
-        "title": "Lusciously Lemony Lentil Soup",
+        "title": "Cod with Tomato-Olive-Chorizo Sauce and Mashed Potatoes",
         "readyInMinutes": 45,
-        "servings": 1,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/650487-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/RFKZ88M8\/lusciously-lemony-lentil-soup",
-        "instructions": "Heat the olive oil over medium high heat.\nWhen the oil is hot, add your onion and garlic and cook until soft; about 5 minutes.\nStir in the tomato paste, cumin, salt, pepper, and chili powder. Cook until spices are fragrant; about 2 minutes.\nStir in the chicken broth.\nAdd in the carrots and simmer covered on medium low heat until they are soft; about 15 minutes.\nAdd in the lentils and cook until they are heated through (you can also use dried lentils. Just add in with carrots and let simmer for approximately 30 minutes instead of 15 minutes).\nOnce lentils are heated through, blend soup until smooth. This can be done with with either an emulsifier right in the pot or by putting the soup in batches into a blender.\nStir in the lemon juice and cilantro. Season with salt to taste. Enjoy!",
-        "summary": "Lusciously Lemony Lentil Soup might be just the main course you are searching for. Watching your figure? This gluten free, dairy free, and ketogenic recipe has <b>971 calories<\/b>, <b>44g of protein<\/b>, and <b>76g of fat<\/b> per serving. This recipe serves 1 and costs $3.0 per serving. 3 people were glad they tried this recipe. It can be enjoyed any time, but it is especially good for <b>Autumn<\/b>. Head to the store and pick up olive oil, broth, carrots, and a few other things to make it today. It is brought to you by Foodista. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. Overall, this recipe earns a <b>solid spoonacular score of 55%<\/b>. Similar recipes include <a href=\"https:\/\/spoonacular.com\/recipes\/lusciously-lemony-lentil-soup-1403051\">Lusciously Lemony Lentil Soup<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/lusciously-lemony-lentil-soup-34095\">Lusciously Lemony Lentil Soup<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/lemony-lentil-soup-992087\">Lemony Lentil Soup<\/a>.",
+        "servings": 2,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/639851-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/GNSQNH5W\/cod-with-tomatoes-olives-and-chorizo",
+        "instructions": "<ol><li>If frozen, thaw completely the cod fillets, and dry them with paper towels. season with salt and set aside.<\/li><li>Peel and quarter the potatoes, and cook in lightly salted water until tender.<\/li><li>Meanwhile, fry the pepper in olive oil for 3-4 minutes.<\/li><li>Add cubed sausage, saut for another 2-3 minutes.<\/li><li>Add the whole plum tomatoes,  halve them with a flat end of a wooden spoon.<\/li><li>Stir in olives and parsley, cook the sauce gently for 2 minutes. Set aside.<\/li><li>Drain the potatoes and season with parsley, olive oil and lemon juice. Use a hand masher to mix and mash. Leave in a warm place.<\/li><li>Place the cod fillets into a hot oiled non-stick pan and cook over a high heat for 5 minutes on each side or until golden brown.<\/li><li>Serve with mashed potatoes and sauce.<\/li><\/ol>",
+        "summary": "If you want to add more <b>gluten free, dairy free, and whole 30<\/b> recipes to your collection, Cod with Tomato-Olive-Chorizo Sauce and Mashed Potatoes might be a recipe you should try. This recipe serves 2 and costs $6.26 per serving. This main course has <b>733 calories<\/b>, <b>56g of protein<\/b>, and <b>40g of fat<\/b> per serving. This recipe is liked by 14 foodies and cooks. Head to the store and pick up lemon juice, parsley leaves, parsley, and a few other things to make it today. It is perfect for <b>Thanksgiving<\/b>. It is brought to you by Foodista. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 96%<\/b>. This score is awesome. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/cod-stew-with-chorizo-leeks-potatoes-2655\">Cod Stew With Chorizo, Leeks & Potatoes<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/tuna-steaks-in-spicy-tomato-sauce-with-mashed-potatoes-1204417\">Tuna Steaks In Spicy Tomato Sauce With Mashed Potatoes<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/tuna-steaks-in-spicy-tomato-sauce-with-mashed-potatoes-668002\">Tuna Steaks In Spicy Tomato Sauce With Mashed Potatoes<\/a>.",
         "cuisines": [],
         "dishTypes": [
-            "soup",
             "lunch",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "3 tablespoons Olive Oil",
-            "1 Large Onion, Chopped",
-            "2 cloves Garlic, Minced",
-            "1 tablespoon Tomato Paste",
-            "1 teaspoon Cumin",
-            "1\/4 teaspoon Salt",
-            "1\/4 teaspoon Pepper",
-            "1\/8 teaspoon Chili Powder",
-            "4 cups Broth (Veggie or Chicken)",
-            "2 Carrots, Peeled and Chopped",
-            "1 Pd Cooked Lentils",
-            "2 tablespoons Lemon Juice",
-            "3 tablespoons Cilantro",
-            "Salt to Taste"
+            "50g pitted black olives, halved",
+            "500 g cod fillets, fresh or frozen",
+            "4 Tbs fresh parsley, chopped",
+            "Fresh parsley leaves, chopped",
+            "1 Tbs lemon juice",
+            "1 Tbs olive oil",
+            "2 Tbs olive oil",
+            "240g whole plum tomatoes, canned",
+            "300 g potatoes",
+            "100g fresh red pepper, trimmed, cut into small strips",
+            "\u00bd tsp salt",
+            "100g chorizo or a semi-smoked sausage, cubed"
         ]
     }
 }
