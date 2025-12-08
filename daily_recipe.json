@@ -1,14 +1,14 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-12-07",
+    "lastUpdated": "2025-12-08",
     "recipe": {
-        "title": "Cod with Tomato-Olive-Chorizo Sauce and Mashed Potatoes",
+        "title": "Chicken Cordon Bleu",
         "readyInMinutes": 45,
-        "servings": 2,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/639851-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/GNSQNH5W\/cod-with-tomatoes-olives-and-chorizo",
-        "instructions": "<ol><li>If frozen, thaw completely the cod fillets, and dry them with paper towels. season with salt and set aside.<\/li><li>Peel and quarter the potatoes, and cook in lightly salted water until tender.<\/li><li>Meanwhile, fry the pepper in olive oil for 3-4 minutes.<\/li><li>Add cubed sausage, saut for another 2-3 minutes.<\/li><li>Add the whole plum tomatoes,  halve them with a flat end of a wooden spoon.<\/li><li>Stir in olives and parsley, cook the sauce gently for 2 minutes. Set aside.<\/li><li>Drain the potatoes and season with parsley, olive oil and lemon juice. Use a hand masher to mix and mash. Leave in a warm place.<\/li><li>Place the cod fillets into a hot oiled non-stick pan and cook over a high heat for 5 minutes on each side or until golden brown.<\/li><li>Serve with mashed potatoes and sauce.<\/li><\/ol>",
-        "summary": "If you want to add more <b>gluten free, dairy free, and whole 30<\/b> recipes to your collection, Cod with Tomato-Olive-Chorizo Sauce and Mashed Potatoes might be a recipe you should try. This recipe serves 2 and costs $6.26 per serving. This main course has <b>733 calories<\/b>, <b>56g of protein<\/b>, and <b>40g of fat<\/b> per serving. This recipe is liked by 14 foodies and cooks. Head to the store and pick up lemon juice, parsley leaves, parsley, and a few other things to make it today. It is perfect for <b>Thanksgiving<\/b>. It is brought to you by Foodista. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 96%<\/b>. This score is awesome. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/cod-stew-with-chorizo-leeks-potatoes-2655\">Cod Stew With Chorizo, Leeks & Potatoes<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/tuna-steaks-in-spicy-tomato-sauce-with-mashed-potatoes-1204417\">Tuna Steaks In Spicy Tomato Sauce With Mashed Potatoes<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/tuna-steaks-in-spicy-tomato-sauce-with-mashed-potatoes-668002\">Tuna Steaks In Spicy Tomato Sauce With Mashed Potatoes<\/a>.",
+        "servings": 6,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/638035-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/KFDCB2XH\/chicken-cordon-bleu",
+        "instructions": "<ol><li>Preheat oven to 350 degrees F.<\/li><li>Butterfly the chicken breasts by slicing half lengthwise but not cutting all the way through. Lay the halved breasts between 2 pieces of plastic wrap. Using the flat side of a meat mallet, gently pound the chicken to 1\/4-inch thickness, taking care to not tear or create holes in the meat.<\/li><li>Lay 2 slices of cheese on each breast, followed by 2 slices of ham, and 2 more of cheese; leaving a 1\/2-inch margin on all sides to help seal the roll. Tuck in the sides of the breast and roll up tight like a jellyroll. Squeeze the log gently to seal.<\/li><li>Season the flour with salt and pepper; spread out on waxed paper or in a flat dish. Mix the breadcrumbs with thyme, kosher salt, pepper, and oil. The oil will help the crust brown. Beat together the eggs and water, the mixture should be fluid. Lightly dust the chicken with flour, then dip in the egg mixture. Gently coat in the bread crumbs.<\/li><li>Carefully transfer the roulades to a baking pan and bake for 20 minutes until browned and cooked through.<\/li><li>Serve whole or cut into pinwheels.<\/li><\/ol>",
+        "summary": "Chicken Cordon Bleu might be a good recipe to expand your main course repertoire. For <b>$1.81 per serving<\/b>, this recipe <b>covers 24%<\/b> of your daily requirements of vitamins and minerals. This recipe makes 6 servings with <b>417 calories<\/b>, <b>43g of protein<\/b>, and <b>21g of fat<\/b> each. 162 people found this recipe to be delicious and satisfying. This recipe from Foodista requires kosher salt and pepper, eggs, flour, and swiss cheese. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. Overall, this recipe earns an <b>outstanding spoonacular score of 83%<\/b>. If you like this recipe, take a look at these similar recipes: <a href=\"https:\/\/spoonacular.com\/recipes\/chicken-cordon-bleu-38785\">Chicken Cordon Bleu<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/chicken-cordon-bleu-355114\">Chicken Cordon Bleu<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/chicken-cordon-bleu-558701\">Chicken Cordon Bleu<\/a>.",
         "cuisines": [],
         "dishTypes": [
             "lunch",
@@ -17,18 +17,16 @@
             "dinner"
         ],
         "ingredients": [
-            "50g pitted black olives, halved",
-            "500 g cod fillets, fresh or frozen",
-            "4 Tbs fresh parsley, chopped",
-            "Fresh parsley leaves, chopped",
-            "1 Tbs lemon juice",
-            "1 Tbs olive oil",
-            "2 Tbs olive oil",
-            "240g whole plum tomatoes, canned",
-            "300 g potatoes",
-            "100g fresh red pepper, trimmed, cut into small strips",
-            "\u00bd tsp salt",
-            "100g chorizo or a semi-smoked sausage, cubed"
+            "6 slices deli ham",
+            "2 eggs",
+            "1\/4 cup flour",
+            "2 teaspoons fresh thyme leaves",
+            "kosher salt and freshly ground black pepper",
+            "1 teaspoon olive oil",
+            "1 cup panko bread crumbs",
+            "6 boneless, skinless chicken breasts",
+            "12 slices Gruyere or Swiss cheese",
+            "2 tsps water"
         ]
     }
 }
