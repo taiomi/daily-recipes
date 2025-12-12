@@ -1090,3 +1090,7 @@
 [2025-12-11 02:52:30] Fetching recipe with day of year: 345
 [2025-12-11 02:52:30] Successfully fetched and saved recipe: Ginger Beef Stir Fry
 [2025-12-11 02:52:30] Recipe fetch process completed
+[2025-12-12 02:51:25] Starting recipe fetch process
+[2025-12-12 02:51:25] Fetching recipe with day of year: 346
+[2025-12-12 02:51:25] ERROR: Failed to get API response
+[2025-12-12 02:51:25] Recipe fetch process completed
