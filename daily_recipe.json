@@ -1,33 +1,41 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-12-11",
+    "lastUpdated": "2025-12-13",
     "recipe": {
-        "title": "Ginger Beef Stir Fry",
-        "readyInMinutes": 45,
-        "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/644554-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/F7LXNN6G\/ginger-beef-stir-fry",
-        "instructions": "<ol><li>Thinly slice sirloin against grain in 1 inch wide strips. Cut each water chestnut in half. In a large skillet or wok, quickly brown sirloin in hot oil. Stir in chestnuts, carrots, onion, garlic and ginger until onion is soft. Stir in pepper and lettuce for one minute. Stir in marmalade and soy sauce. Cook, stirring about 2 minutes. Serve at once.<\/li><li>Makes 4 servings.<\/li><\/ol>",
-        "summary": "Ginger Beef Stir Fry might be just the main course you are searching for. One portion of this dish contains roughly <b>32g of protein<\/b>, <b>12g of fat<\/b>, and a total of <b>416 calories<\/b>. This recipe serves 4. For <b>$3.77 per serving<\/b>, this recipe <b>covers 34%<\/b> of your daily requirements of vitamins and minerals. It is a good option if you're following a <b>gluten free and dairy free<\/b> diet. 3 people have tried and liked this recipe. It is brought to you by Foodista. From preparation to the plate, this recipe takes about <b>45 minutes<\/b>. If you have water chestnuts, bell pepper, top sirloin steak, and a few other ingredients on hand, you can make it. All things considered, we decided this recipe <b>deserves a spoonacular score of 87%<\/b>. This score is awesome. Try <a href=\"https:\/\/spoonacular.com\/recipes\/ginger-beef-stir-fry-110609\">Ginger Beef Stir-Fry<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/ginger-beef-stir-fry-1343433\">Ginger Beef Stir Fry<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/ginger-beef-stir-fry-1523023\">Ginger Beef Stir Fry<\/a> for similar recipes.",
-        "cuisines": [],
+        "title": "How to Make a Louisiana Style Gumbo",
+        "readyInMinutes": 120,
+        "servings": 10,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/1055614-556x370.jpg",
+        "sourceUrl": "https:\/\/www.pinkwhen.com\/louisiana-style-gumbo-recipe\/",
+        "instructions": "Instructions\n\n\n\nTo get started with this dish you will want to get two post of water boiling and cook your chicken breasts in one and your sausage in the other. I usually boil my chicken breasts for 15-20 minutes until the juices run clear when cut into, then cube them. For the sausage, slice it into bite sized pieces and boil for 10 minutes. Set aside after cooking to use later with the gumbo.\n\n\nThe roux is the most important part of a gumbo. If you don't get the roux right, you are probably not going to like your gumbo. There are many recipes you can try for a roux, but this is probably going to be one of the best you have ever had if you are a true gumbo fan. Let's get start making the gumbo.\n\n\nOver medium heat in a large pot, add your olive oil. Allow to warm for a minute, and then add in the flour. Stir constantly until all of the flour has disolved and the mixture has a lot of tiny bubbles. Once you have reached that consistency it's time to add in your garlic powder. Allow to bubble, constantly stirring for one minute.\n\n\nGradually stir in the chicken broth and the beer, stirring constantly until the mixture comes to a slow simmer. Add the celery, all tomatoes, onion, bell pepper, parsley, and cajun seasoning. Reduce heat to a slow simmer, cover, and continue to simmer for 40 minutes, stirring often.\n\n\nMix the chicken and sausage into the roux mixture, cover, and cook for an additional 20 minutes, stirring often. Add in the fil powder, stir well. \n\n\nOnce finished, serve over rice and with a side of french bread. So delicious!",
+        "summary": "If you want to add more <b>Cajun<\/b> recipes to your recipe box, How to Make a Louisiana Style Gumbo might be a recipe you should try. This main course has <b>462 calories<\/b>, <b>51g of protein<\/b>, and <b>17g of fat<\/b> per serving. This dairy free recipe serves 10 and costs <b>$3.76 per serving<\/b>. If you have sausage, chicken breasts, extra virgin olive oil, and a few other ingredients on hand, you can make it. This recipe is liked by 2 foodies and cooks. From preparation to the plate, this recipe takes approximately <b>2 hours<\/b>. It is brought to you by Pink When. With a spoonacular <b>score of 74%<\/b>, this dish is good. Similar recipes include <a href=\"https:\/\/spoonacular.com\/recipes\/how-to-make-a-louisiana-style-gumbo-1370849\">How to Make a Louisiana Style Gumbo<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/how-to-make-a-louisiana-style-gumbo-1557911\">How to Make a Louisiana Style Gumbo<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/louisiana-style-gumbo-715384\">Louisiana Style Gumbo<\/a>.",
+        "cuisines": [
+            "Creole",
+            "Cajun"
+        ],
         "dishTypes": [
+            "soup",
             "lunch",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "1 can (8 oz.) water chestnuts, drained",
-            "3 mediums Carrots, cut in 2 inch sticks",
-            "6 ounces Fresh ginger root",
-            "4 cloves garlic",
-            "1 large Green bell pepper, chunked",
-            "1 quart Salad lettuce",
-            "1 medium Onion, sliced",
-            "1\/4 cup Orange marmalade",
-            "1\/4 cup plus 1 tablespoon soy sauce",
-            "1 pound Top sirloin steak",
-            "2 tablespoons Vegetable oil"
+            "1 cup all purpose flour",
+            "1 12oz bottle or can of beer (I prefer Michelob Ultra)",
+            "1 bell pepper diced",
+            "1\/4 cup cajun seasoning in the seasoning aisle at your local grocery store, and if you are really looking for some flavor you can kick things up by adding an additional 1\/4 cup of seasoning to make it a full 1\/2 cup of cajun seasoning.",
+            "1 10oz can diced tomatoes with green chili peppers (with juice)",
+            "1 14.5oz can petite diced tomatoes (with juice)",
+            "6 stalks of celery diced",
+            "3 14.5oz cans chicken broth",
+            "3 chicken breasts cooked and cubed",
+            "1 cup extra virgin olive oil",
+            "1 Tbsp fil\u00e9 powder",
+            "1 Tbsp garlic powder",
+            "2 Tbsp parsley",
+            "1 package sausage cooked and sliced",
+            "1 sweet onion diced"
         ]
     }
 }
