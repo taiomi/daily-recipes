@@ -1126,3 +1126,7 @@
 [2025-12-20 02:43:07] Fetching recipe with day of year: 354
 [2025-12-20 02:43:08] Successfully fetched and saved recipe: My Asian Fried Fish Fillet
 [2025-12-20 02:43:08] Recipe fetch process completed
+[2025-12-21 02:57:21] Starting recipe fetch process
+[2025-12-21 02:57:21] Fetching recipe with day of year: 355
+[2025-12-21 02:57:21] ERROR: Failed to get API response
+[2025-12-21 02:57:21] Recipe fetch process completed
