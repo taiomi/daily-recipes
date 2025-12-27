@@ -1150,3 +1150,7 @@
 [2025-12-26 02:52:22] Fetching recipe with day of year: 360
 [2025-12-26 02:52:23] Successfully fetched and saved recipe: Easy Eclairs
 [2025-12-26 02:52:23] Recipe fetch process completed
+[2025-12-27 02:49:45] Starting recipe fetch process
+[2025-12-27 02:49:45] Fetching recipe with day of year: 361
+[2025-12-27 02:49:45] ERROR: Failed to get API response
+[2025-12-27 02:49:45] Recipe fetch process completed
