@@ -1,39 +1,38 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-12-26",
+    "lastUpdated": "2025-12-28",
     "recipe": {
-        "title": "Easy Eclairs",
+        "title": "Bacon & Crimini Mushroom Risotto",
         "readyInMinutes": 45,
-        "servings": 6,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/641955-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/5JFDVYRK\/easy-eclairs",
-        "instructions": "CHOUX PASTRY\nPreheat oven to 180C. Line a baking tray with parchment or a baking mat.\nCombine water, milk, butter, sugar and salt in a saucepan and bring to a boil over medium heat.\nStir in flour quickly and cook over low heat, stirring constantly until mixture pulls away from sides of pan cleanly and forms a ball.\nTransfer dough into a mixing bowl and using an electric mixer, beat on low speed to cool slightly, about 3 mins.\nAdd eggs, one at a time, beating well after each addition.\nCover bowl with plastic wrap and chill for at least 30 mins in the fridge. Dough may be stored, covered, for up to 24 hours in the fridge.\nRemove dough from fridge and fill into a piping bag.\nFrom this point on, you can pipe into rounds using a nozzle of your choice or cut a hole of about  1 1\/2 cm at the tip of the piping bag and pipe into little logs of about 5 cm in length.... or longer if you want a bigger eclair.\nBake in preheated oven for about 20 - 25 mins or until golden brown.\nRemove from oven and using the tip of a small knife (I used a chopstick), pierce a small hole to allow the steam to escape. This prevents the eclairs from going soggy on the inside. You can also do this step and place it into the oven for another 2 mins to dry it out.\nAllow to cool on a rack.\nPASTRY CREAM\nPlace all ingredients into a saucepan and whisk until evenly combined.\nPlace saucepan over medium heat and bring to a slow boil, stirring continuously.\nWhen mixture thickens into a paste, remove from heat. Transfer pastry cream into a clean, dry bowl and cover with plastic wrap to prevent a skin from forming. Allow to cool and then place in fridge until fully chilled.\nNote: pastry cream will thicken slightly when chilled. Use within 2 days.\nWhen chilled, fill pastry cream into piping bag fitted with a tube nozzle and fill eclairs through the hole\/slit you have made earlier.\nDip or drizzle the top of filled eclairs with chocolate ganache.\nSprinkle with powdered sugar if desired.\nGANACHE\nHeat cream over medium heat in a saucepan until just about boiling. Do not boil.\nRemove from heat.\nMix in chocolate pieces and stir until all chocolate has melted. Leave to cool.\n(Ganache will thicken when cooled).\nCan be kept in fridge. Remove and stand container in a bowl of warm water to soften before re-using.",
-        "summary": "Easy Eclairs requires approximately <b>45 minutes<\/b> from start to finish. One portion of this dish contains approximately <b>20g of protein<\/b>, <b>50g of fat<\/b>, and a total of <b>817 calories<\/b>. This recipe serves 6. For <b>$2.03 per serving<\/b>, this recipe <b>covers 22%<\/b> of your daily requirements of vitamins and minerals. Head to the store and pick up cornstarch, flour, pastry cream, and a few other things to make it today. It works well as a rather cheap main course. This recipe from Foodista has 5 fans. Overall, this recipe earns a <b>solid spoonacular score of 41%<\/b>. Try <a href=\"https:\/\/spoonacular.com\/recipes\/eclairs-1087267\">Eclairs<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/clairs-68883\">\u00c9clairs<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/eclairs-68884\">Eclairs<\/a> for similar recipes.",
-        "cuisines": [],
+        "servings": 1,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/633258-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/HXMHG7JV\/bacon-cremini-risotto",
+        "instructions": "Add 5 cups of chicken broth to a large pot.  Heat until almost boiling.  In another large pot, add bacon and onions and saut until bacon is crispy and onions are tender.  Add the entire pack of mushrooms and stir until mushrooms are browned and juicy, about 5-7 minutes.  Add 1 large clove of garlic, minced.  Stir for about one minute.  Dump in your rice.  Stir about 2 minutes.  Add in your wine. Stir until mostly absorbed.  Begin ladling in broth a cup at a time.  After you ladle in one, stir until just until absorbed, then add another one.  Continue until all broth is used.  Stir in cream and cheese and stir until cream absorbs ju",
+        "summary": "If you want to add more <b>gluten free<\/b> recipes to your repertoire, Bacon & Crimini Mushroom Risotto might be a recipe you should try. For <b>$19.0 per serving<\/b>, you get a main course that serves 1. One portion of this dish contains approximately <b>100g of protein<\/b>, <b>163g of fat<\/b>, and a total of <b>3512 calories<\/b>. 7 people were glad they tried this recipe. It is brought to you by Foodista. This recipe is typical of Mediterranean cuisine. If you have arborio rice, onion, salt and pepper, and a few other ingredients on hand, you can make it. From preparation to the plate, this recipe takes about <b>45 minutes<\/b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 80%<\/b>. This score is good. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/hearty-crimini-mushroom-and-barley-soup-530222\">Hearty Crimini Mushroom and Barley Soup<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/bacon-mushroom-risotto-36384\">Bacon & Mushroom Risotto<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/bacon-mushroom-leek-risotto-1402753\">Bacon, Mushroom & Leek Risotto<\/a>.",
+        "cuisines": [
+            "Mediterranean",
+            "Italian",
+            "European"
+        ],
         "dishTypes": [
+            "side dish",
             "lunch",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "CHOUX PASTRY",
-            "1\/2 cup water",
-            "1\/2 cup full cream milk",
-            "4 ounces butter",
-            "1 tablespoon sugar",
-            "1\/2 teaspoon salt",
-            "1 cup plain flour",
-            "4 eggs",
-            "PASTRY CREAM",
-            "2 cups milk",
-            "1\/2 cup sugar",
-            "6 egg yolks",
-            "2 tablespoons cornstarch",
-            "cup cream",
-            "50 grams dark chocolate, chopped",
-            "GANACHE",
-            "GANACHE"
+            "1\/2 pound bacon, chopped",
+            "1 medium onion, chopped",
+            "1 garlic clove, minced",
+            "1 pack sliced crimini mushrooms",
+            "1 cup white wine",
+            "1 3\/4 cups Arborio rice",
+            "1 cup of white wine",
+            "5 cups chicken broth",
+            "1\/2 cup heavy cream",
+            "1 cup grated parmesan",
+            "Pinch of salt and pepper"
         ]
     }
 }
