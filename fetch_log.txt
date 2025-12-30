@@ -1162,3 +1162,7 @@
 [2025-12-29 03:05:06] Fetching recipe with day of year: 363
 [2025-12-29 03:05:07] Successfully fetched and saved recipe: Falafel Burgers
 [2025-12-29 03:05:07] Recipe fetch process completed
+[2025-12-30 02:55:17] Starting recipe fetch process
+[2025-12-30 02:55:17] Fetching recipe with day of year: 364
+[2025-12-30 02:55:17] ERROR: Failed to get API response
+[2025-12-30 02:55:17] Recipe fetch process completed
