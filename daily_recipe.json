@@ -1,39 +1,33 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-12-29",
+    "lastUpdated": "2025-12-31",
     "recipe": {
-        "title": "Falafel Burgers",
+        "title": "Linguine with Prawns, Fresh Tomatoes and Spinach",
         "readyInMinutes": 45,
         "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/642540-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/FBWMX8MY\/falafel-burgers",
-        "instructions": "<ol><li>Combine the chickpeas, onion, garlic, parsley, flour, spices, and salt, and pulse until the mixture is well combined. Form the mixture into 4 large patties.<\/li><li>Heat the oil in a large, nonstick skillet set over medium-high heat. Cook for about 3 minutes per side.<\/li><li>Make the tahini sauce: Whisk the tahini paste with the water, lemon juice and zest, salt, and freshly ground black pepper in a mixing bowl.<\/li><li>Serve the burgers in pita pockets or on a bun. Top them with tahini sauce, lettuce, and tomato.<\/li><\/ol>",
-        "summary": "Need a <b>dairy free, lacto ovo vegetarian, and vegan main course<\/b>? Falafel Burgers could be an excellent recipe to try. This recipe makes 4 servings with <b>710 calories<\/b>, <b>23g of protein<\/b>, and <b>35g of fat<\/b> each. For <b>$1.87 per serving<\/b>, this recipe <b>covers 30%<\/b> of your daily requirements of vitamins and minerals. Head to the store and pick up garbanzo beans, onion, vegetable oil, and a few other things to make it today. 70 people have tried and liked this recipe. This recipe is typical of American cuisine. It is brought to you by Foodista. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. Taking all factors into account, this recipe <b>earns a spoonacular score of 94%<\/b>, which is super. Try <a href=\"https:\/\/spoonacular.com\/recipes\/falafel-burgers-1600153\">Falafel burgers<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/falafel-burgers-1353403\">Falafel Burgers<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/falafel-burgers-308498\">Falafel Burgers<\/a> for similar recipes.",
-        "cuisines": [
-            "American"
-        ],
+        "image": "https:\/\/img.spoonacular.com\/recipes\/650139-556x370.jpg",
+        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/GYVMPF7R\/linguine-with-prawns-fresh-tomatoes-and-spinach",
+        "instructions": "<ol><li>Cook the Linguine according to package direction.<\/li><li>In a large skillet under medium heat melt the butter with the olive oil. Add the chopped tomatoes, chopped parsley, chopped garlic and saute until slightly tender. Add the spinach, the wine and the prawns. Saute until the prawns are pink and the spinach wilted.<\/li><li>Drain the pasta, add it to the skillet and mix well.<\/li><li>Serve hot.<\/li><\/ol>",
+        "summary": "If you have around <b>45 minutes<\/b> to spend in the kitchen, Linguine with Prawns, Fresh Tomatoes and Spinach might be an amazing <b>pescatarian<\/b> recipe to try. One portion of this dish contains around <b>41g of protein<\/b>, <b>22g of fat<\/b>, and a total of <b>725 calories<\/b>. This recipe serves 4 and costs $3.93 per serving. 10 people were glad they tried this recipe. It is brought to you by Foodista. If you have prawns, tomatoes, salt and pepper, and a few other ingredients on hand, you can make it. It works well as a main course. With a spoonacular <b>score of 85%<\/b>, this dish is excellent. <a href=\"https:\/\/spoonacular.com\/recipes\/linguine-with-fresh-tomatoes-443547\">Linguine with Fresh Tomatoes<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/linguine-with-fresh-tuna-tomatoes-and-lemon-7856\">Linguine with Fresh Tuna, Tomatoes and Lemon<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/linguinie-with-prawns-spinach-tomatoes-and-goat-cheese-567454\">Linguinie with Prawns, Spinach, Tomatoes and Goat Cheese<\/a> are very similar to this recipe.",
+        "cuisines": [],
         "dishTypes": [
+            "side dish",
             "lunch",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "2 cans garbanzo beans (chickpeas), drained and rinsed",
-            "1 tablespoon chili powder",
-            "1 tablespoon coriander",
-            "1 tablespoon cumin",
-            "4 tablespoons flour",
-            "1 large handful parsley, chopped",
-            "2 cloves garlic, grated or finely chopped",
-            "2 Zest and juice of lemons",
-            "4 pita pockets",
-            "1 small red onion, chopped",
-            "Salt and pepper, to taste",
-            "1\/2 cup tahini",
-            "1 1\/2 teaspoons turmeric",
-            "1\/4 cup vegetable oil",
-            "3 tablespoons water"
+            "1\/2 package fresh baby spinach stems removed and cleaned",
+            "1 pound of Fettuccine Barilla",
+            "1 garlic clove",
+            "1\/4 cup Olive oil",
+            "1 tablespoon freshly chopped parsley",
+            "1 pound of fresh prawns, shell and tail removes and deveined",
+            "Salt and Pepper to taste",
+            "4 fresh tomatoes, seed removed and chopped",
+            "2 teaspoons unsalted butter",
+            "1\/2 cup White wine"
         ]
     }
 }
