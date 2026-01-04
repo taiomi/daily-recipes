@@ -1,35 +1,36 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-01-02",
+    "lastUpdated": "2026-01-04",
     "recipe": {
-        "title": "Bacon & Potato Soup, Gluten & Dairy Free",
+        "title": "Gambas Al Ajillo",
         "readyInMinutes": 45,
-        "servings": 6,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/633263-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/QPXXKRS4\/bacon-potato-soup-gluten-free",
-        "instructions": "In a large stock pot, heat the olive oil over medium-high heat. Add the chopped bacon and onions, cooking until the bacon is crisp and the onions are translucent. Add garlic and cook for one more minute, until fragrant.\nAdd the chicken or vegetable stock, potatoes, cabbage, Worcestershire sauce and mustard. Mix well and season with salt and pepper. Bring soup to a boil, then reduce heat and simmer for 30 minutes, or until potatoes are tender but not disintegrating.\nRemove the pot from heat and allow it to cool for 5 minutes. Transfer 2 1\/2 cups of the soup to a blender and pulse quickly to achiever a coarse puree. Pour blended portion back into the stock pot and return to heat. Cook, stirring often, for 5-10 minutes or until heated through.\nStir in parsley and ladle into serving bowls. Serve with a wedge of lemon and gluten free garlic croutons.",
-        "summary": "Bacon & Potato Soup, Gluten & Dairy Free is a <b>dairy free<\/b> main course. For <b>$1.97 per serving<\/b>, this recipe <b>covers 17%<\/b> of your daily requirements of vitamins and minerals. One portion of this dish contains approximately <b>20g of protein<\/b>, <b>17g of fat<\/b>, and a total of <b>410 calories<\/b>. This recipe serves 6. It is brought to you by Foodista. It will be a hit at your <b>Autumn<\/b> event. If you have dijon mustard, garlic cloves, onions, and a few other ingredients on hand, you can make it. 47 people have made this recipe and would make it again. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. With a spoonacular <b>score of 71%<\/b>, this dish is solid. Similar recipes include <a href=\"https:\/\/spoonacular.com\/recipes\/2-ingredient-sweet-potato-pancakes-gluten-free-dairy-free-nut-free-1198187\">2-ingredient Sweet Potato Pancakes {gluten-free, dairy-free, nut-free}<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/healthy-sweet-potato-casserole-gluten-free-nut-free-dairy-free-1052405\">Healthy Sweet Potato Casserole (gluten-free, nut-free, dairy-free)<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/2-ingredient-sweet-potato-pancakes-gluten-free-dairy-free-nut-free-1379303\">2-ingredient Sweet Potato Pancakes {gluten-free, dairy-free, nut-free}<\/a>.",
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/644140-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/8FJGTT57\/gambas-al-ajillo",
+        "instructions": "<ol><li>In a saut pan over medium-high heat, add olive oil. When hot, add shrimp and seasonings, and saut until they are cooked halfway.<\/li><li>Add garlic, tomatoes, bacon and saut a bit longer. Add sherry and cook until reduced by half. Add butter and stir in.<\/li><li>Sprinkle with parsley and squeeze the lemon wedges over the shrimp. Serve with crusty bread and a crisp white wine like a Verdejo from Rueda or a bubbly Cava from Penedes.<\/li><\/ol>",
+        "summary": "Gambas Al Ajillo takes approximately <b>45 minutes<\/b> from beginning to end. One serving contains <b>402 calories<\/b>, <b>27g of protein<\/b>, and <b>25g of fat<\/b>. For <b>$3.86 per serving<\/b>, this recipe <b>covers 16%<\/b> of your daily requirements of vitamins and minerals. This recipe serves 4. It works well as a rather pricey main course. This recipe from Foodista requires bacon, butter, garlic, and olive oil. 2 people have tried and liked this recipe. Taking all factors into account, this recipe <b>earns a spoonacular score of 47%<\/b>, which is pretty good. Try <a href=\"https:\/\/spoonacular.com\/recipes\/gambas-al-ajillo-1250429\">Gambas Al Ajillo<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/gambas-al-ajillo-1444537\">Gambas Al Ajillo<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/gambas-al-ajillo-575511\">Gambas al Ajillo<\/a> for similar recipes.",
         "cuisines": [],
         "dishTypes": [
             "lunch",
-            "soup",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "2 Tbsp olive oil",
-            "1 cup lean bacon, chopped",
-            "2 yellow onions, diced",
-            "4 garlic cloves, minced",
-            "7 cups vegetable or chicken stock",
-            "2 1\/4 cups diced red or baking potaotes",
-            "3 cups Savoy cabbage, shredded",
-            "1 tsp Worcestershire sauce",
-            "1 tsp Dijon mustard",
-            "3 Tbsp flat leaf parsley, finely chopped",
-            "Garnish with a tablespoon of lemon",
-            "Garnish with a tablespoon of lemon"
+            "3 slices bacon, broken into bits",
+            "3 tablespoons butter",
+            "1\/2 teaspoon cayenne pepper",
+            "1 tablespoon chili powder",
+            "1 cup dry sherry",
+            "2 tablespoons garlic, minced",
+            "lemon wedges",
+            "2 tablespoons olive oil",
+            "1 tablespoon paprika",
+            "chopped parsley",
+            "toasted slices of rustic bread",
+            "1 teaspoon salt",
+            "1 pound small shrimp (31\/40 count), peeled and deveined",
+            "1\/2 cup tomato, diced"
         ]
     }
 }
