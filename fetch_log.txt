@@ -1190,3 +1190,7 @@
 [2026-01-05 03:09:42] Fetching recipe with day of year: 5
 [2026-01-05 03:09:43] Successfully fetched and saved recipe: Tasty Easy Meatloaf
 [2026-01-05 03:09:43] Recipe fetch process completed
+[2026-01-06 02:56:28] Starting recipe fetch process
+[2026-01-06 02:56:28] Fetching recipe with day of year: 6
+[2026-01-06 02:56:28] ERROR: Failed to get API response
+[2026-01-06 02:56:28] Recipe fetch process completed
