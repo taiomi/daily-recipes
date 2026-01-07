@@ -1,14 +1,14 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-01-05",
+    "lastUpdated": "2026-01-07",
     "recipe": {
-        "title": "Tasty Easy Meatloaf",
+        "title": "Easy Crispy Oven Chicken",
         "readyInMinutes": 45,
-        "servings": 8,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/662917-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/RFC3GL4B\/tasty-easy-meatloaf",
-        "instructions": "<ol><li>Mix beef, sausage, bread crumbs, onion, egg, salt, pepper, cumin, garlic powder,  cup tomato sauce. Do not over mix or your meatloaf will become chewy. Simply use your fingers and mush it together and only do this until it is just mixed.<\/li><li>Place in a shallow oven proof pan and form into a loaf. Stir together the remaining sauce, vinegar, sugar, mustard, water and Worcestershire<\/li><li>Pour the sauce over the meatloaf and bake x 1 hour until cooked through. While cooking, spoon the sauce over the top of the meatloaf about every 20 minutes.<\/li><li>Remove from the oven and spoon the sauce over the top a final time. Allow to rest for 10 minutes before serving.<\/li><\/ol>",
-        "summary": "Tasty Easy Meatloaf is a <b>dairy free<\/b> main course. This recipe serves 8 and costs $1.17 per serving. One portion of this dish contains roughly <b>18g of protein<\/b>, <b>20g of fat<\/b>, and a total of <b>334 calories<\/b>. Not a lot of people made this recipe, and 2 would say it hit the spot. This recipe from Foodista requires salt, worcestershire, pepper, and grain mustard. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. Overall, this recipe earns a <b>rather bad spoonacular score of 38%<\/b>. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/easy-tasty-fish-tomatoes-111655\">Easy & Tasty Fish & Tomatoes<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/easy-and-tasty-baked-ziti-138765\">Easy and Tasty Baked Ziti<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/easy-and-tasty-pizza-sauce-546686\">Easy and Tasty Pizza Sauce<\/a>.",
+        "servings": 7,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/641944-556x370.jpg",
+        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/KTTJWPWD\/easy-crispy-oven-chicken",
+        "instructions": "<ol><li>Crush croutons in a large freezer bag until fine, pour into a pie plate<\/li><li>Dip pieces of chicken into the  milk and then onto a plate of the crushed croutons<\/li><li>Bake on a baking dish at 375 degrees for 1 hour, or until pieces are cooked through.<\/li><li>Tastes fantastic at room temperature, for a picnic<\/li><\/ol>",
+        "summary": "Easy Crispy Oven Chicken is a <b>gluten free and ketogenic<\/b> recipe with 7 servings. This main course has <b>321 calories<\/b>, <b>26g of protein<\/b>, and <b>21g of fat<\/b> per serving. For <b>58 cents per serving<\/b>, this recipe <b>covers 11%<\/b> of your daily requirements of vitamins and minerals. 2 people were glad they tried this recipe. It is brought to you by Foodista. From preparation to the plate, this recipe takes about <b>45 minutes<\/b>. Head to the store and pick up chicken pieces, croutons, milk, and a few other things to make it today. With a spoonacular <b>score of 44%<\/b>, this dish is pretty good. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/crispy-oven-chicken-166064\">Crispy Oven Chicken<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/crispy-oven-fried-chicken-172189\">Crispy Oven-Fried Chicken<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/crispy-oven-baked-chicken-405956\">Crispy Oven-Baked Chicken<\/a>.",
         "cuisines": [],
         "dishTypes": [
             "lunch",
@@ -17,21 +17,9 @@
             "dinner"
         ],
         "ingredients": [
-            "1 cup breadcrumbs",
-            "3 Tbs brown sugar \u2013 packed",
-            "\u00bd lb bulk sausage",
-            "2 8 oz cans tomato sauce - divided",
-            "3 Tbs Cider vinegar",
-            "\u00bd tsp cumin",
-            "1 egg beaten",
-            "1 tsp garlic powder",
-            "1 lb Ground Beef",
-            "1 small onion \u2013 diced.",
-            "\u00bd tsp pepper",
-            "1 \u00bd tsp salt",
-            "\u00bd cup water",
-            "2 Tbs good quality whole grain mustard",
-            "2 Tbs Worcestershire"
+            "3 pounds chicken pieces",
+            "1 1\/2 cups croutons, crushed fine",
+            "1\/2 cup milk"
         ]
     }
 }
