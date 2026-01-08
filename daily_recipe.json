@@ -1,15 +1,18 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-01-07",
+    "lastUpdated": "2026-01-08",
     "recipe": {
-        "title": "Easy Crispy Oven Chicken",
+        "title": "Thai Shrimp",
         "readyInMinutes": 45,
-        "servings": 7,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/641944-556x370.jpg",
-        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/KTTJWPWD\/easy-crispy-oven-chicken",
-        "instructions": "<ol><li>Crush croutons in a large freezer bag until fine, pour into a pie plate<\/li><li>Dip pieces of chicken into the  milk and then onto a plate of the crushed croutons<\/li><li>Bake on a baking dish at 375 degrees for 1 hour, or until pieces are cooked through.<\/li><li>Tastes fantastic at room temperature, for a picnic<\/li><\/ol>",
-        "summary": "Easy Crispy Oven Chicken is a <b>gluten free and ketogenic<\/b> recipe with 7 servings. This main course has <b>321 calories<\/b>, <b>26g of protein<\/b>, and <b>21g of fat<\/b> per serving. For <b>58 cents per serving<\/b>, this recipe <b>covers 11%<\/b> of your daily requirements of vitamins and minerals. 2 people were glad they tried this recipe. It is brought to you by Foodista. From preparation to the plate, this recipe takes about <b>45 minutes<\/b>. Head to the store and pick up chicken pieces, croutons, milk, and a few other things to make it today. With a spoonacular <b>score of 44%<\/b>, this dish is pretty good. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/crispy-oven-chicken-166064\">Crispy Oven Chicken<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/crispy-oven-fried-chicken-172189\">Crispy Oven-Fried Chicken<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/crispy-oven-baked-chicken-405956\">Crispy Oven-Baked Chicken<\/a>.",
-        "cuisines": [],
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/663151-556x370.jpg",
+        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/R35HC6C4\/thai-shrimp",
+        "instructions": "<ol><li>Peel and devein shrimp. Wash, dry and steam basil, mince garlic, thinly slice seeded chilies, mince white part of onion and cut green part into 1 inch pieces. Recipe can be prepared ahead to this stage.<\/li><li>Heat wok over high heat. Swirl oil into wok and heat almost to smoking. Add garlic, chilies, onions (white part), and cook 10-15 seconds; add shrimp and stir fry 20 seconds or until they change color. Add fish sauce, soy sauce, sugar, chicken, stock and green part of onions and bring mixture to a boil. Stir in basil and cook 20 seconds or until leaves wilt and shrimp are firm and pink. Dish is supposed to be soupy. Serve over hot cooked rice.<\/li><\/ol>",
+        "summary": "If you want to add more <b>gluten free, dairy free, and pescatarian<\/b> recipes to your recipe box, Thai Shrimp might be a recipe you should try. One portion of this dish contains about <b>27g of protein<\/b>, <b>7g of fat<\/b>, and a total of <b>355 calories<\/b>. This recipe serves 4 and costs $3.27 per serving. This recipe is typical of Asian cuisine. 11 person were impressed by this recipe. It works well as a pretty expensive main course. It is brought to you by Foodista. A mixture of chilies, fish sauce, soy sauce, and a handful of other ingredients are all it takes to make this recipe so tasty. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. Taking all factors into account, this recipe <b>earns a spoonacular score of 75%<\/b>, which is solid. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/lets-get-together-thai-shrimp-1267361\">Let's Get Together Thai Shrimp<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/thai-shrimp-1252367\">Thai Shrimp<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/thai-shrimp-1368599\">Thai Shrimp<\/a>.",
+        "cuisines": [
+            "Thai",
+            "Asian"
+        ],
         "dishTypes": [
             "lunch",
             "main course",
@@ -17,9 +20,16 @@
             "dinner"
         ],
         "ingredients": [
-            "3 pounds chicken pieces",
-            "1 1\/2 cups croutons, crushed fine",
-            "1\/2 cup milk"
+            "1 bunch basil leaves, 2 c. leaves",
+            "8 cups chicken stock",
+            "Hot cooked rice",
+            "2 tablespoons fish sauce",
+            "4 green onions",
+            "1 teaspoon organic peanut oil",
+            "3 hot red or green chilies",
+            "8 ounces shrimp, cooked, peeled, and deveined, 51 \u2013 60 per pound",
+            "2 teaspoons soy sauce",
+            "1 teaspoon sugar"
         ]
     }
 }
