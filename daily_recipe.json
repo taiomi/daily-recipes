@@ -1,35 +1,38 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-01-08",
+    "lastUpdated": "2026-01-10",
     "recipe": {
-        "title": "Thai Shrimp",
-        "readyInMinutes": 45,
-        "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/663151-556x370.jpg",
-        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/R35HC6C4\/thai-shrimp",
-        "instructions": "<ol><li>Peel and devein shrimp. Wash, dry and steam basil, mince garlic, thinly slice seeded chilies, mince white part of onion and cut green part into 1 inch pieces. Recipe can be prepared ahead to this stage.<\/li><li>Heat wok over high heat. Swirl oil into wok and heat almost to smoking. Add garlic, chilies, onions (white part), and cook 10-15 seconds; add shrimp and stir fry 20 seconds or until they change color. Add fish sauce, soy sauce, sugar, chicken, stock and green part of onions and bring mixture to a boil. Stir in basil and cook 20 seconds or until leaves wilt and shrimp are firm and pink. Dish is supposed to be soupy. Serve over hot cooked rice.<\/li><\/ol>",
-        "summary": "If you want to add more <b>gluten free, dairy free, and pescatarian<\/b> recipes to your recipe box, Thai Shrimp might be a recipe you should try. One portion of this dish contains about <b>27g of protein<\/b>, <b>7g of fat<\/b>, and a total of <b>355 calories<\/b>. This recipe serves 4 and costs $3.27 per serving. This recipe is typical of Asian cuisine. 11 person were impressed by this recipe. It works well as a pretty expensive main course. It is brought to you by Foodista. A mixture of chilies, fish sauce, soy sauce, and a handful of other ingredients are all it takes to make this recipe so tasty. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. Taking all factors into account, this recipe <b>earns a spoonacular score of 75%<\/b>, which is solid. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/lets-get-together-thai-shrimp-1267361\">Let's Get Together Thai Shrimp<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/thai-shrimp-1252367\">Thai Shrimp<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/thai-shrimp-1368599\">Thai Shrimp<\/a>.",
+        "title": "Ancho Chipotle Chili",
+        "readyInMinutes": 75,
+        "servings": 2,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/610281-556x370.jpg",
+        "sourceUrl": "https:\/\/spoonacular.com\/-1409557476964",
+        "instructions": "<p>1. Slice open the dried ancho and chipotle chili and remove the seeds\/pith. Place the dried chili peppers in a warm skillet (medium heat) and press them flat with a spatula to toast them for a few seconds per side until fragrant (be careful not to burn them!). Be sure to wear gloves or wash your hands directly after handling the chili peppers.<\/p><p>2. Remove the dried chili and put them in a bowl or sauce pan. Pour 250 ml boiling water over it and leave it to soak for at least 15 minutes.<\/p><p>3. In a large pot, saute the chopped bell pepper, onion, and mushrooms over medium heat.<\/p><p>4. Meanwhile, fry the beef in a hot skillet until crispy.<\/p><p>5. While the beef is frying, blend the chili peppers you've been soaking with the soaking liquid.<\/p><p>6. Add the beef to the large pot filled with the sauteed vegetables.<\/p><p>7. Add the tomato sauce and blended chili peppers to the pot. If it is not enough liquid, add beef or vegetable broth (the other 250 ml water and 5 grams bouillon powder, unless you have \"real\" broth on hand) until everything is covered.<\/p><p>8. Season with salt, pepper, cumin, and oregano to taste.<\/p><p>9. Simmer for about 45 minutes or until thick enough. Serve with fresh cilantro.<\/p>",
+        "summary": "Ancho Chipotle Chili might be a good recipe to expand your main course recipe box. This gluten free, dairy free, paleolithic, and primal recipe serves 2 and costs <b>$3.78 per serving<\/b>. One serving contains <b>695 calories<\/b>, <b>43g of protein<\/b>, and <b>43g of fat<\/b>. It is perfect for <b>The Super Bowl<\/b>. Head to the store and pick up mushrooms, salt and pepper, water, and a few other things to make it today. From preparation to the plate, this recipe takes roughly <b>1 hour and 15 minutes<\/b>. It is a <b>pretty expensive<\/b> recipe for fans of American food. It is brought to you by spoonacular user <a href=\"\/profile\/coffeebean\">coffeebean<\/a>. If you like this recipe, take a look at these similar recipes: <a href=\"https:\/\/spoonacular.com\/recipes\/ancho-chipotle-chili-1356921\">Ancho Chipotle Chili<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/ancho-chipotle-chili-1220615\">Ancho Chipotle Chili<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/chipotle-and-ancho-cocoa-enchilada-sauce-966067\">Chipotle and Ancho Cocoan Enchilada Sauce<\/a>.",
         "cuisines": [
-            "Thai",
-            "Asian"
+            "American"
         ],
         "dishTypes": [
             "lunch",
+            "soup",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "1 bunch basil leaves, 2 c. leaves",
-            "8 cups chicken stock",
-            "Hot cooked rice",
-            "2 tablespoons fish sauce",
-            "4 green onions",
-            "1 teaspoon organic peanut oil",
-            "3 hot red or green chilies",
-            "8 ounces shrimp, cooked, peeled, and deveined, 51 \u2013 60 per pound",
-            "2 teaspoons soy sauce",
-            "1 teaspoon sugar"
+            "1 dried ancho chile",
+            "5 g vegetable bouillon powder",
+            "1 tsp cumin",
+            "1 dried chipotle chile",
+            "fresh cilantro",
+            "400 grams ground beef",
+            "6 large mushrooms, chopped",
+            "1 onion, chopped",
+            "2 tsp dried oregano",
+            "1 red bell pepper, chopped",
+            "salt and pepper",
+            "500 grams tomato sauce",
+            "500 ml hot water"
         ]
     }
 }
