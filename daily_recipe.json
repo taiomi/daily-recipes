@@ -1,38 +1,37 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-01-10",
+    "lastUpdated": "2026-01-11",
     "recipe": {
-        "title": "Ancho Chipotle Chili",
-        "readyInMinutes": 75,
-        "servings": 2,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/610281-556x370.jpg",
-        "sourceUrl": "https:\/\/spoonacular.com\/-1409557476964",
-        "instructions": "<p>1. Slice open the dried ancho and chipotle chili and remove the seeds\/pith. Place the dried chili peppers in a warm skillet (medium heat) and press them flat with a spatula to toast them for a few seconds per side until fragrant (be careful not to burn them!). Be sure to wear gloves or wash your hands directly after handling the chili peppers.<\/p><p>2. Remove the dried chili and put them in a bowl or sauce pan. Pour 250 ml boiling water over it and leave it to soak for at least 15 minutes.<\/p><p>3. In a large pot, saute the chopped bell pepper, onion, and mushrooms over medium heat.<\/p><p>4. Meanwhile, fry the beef in a hot skillet until crispy.<\/p><p>5. While the beef is frying, blend the chili peppers you've been soaking with the soaking liquid.<\/p><p>6. Add the beef to the large pot filled with the sauteed vegetables.<\/p><p>7. Add the tomato sauce and blended chili peppers to the pot. If it is not enough liquid, add beef or vegetable broth (the other 250 ml water and 5 grams bouillon powder, unless you have \"real\" broth on hand) until everything is covered.<\/p><p>8. Season with salt, pepper, cumin, and oregano to taste.<\/p><p>9. Simmer for about 45 minutes or until thick enough. Serve with fresh cilantro.<\/p>",
-        "summary": "Ancho Chipotle Chili might be a good recipe to expand your main course recipe box. This gluten free, dairy free, paleolithic, and primal recipe serves 2 and costs <b>$3.78 per serving<\/b>. One serving contains <b>695 calories<\/b>, <b>43g of protein<\/b>, and <b>43g of fat<\/b>. It is perfect for <b>The Super Bowl<\/b>. Head to the store and pick up mushrooms, salt and pepper, water, and a few other things to make it today. From preparation to the plate, this recipe takes roughly <b>1 hour and 15 minutes<\/b>. It is a <b>pretty expensive<\/b> recipe for fans of American food. It is brought to you by spoonacular user <a href=\"\/profile\/coffeebean\">coffeebean<\/a>. If you like this recipe, take a look at these similar recipes: <a href=\"https:\/\/spoonacular.com\/recipes\/ancho-chipotle-chili-1356921\">Ancho Chipotle Chili<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/ancho-chipotle-chili-1220615\">Ancho Chipotle Chili<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/chipotle-and-ancho-cocoa-enchilada-sauce-966067\">Chipotle and Ancho Cocoan Enchilada Sauce<\/a>.",
+        "title": "Osso Buco",
+        "readyInMinutes": 45,
+        "servings": 6,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/654125-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/8J6ZKVBH\/osso-buco",
+        "instructions": "Dredge veal in seasoned flour and saute in olive oil until lightly browned on all sides.\n Add garlic and onion. Pour boiling stock, white wine and tomato sauce over meat. Cover pan and simmer 1 1\/2 hours or until meat is tender. \nAdd parsley and grated lemon rind. Serve over saffron rice.",
+        "summary": "Osso Buco is a Mediterranean main course. This dairy free recipe serves 6 and costs <b>$7.42 per serving<\/b>. One serving contains <b>445 calories<\/b>, <b>46g of protein<\/b>, and <b>18g of fat<\/b>. If you have olive oil, parsley, tomato sauce, and a few other ingredients on hand, you can make it. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. 2 people have made this recipe and would make it again. It is brought to you by Foodista. Taking all factors into account, this recipe <b>earns a spoonacular score of 80%<\/b>, which is great. <a href=\"https:\/\/spoonacular.com\/recipes\/osso-buco-1371697\">Osso Buco<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/osso-buco-434807\">Osso Buco<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/osso-buco-57749\">Osso Buco<\/a> are very similar to this recipe.",
         "cuisines": [
-            "American"
+            "Mediterranean",
+            "Italian",
+            "European"
         ],
         "dishTypes": [
             "lunch",
-            "soup",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "1 dried ancho chile",
-            "5 g vegetable bouillon powder",
-            "1 tsp cumin",
-            "1 dried chipotle chile",
-            "fresh cilantro",
-            "400 grams ground beef",
-            "6 large mushrooms, chopped",
-            "1 onion, chopped",
-            "2 tsp dried oregano",
-            "1 red bell pepper, chopped",
-            "salt and pepper",
-            "500 grams tomato sauce",
-            "500 ml hot water"
+            "6 veal shanks",
+            "4 tablespoons chopped parsley",
+            "Grated rind of 1\/2 lemon",
+            "Flour, salt",
+            "pepper for dredging",
+            "4 tablespoons olive oil",
+            "3 cloves garlic, finely chopped",
+            "1 onion, finely chopped",
+            "1 cup chicken stock, boiling",
+            "1 cup dry white wine",
+            "4 tablespoons tomato sauce"
         ]
     }
 }
