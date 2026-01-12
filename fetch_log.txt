@@ -1214,3 +1214,7 @@
 [2026-01-11 03:07:06] Fetching recipe with day of year: 11
 [2026-01-11 03:07:06] Successfully fetched and saved recipe: Osso Buco
 [2026-01-11 03:07:06] Recipe fetch process completed
+[2026-01-12 03:05:03] Starting recipe fetch process
+[2026-01-12 03:05:03] Fetching recipe with day of year: 12
+[2026-01-12 03:05:03] ERROR: Failed to get API response
+[2026-01-12 03:05:03] Recipe fetch process completed
