@@ -1,19 +1,15 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-01-11",
+    "lastUpdated": "2026-01-13",
     "recipe": {
-        "title": "Osso Buco",
+        "title": "Potatoes Smothered with Egg Sauce (Cariucho)",
         "readyInMinutes": 45,
-        "servings": 6,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/654125-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/8J6ZKVBH\/osso-buco",
-        "instructions": "Dredge veal in seasoned flour and saute in olive oil until lightly browned on all sides.\n Add garlic and onion. Pour boiling stock, white wine and tomato sauce over meat. Cover pan and simmer 1 1\/2 hours or until meat is tender. \nAdd parsley and grated lemon rind. Serve over saffron rice.",
-        "summary": "Osso Buco is a Mediterranean main course. This dairy free recipe serves 6 and costs <b>$7.42 per serving<\/b>. One serving contains <b>445 calories<\/b>, <b>46g of protein<\/b>, and <b>18g of fat<\/b>. If you have olive oil, parsley, tomato sauce, and a few other ingredients on hand, you can make it. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. 2 people have made this recipe and would make it again. It is brought to you by Foodista. Taking all factors into account, this recipe <b>earns a spoonacular score of 80%<\/b>, which is great. <a href=\"https:\/\/spoonacular.com\/recipes\/osso-buco-1371697\">Osso Buco<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/osso-buco-434807\">Osso Buco<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/osso-buco-57749\">Osso Buco<\/a> are very similar to this recipe.",
-        "cuisines": [
-            "Mediterranean",
-            "Italian",
-            "European"
-        ],
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/657031-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/GT7KS5FJ\/potatoes-smothered-w-egg-sauce-cariucho",
+        "instructions": "Start off by cooking the potatoes with the skin on, 1 Tbsp of salt, and the 1 scallion that was chopped. Cook potatoes until tender then turn heat off to keep it warm. While cooking potatoes you can start working on the sauce.\nMelt the butter in a pan\/sauce pot with the achiote to extract the color. Once the butter is yellowish\/orange remove the achiote seeds with a spoon.\nSaute the scallions for 2-3 minutes, then add in the flour and cilantro and saute for 1 minute.\nDd in the milk and season with salt and pepper, cook for 1 minute. Then add in the heavy cream and cook until the sauce thickens.\nOnce sauce is thickened, stir in the chopped hard-boiled eggs and jalapeno.\nOnce ready to start plating, using a glove, peel the skin off the cooked potatoes and add them onto your serving platter. Smother on the egg sauce and garnish with bacon.",
+        "summary": "The recipe Potatoes Smothered with Egg Sauce (Cariucho) can be made <b>in around 45 minutes<\/b>. This recipe makes 4 servings with <b>424 calories<\/b>, <b>15g of protein<\/b>, and <b>23g of fat<\/b> each. For <b>$1.22 per serving<\/b>, this recipe <b>covers 21%<\/b> of your daily requirements of vitamins and minerals. Head to the store and pick up jalapeno, scallion, milk, and a few other things to make it today. Not a lot of people really liked this main course. This recipe is liked by 3 foodies and cooks. It is brought to you by Foodista. With a spoonacular <b>score of 37%<\/b>, this dish is not so spectacular. If you like this recipe, take a look at these similar recipes: <a href=\"https:\/\/spoonacular.com\/recipes\/egg-topped-sweet-potatoes-braised-in-tomato-sauce-624131\">Egg-topped sweet potatoes braised in tomato sauce<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/smothered-cabbage-and-potatoes-1551739\">Smothered Cabbage and Potatoes<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/smothered-green-beans-with-new-potatoes-695990\">Smothered Green Beans with New Potatoes<\/a>.",
+        "cuisines": [],
         "dishTypes": [
             "lunch",
             "main course",
@@ -21,17 +17,19 @@
             "dinner"
         ],
         "ingredients": [
-            "6 veal shanks",
-            "4 tablespoons chopped parsley",
-            "Grated rind of 1\/2 lemon",
-            "Flour, salt",
-            "pepper for dredging",
-            "4 tablespoons olive oil",
-            "3 cloves garlic, finely chopped",
-            "1 onion, finely chopped",
-            "1 cup chicken stock, boiling",
-            "1 cup dry white wine",
-            "4 tablespoons tomato sauce"
+            "4 Big Russet, Idaho, or Red Potatoes",
+            "1 inch Scallion, chopped to 1 pieces",
+            "1 tablespoon , Unsalted Butter",
+            "1 teaspoon Achiote Seeds, If you don't have this on hand it's fine, you can live without it. These seeds just give",
+            "1 cup Scallions, chopped small (minced)",
+            "1 tablespoon All-Purpose Flour",
+            "1\/4 cup Cilantro, chopped small (minced)",
+            "Salt& Pepper, to taste",
+            "1 cup Milk",
+            "1\/2 cup Heavy Cream",
+            "4 Hard-Boiled Eggs, roughly chopped",
+            "1 Jalapeno with or without seeds (your choice), chopped small (minced)",
+            "2 strips Bacon, cubed and cooked until crisped"
         ]
     }
 }
