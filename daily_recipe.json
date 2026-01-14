@@ -1,35 +1,34 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-01-13",
+    "lastUpdated": "2026-01-14",
     "recipe": {
-        "title": "Potatoes Smothered with Egg Sauce (Cariucho)",
+        "title": "Venison Stew",
         "readyInMinutes": 45,
-        "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/657031-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/GT7KS5FJ\/potatoes-smothered-w-egg-sauce-cariucho",
-        "instructions": "Start off by cooking the potatoes with the skin on, 1 Tbsp of salt, and the 1 scallion that was chopped. Cook potatoes until tender then turn heat off to keep it warm. While cooking potatoes you can start working on the sauce.\nMelt the butter in a pan\/sauce pot with the achiote to extract the color. Once the butter is yellowish\/orange remove the achiote seeds with a spoon.\nSaute the scallions for 2-3 minutes, then add in the flour and cilantro and saute for 1 minute.\nDd in the milk and season with salt and pepper, cook for 1 minute. Then add in the heavy cream and cook until the sauce thickens.\nOnce sauce is thickened, stir in the chopped hard-boiled eggs and jalapeno.\nOnce ready to start plating, using a glove, peel the skin off the cooked potatoes and add them onto your serving platter. Smother on the egg sauce and garnish with bacon.",
-        "summary": "The recipe Potatoes Smothered with Egg Sauce (Cariucho) can be made <b>in around 45 minutes<\/b>. This recipe makes 4 servings with <b>424 calories<\/b>, <b>15g of protein<\/b>, and <b>23g of fat<\/b> each. For <b>$1.22 per serving<\/b>, this recipe <b>covers 21%<\/b> of your daily requirements of vitamins and minerals. Head to the store and pick up jalapeno, scallion, milk, and a few other things to make it today. Not a lot of people really liked this main course. This recipe is liked by 3 foodies and cooks. It is brought to you by Foodista. With a spoonacular <b>score of 37%<\/b>, this dish is not so spectacular. If you like this recipe, take a look at these similar recipes: <a href=\"https:\/\/spoonacular.com\/recipes\/egg-topped-sweet-potatoes-braised-in-tomato-sauce-624131\">Egg-topped sweet potatoes braised in tomato sauce<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/smothered-cabbage-and-potatoes-1551739\">Smothered Cabbage and Potatoes<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/smothered-green-beans-with-new-potatoes-695990\">Smothered Green Beans with New Potatoes<\/a>.",
+        "servings": 7,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/664786-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/JJ7SSGCX\/venison-stew",
+        "instructions": "Cut all ingredients into 1 inch pieces. Dredge venison with flour and spices. Brown venison in hot vegetable oil. Boil and simmer venison 2 hours with beef bouillon and water. Add remaining ingredients and simmer for 1\/2 hour. Mix 3 tablespoons flour and 1 cup cold water and add to stew to thicken.",
+        "summary": "Venison Stew is a <b>dairy free<\/b> main course. This recipe serves 7. One serving contains <b>316 calories<\/b>, <b>32g of protein<\/b>, and <b>7g of fat<\/b>. For <b>$2.02 per serving<\/b>, this recipe <b>covers 30%<\/b> of your daily requirements of vitamins and minerals. It can be enjoyed any time, but it is especially good for <b>Autumn<\/b>. 3 people found this recipe to be tasty and satisfying. Head to the store and pick up venison stew meat, baby carrots, bell pepper, and a few other things to make it today. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. It is brought to you by Foodista. All things considered, we decided this recipe <b>deserves a spoonacular score of 86%<\/b>. This score is tremendous. Similar recipes include <a href=\"https:\/\/spoonacular.com\/recipes\/venison-bourguignon-venison-stew-147886\">Venison Bourguignon (Venison Stew)<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/venison-stew-629599\">Venison Stew<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/venison-stew-404173\">Venison Stew<\/a>.",
         "cuisines": [],
         "dishTypes": [
             "lunch",
+            "soup",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "4 Big Russet, Idaho, or Red Potatoes",
-            "1 inch Scallion, chopped to 1 pieces",
-            "1 tablespoon , Unsalted Butter",
-            "1 teaspoon Achiote Seeds, If you don't have this on hand it's fine, you can live without it. These seeds just give",
-            "1 cup Scallions, chopped small (minced)",
-            "1 tablespoon All-Purpose Flour",
-            "1\/4 cup Cilantro, chopped small (minced)",
-            "Salt& Pepper, to taste",
-            "1 cup Milk",
-            "1\/2 cup Heavy Cream",
-            "4 Hard-Boiled Eggs, roughly chopped",
-            "1 Jalapeno with or without seeds (your choice), chopped small (minced)",
-            "2 strips Bacon, cubed and cooked until crisped"
+            "2 pounds venison stew meat, cut in cubes",
+            "Spices: onion salt, 8 cups water 4 pieces large potatoes 1 piece large onion 4 pieces carrots or baby carrots 4 stalks celery 1 can mushrooms 1 piece green pepper 1 cup flour and 3 tbsp 2 tablespoons beef bouillon",
+            "8 cups water",
+            "4 pieces large potatoes",
+            "1 piece large onion",
+            "4 pieces carrots or baby carrots",
+            "4 stalks celery",
+            "1 can mushrooms",
+            "1 piece green pepper",
+            "1 cup flour and 3 tbsp",
+            "2 tablespoons beef bouillon"
         ]
     }
 }
