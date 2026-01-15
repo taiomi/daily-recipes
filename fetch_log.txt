@@ -1226,3 +1226,7 @@
 [2026-01-14 03:03:24] Fetching recipe with day of year: 14
 [2026-01-14 03:03:24] Successfully fetched and saved recipe: Venison Stew
 [2026-01-14 03:03:24] Recipe fetch process completed
+[2026-01-15 02:57:35] Starting recipe fetch process
+[2026-01-15 02:57:35] Fetching recipe with day of year: 15
+[2026-01-15 02:57:35] ERROR: Failed to get API response
+[2026-01-15 02:57:35] Recipe fetch process completed
