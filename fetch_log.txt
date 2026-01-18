@@ -1238,3 +1238,7 @@
 [2026-01-17 02:49:56] Fetching recipe with day of year: 17
 [2026-01-17 02:49:57] Successfully fetched and saved recipe: Grilled Peach Melba with Vanilla Bean Frozen Yogurt
 [2026-01-17 02:49:57] Recipe fetch process completed
+[2026-01-18 03:05:09] Starting recipe fetch process
+[2026-01-18 03:05:09] Fetching recipe with day of year: 18
+[2026-01-18 03:05:09] ERROR: Failed to get API response
+[2026-01-18 03:05:09] Recipe fetch process completed
