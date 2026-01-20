@@ -1,14 +1,14 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-01-19",
+    "lastUpdated": "2026-01-20",
     "recipe": {
-        "title": "Berry & Ricotta Danishes",
+        "title": "Almond Horns",
         "readyInMinutes": 45,
-        "servings": 5,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/634846-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/6T5322CC\/berry-ricotta-danishes",
-        "instructions": "<ol><li>Method:<\/li><li>Thaw puff pastry according to packet instructions. Once thawed, place pastry in the fridge to keep cool while you prepare the other ingredients.<\/li><li>Place the berries in a saucepan over a medium-low heat. Sprinkle on castor sugar and add water. Cover saucepan with a lid and shake the saucepan around to coat the berries. Poach berries for about 5 minutes or until they soften but still retain their shape. Set aside to cool.<\/li><li>Pre-heat the oven to 180C (350F).<\/li><li>Make the ricotta filling by combining all ingredients in a mixing bowl. Mix well with a wooden spoon to thoroughly combine. Set aside.<\/li><li>Prepare the glaze by mixing icing sugar and lemon juice together in a small bowl. Mix well and set aside.<\/li><li>Remove the pastry from the refrigerator and place sheets on a clean, dry surface. Use a small, sharp knife to cut 10 8cm x 6cm (3\" x 2.5\") rectangles. Place 5 of the pastry rectangles on the lined baking sheet, making sure there is space in between them as they will expand. Lightly brush edges with a little water. We will call these the \"pastry rectangle bases\".<\/li><li>Cut smaller rectangles out of the remaining 5 pastry rectangles so that you have small frames of about 1.5cm (1\/2\") in width.<\/li><li>Danish1<\/li><li>Place the frames on top of the pastry bases on the baking sheet. See the diagram below.<\/li><li>Danish2<\/li><li>Fill the middle of the frame with about 3-4 tablespoons of ricotta mixture. Top with several berries (reserve some for topping once the danishes are baked).  Repeat process with remaining pastry frames.<\/li><li>Place in the oven and bake for 15 to 18 minutes or until the pastry puffs up and is golden. Remove from oven and cool on a wire rack. Top with remaining poached berries and sprinkle on a little icing sugar just before serving.<\/li><\/ol>",
-        "summary": "Berry & Ricotta Danishes is a main course that serves 5. One serving contains <b>1028 calories<\/b>, <b>18g of protein<\/b>, and <b>64g of fat<\/b>. For <b>$2.32 per serving<\/b>, this recipe <b>covers 19%<\/b> of your daily requirements of vitamins and minerals. 5 people have tried and liked this recipe. If you have vanillan extract, flour, blueberries, and a few other ingredients on hand, you can make it. It is brought to you by Foodista. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. Overall, this recipe earns a <b>solid spoonacular score of 63%<\/b>. Try <a href=\"https:\/\/spoonacular.com\/recipes\/berry-ricotta-danishes-526997\">Berry & Ricotta Danishes<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/berry-ricotta-cheesecake-698051\">Berry-Ricotta Cheesecake<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/berry-ricotta-tartlets-743866\">Berry Ricotta Tartlets<\/a> for similar recipes.",
+        "servings": 1,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/632140-556x370.jpg",
+        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/Z8CYT36R\/almond-horns",
+        "instructions": "<ol><li>(*) To blanch almonds, dip almonds into boiling water for 1 minute. Remove the brown skin covering. Dry in a 200 F oven for 30-45 minutes, stirring occasionally. Use a food processor to chop them to the finest size possible. (A 2-pound bag of almonds is what you'll need for this recipe).<\/li><li>Preheat oven to 300 F. Combine all of the ingredients thoroughly. Form into desired shapes and sizes (we usually form them into crescents) and bake on greased and floured cookie sheets. Bake for 20-30 minutes depending on thickness of cookie. (In my oven, it takes about 24 minutes).<\/li><li>NOTES :This recipe is a double recipe. These are one of my favorite cookies-I just LOVE almonds!<\/li><\/ol>",
+        "summary": "Almond Horns is a <b>gluten free, dairy free, lacto ovo vegetarian, and fodmap friendly<\/b> recipe with 1 servings. One serving contains <b>7261 calories<\/b>, <b>234g of protein<\/b>, and <b>526g of fat<\/b>. For <b>$32.07 per serving<\/b>, this recipe <b>covers 68%<\/b> of your daily requirements of vitamins and minerals. It works well as an expensive main course. This recipe from Foodista has 15 fans. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. If you have sugar, blanched almonds, egg whites, and a few other ingredients on hand, you can make it. Overall, this recipe earns an <b>excellent spoonacular score of 91%<\/b>. <a href=\"https:\/\/spoonacular.com\/recipes\/chocolate-dipped-almond-horns-205627\">Chocolate Dipped Almond Horns<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/chocolate-glazed-almond-horns-563052\">Chocolate-Glazed Almond Horns<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/chocolate-glazed-almond-horns-494240\">Chocolate-Glazed Almond Horns<\/a> are very similar to this recipe.",
         "cuisines": [],
         "dishTypes": [
             "lunch",
@@ -17,22 +17,10 @@
             "dinner"
         ],
         "ingredients": [
-            "Glaze",
-            "Poached Berries",
-            "1\/2 cup of blueberries, washed",
-            "1 egg yolk",
-            "Pastry",
-            "2 tablespoons of all-purpose flour",
-            "4 tablespoons of icing sugar",
-            "3 tablespoons of fresh lemon juice",
-            "1\/2 teaspoon lemon zest",
-            "3 sheets of store-bought puff pastry",
-            "1 cup of ricotta cheese",
-            "12 strawberries, washed, hulled and halved",
-            "1\/4 cup of castor (berry) sugar",
-            "2 tablespoons of castor sugar",
-            "1 teaspoon vanilla extract",
-            "1\/8 cup of water"
+            "3 tablespoons almond extract",
+            "8 cups Finely chopped blanched almonds",
+            "6 Egg whites",
+            "1 1\/2 cups sugar"
         ]
     }
 }
