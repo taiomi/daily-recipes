@@ -1250,3 +1250,7 @@
 [2026-01-20 03:00:10] Fetching recipe with day of year: 20
 [2026-01-20 03:00:11] Successfully fetched and saved recipe: Almond Horns
 [2026-01-20 03:00:11] Recipe fetch process completed
+[2026-01-21 02:58:59] Starting recipe fetch process
+[2026-01-21 02:58:59] Fetching recipe with day of year: 21
+[2026-01-21 02:58:59] ERROR: Failed to get API response
+[2026-01-21 02:58:59] Recipe fetch process completed
