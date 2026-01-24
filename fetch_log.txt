@@ -1262,3 +1262,7 @@
 [2026-01-23 02:59:29] Fetching recipe with day of year: 23
 [2026-01-23 02:59:30] Successfully fetched and saved recipe: Easy Ginger Beef Broccoli
 [2026-01-23 02:59:30] Recipe fetch process completed
+[2026-01-24 02:53:45] Starting recipe fetch process
+[2026-01-24 02:53:45] Fetching recipe with day of year: 24
+[2026-01-24 02:53:46] ERROR: Failed to get API response
+[2026-01-24 02:53:46] Recipe fetch process completed
