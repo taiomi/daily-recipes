@@ -1,30 +1,31 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-01-23",
+    "lastUpdated": "2026-01-25",
     "recipe": {
-        "title": "Easy Ginger Beef Broccoli",
+        "title": "Chicken Liver Salad",
         "readyInMinutes": 45,
-        "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/641975-556x370.jpg",
-        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/VGNCTK3S\/easy-ginger-beef-broccoli",
-        "instructions": "<ol><li>In a small bowl, combine flour, broth, sugar, and soy sauce. Stir until sugar and flour are dissolved.<\/li><li>In a large skillet or wok over high heat, cook and stir beef 2 to 4 minutes, or until browned. Stir in broth mixture, ginger, garlic, and broccoli. Bring to a boil, then reduce heat. Simmer 5 to 10 minutes, or until sauce thickens.<\/li><li>Excellent served over rice.<\/li><\/ol>",
-        "summary": "The recipe Easy Ginger Beef Broccoli can be made <b>in approximately 45 minutes<\/b>. This dairy free recipe serves 4 and costs <b>$2.14 per serving<\/b>. One portion of this dish contains about <b>49g of protein<\/b>, <b>12g of fat<\/b>, and a total of <b>386 calories<\/b>. It works well as a rather cheap main course. Head to the store and pick up sugar, chicken broth, garlic, and a few other things to make it today. 23 people found this recipe to be tasty and satisfying. It is brought to you by Foodista. All things considered, we decided this recipe <b>deserves a spoonacular score of 97%<\/b>. This score is awesome. If you like this recipe, take a look at these similar recipes: <a href=\"https:\/\/spoonacular.com\/recipes\/easy-ginger-beef-broccoli-1215371\">Easy Ginger Beef Broccoli<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/easy-ginger-beef-broccoli-1229745\">Easy Ginger Beef Broccoli<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/easy-ginger-beef-broccoli-1228803\">Easy Ginger Beef Broccoli<\/a>.",
+        "servings": 2,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/638166-556x370.jpg",
+        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/CDV8FDBT\/chicken-liver-salad",
+        "instructions": "<ol><li>Saut` the onion and the bacon with the olive oil in a large skillet, over medium high heat.<\/li><li>When the bacon is slightly crisp add the chicken livers. Stir well.<\/li><li>Add the balsamic vinegar and continue to cook slowly.  Add more vinegar if necessary.<\/li><li>Serve warm over a bed of lettuce.<\/li><\/ol>",
+        "summary": "You can never have too many main course recipes, so give Chicken Liver Salad a try. One serving contains <b>613 calories<\/b>, <b>45g of protein<\/b>, and <b>42g of fat<\/b>. For <b>$1.81 per serving<\/b>, this recipe <b>covers 56%<\/b> of your daily requirements of vitamins and minerals. This recipe serves 2. 4 people found this recipe to be tasty and satisfying. It is brought to you by Foodista. Head to the store and pick up salt and pepper, balsamic vinegar, chicken livers, and a few other things to make it today. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. It is a good option if you're following a <b>gluten free, dairy free, paleolithic, and primal<\/b> diet. All things considered, we decided this recipe <b>deserves a spoonacular score of 94%<\/b>. This score is great. <a href=\"https:\/\/spoonacular.com\/recipes\/liver-pt-the-silkiest-and-creamiest-chicken-liver-mousse-ever-551492\">Liver P\u00e2t\u00e9 \u2013 The Silkiest and Creamiest Chicken Liver Mousse Ever<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/warm-chicken-liver-salad-225723\">Warm chicken liver salad<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/warm-artichoke-and-chicken-liver-salad-28783\">Warm Artichoke and Chicken Liver Salad<\/a> are very similar to this recipe.",
         "cuisines": [],
         "dishTypes": [
+            "side dish",
             "lunch",
             "main course",
+            "salad",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "4 cups broccoli, chopped",
-            "1 10.5-ounce can beef or chicken broth",
-            "1\/4 cup flour",
-            "1\/4 teaspoon fresh ginger, minced",
-            "1 clove garlic, minced",
-            "1 pound boneless round steak, cut into bite size strips",
-            "2 tablespoons soy sauce",
-            "2 tablespoons sugar"
+            "4 slices of bacon cut in small strips",
+            "Balsamic vinegar",
+            "Romaine or Boston lettuce cut in small pieces",
+            "1 pound chicken livers",
+            "Olive oil",
+            "1 onion, chopped",
+            "Salt and pepper"
         ]
     }
 }
