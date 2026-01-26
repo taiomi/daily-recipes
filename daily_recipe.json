@@ -1,31 +1,38 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-01-25",
+    "lastUpdated": "2026-01-26",
     "recipe": {
-        "title": "Chicken Liver Salad",
+        "title": "Beef Teriyaki Stir Fry",
         "readyInMinutes": 45,
         "servings": 2,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/638166-556x370.jpg",
-        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/CDV8FDBT\/chicken-liver-salad",
-        "instructions": "<ol><li>Saut` the onion and the bacon with the olive oil in a large skillet, over medium high heat.<\/li><li>When the bacon is slightly crisp add the chicken livers. Stir well.<\/li><li>Add the balsamic vinegar and continue to cook slowly.  Add more vinegar if necessary.<\/li><li>Serve warm over a bed of lettuce.<\/li><\/ol>",
-        "summary": "You can never have too many main course recipes, so give Chicken Liver Salad a try. One serving contains <b>613 calories<\/b>, <b>45g of protein<\/b>, and <b>42g of fat<\/b>. For <b>$1.81 per serving<\/b>, this recipe <b>covers 56%<\/b> of your daily requirements of vitamins and minerals. This recipe serves 2. 4 people found this recipe to be tasty and satisfying. It is brought to you by Foodista. Head to the store and pick up salt and pepper, balsamic vinegar, chicken livers, and a few other things to make it today. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. It is a good option if you're following a <b>gluten free, dairy free, paleolithic, and primal<\/b> diet. All things considered, we decided this recipe <b>deserves a spoonacular score of 94%<\/b>. This score is great. <a href=\"https:\/\/spoonacular.com\/recipes\/liver-pt-the-silkiest-and-creamiest-chicken-liver-mousse-ever-551492\">Liver P\u00e2t\u00e9 \u2013 The Silkiest and Creamiest Chicken Liver Mousse Ever<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/warm-chicken-liver-salad-225723\">Warm chicken liver salad<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/warm-artichoke-and-chicken-liver-salad-28783\">Warm Artichoke and Chicken Liver Salad<\/a> are very similar to this recipe.",
-        "cuisines": [],
+        "image": "https:\/\/img.spoonacular.com\/recipes\/634710-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/WCTVNX24\/beef-teriyaki-stir-fry",
+        "instructions": "<ol><li>Whisk ingredients together in a small bowl and refrigerate for at least 30 minutes.<\/li><li>Heat oil in a large frying pan over medium heat. Add beef and saut for 3-4 minutes just to brown it on all sides.<\/li><li>Remove from pan and set aside.<\/li><li>Add vegetables and saut for 5 minutes more, until beginning to soften.<\/li><li>Stir in teriyaki sauce and allow mixture to come to a simmer.<\/li><li>Add beef and any drippings that have accumulated on the plate. Cook for 5 minutes, stirring occasionally.<\/li><li>In a small bowl, combine cornstarch with 2 tsp cold water to dissolve. Stir into the pan of beef and vegetables. Allow the mixture to simmer and thicken for 2 minutes. Toss to evenly coat vegetables and beef in teriyaki sauce. Serve.<\/li><\/ol>",
+        "summary": "If you want to add more <b>gluten free and dairy free<\/b> recipes to your repertoire, Beef Teriyaki Stir Fry might be a recipe you should try. One portion of this dish contains roughly <b>33g of protein<\/b>, <b>21g of fat<\/b>, and a total of <b>414 calories<\/b>. This recipe serves 2 and costs $3.33 per serving. A mixture of mushrooms, sesame oil, garlic, and a handful of other ingredients are all it takes to make this recipe so flavorful. 5 people have tried and liked this recipe. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. This recipe is typical of Japanese cuisine. It works well as a pretty expensive main course. It is brought to you by Foodista. With a spoonacular <b>score of 85%<\/b>, this dish is spectacular. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/teriyaki-beef-stir-fry-145873\">Teriyaki Beef Stir-Fry<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/teriyaki-beef-stir-fry-1245147\">Teriyaki Beef Stir-Fry<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/teriyaki-beef-stir-fry-397718\">Teriyaki Beef Stir-Fry<\/a>.",
+        "cuisines": [
+            "Asian",
+            "Japanese"
+        ],
         "dishTypes": [
-            "side dish",
             "lunch",
             "main course",
-            "salad",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "4 slices of bacon cut in small strips",
-            "Balsamic vinegar",
-            "Romaine or Boston lettuce cut in small pieces",
-            "1 pound chicken livers",
-            "Olive oil",
-            "1 onion, chopped",
-            "Salt and pepper"
+            "2 cups broccoli florets",
+            "1 tablespoon brown sugar",
+            "1 tablespoon cornstarch",
+            "1 teaspoon dark sesame oil",
+            "1\/2 pound beef sirloin or flank steak, cut into \u00bd\" strips",
+            "1 teaspoon garlic, minced",
+            "1 tablespoon ginger, peeled and minced",
+            "1 cup chopped mushrooms",
+            "6 teaspoons Oil",
+            "1 cup sliced red bell pepper",
+            "2 tablespoons chopped scallions",
+            "2 teaspoons sesame seeds, toasted",
+            "1\/4 cup soy sauce"
         ]
     }
 }
