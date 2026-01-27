@@ -1274,3 +1274,7 @@
 [2026-01-26 03:12:01] Fetching recipe with day of year: 26
 [2026-01-26 03:12:02] Successfully fetched and saved recipe: Beef Teriyaki Stir Fry
 [2026-01-26 03:12:02] Recipe fetch process completed
+[2026-01-27 03:04:33] Starting recipe fetch process
+[2026-01-27 03:04:33] Fetching recipe with day of year: 27
+[2026-01-27 03:04:34] ERROR: Failed to get API response
+[2026-01-27 03:04:34] Recipe fetch process completed
