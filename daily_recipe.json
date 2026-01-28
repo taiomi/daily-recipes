@@ -1,38 +1,41 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-01-26",
+    "lastUpdated": "2026-01-28",
     "recipe": {
-        "title": "Beef Teriyaki Stir Fry",
+        "title": "Wintery Vegetable Beef Soup",
         "readyInMinutes": 45,
-        "servings": 2,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/634710-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/WCTVNX24\/beef-teriyaki-stir-fry",
-        "instructions": "<ol><li>Whisk ingredients together in a small bowl and refrigerate for at least 30 minutes.<\/li><li>Heat oil in a large frying pan over medium heat. Add beef and saut for 3-4 minutes just to brown it on all sides.<\/li><li>Remove from pan and set aside.<\/li><li>Add vegetables and saut for 5 minutes more, until beginning to soften.<\/li><li>Stir in teriyaki sauce and allow mixture to come to a simmer.<\/li><li>Add beef and any drippings that have accumulated on the plate. Cook for 5 minutes, stirring occasionally.<\/li><li>In a small bowl, combine cornstarch with 2 tsp cold water to dissolve. Stir into the pan of beef and vegetables. Allow the mixture to simmer and thicken for 2 minutes. Toss to evenly coat vegetables and beef in teriyaki sauce. Serve.<\/li><\/ol>",
-        "summary": "If you want to add more <b>gluten free and dairy free<\/b> recipes to your repertoire, Beef Teriyaki Stir Fry might be a recipe you should try. One portion of this dish contains roughly <b>33g of protein<\/b>, <b>21g of fat<\/b>, and a total of <b>414 calories<\/b>. This recipe serves 2 and costs $3.33 per serving. A mixture of mushrooms, sesame oil, garlic, and a handful of other ingredients are all it takes to make this recipe so flavorful. 5 people have tried and liked this recipe. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. This recipe is typical of Japanese cuisine. It works well as a pretty expensive main course. It is brought to you by Foodista. With a spoonacular <b>score of 85%<\/b>, this dish is spectacular. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/teriyaki-beef-stir-fry-145873\">Teriyaki Beef Stir-Fry<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/teriyaki-beef-stir-fry-1245147\">Teriyaki Beef Stir-Fry<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/teriyaki-beef-stir-fry-397718\">Teriyaki Beef Stir-Fry<\/a>.",
-        "cuisines": [
-            "Asian",
-            "Japanese"
-        ],
+        "servings": 8,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/665398-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/FXJ6B2L6\/wintery-vegetable-beef-soup",
+        "instructions": "Begin by melting the butter with the oil in a large Dutch oven.  Brown your beef well on all sides.\nOnce all sides are browned, drain off any excess fat in pan (more than a tsp.) and add 1 qt. of stock to pot.  Bring to boil, then reduce to simmer.  Cover pan and simmer gently for until meat is fork tender, ~2 1\/2 hours.\nWhen beef is finished, transfer it to a large bowl with any juices and let cool until able to handle, then shred it.\nIn the same pot you cooked the beef in, add the bacon and cook just done.  Remove bacon, but leave fat in pan.\nAdd veggies and cook until just beginning to soften.\nAdd shredded beef and reserved bacon back to pot along with herbs.\nAdd 2 qts. stock (or more to just cover) and simmer over medium-low heat until vegetables are tender, ~10 minutes or so.\nI let it sit, covered for at least an hour to allow the flavors to come together.  Remove herb stems and bay leaves.  Season with freshly cracked black pepper (and salt if needed, depends on the saltiness of the liquid you used, so taste first).\nTo serve, drizzle with a glug of balsamic vinegar and grate some fresh parmesan over the top.  Sprinkle with fresh, chopped herbs and more black pepper, if desired.",
+        "summary": "Wintery Vegetable Beef Soup is a main course that serves 8. Watching your figure? This gluten free recipe has <b>400 calories<\/b>, <b>26g of protein<\/b>, and <b>19g of fat<\/b> per serving. For <b>$1.88 per serving<\/b>, this recipe <b>covers 30%<\/b> of your daily requirements of vitamins and minerals. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. This recipe is liked by 2 foodies and cooks. It will be a hit at your <b>Autumn<\/b> event. A mixture of butter, parsley, beef chuck, and a handful of other ingredients are all it takes to make this recipe so flavorful. It is brought to you by Foodista. Overall, this recipe earns a <b>good spoonacular score of 66%<\/b>. If you like this recipe, take a look at these similar recipes: <a href=\"https:\/\/spoonacular.com\/recipes\/wintery-vegetable-beef-soup-1409233\">Wintery Vegetable Beef Soup<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/beef-soup-series-part-3-hearty-beef-vegetable-soup-1341857\">Beef Soup Series \u2013 Part 3: Hearty Beef Vegetable Soup<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/beef-soup-series-part-3-hearty-beef-vegetable-soup-1655557\">Beef Soup Series \u2013 Part 3: Hearty Beef Vegetable Soup<\/a>.",
+        "cuisines": [],
         "dishTypes": [
             "lunch",
+            "soup",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "2 cups broccoli florets",
-            "1 tablespoon brown sugar",
-            "1 tablespoon cornstarch",
-            "1 teaspoon dark sesame oil",
-            "1\/2 pound beef sirloin or flank steak, cut into \u00bd\" strips",
-            "1 teaspoon garlic, minced",
-            "1 tablespoon ginger, peeled and minced",
-            "1 cup chopped mushrooms",
-            "6 teaspoons Oil",
-            "1 cup sliced red bell pepper",
-            "2 tablespoons chopped scallions",
-            "2 teaspoons sesame seeds, toasted",
-            "1\/4 cup soy sauce"
+            "1\/2 tablespoon butter",
+            "1\/2 tablespoon oil",
+            "2 pounds beef chuck (or any tougher, stew-worthy cut)",
+            "1 quart stock\/broth\/water",
+            "4 slices thick-cut, peppered bacon",
+            "2 larges sweet potatoes, peel & dice",
+            "2 larges parsnips, diced",
+            "2 larges carrots, diced",
+            "2 larges sticks celery, diced",
+            "1 large onion, diced",
+            "5 cloves garlic, peel & smash",
+            "1\/4 of a red cabbage, sliced thin",
+            "1\/4 of a green cabbage, sliced thin",
+            "sprigs thyme",
+            "sprigs parsley",
+            "2 eachs bay leaves",
+            "2 quarts stock\/broth\/water",
+            "black pepper"
         ]
     }
 }
