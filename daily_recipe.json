@@ -1,15 +1,19 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-01-29",
+    "lastUpdated": "2026-01-31",
     "recipe": {
-        "title": "Bacalhau Macau",
+        "title": "Eggplant Parmesan",
         "readyInMinutes": 45,
         "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/633251-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/888LJBPK\/bacalhau-macau",
-        "instructions": "<ol><li>Place cod in a bowl and cover with cold water. Soak for 6 to 8 hours, changing the water once or twice. Drain, rinse very well and pat dry. Shred fish with your fingers.<\/li><li>Pour 3 inches of water into a medium saucepan and bring to a boil. Add the diced potatoes, and cook until tender, 10 to 12 minutes. Drain the potatoes, return them to the pan briefly. (The heat from the pan will evaporate excess moisture from the potatoes.) Mash the potatoes until smooth, then whisk in the butter.<\/li><li>Stir the cod into the mashed potatoes. Stir in the green onion, cilantro, olives, egg white, sesame oil, salt, garlic, ginger and pepper.<\/li><li>In a chilled bowl, whip the cream until it holds soft peaks. Gently fold the whipped cream into cod mixture with a rubber spatula.<\/li><li>Using two large soupspoons, form about 3 tablespoons of the cod-potato mixture into an oval fish cake. Set the cod cake on a baking sheet and repeat with the remaining potato mixture.<\/li><li>Spread the breadcrumbs on a plate. Beat the egg in a wide, shallow bowl. Dip each cod cake into egg, turning it gently to coat all sides. Allow any excess egg to drip back into the bowl, then roll the cake in breadcrumbs to coat all sides. Set the coated fish cakes on a baking sheet.<\/li><li>Place a large skillet over medium heat and pour in 1\/4 inch of vegetable oil. When the oil is hot - a corner of a cod cake will give off a lively sizzle when dipped in the oil - add as many of the fish cakes to the skillet as will fit without touching each other. (You may need to do this in two batches.) Cook, turning once, until golden brown, about 5 to 7 minutes.<\/li><li>Remove the fish cakes with a slotted spoon and drain them on paper towels. If necessary, repeat with the remaining cod cakes. Serve warm.<\/li><li>This recipe yields 4 servings.<\/li><\/ol>",
-        "summary": "Bacalhau Macau could be just the <b>pescatarian<\/b> recipe you've been looking for. This recipe makes 4 servings with <b>337 calories<\/b>, <b>17g of protein<\/b>, and <b>17g of fat<\/b> each. For <b>$1.69 per serving<\/b>, this recipe <b>covers 14%<\/b> of your daily requirements of vitamins and minerals. Not a lot of people made this recipe, and 9 would say it hit the spot. If you have sesame oil, butter, salt, and a few other ingredients on hand, you can make it. It works well as a main course. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. It is brought to you by Foodista. Overall, this recipe earns a <b>good spoonacular score of 76%<\/b>. <a href=\"https:\/\/spoonacular.com\/recipes\/chinese-macau-style-mung-bean-almond-cookies-1167105\">Chinese Macau-Style Mung Bean Almond Cookies<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/lechon-kawali-stew-aka-lechon-macau-520873\">Lechon kawali stew (a.k.a. Lechon Macau)<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/bacalhau-a-braz-2333\">Bacalhau A Braz<\/a> are very similar to this recipe.",
-        "cuisines": [],
+        "image": "https:\/\/img.spoonacular.com\/recipes\/642293-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/S6VBT8C3\/eggplant-parmesan",
+        "instructions": "Preheat oven to 350 degrees.\nSlice eggplant into 1\/4 inch thick rounds and salt for 30 minutes to remove water.\nSaute onions and garlic in a tablespoon of oil. \nAdd tomatoes and oregano, simmer until sauce thickens slightly.\nDip each eggplant slice first into eggs, then into crumbs. Saute in hot olive oil until golden brown on both sides.\nPlace a layer of browned slices in 2 quart casserole; sprinkle with some of Parmesan, oregano and mozzarella; then cover well with some of tomato sauce. \nRepeat until all eggplant is used, topping last layer of sauce with several slices of mozzarella. \nBake until the sauce bubbles and the cheese is melted and browned, about 30 minutes.",
+        "summary": "Eggplant Parmesan requires about <b>45 minutes<\/b> from start to finish. For <b>$3.1 per serving<\/b>, you get a main course that serves 4. One serving contains <b>541 calories<\/b>, <b>28g of protein<\/b>, and <b>30g of fat<\/b>. This recipe is liked by 8 foodies and cooks. Head to the store and pick up onions, parmesan cheese, tomato sauce, and a few other things to make it today. It is a <b>pretty expensive<\/b> recipe for fans of Mediterranean food. It is brought to you by Foodista. With a spoonacular <b>score of 65%<\/b>, this dish is solid. Similar recipes include <a href=\"https:\/\/spoonacular.com\/recipes\/crispy-baked-eggplant-fries-with-marinara-dipping-sauce-aka-eggplant-parmesan-fries-1231165\">Crispy Baked Eggplant Fries with Marinara Dipping Sauce (akan Eggplant Parmesan Fries!)<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/crispy-baked-eggplant-fries-with-marinara-dipping-sauce-aka-eggplant-parmesan-fries-249194\">Crispy Baked Eggplant Fries with Marinara Dipping Sauce (akan Eggplant Parmesan Fries!)<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/crispy-baked-eggplant-fries-with-marinara-dipping-sauce-aka-eggplant-parmesan-fries-1239019\">Crispy Baked Eggplant Fries with Marinara Dipping Sauce (akan Eggplant Parmesan Fries!)<\/a>.",
+        "cuisines": [
+            "Mediterranean",
+            "Italian",
+            "European"
+        ],
         "dishTypes": [
             "lunch",
             "main course",
@@ -17,21 +21,16 @@
             "dinner"
         ],
         "ingredients": [
-            "1 cup Japanese breadcrumbs (panko)",
-            "1 teaspoon melted butter",
-            "1\/4 cup minced cilantro",
-            "1 Egg",
-            "1 egg white",
-            "1 1\/2 teaspoons minced garlic",
-            "1 teaspoon grated ginger",
-            "1\/4 cup chopped green onion",
-            "3\/4 pound russet [Idaho] potato - (abt 2) peeled, and",
-            "1\/4 cup chopped pitted oil-cured olives",
-            "1 tsp of salt",
-            "1\/2 pound salt cod fillets",
-            "2 teaspoons sesame oil",
-            "1\/2 cup whipping cream",
-            "1\/4 teaspoon freshly-ground white pepper"
+            "1 large eggplant",
+            "3 eggs, beaten",
+            "1 cup dried bread crumbs",
+            "3\/4 cup olive oil",
+            "1\/2 cup grated Parmesan cheese",
+            "1\/2 pound mozzarella cheese, sliced",
+            "3 8 oz. cans tomato sauce",
+            "1 clove garlic, crushed",
+            "2 mediums yellow onions, chopped",
+            "1\/2 teaspoon oregano"
         ]
     }
 }
