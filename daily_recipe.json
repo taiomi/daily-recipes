@@ -1,36 +1,35 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-01-31",
+    "lastUpdated": "2026-02-01",
     "recipe": {
-        "title": "Eggplant Parmesan",
-        "readyInMinutes": 45,
+        "title": "Slow Cooker Spicy Hot Wings",
+        "readyInMinutes": 14,
         "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/642293-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/S6VBT8C3\/eggplant-parmesan",
-        "instructions": "Preheat oven to 350 degrees.\nSlice eggplant into 1\/4 inch thick rounds and salt for 30 minutes to remove water.\nSaute onions and garlic in a tablespoon of oil. \nAdd tomatoes and oregano, simmer until sauce thickens slightly.\nDip each eggplant slice first into eggs, then into crumbs. Saute in hot olive oil until golden brown on both sides.\nPlace a layer of browned slices in 2 quart casserole; sprinkle with some of Parmesan, oregano and mozzarella; then cover well with some of tomato sauce. \nRepeat until all eggplant is used, topping last layer of sauce with several slices of mozzarella. \nBake until the sauce bubbles and the cheese is melted and browned, about 30 minutes.",
-        "summary": "Eggplant Parmesan requires about <b>45 minutes<\/b> from start to finish. For <b>$3.1 per serving<\/b>, you get a main course that serves 4. One serving contains <b>541 calories<\/b>, <b>28g of protein<\/b>, and <b>30g of fat<\/b>. This recipe is liked by 8 foodies and cooks. Head to the store and pick up onions, parmesan cheese, tomato sauce, and a few other things to make it today. It is a <b>pretty expensive<\/b> recipe for fans of Mediterranean food. It is brought to you by Foodista. With a spoonacular <b>score of 65%<\/b>, this dish is solid. Similar recipes include <a href=\"https:\/\/spoonacular.com\/recipes\/crispy-baked-eggplant-fries-with-marinara-dipping-sauce-aka-eggplant-parmesan-fries-1231165\">Crispy Baked Eggplant Fries with Marinara Dipping Sauce (akan Eggplant Parmesan Fries!)<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/crispy-baked-eggplant-fries-with-marinara-dipping-sauce-aka-eggplant-parmesan-fries-249194\">Crispy Baked Eggplant Fries with Marinara Dipping Sauce (akan Eggplant Parmesan Fries!)<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/crispy-baked-eggplant-fries-with-marinara-dipping-sauce-aka-eggplant-parmesan-fries-1239019\">Crispy Baked Eggplant Fries with Marinara Dipping Sauce (akan Eggplant Parmesan Fries!)<\/a>.",
+        "image": "https:\/\/img.spoonacular.com\/recipes\/715419-556x370.jpg",
+        "sourceUrl": "https:\/\/www.pinkwhen.com\/slow-cooker-spicy-hot-wings\/",
+        "instructions": "Yes, these are called SPICY hot wings for a reason. I like adding the brown sugar to give them a little sweeter taste, but it is by far a delicious spicy recipe more than anything.To get started, mix the brown sugar, crushed garlic, hot sauce, and cayenne pepper into a medium mixing bowl. Mix well and then set aside.Take the cooking spray and spray the entire inside portion of the slow cooker AND also the wings. (Spraying the wings before you grill, bake, or cook chicken keeps the flavor and makes them super juicy. TRUST ME.)Take the wings and add them into the mixing bowl with your spices and toss to get a good even coat over the wings.Place in the slow cooker on low for 4 hours. After 4hours, remove carefully and place on a prepared cookie sheet. Place in the oven under broiler setting for 4-6 minutes, allowing the wings to get a little crisp.Serve immediately with a little blue cheese dressing and celery.",
+        "summary": "Slow Cooker Spicy Hot Wings might be a good recipe to expand your hor d'oeuvre recipe box. This recipe serves 4 and costs $1.01 per serving. One portion of this dish contains approximately <b>23g of protein<\/b>, <b>20g of fat<\/b>, and a total of <b>384 calories<\/b>. Head to the store and pick up brown sugar, cayenne pepper, garlic, and a few other things to make it today. This recipe is typical of American cuisine. 16911 person were glad they tried this recipe. It is brought to you by Pink When. From preparation to the plate, this recipe takes about <b>14 minutes<\/b>. It is a good option if you're following a <b>gluten free and dairy free<\/b> diet. All things considered, we decided this recipe <b>deserves a spoonacular score of 57%<\/b>. This score is pretty good. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/slow-cooker-spicy-hot-wings-1261215\">Slow Cooker Spicy Hot Wings<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/hot-spicy-wings-with-maple-chipotle-hot-sauce-1093023\">Hot & spicy wings with maple chipotle hot sauce<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/spicy-hot-wings-434688\">Spicy Hot Wings<\/a>.",
         "cuisines": [
-            "Mediterranean",
-            "Italian",
-            "European"
+            "American"
         ],
         "dishTypes": [
             "lunch",
+            "antipasti",
             "main course",
+            "starter",
+            "snack",
+            "appetizer",
             "main dish",
-            "dinner"
+            "antipasto",
+            "dinner",
+            "hor d'oeuvre"
         ],
         "ingredients": [
-            "1 large eggplant",
-            "3 eggs, beaten",
-            "1 cup dried bread crumbs",
-            "3\/4 cup olive oil",
-            "1\/2 cup grated Parmesan cheese",
-            "1\/2 pound mozzarella cheese, sliced",
-            "3 8 oz. cans tomato sauce",
-            "1 clove garlic, crushed",
-            "2 mediums yellow onions, chopped",
-            "1\/2 teaspoon oregano"
+            "\u00bd cup brown sugar",
+            "1 tsp cayenne pepper",
+            "2 - 4 pounds regular chicken wings",
+            "1 Tbsp crushed garlic",
+            "\u00bd cup Louisiana Hot sauce"
         ]
     }
 }
