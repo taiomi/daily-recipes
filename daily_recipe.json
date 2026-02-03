@@ -1,35 +1,34 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-02-01",
+    "lastUpdated": "2026-02-03",
     "recipe": {
-        "title": "Slow Cooker Spicy Hot Wings",
-        "readyInMinutes": 14,
-        "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/715419-556x370.jpg",
-        "sourceUrl": "https:\/\/www.pinkwhen.com\/slow-cooker-spicy-hot-wings\/",
-        "instructions": "Yes, these are called SPICY hot wings for a reason. I like adding the brown sugar to give them a little sweeter taste, but it is by far a delicious spicy recipe more than anything.To get started, mix the brown sugar, crushed garlic, hot sauce, and cayenne pepper into a medium mixing bowl. Mix well and then set aside.Take the cooking spray and spray the entire inside portion of the slow cooker AND also the wings. (Spraying the wings before you grill, bake, or cook chicken keeps the flavor and makes them super juicy. TRUST ME.)Take the wings and add them into the mixing bowl with your spices and toss to get a good even coat over the wings.Place in the slow cooker on low for 4 hours. After 4hours, remove carefully and place on a prepared cookie sheet. Place in the oven under broiler setting for 4-6 minutes, allowing the wings to get a little crisp.Serve immediately with a little blue cheese dressing and celery.",
-        "summary": "Slow Cooker Spicy Hot Wings might be a good recipe to expand your hor d'oeuvre recipe box. This recipe serves 4 and costs $1.01 per serving. One portion of this dish contains approximately <b>23g of protein<\/b>, <b>20g of fat<\/b>, and a total of <b>384 calories<\/b>. Head to the store and pick up brown sugar, cayenne pepper, garlic, and a few other things to make it today. This recipe is typical of American cuisine. 16911 person were glad they tried this recipe. It is brought to you by Pink When. From preparation to the plate, this recipe takes about <b>14 minutes<\/b>. It is a good option if you're following a <b>gluten free and dairy free<\/b> diet. All things considered, we decided this recipe <b>deserves a spoonacular score of 57%<\/b>. This score is pretty good. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/slow-cooker-spicy-hot-wings-1261215\">Slow Cooker Spicy Hot Wings<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/hot-spicy-wings-with-maple-chipotle-hot-sauce-1093023\">Hot & spicy wings with maple chipotle hot sauce<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/spicy-hot-wings-434688\">Spicy Hot Wings<\/a>.",
+        "title": "Ahi Tuna Ceviche",
+        "readyInMinutes": 45,
+        "servings": 3,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/632021-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/7FBJ3QLN\/ahi-tuna-ceviche",
+        "instructions": "<ol><li>In medium bowl mix soy sauce, toasted sesame oil, rice vinegar, Serrano pepper, lime juice, mint, and sesame seeds. Then add diced tuna and toss to coat.<\/li><li>The tuna is ready to eat as soon as it's tossed and coated but you can marinate it for a few minutes if desired. The tuna will start to turn white almost immediately, a sign that it is cooking from the acidity of the lime juice. It is not necessary to cook the tuna. In fact, it is best served immediately while it is melt-in-your-mouth tender and moist.<\/li><li>Serve immediately by mounding atop crackers, chips, micro-greens, or even roasted sweet potato slices.<\/li><\/ol>",
+        "summary": "If you want to add more <b>Latin American<\/b> recipes to your recipe box, Ahi Tuna Ceviche might be a recipe you should try. One serving contains <b>117 calories<\/b>, <b>16g of protein<\/b>, and <b>4g of fat<\/b>. For <b>$2.29 per serving<\/b>, you get a main course that serves 3. It is brought to you by Foodista. It is a good option if you're following a <b>gluten free, dairy free, and pescatarian<\/b> diet. Not a lot of people made this recipe, and 3 would say it hit the spot. A mixture of ahi tuna steak, sesame oil, serrano pepper, and a handful of other ingredients are all it takes to make this recipe so scrumptious. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 63%<\/b>. This score is good. Similar recipes include <a href=\"https:\/\/spoonacular.com\/recipes\/margarita-ahi-tuna-ceviche-883481\">Margaritan Ahi Tuna Ceviche<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/uncle-bills-ahi-ahi-tuna-85052\">Uncle Bill's Ahi Ahi Tuna<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/chili-crusted-ahi-tuna-avocado-salad-with-cilantro-garlic-dressing-gf-and-fave-five-friday-healthy-tuna-1259649\">Chili Crusted Ahi Tuna & Avocado Salad with Cilantro Garlic Dressing (GF!) \u2026 and Fave Five Friday: Healthy Tuna<\/a>.",
         "cuisines": [
-            "American"
+            "South American",
+            "Latin American"
         ],
         "dishTypes": [
             "lunch",
-            "antipasti",
             "main course",
-            "starter",
-            "snack",
-            "appetizer",
             "main dish",
-            "antipasto",
-            "dinner",
-            "hor d'oeuvre"
+            "dinner"
         ],
         "ingredients": [
-            "\u00bd cup brown sugar",
-            "1 tsp cayenne pepper",
-            "2 - 4 pounds regular chicken wings",
-            "1 Tbsp crushed garlic",
-            "\u00bd cup Louisiana Hot sauce"
+            "1 ahi tuna steak (approx. less than a 1 lb.)",
+            "5 small leaves of fresh mint",
+            "1\/2 tablespoon rice vinegar (recommended: O Yuzu Rice Vinegar by O 1\/2 of a Serrano pepper, very thinly sliced1 Juice of lime5 small leaves of fresh mintsprinkle of black sesame seeds (optional)",
+            "1 Juice of lime",
+            "1\/2 of a Serrano pepper, very thinly sliced",
+            "1 tsp. sesame oil",
+            "1In medium bowl mix soy sauce, toasted sesame oil, rice vinegar, Serrano pepper, lime juice, mint, and sesame seeds. Then add diced tuna and toss to coat.",
+            "5 tbsp. soy sauce",
+            "3Serve immediately by mounding atop crackers, chips, micro-greens, or even roasted sweet potato slices."
         ]
     }
 }
