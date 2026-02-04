@@ -1,34 +1,41 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-02-03",
+    "lastUpdated": "2026-02-04",
     "recipe": {
-        "title": "Ahi Tuna Ceviche",
-        "readyInMinutes": 45,
-        "servings": 3,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/632021-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/7FBJ3QLN\/ahi-tuna-ceviche",
-        "instructions": "<ol><li>In medium bowl mix soy sauce, toasted sesame oil, rice vinegar, Serrano pepper, lime juice, mint, and sesame seeds. Then add diced tuna and toss to coat.<\/li><li>The tuna is ready to eat as soon as it's tossed and coated but you can marinate it for a few minutes if desired. The tuna will start to turn white almost immediately, a sign that it is cooking from the acidity of the lime juice. It is not necessary to cook the tuna. In fact, it is best served immediately while it is melt-in-your-mouth tender and moist.<\/li><li>Serve immediately by mounding atop crackers, chips, micro-greens, or even roasted sweet potato slices.<\/li><\/ol>",
-        "summary": "If you want to add more <b>Latin American<\/b> recipes to your recipe box, Ahi Tuna Ceviche might be a recipe you should try. One serving contains <b>117 calories<\/b>, <b>16g of protein<\/b>, and <b>4g of fat<\/b>. For <b>$2.29 per serving<\/b>, you get a main course that serves 3. It is brought to you by Foodista. It is a good option if you're following a <b>gluten free, dairy free, and pescatarian<\/b> diet. Not a lot of people made this recipe, and 3 would say it hit the spot. A mixture of ahi tuna steak, sesame oil, serrano pepper, and a handful of other ingredients are all it takes to make this recipe so scrumptious. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 63%<\/b>. This score is good. Similar recipes include <a href=\"https:\/\/spoonacular.com\/recipes\/margarita-ahi-tuna-ceviche-883481\">Margaritan Ahi Tuna Ceviche<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/uncle-bills-ahi-ahi-tuna-85052\">Uncle Bill's Ahi Ahi Tuna<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/chili-crusted-ahi-tuna-avocado-salad-with-cilantro-garlic-dressing-gf-and-fave-five-friday-healthy-tuna-1259649\">Chili Crusted Ahi Tuna & Avocado Salad with Cilantro Garlic Dressing (GF!) \u2026 and Fave Five Friday: Healthy Tuna<\/a>.",
+        "title": "Cheesy Chicken Enchilada Quinoa Casserole",
+        "readyInMinutes": 30,
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/715421-556x370.jpg",
+        "sourceUrl": "https:\/\/www.pinkwhen.com\/cheesy-chicken-enchilada-quinoa-casserole\/",
+        "instructions": "To get started, heat your oven to 350 and prepare an 8x8 baking dish. Cook the quinoa according to the instructions. If you haven't already, boil and shred your chicken breast.In a medium sized mixing bowl add 2 Tbsp cilantro, 1 cup shredded cheese, quinoa, tomatoes with chilis, black beans, half of the can of sweet corn, verde enchilada sauce, cumin, chili powder, white pepper, black pepper, and salt to taste. Mix everything well, and then pour into the 8 x8 baking dish. Cover with the last cup of cheese and then bake in the oven for 15 minutes.Remove from oven and allow to cool for 5 minutes. Then top with chopped Roma tomato, chopped avocado, green onion tops, and remaining 2 tsp of cilantro. Serve immediately.",
+        "summary": "Cheesy Chicken Enchilada Quinoa Casserole might be just the <b>Mexican<\/b> recipe you are searching for. One serving contains <b>594 calories<\/b>, <b>34g of protein<\/b>, and <b>24g of fat<\/b>. This gluten free recipe serves 4 and costs <b>$2.62 per serving<\/b>. A mixture of corn, pepper, canned tomatoes, and a handful of other ingredients are all it takes to make this recipe so delicious. From preparation to the plate, this recipe takes approximately <b>30 minutes<\/b>. It will be a hit at your <b>Autumn<\/b> event. Plenty of people made this recipe, and 9912 would say it hit the spot. It works well as an affordable main course. It is brought to you by Pink When. With a spoonacular <b>score of 97%<\/b>, this dish is amazing. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/cheesy-chicken-enchilada-quinoa-casserole-1317125\">Cheesy Chicken Enchilada Quinoa Casserole<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/cheesy-chicken-enchilada-quinoa-casserole-1340231\">Cheesy Chicken Enchilada Quinoa Casserole<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/cheesy-chicken-enchilada-quinoa-casserole-1280325\">Cheesy Chicken Enchilada Quinoa Casserole<\/a>.",
         "cuisines": [
-            "South American",
-            "Latin American"
+            "Mexican"
         ],
         "dishTypes": [
+            "side dish",
             "lunch",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "1 ahi tuna steak (approx. less than a 1 lb.)",
-            "5 small leaves of fresh mint",
-            "1\/2 tablespoon rice vinegar (recommended: O Yuzu Rice Vinegar by O 1\/2 of a Serrano pepper, very thinly sliced1 Juice of lime5 small leaves of fresh mintsprinkle of black sesame seeds (optional)",
-            "1 Juice of lime",
-            "1\/2 of a Serrano pepper, very thinly sliced",
-            "1 tsp. sesame oil",
-            "1In medium bowl mix soy sauce, toasted sesame oil, rice vinegar, Serrano pepper, lime juice, mint, and sesame seeds. Then add diced tuna and toss to coat.",
-            "5 tbsp. soy sauce",
-            "3Serve immediately by mounding atop crackers, chips, micro-greens, or even roasted sweet potato slices."
+            "1 small Avocado (chopped)",
+            "\u00bd tsp black pepper",
+            "1 (15oz) can of black beans (I like the low sodium version)",
+            "1 (10oz) can of tomatoes with green chilis",
+            "\u00bd tsp chili powder",
+            "1 cup cooked quinoa",
+            "\u00bd tsp cumin",
+            "1 (10oz) can of verde enchilada sauce",
+            "fresh cilantro (2Tbsp and 2 tsp separated)",
+            "green onion tops (chopped)",
+            "1 Roma tomato (chopped)",
+            "salt to taste",
+            "2 cups of shredded cheese (my favorite is the Kraft Mexican 4 cheese blend and one bag equals two cups!)",
+            "1 boneless skinless chicken breast (boiled and shredded)",
+            "1 (15oz) can of sweet corn (you are only going to use half of the can)",
+            "\u00bd tsp white pepper"
         ]
     }
 }
