@@ -1,15 +1,19 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-02-06",
+    "lastUpdated": "2026-02-07",
     "recipe": {
-        "title": "Steak with lemon and capers",
-        "readyInMinutes": 45,
-        "servings": 2,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/661531-556x370.jpg",
-        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/JKGPWDDP\/steak-with-lemon-and-capers",
-        "instructions": "<ol><li>Flatten the steaks lightly with a meat mallet.<\/li><li>Combine flour, salt and pepper, dip steaks into the mixture, coating both sides.<\/li><li>Saut the steaks in a hot mixture of butter and olive oil over medium heat, about 4 minutes on each side. Remove from the pan and set aside.<\/li><li>Saut the garlic in the same fat for about 1 minute, stirring.<\/li><li>Add the wine and lemon juice, stir and simmer for 5 minutes to slightly reduce the liquid.<\/li><li>Add capers, stir. Return the steaks to the pan, cover and simmer over low heat for 4 minutes.<\/li><\/ol>",
-        "summary": "You can never have too many main course recipes, so give Steak with lemon and capers a try. One serving contains <b>949 calories<\/b>, <b>47g of protein<\/b>, and <b>54g of fat<\/b>. For <b>$6.46 per serving<\/b>, this recipe <b>covers 31%<\/b> of your daily requirements of vitamins and minerals. This recipe serves 2. This recipe is liked by 9 foodies and cooks. <b>valentin day<\/b> will be even more special with this recipe. Head to the store and pick up beef steak, wine, capers, and a few other things to make it today. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. It is brought to you by Foodista. With a spoonacular <b>score of 71%<\/b>, this dish is good. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/steak-salad-sandwiches-with-capers-30072\">Steak Salad Sandwiches with Capers<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/steak-salad-with-arugula-parmesan-crispy-capers-8826\">Steak Salad With Arugula, Parmesan & Crispy Capers<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/veal-with-lemon-and-capers-754915\">Veal with Lemon and Capers<\/a>.",
-        "cuisines": [],
+        "title": "Layered Baked Eggplant Parmesan",
+        "readyInMinutes": 60,
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/649340-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/6P26YNZH\/layered-baked-eggplant-parmesan",
+        "instructions": "<ol><li>Preheat oven to 375 degrees Fahrenheit. Place a sheet of aluminum foil on baking sheet. Spray with olive oil cooking spray. Slice ends off of eggplant and peel skin off with a vegetable peeler. Slice into  inch pieces.<\/li><li>In a shallow container, add eggs and water. Whisk to combine. In a separate container, add breadcrumbs, Italian seasoning and onion powder. Mix together. Dip eggplant slices into egg mixture. Let excess drip off and then dip into breadcrumbs. Coat evenly with breadcrumbs, pressing them onto the sides.<\/li><li>Place on baking sheet. Spray tops lightly with olive oil spray. Place in oven and cook for 20 minutes. Flip over and cook for another 20 minutes, until the tops are golden brown.<\/li><li>Remove from oven. In a 8 by 8 baking sheet, add  a cup of tomato sauce to the bottom spread evenly. Add 4 slices eggplant. Top with  cup cheese and  cup shredded Parmesan cheese. Add 3 more layers of sauce, eggplant and cheese.<\/li><li>Place back in oven and bake till cheese gets slightly browned on top, about 15 minutes. ENJOY!<\/li><\/ol>",
+        "summary": "If you want to add more <b>Mediterranean<\/b> recipes to your collection, Layered Baked Eggplant Parmesan might be a recipe you should try. One serving contains <b>515 calories<\/b>, <b>33g of protein<\/b>, and <b>24g of fat<\/b>. This recipe serves 4. For <b>$3.18 per serving<\/b>, this recipe <b>covers 31%<\/b> of your daily requirements of vitamins and minerals. Only a few people really liked this main course. This recipe from Foodista has 2 fans. Head to the store and pick up mozzarella cheese, seasoning, eggs, and a few other things to make it today. From preparation to the plate, this recipe takes about <b>1 hour<\/b>. Overall, this recipe earns a <b>good spoonacular score of 67%<\/b>. If you like this recipe, take a look at these similar recipes: <a href=\"https:\/\/spoonacular.com\/recipes\/layered-eggplant-parmesan-vegetarian-103516\">Layered Eggplant Parmesan (Vegetarian)<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/crispy-baked-eggplant-fries-with-marinara-dipping-sauce-aka-eggplant-parmesan-fries-249194\">Crispy Baked Eggplant Fries with Marinara Dipping Sauce (akan Eggplant Parmesan Fries!)<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/crispy-baked-eggplant-fries-with-marinara-dipping-sauce-aka-eggplant-parmesan-fries-1239019\">Crispy Baked Eggplant Fries with Marinara Dipping Sauce (akan Eggplant Parmesan Fries!)<\/a>.",
+        "cuisines": [
+            "Mediterranean",
+            "Italian",
+            "European"
+        ],
         "dishTypes": [
             "lunch",
             "main course",
@@ -17,18 +21,15 @@
             "dinner"
         ],
         "ingredients": [
-            "400g beef steak (minute steak from leg)",
-            "2 tablespoons Butter",
-            "2 Tbs capers",
-            "\u00be cup dry white wine",
-            "1 cup flour",
-            "2 to 3 large cloves garlic, pressed",
-            "\u00bc tsp ground black pepper",
-            "1 teaspoon lemon juice",
-            "Lemon wedges",
-            "2 Tbs olive oil",
-            "2 teaspoons parsley, finely chopped",
-            "\u00be tsp salt"
+            "1 cup Italian breadcrumbs",
+            "2 medium eggplants",
+            "2 large Eggs, hard boiled, peeled and chopped",
+            "2 tsp Italian seasoning",
+            "2 tsp Onion Powder",
+            "1 cup shredded Parmesan cheese",
+            "2 cups shredded mozzarella cheese",
+            "1 25 oz jar of your favorite tomato sauce",
+            "4 TBSP Water"
         ]
     }
 }
