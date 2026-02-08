@@ -1322,3 +1322,7 @@
 [2026-02-07 03:24:06] Fetching recipe with day of year: 38
 [2026-02-07 03:24:06] Successfully fetched and saved recipe: Layered Baked Eggplant Parmesan
 [2026-02-07 03:24:06] Recipe fetch process completed
+[2026-02-08 03:52:43] Starting recipe fetch process
+[2026-02-08 03:52:43] Fetching recipe with day of year: 39
+[2026-02-08 03:52:44] ERROR: Failed to get API response
+[2026-02-08 03:52:44] Recipe fetch process completed
