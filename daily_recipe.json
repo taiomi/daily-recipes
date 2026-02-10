@@ -1,14 +1,14 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-02-09",
+    "lastUpdated": "2026-02-10",
     "recipe": {
-        "title": "Sweet Mustard BBQ Pork Chops",
+        "title": "Avocado Chicken Salad",
         "readyInMinutes": 45,
-        "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/662535-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/WGDGFHFH\/sweet-mustard-bbq-pork-chops",
-        "instructions": "<ol><li>Combine honey, Dijon mustard, lemon juice, soy sauce, and garlic in a bowl. Stir until sugar dissolves.<\/li><li>Place pork chops in large resealable plastic container or bag. Pour marinade over pork chops; seal bag\/container. Refrigerate for at least 4 hours (preferably overnight), shaking container or turning bag occasionally.<\/li><li>Prepare barbecue (medium-high heat). Sprinkle pork chops with fresh cracked pepper.<\/li><li>Grill pork chops until instant-read thermometer inserted into center of chops registers 145 F to 150 F, about 5-7 minutes per side, brushing with leftover marinade and moving chops to cooler part of rack if burning.<\/li><li>Transfer chops to platter; cover with foil, and let stand 5 minutes. Serve.<\/li><\/ol>",
-        "summary": "Sweet Mustard BBQ Pork Chops requires approximately <b>45 minutes<\/b> from start to finish. For <b>$2.15 per serving<\/b>, you get a main course that serves 4. One serving contains <b>445 calories<\/b>, <b>38g of protein<\/b>, and <b>16g of fat<\/b>. This recipe from Foodista requires soy sauce, dijon mustard, garlic, and coarsely ground pepper. 69 people were glad they tried this recipe. It is a good option if you're following a <b>gluten free and dairy free<\/b> diet. All things considered, we decided this recipe <b>deserves a spoonacular score of 73%<\/b>. This score is solid. <a href=\"https:\/\/spoonacular.com\/recipes\/sweet-mustard-bbq-pork-chops-1364587\">Sweet Mustard BBQ Pork Chops<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/honey-mustard-bbq-pork-chops-471552\">Honey Mustard BBQ Pork Chops<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/sauted-pork-chops-with-sweet-potato-apples-and-mustard-sauce-185639\">Saut\u00e9ed Pork Chops with Sweet Potato, Apples and Mustard Sauce<\/a> are very similar to this recipe.",
+        "servings": 2,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/633132-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/T2D345B2\/avocado-chicken-salad",
+        "instructions": "<ol><li>Season chicken breast with a little salt and pepper then place in a pot of boiling water until cooked. Leave to cool and cut into cubes, set aside.<\/li><li>Cut avocados into cubes.<\/li><li>Place mixed salad in a large bowl and add olive oil and lime juice, toss well and divide mixed salad into two serving bowls.<\/li><li>Place avocados, chicken meat and cherry tomatoes evenly on top of salad.<\/li><li>Drizzle mayonaise  and a dash of black pepper over salad and serve.<\/li><\/ol>",
+        "summary": "Avocado Chicken Salad could be just the <b>gluten free, dairy free, and whole 30<\/b> recipe you've been looking for. For <b>$3.54 per serving<\/b>, you get a main course that serves 2. One serving contains <b>665 calories<\/b>, <b>21g of protein<\/b>, and <b>57g of fat<\/b>. 22 people were glad they tried this recipe. A mixture of pepper, salad, chicken breast, and a handful of other ingredients are all it takes to make this recipe so delicious. It is brought to you by Foodista. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. Taking all factors into account, this recipe <b>earns a spoonacular score of 90%<\/b>, which is amazing. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/avocado-chicken-salad-570223\">Avocado Chicken Salad<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/chicken-avocado-salad-525055\">Chicken Avocado Salad<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/avocado-chicken-salad-443907\">Avocado Chicken Salad<\/a>.",
         "cuisines": [],
         "dishTypes": [
             "lunch",
@@ -17,13 +17,14 @@
             "dinner"
         ],
         "ingredients": [
-            "4 bone-in pork chops",
-            "1\/4 cup dijon mustard",
-            "2 cloves garlic, crushed",
-            "3 teaspoons coarsely ground black pepper",
-            "1\/2 cup honey",
-            "1\/4 cup lemon juice",
-            "1\/4 cup soy sauce"
+            "2 Avocados",
+            "10g Cherry tomatoes, cut to half or quarter",
+            "50ml Extra virgin olive oil",
+            "2-3 Limes or add to taste",
+            "Mayonnaise",
+            "a dash of black pepper",
+            "100g Mixed salad, roughly shredded",
+            "150-200g boneless skinless Chicken breast"
         ]
     }
 }
