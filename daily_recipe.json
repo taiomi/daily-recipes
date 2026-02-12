@@ -1,15 +1,17 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-02-10",
+    "lastUpdated": "2026-02-12",
     "recipe": {
-        "title": "Avocado Chicken Salad",
+        "title": "Buttermilk Skillet Fried Chicken",
         "readyInMinutes": 45,
-        "servings": 2,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/633132-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/T2D345B2\/avocado-chicken-salad",
-        "instructions": "<ol><li>Season chicken breast with a little salt and pepper then place in a pot of boiling water until cooked. Leave to cool and cut into cubes, set aside.<\/li><li>Cut avocados into cubes.<\/li><li>Place mixed salad in a large bowl and add olive oil and lime juice, toss well and divide mixed salad into two serving bowls.<\/li><li>Place avocados, chicken meat and cherry tomatoes evenly on top of salad.<\/li><li>Drizzle mayonaise  and a dash of black pepper over salad and serve.<\/li><\/ol>",
-        "summary": "Avocado Chicken Salad could be just the <b>gluten free, dairy free, and whole 30<\/b> recipe you've been looking for. For <b>$3.54 per serving<\/b>, you get a main course that serves 2. One serving contains <b>665 calories<\/b>, <b>21g of protein<\/b>, and <b>57g of fat<\/b>. 22 people were glad they tried this recipe. A mixture of pepper, salad, chicken breast, and a handful of other ingredients are all it takes to make this recipe so delicious. It is brought to you by Foodista. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. Taking all factors into account, this recipe <b>earns a spoonacular score of 90%<\/b>, which is amazing. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/avocado-chicken-salad-570223\">Avocado Chicken Salad<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/chicken-avocado-salad-525055\">Chicken Avocado Salad<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/avocado-chicken-salad-443907\">Avocado Chicken Salad<\/a>.",
-        "cuisines": [],
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/636574-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/4T7XHVTV\/buttermild-skillet-fried-chicken",
+        "instructions": "<ol><li>Clean all the chicken pieces well, remove skin if desired. Using 1 tablespoon salt and  tablespoon pepper, season the chicken well all over.<\/li><li>In a medium bowl whisk the buttermilk, egg and  cup of water.<\/li><li>In a large glass baking pan mix together: flour,1 tablespoon salt,  tablespoon pepper, paprika and cornstarch. Mix well.<\/li><li>Dip chicken in buttermilk then on flour mixture.  shaking off any excess flour.<\/li><li>In a large heavy bottom skillet heat the oil to a depth of . When oil is hot but not burning add the chicken to the skillet making sure that it is not crowding the pan. Fry chicken turning with thongs so it brown evenly. About 10 to 13 minutes.<\/li><li>When the chicken is done place on a paper plate and serve immediately.<\/li><\/ol>",
+        "summary": "You can never have too many Southern recipes, so give Buttermilk Skillet Fried Chicken a try. One portion of this dish contains roughly <b>49g of protein<\/b>, <b>43g of fat<\/b>, and a total of <b>657 calories<\/b>. For <b>$1.36 per serving<\/b>, this recipe <b>covers 26%<\/b> of your daily requirements of vitamins and minerals. This recipe serves 4. 5 people found this recipe to be yummy and satisfying. It works well as a rather cheap main course. It is brought to you by Foodista. Head to the store and pick up egg, paprika, pepper, and a few other things to make it today. From preparation to the plate, this recipe takes about <b>45 minutes<\/b>. Overall, this recipe earns a <b>good spoonacular score of 66%<\/b>. If you like this recipe, take a look at these similar recipes: <a href=\"https:\/\/spoonacular.com\/recipes\/buttermilk-skillet-fried-chicken-1350573\">Buttermilk Skillet Fried Chicken<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/buttermilk-skillet-fried-chicken-1275131\">Buttermilk Skillet Fried Chicken<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/favorite-buttermilk-skillet-fried-chicken-from-mastering-the-art-of-southern-cooking-149110\">Favorite Buttermilk Skillet-Fried Chicken from 'Mastering the Art of Southern Cooking<\/a>.",
+        "cuisines": [
+            "Southern"
+        ],
         "dishTypes": [
             "lunch",
             "main course",
@@ -17,14 +19,15 @@
             "dinner"
         ],
         "ingredients": [
-            "2 Avocados",
-            "10g Cherry tomatoes, cut to half or quarter",
-            "50ml Extra virgin olive oil",
-            "2-3 Limes or add to taste",
-            "Mayonnaise",
-            "a dash of black pepper",
-            "100g Mixed salad, roughly shredded",
-            "150-200g boneless skinless Chicken breast"
+            "2 cups buttermilk",
+            "3-4 pounds of chicken pieces : drumsticks, tights and breast",
+            "1 tablespoon cornstarch",
+            "1 Egg",
+            "1 tablespoon paprika",
+            "1 tablespoon pepper",
+            "1\/4 c. plain flour",
+            "1\/2 teaspoon salt",
+            "Vegetable oil for frying"
         ]
     }
 }
