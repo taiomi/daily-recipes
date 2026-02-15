@@ -1,30 +1,40 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-02-13",
+    "lastUpdated": "2026-02-15",
     "recipe": {
-        "title": "Easy Ginger Beef Broccoli",
+        "title": "Best Buffalo Chicken Chili",
         "readyInMinutes": 45,
-        "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/641975-556x370.jpg",
-        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/VGNCTK3S\/easy-ginger-beef-broccoli",
-        "instructions": "<ol><li>In a small bowl, combine flour, broth, sugar, and soy sauce. Stir until sugar and flour are dissolved.<\/li><li>In a large skillet or wok over high heat, cook and stir beef 2 to 4 minutes, or until browned. Stir in broth mixture, ginger, garlic, and broccoli. Bring to a boil, then reduce heat. Simmer 5 to 10 minutes, or until sauce thickens.<\/li><li>Excellent served over rice.<\/li><\/ol>",
-        "summary": "The recipe Easy Ginger Beef Broccoli can be made <b>in approximately 45 minutes<\/b>. This dairy free recipe serves 4 and costs <b>$2.14 per serving<\/b>. One portion of this dish contains about <b>49g of protein<\/b>, <b>12g of fat<\/b>, and a total of <b>386 calories<\/b>. It works well as a rather cheap main course. Head to the store and pick up sugar, chicken broth, garlic, and a few other things to make it today. 23 people found this recipe to be tasty and satisfying. It is brought to you by Foodista. All things considered, we decided this recipe <b>deserves a spoonacular score of 97%<\/b>. This score is awesome. If you like this recipe, take a look at these similar recipes: <a href=\"https:\/\/spoonacular.com\/recipes\/easy-ginger-beef-broccoli-1215371\">Easy Ginger Beef Broccoli<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/easy-ginger-beef-broccoli-1229745\">Easy Ginger Beef Broccoli<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/easy-ginger-beef-broccoli-1228803\">Easy Ginger Beef Broccoli<\/a>.",
-        "cuisines": [],
+        "servings": 10,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/634888-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/C53B32ZC\/best-buffalo-chicken-chili",
+        "instructions": "<ol><li>Put chicken breasts in food processor to grind up  if you can find ground chicken breast, you can use that too.  Heat oil and add ground chicken and cook about 10 minutes on medium heat until no longer pink.  Rinse out processor and add carrots, celery, garlic and red pepper and puree.  Add to chicken mixture and cook about 5 minutes until veggies start to soften.<\/li><li>Next add the rest of the ingredients, put stove on simmer and cook for 1 hour.<\/li><li>Nutrition Per Cup: 239 calories, 3.4 fat, 29 carbs, 7.5 fiber and 23.5 protein.<\/li><li>Good points:  low in saturated fat, high in fiber,  niacin, potassium, vitamin A, vitamin B6 and vitamin C!<\/li><\/ol>",
+        "summary": "The recipe Best Buffalo Chicken Chili can be made <b>in approximately 45 minutes<\/b>. For <b>$2.47 per serving<\/b>, you get a main course that serves 10. One portion of this dish contains approximately <b>29g of protein<\/b>, <b>7g of fat<\/b>, and a total of <b>299 calories<\/b>. It will be a hit at your <b>The Super Bowl<\/b> event. 3 people found this recipe to be flavorful and satisfying. It is brought to you by Foodista. Head to the store and pick up ground cumin, garlic, paprika, and a few other things to make it today. It is a good option if you're following a <b>gluten free and dairy free<\/b> diet. This recipe is typical of American cuisine. Overall, this recipe earns a <b>pretty good spoonacular score of 76%<\/b>. Try <a href=\"https:\/\/spoonacular.com\/recipes\/buffalo-chicken-chili-682999\">Buffalo Chicken Chili<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/buffalo-chicken-chili-619392\">Buffalo Chicken Chili<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/buffalo-chicken-chili-973015\">Buffalo Chicken Chili<\/a> for similar recipes.",
+        "cuisines": [
+            "American"
+        ],
         "dishTypes": [
             "lunch",
+            "soup",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "4 cups broccoli, chopped",
-            "1 10.5-ounce can beef or chicken broth",
-            "1\/4 cup flour",
-            "1\/4 teaspoon fresh ginger, minced",
-            "1 clove garlic, minced",
-            "1 pound boneless round steak, cut into bite size strips",
-            "2 tablespoons soy sauce",
-            "2 tablespoons sugar"
+            "1 (15 oz) black beans, drained",
+            "2 (15 oz) cans tomato sauce",
+            "2 large carrots",
+            "3 stalks celery",
+            "5 tablespoons of chili powder",
+            "1 inch (15 oz) chili beans sauce (do not drain)",
+            "4 teaspoons garlic (salt or powder)",
+            "12 tablespoons ground cumin (IMPORTANT)",
+            "1\/2 cup Frank's Hot Sauce",
+            "1 tablespoon olive oil",
+            "4 tablespoons paprika",
+            "4 teaspoons red pepper, ground",
+            "salt and pepper to taste",
+            "2 pounds boneless, skinless chicken breasts",
+            "1 (15 oz) diced tomatoes"
         ]
     }
 }
