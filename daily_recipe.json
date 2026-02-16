@@ -1,40 +1,40 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-02-15",
+    "lastUpdated": "2026-02-16",
     "recipe": {
-        "title": "Best Buffalo Chicken Chili",
+        "title": "Boeuf Bourgignon",
         "readyInMinutes": 45,
-        "servings": 10,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/634888-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/C53B32ZC\/best-buffalo-chicken-chili",
-        "instructions": "<ol><li>Put chicken breasts in food processor to grind up  if you can find ground chicken breast, you can use that too.  Heat oil and add ground chicken and cook about 10 minutes on medium heat until no longer pink.  Rinse out processor and add carrots, celery, garlic and red pepper and puree.  Add to chicken mixture and cook about 5 minutes until veggies start to soften.<\/li><li>Next add the rest of the ingredients, put stove on simmer and cook for 1 hour.<\/li><li>Nutrition Per Cup: 239 calories, 3.4 fat, 29 carbs, 7.5 fiber and 23.5 protein.<\/li><li>Good points:  low in saturated fat, high in fiber,  niacin, potassium, vitamin A, vitamin B6 and vitamin C!<\/li><\/ol>",
-        "summary": "The recipe Best Buffalo Chicken Chili can be made <b>in approximately 45 minutes<\/b>. For <b>$2.47 per serving<\/b>, you get a main course that serves 10. One portion of this dish contains approximately <b>29g of protein<\/b>, <b>7g of fat<\/b>, and a total of <b>299 calories<\/b>. It will be a hit at your <b>The Super Bowl<\/b> event. 3 people found this recipe to be flavorful and satisfying. It is brought to you by Foodista. Head to the store and pick up ground cumin, garlic, paprika, and a few other things to make it today. It is a good option if you're following a <b>gluten free and dairy free<\/b> diet. This recipe is typical of American cuisine. Overall, this recipe earns a <b>pretty good spoonacular score of 76%<\/b>. Try <a href=\"https:\/\/spoonacular.com\/recipes\/buffalo-chicken-chili-682999\">Buffalo Chicken Chili<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/buffalo-chicken-chili-619392\">Buffalo Chicken Chili<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/buffalo-chicken-chili-973015\">Buffalo Chicken Chili<\/a> for similar recipes.",
-        "cuisines": [
-            "American"
-        ],
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/635574-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/CHYFGP78\/boeuf-bourgignon",
+        "instructions": "Preheat oven to 160 C (325 F).\nIn a pan saut the mushrooms in butter till brown and soft. Keep aside.\nIn a deep-bottomed pot\/cesserole, saut the bacon in 1 tbsp oil over moderate heat for 2 to 3 minutes to brown lightly. Remove to a side dish with a slotted spoon. Reheat the pan until fat is almost smoking before you saut the beef. Saut the beef in the bacon fat in batches making sure not to crowd the pieces (the pieces need to brown on all sides, not sweat). Add the browned pieces of beef to the bacon. Lower the heat to medium. In the same fat, add the onions, shallots and carrots. Cook till the carrots soften. Add the cooked veggies to the beef and bacon. Pour out the sauting fat.\nReturn beef to the casserole. Then sprinkle on the flour and toss to coat the beef lightly with the flour. Stir everything around till the flour is cooked and no white traces of it remain. Add the bacon and veggies and season with salt and pepper.  Stir in the cognac and enough stock so that the meat is barely covered. Add the garlic, thyme, parsley, tomato paste and bay leaf. Bring to simmer on top of the stove. Cover the casserole and set it in the oven. Cook for 2 1\/2 to 3 hours. About 1 hour into the cooking add the mushrooms and stir in the cocoa powder. Return to the oven. The stew is done when the meat is fork-soft.",
+        "summary": "Boeuf Bourgignon takes around <b>45 minutes<\/b> from beginning to end. For <b>$8.41 per serving<\/b>, you get a main course that serves 4. One portion of this dish contains approximately <b>76g of protein<\/b>, <b>54g of fat<\/b>, and a total of <b>980 calories<\/b>. This recipe is liked by 2 foodies and cooks. If you have beef stock, flour, thyme, and a few other ingredients on hand, you can make it. It is brought to you by Foodista. Overall, this recipe earns a <b>solid spoonacular score of 78%<\/b>. <a href=\"https:\/\/spoonacular.com\/recipes\/boeuf-bourgignon-1281399\">Boeuf Bourgignon<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/slow-cooker-boeuf-bourgignon-1385095\">Slow Cooker Boeuf Bourgignon<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/slow-cooker-boeuf-bourgignon-1374607\">Slow Cooker Boeuf Bourgignon<\/a> are very similar to this recipe.",
+        "cuisines": [],
         "dishTypes": [
             "lunch",
-            "soup",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "1 (15 oz) black beans, drained",
-            "2 (15 oz) cans tomato sauce",
-            "2 large carrots",
-            "3 stalks celery",
-            "5 tablespoons of chili powder",
-            "1 inch (15 oz) chili beans sauce (do not drain)",
-            "4 teaspoons garlic (salt or powder)",
-            "12 tablespoons ground cumin (IMPORTANT)",
-            "1\/2 cup Frank's Hot Sauce",
-            "1 tablespoon olive oil",
-            "4 tablespoons paprika",
-            "4 teaspoons red pepper, ground",
-            "salt and pepper to taste",
-            "2 pounds boneless, skinless chicken breasts",
-            "1 (15 oz) diced tomatoes"
+            "1 pound button mushrooms, quartered",
+            "2 tbsp butter",
+            "2 strips of un-smoked bacon, chopped",
+            "1 tbsp olive oil or vegetable oil",
+            "3 pounds well-trimmed boneless beef chuck, cut into 2\u2033 cubes",
+            "1 medium yellow onion, finely chopped",
+            "2 medium shallots, finely chopped",
+            "2 medium carrots, sliced",
+            "Salt and freshly ground black pepper, to taste",
+            "1 tbsp flour (see head note)",
+            "1 cup cognac, (see head note)",
+            "3 cups beef stock (see head note)",
+            "2 tbsp unsweetened cocoa powder",
+            "2 garlic cloves, minced",
+            "2 teaspoons fresh thyme",
+            "1\/4 cup fresh flat-leaf parsley leaves, roughly chopped",
+            "1 tbsp tomato paste",
+            "1 bay leaf"
         ]
     }
 }
