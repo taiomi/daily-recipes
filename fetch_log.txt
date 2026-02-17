@@ -1358,3 +1358,7 @@
 [2026-02-16 03:40:19] Fetching recipe with day of year: 47
 [2026-02-16 03:40:20] Successfully fetched and saved recipe: Boeuf Bourgignon
 [2026-02-16 03:40:20] Recipe fetch process completed
+[2026-02-17 03:34:49] Starting recipe fetch process
+[2026-02-17 03:34:49] Fetching recipe with day of year: 48
+[2026-02-17 03:34:50] ERROR: Failed to get API response
+[2026-02-17 03:34:50] Recipe fetch process completed
