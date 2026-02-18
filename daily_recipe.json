@@ -1,14 +1,14 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-02-16",
+    "lastUpdated": "2026-02-18",
     "recipe": {
-        "title": "Boeuf Bourgignon",
+        "title": "Marinated Flat Iron Steak",
         "readyInMinutes": 45,
         "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/635574-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/CHYFGP78\/boeuf-bourgignon",
-        "instructions": "Preheat oven to 160 C (325 F).\nIn a pan saut the mushrooms in butter till brown and soft. Keep aside.\nIn a deep-bottomed pot\/cesserole, saut the bacon in 1 tbsp oil over moderate heat for 2 to 3 minutes to brown lightly. Remove to a side dish with a slotted spoon. Reheat the pan until fat is almost smoking before you saut the beef. Saut the beef in the bacon fat in batches making sure not to crowd the pieces (the pieces need to brown on all sides, not sweat). Add the browned pieces of beef to the bacon. Lower the heat to medium. In the same fat, add the onions, shallots and carrots. Cook till the carrots soften. Add the cooked veggies to the beef and bacon. Pour out the sauting fat.\nReturn beef to the casserole. Then sprinkle on the flour and toss to coat the beef lightly with the flour. Stir everything around till the flour is cooked and no white traces of it remain. Add the bacon and veggies and season with salt and pepper.  Stir in the cognac and enough stock so that the meat is barely covered. Add the garlic, thyme, parsley, tomato paste and bay leaf. Bring to simmer on top of the stove. Cover the casserole and set it in the oven. Cook for 2 1\/2 to 3 hours. About 1 hour into the cooking add the mushrooms and stir in the cocoa powder. Return to the oven. The stew is done when the meat is fork-soft.",
-        "summary": "Boeuf Bourgignon takes around <b>45 minutes<\/b> from beginning to end. For <b>$8.41 per serving<\/b>, you get a main course that serves 4. One portion of this dish contains approximately <b>76g of protein<\/b>, <b>54g of fat<\/b>, and a total of <b>980 calories<\/b>. This recipe is liked by 2 foodies and cooks. If you have beef stock, flour, thyme, and a few other ingredients on hand, you can make it. It is brought to you by Foodista. Overall, this recipe earns a <b>solid spoonacular score of 78%<\/b>. <a href=\"https:\/\/spoonacular.com\/recipes\/boeuf-bourgignon-1281399\">Boeuf Bourgignon<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/slow-cooker-boeuf-bourgignon-1385095\">Slow Cooker Boeuf Bourgignon<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/slow-cooker-boeuf-bourgignon-1374607\">Slow Cooker Boeuf Bourgignon<\/a> are very similar to this recipe.",
+        "image": "https:\/\/img.spoonacular.com\/recipes\/651034-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/JL7Y23HM\/marinated-flat-iron-steak",
+        "instructions": "<ol><li>Cut the flat iron steak lengthwise to form two equal strips.<\/li><li>Place all the above ingredients in a large baking pan, or Ziploc bag.<\/li><li>Add the meat to it and place in the refrigerator for an hour or more.<\/li><li>Start the BBQ . When temperature reaches high, add the steaks. Cover and cook for 3 minutes.<\/li><li>Turn the steaks and cook the other side for another 3 minutes, or to required doneness.<\/li><\/ol>",
+        "summary": "The recipe Marinated Flat Iron Steak can be made <b>in approximately 45 minutes<\/b>. For <b>$4.09 per serving<\/b>, this recipe <b>covers 33%<\/b> of your daily requirements of vitamins and minerals. This recipe makes 4 servings with <b>505 calories<\/b>, <b>44g of protein<\/b>, and <b>32g of fat<\/b> each. <b>valentin day<\/b> will be even more special with this recipe. 5 people found this recipe to be delicious and satisfying. It works well as a main course. It is brought to you by Foodista. If you have herbs: rosemary, garlic cloves, olive oil, and a few other ingredients on hand, you can make it. It is a good option if you're following a <b>gluten free, dairy free, whole 30, and ketogenic<\/b> diet. All things considered, we decided this recipe <b>deserves a spoonacular score of 80%<\/b>. This score is solid. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/szechwan-marinated-flat-iron-steak-407967\">Szechwan-Marinated Flat Iron Steak<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/lemon-and-garlic-marinated-flat-iron-steak-311161\">Lemon-and-Garlic-Marinated Flat Iron Steak<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/orange-jalapeno-marinated-grilled-flat-iron-steak-481801\">Orange & Jalapeno Marinated Grilled Flat Iron Steak<\/a>.",
         "cuisines": [],
         "dishTypes": [
             "lunch",
@@ -17,24 +17,17 @@
             "dinner"
         ],
         "ingredients": [
-            "1 pound button mushrooms, quartered",
-            "2 tbsp butter",
-            "2 strips of un-smoked bacon, chopped",
-            "1 tbsp olive oil or vegetable oil",
-            "3 pounds well-trimmed boneless beef chuck, cut into 2\u2033 cubes",
-            "1 medium yellow onion, finely chopped",
-            "2 medium shallots, finely chopped",
-            "2 medium carrots, sliced",
-            "Salt and freshly ground black pepper, to taste",
-            "1 tbsp flour (see head note)",
-            "1 cup cognac, (see head note)",
-            "3 cups beef stock (see head note)",
-            "2 tbsp unsweetened cocoa powder",
-            "2 garlic cloves, minced",
-            "2 teaspoons fresh thyme",
-            "1\/4 cup fresh flat-leaf parsley leaves, roughly chopped",
-            "1 tbsp tomato paste",
-            "1 bay leaf"
+            "3 tablespoons Balsamic vinegar",
+            "1 tablespoon Dijon mustard",
+            "1 2 lb Flat Iron Steak",
+            "2 garlic cloves chopped",
+            "Grated Ginger",
+            "Fresh herbs: rosemary, sage, marjoram, thyme, chives ( anything in hand)",
+            "Grated zest of 1 lemon",
+            "2 lemons juiced",
+            "1 tablespoon mayonnaise",
+            "1\/2 cup Olive oil",
+            "to taste salt and pepper"
         ]
     }
 }
