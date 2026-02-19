@@ -1,33 +1,35 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-02-18",
+    "lastUpdated": "2026-02-19",
     "recipe": {
-        "title": "Marinated Flat Iron Steak",
+        "title": "Warm Goat Cheese Salad",
         "readyInMinutes": 45,
-        "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/651034-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/JL7Y23HM\/marinated-flat-iron-steak",
-        "instructions": "<ol><li>Cut the flat iron steak lengthwise to form two equal strips.<\/li><li>Place all the above ingredients in a large baking pan, or Ziploc bag.<\/li><li>Add the meat to it and place in the refrigerator for an hour or more.<\/li><li>Start the BBQ . When temperature reaches high, add the steaks. Cover and cook for 3 minutes.<\/li><li>Turn the steaks and cook the other side for another 3 minutes, or to required doneness.<\/li><\/ol>",
-        "summary": "The recipe Marinated Flat Iron Steak can be made <b>in approximately 45 minutes<\/b>. For <b>$4.09 per serving<\/b>, this recipe <b>covers 33%<\/b> of your daily requirements of vitamins and minerals. This recipe makes 4 servings with <b>505 calories<\/b>, <b>44g of protein<\/b>, and <b>32g of fat<\/b> each. <b>valentin day<\/b> will be even more special with this recipe. 5 people found this recipe to be delicious and satisfying. It works well as a main course. It is brought to you by Foodista. If you have herbs: rosemary, garlic cloves, olive oil, and a few other ingredients on hand, you can make it. It is a good option if you're following a <b>gluten free, dairy free, whole 30, and ketogenic<\/b> diet. All things considered, we decided this recipe <b>deserves a spoonacular score of 80%<\/b>. This score is solid. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/szechwan-marinated-flat-iron-steak-407967\">Szechwan-Marinated Flat Iron Steak<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/lemon-and-garlic-marinated-flat-iron-steak-311161\">Lemon-and-Garlic-Marinated Flat Iron Steak<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/orange-jalapeno-marinated-grilled-flat-iron-steak-481801\">Orange & Jalapeno Marinated Grilled Flat Iron Steak<\/a>.",
+        "servings": 2,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/664961-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/78R2D43F\/warm-goat-cheese-salad",
+        "instructions": "<ol><li>Whisk together 3 tablespoons of walnut oil with lemon juice, minced shallot, salt and pepper to make a vinaigrette. Coat each goat cheese round with walnut oil and then the bread crumbs, patting the crumbs to adhere.<\/li><li>Combine the greens and the walnuts in a large bowl. Add in enough of the vinaigrette and toss well. Adjust the seasoning and divide among two serving plates.<\/li><li>Heat a nonstick skillet over medium heat. Add in olive oil. When the oil is hot, add the goat cheese rounds. Cook until nicely browned, about 30 seconds. Turn and cook the other side. Do not allow it to burn or melt. Transfer the goat cheese to the plates, placing 2 or 3 atop each salad. Sprinkle the cheese with freshly ground pepper and garnish with grape wedges.<\/li><\/ol>",
+        "summary": "If you want to add more <b>lacto ovo vegetarian<\/b> recipes to your recipe box, Warm Goat Cheese Salad might be a recipe you should try. This recipe serves 2 and costs $3.06 per serving. One serving contains <b>481 calories<\/b>, <b>14g of protein<\/b>, and <b>42g of fat<\/b>. 2 people were glad they tried this recipe. It is brought to you by Foodista. A mixture of olive oil, shallot, lemon juice, and a handful of other ingredients are all it takes to make this recipe so flavorful. Not a lot of people really liked this main course. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. Overall, this recipe earns a <b>pretty good spoonacular score of 75%<\/b>. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/warm-goats-cheese-salad-1091197\">Warm Goat's Cheese Salad<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/salad-with-warm-goat-cheese-377474\">Salad with Warm Goat Cheese<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/warm-goat-cheese-salad-100001\">Warm Goat Cheese Salad<\/a>.",
         "cuisines": [],
         "dishTypes": [
+            "side dish",
             "lunch",
             "main course",
+            "salad",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "3 tablespoons Balsamic vinegar",
-            "1 tablespoon Dijon mustard",
-            "1 2 lb Flat Iron Steak",
-            "2 garlic cloves chopped",
-            "Grated Ginger",
-            "Fresh herbs: rosemary, sage, marjoram, thyme, chives ( anything in hand)",
-            "Grated zest of 1 lemon",
-            "2 lemons juiced",
-            "1 tablespoon mayonnaise",
-            "1\/2 cup Olive oil",
-            "to taste salt and pepper"
+            "Some bread crumbs",
+            "100 grams \/ 5 rounds Fresh goat cheese",
+            "5 Grapes, cut into wedges",
+            "2 tablespoons freshly squeezed lemon juice",
+            "2 tablespoons olive oil",
+            "Freshly ground pepper to taste",
+            "60 grams Salad greens",
+            "Salt and pepper",
+            "1 Shallot, finely minced",
+            "1 tablespoon Walnut oil",
+            "30 grams Walnuts, toasted and coarsely chopped"
         ]
     }
 }
