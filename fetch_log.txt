@@ -1370,3 +1370,7 @@
 [2026-02-19 03:35:42] Fetching recipe with day of year: 50
 [2026-02-19 03:35:43] Successfully fetched and saved recipe: Warm Goat Cheese Salad
 [2026-02-19 03:35:43] Recipe fetch process completed
+[2026-02-20 03:31:37] Starting recipe fetch process
+[2026-02-20 03:31:37] Fetching recipe with day of year: 51
+[2026-02-20 03:31:37] ERROR: Failed to get API response
+[2026-02-20 03:31:37] Recipe fetch process completed
