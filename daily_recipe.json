@@ -1,28 +1,36 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-02-21",
+    "lastUpdated": "2026-02-22",
     "recipe": {
-        "title": "Knishes - Potato Filling",
-        "readyInMinutes": 45,
+        "title": "Greek Inspired Spring Omelet",
+        "readyInMinutes": 20,
         "servings": 1,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/648983-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/TF2CGZY3\/knishes-potato-filling",
-        "instructions": "<ol><li>Brown the onions in the fat or butter. Beat in the potatoes, egg, salt and pepper until fluffy. Place on dough.<\/li><\/ol>",
-        "summary": "Knishes - Potato Filling might be a good recipe to expand your main course collection. This recipe makes 1 servings with <b>1143 calories<\/b>, <b>16g of protein<\/b>, and <b>81g of fat<\/b> each. For <b>$2.65 per serving<\/b>, this recipe <b>covers 29%<\/b> of your daily requirements of vitamins and minerals. 2 people have made this recipe and would make it again. It is a good option if you're following a <b>gluten free, dairy free, and whole 30<\/b> diet. It is brought to you by Foodista. Head to the store and pick up chicken fat, salt, potatoes, and a few other things to make it today. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. Taking all factors into account, this recipe <b>earns a spoonacular score of 66%<\/b>, which is solid. Try <a href=\"https:\/\/spoonacular.com\/recipes\/knishes-potato-filling-1374257\">Knishes - Potato Filling<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/potato-knishes-757488\">Potato Knishes<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/savory-potato-rolls-a-k-a-potato-knishes-the-easy-way-135882\">Savory Potato Rolls (A\/K\/A Potato Knishes the Easy Way)<\/a> for similar recipes.",
-        "cuisines": [],
+        "image": "https:\/\/img.spoonacular.com\/recipes\/645315-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/NCS56WWG\/greek-inspired-spring-omelet",
+        "instructions": "<ol><li>In a medium skillet saute asparagus until tender, about 7 minutes. Set aside.<\/li><li>In a small bowl combine egg whites and tzatziki; stir to combine.<\/li><li>Spray non stick skillet with cooking spray and bring to medium heat. Pour in egg white and allow it to spread over the skillet surface. Cook until egg turns white; about 2 minutes.<\/li><li>Slide omelette onto a plate and place asparagus, tomatoes, green onions and feta in the middle. Fold the omelette into thirds to cover the fillings.<\/li><li>Serve hot with additional tzatziki. Salt and pepper to taste.<\/li><\/ol>",
+        "summary": "You can never have too many Mediterranean recipes, so give Greek Inspired Spring Omelet a try. This main course has <b>133 calories<\/b>, <b>14g of protein<\/b>, and <b>6g of fat<\/b> per serving. This gluten free, lacto ovo vegetarian, and primal recipe serves 1 and costs <b>$2.2 per serving<\/b>. It can be enjoyed any time, but it is especially good for <b>Spring<\/b>. 2 people were glad they tried this recipe. From preparation to the plate, this recipe takes around <b>20 minutes<\/b>. A mixture of tzatziki, egg whites, feta cheese, and a handful of other ingredients are all it takes to make this recipe so tasty. It is brought to you by Foodista. All things considered, we decided this recipe <b>deserves a spoonacular score of 62%<\/b>. This score is solid. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/greek-inspired-spring-omelet-1226283\">Greek Inspired Spring Omelet<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/greek-inspired-spring-omelet-1421147\">Greek Inspired Spring Omelet<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/spring-inspired-spelt-crust-pizzas-881148\">spring-inspired spelt crust pizzas<\/a>.",
+        "cuisines": [
+            "Mediterranean",
+            "European",
+            "Greek"
+        ],
         "dishTypes": [
             "lunch",
             "main course",
+            "morning meal",
+            "brunch",
             "main dish",
+            "breakfast",
             "dinner"
         ],
         "ingredients": [
-            "6 tablespoons Chicken fat or butter",
-            "1 Egg",
-            "1 cup Chopped onions",
-            "1\/4 teaspoon pepper",
-            "2 cups Mashed potatoes",
-            "6 tablespoons Salt"
+            "3 Asparagus spears",
+            "1\/3 cup egg whites",
+            "1 Tbsp. Feta cheese, crumbled",
+            "green onions, diced",
+            "salt and pepper to taste",
+            "1 Tbsp. tzatziki",
+            "4 cherry tomatoes (red, yellow or a mix), diced"
         ]
     }
 }
