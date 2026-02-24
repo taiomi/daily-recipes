@@ -1,36 +1,38 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-02-22",
+    "lastUpdated": "2026-02-24",
     "recipe": {
-        "title": "Greek Inspired Spring Omelet",
-        "readyInMinutes": 20,
-        "servings": 1,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/645315-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/NCS56WWG\/greek-inspired-spring-omelet",
-        "instructions": "<ol><li>In a medium skillet saute asparagus until tender, about 7 minutes. Set aside.<\/li><li>In a small bowl combine egg whites and tzatziki; stir to combine.<\/li><li>Spray non stick skillet with cooking spray and bring to medium heat. Pour in egg white and allow it to spread over the skillet surface. Cook until egg turns white; about 2 minutes.<\/li><li>Slide omelette onto a plate and place asparagus, tomatoes, green onions and feta in the middle. Fold the omelette into thirds to cover the fillings.<\/li><li>Serve hot with additional tzatziki. Salt and pepper to taste.<\/li><\/ol>",
-        "summary": "You can never have too many Mediterranean recipes, so give Greek Inspired Spring Omelet a try. This main course has <b>133 calories<\/b>, <b>14g of protein<\/b>, and <b>6g of fat<\/b> per serving. This gluten free, lacto ovo vegetarian, and primal recipe serves 1 and costs <b>$2.2 per serving<\/b>. It can be enjoyed any time, but it is especially good for <b>Spring<\/b>. 2 people were glad they tried this recipe. From preparation to the plate, this recipe takes around <b>20 minutes<\/b>. A mixture of tzatziki, egg whites, feta cheese, and a handful of other ingredients are all it takes to make this recipe so tasty. It is brought to you by Foodista. All things considered, we decided this recipe <b>deserves a spoonacular score of 62%<\/b>. This score is solid. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/greek-inspired-spring-omelet-1226283\">Greek Inspired Spring Omelet<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/greek-inspired-spring-omelet-1421147\">Greek Inspired Spring Omelet<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/spring-inspired-spelt-crust-pizzas-881148\">spring-inspired spelt crust pizzas<\/a>.",
-        "cuisines": [
-            "Mediterranean",
-            "European",
-            "Greek"
-        ],
+        "title": "Braised Pork: Filipino Humba",
+        "readyInMinutes": 45,
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/635856-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/43GDRPKX\/braised-pork-filipino-humba",
+        "instructions": "In a bowl, combine these ingredients:meat,garlic,vinegar,brown sugar,soy sauce and rice wine.Marinate for about 30 minutes.Set aside in the fridge.\nAfter 30 minutes, transfer to a sauce pan and add: water,black beans and peanuts.\nCover and bring to a boil, once its boils, turn the heat to a simmering mode and add the rest of the ingredients: bay leaf,star anise,oregano,paprika and olive oil.\nCover and simmer for 1 hour or until the sauce thickens.\nYou can add fried bananas five minutes before turning off the heat or serve it separately.",
+        "summary": "You can never have too many main course recipes, so give Braised Pork: Filipino Humban a try. This recipe makes 4 servings with <b>476 calories<\/b>, <b>17g of protein<\/b>, and <b>25g of fat<\/b> each. For <b>$1.6 per serving<\/b>, this recipe <b>covers 19%<\/b> of your daily requirements of vitamins and minerals. 7 people have made this recipe and would make it again. A mixture of pork belly, pork butt shoulder, water, and a handful of other ingredients are all it takes to make this recipe so flavorful. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. It is a good option if you're following a <b>dairy free<\/b> diet. It is brought to you by Foodista. All things considered, we decided this recipe <b>deserves a spoonacular score of 60%<\/b>. This score is solid. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/humba-filipino-braised-pork-with-black-beans-1180977\">Humba (Filipino Braised Pork with Black Beans)<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/filipino-style-braised-chicken-with-cranberry-adobo-sauce-496992\">Filipino-style Braised Chicken with Cranberry Adobo Sauce<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/pork-patatim-filipino-chinese-stewed-pork-leg-knuckles-1240149\">Pork Patatim (Filipino-Chinese Stewed Pork Leg\/Knuckles)<\/a>.",
+        "cuisines": [],
         "dishTypes": [
             "lunch",
             "main course",
-            "morning meal",
-            "brunch",
             "main dish",
-            "breakfast",
             "dinner"
         ],
         "ingredients": [
-            "3 Asparagus spears",
-            "1\/3 cup egg whites",
-            "1 Tbsp. Feta cheese, crumbled",
-            "green onions, diced",
-            "salt and pepper to taste",
-            "1 Tbsp. tzatziki",
-            "4 cherry tomatoes (red, yellow or a mix), diced"
+            "1\/2 gram kg or 500 pork belly cut into large cubes",
+            "1\/2 gram kg or 500 pork butt shoulder cut into large cubes",
+            "1 whole head garlic crushed",
+            "1\/2 cup vinegar",
+            "4 tablespoons brown sugar",
+            "4 tablespoons soy sauce",
+            "2 pieces bay leaf",
+            "1 tablespoon rice wine",
+            "2 pieces star anise",
+            "1\/2 teaspoon oregano",
+            "3 tablespoons tausi or fermented black beans",
+            "1 cup whole peanuts",
+            "1\/2 cup olive oil",
+            "1\/2 teaspoon paprika",
+            "2 cups water",
+            "some Fried Bananas"
         ]
     }
 }
