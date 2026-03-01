@@ -1406,3 +1406,7 @@
 [2026-02-28 03:08:46] Fetching recipe with day of year: 59
 [2026-02-28 03:08:47] Successfully fetched and saved recipe: Pasta with Peas and Italian Sausage
 [2026-02-28 03:08:47] Recipe fetch process completed
+[2026-03-01 03:40:16] Starting recipe fetch process
+[2026-03-01 03:40:16] Fetching recipe with day of year: 60
+[2026-03-01 03:40:16] ERROR: Failed to get API response
+[2026-03-01 03:40:16] Recipe fetch process completed
