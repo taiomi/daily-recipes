@@ -1,37 +1,32 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-03-06",
+    "lastUpdated": "2026-03-08",
     "recipe": {
-        "title": "Julia Child's Boeuf Bourguignon",
-        "readyInMinutes": 180,
-        "servings": 8,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/648636-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/7HGJ2KZ3\/julia-child-s-boeuf-bourguignon",
-        "instructions": "<ol><li>Blanch the bacon to remove its smoky taste. Drop bacon slices into 2 quarts of cold water, bring to a boil, and simmer 6 to 8 minutes. Drain, rinse in cold water, and dry on paper towels.<\/li><li>In a large frying pan, saut the blanched bacon to brown slightly in a little oil; set them aside and add later to simmer with the beef, using the rendered fat in browning. Brown the chunks of beef on all sides in the bacon fat and olive oil, season with salt and pepper, and put them into a heavy-bottomed Dutch oven or covered casserole pan. Cut the bacon into 1-inch pieces and add to the pan.<\/li><li>Remove all but a little fat from the frying pan, add the sliced vegetables and brown them, and add to the meat. Deglaze the pan with wine, pouring it into the casserole along with enough stock to almost cover the meat. Stir in the tomatoes and add the herb bouquet. Bring to a simmer, cover, and simmer slowly on the lowest heat possible, either on the stove or in a preheated 325F oven, until the meat is tender, about 1 to 2 hours.<\/li><li>While the stew is cooking, prepare the onions. Blanch the onions in boiling water for 1 minute. Drain and rinse in cold water to stop the cooking. Slice the end tips off of the onions, peel the onions and score the root end with 1\/4 inch cuts. Saut onions in a single layer in a tablespoon or two of butter until lightly browned. Add chicken stock or water half way up the sides of the onions. Add a teaspoon of sugar, and season with salt and pepper. Cover and simmer slowly for 25 minutes or until tender. The onions should absorb most of the water. If there is water remaining after cooking, drain the excess. Set aside.<\/li><li>Prepare the mushrooms a few minutes before serving the stew. Saut quartered mushrooms in a few tablespoons of butter and olive oil until browned and cooked through.<\/li><li>When the stew meat has cooked sufficiently, remove all solids from the sauce (except the beef) by draining through a colander set over a saucepan. Return the beef to the casserole. Press juices out of the residue into the cooking liquid, then remove any visible fat and boil down the liquid to 3 cups. Off heat, whisk in the beurre mani, then simmer for 2 minutes as the sauce thickens lightly. Correct seasoning and pour over the meat, folding in the onions and mushrooms. To serve, bring to a simmer, basting meat and vegetables with the sauce for several minutes until hot throughout.<\/li><\/ol>",
-        "summary": "Julia Child's Boeuf Bourguignon requires roughly <b>3 hours<\/b> from start to finish. This recipe makes 8 servings with <b>746 calories<\/b>, <b>61g of protein<\/b>, and <b>28g of fat<\/b> each. For <b>$5.57 per serving<\/b>, this recipe <b>covers 49%<\/b> of your daily requirements of vitamins and minerals. 2 people found this recipe to be tasty and satisfying. This recipe from Foodista requires beef broth, pearl onions, tomatoes, and butter. Only a few people really liked this main course. All things considered, we decided this recipe <b>deserves a spoonacular score of 76%<\/b>. This score is good. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/julia-childs-beef-bourguignon-1202451\">Julia Child's Beef Bourguignon<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/julia-childs-beef-bourguignon-667136\">Julia Child's Beef Bourguignon<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/beef-bourguignon-my-birthday-with-julia-child-and-manpans-giveaway-522924\">Beef Bourguignon, My Birthday with Julia Child and @ManPans Giveaway<\/a>.",
+        "title": "Spaghetti With Pesto Trapanese",
+        "readyInMinutes": 45,
+        "servings": 6,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/660835-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/VWV2WXBJ\/spaghetti-with-pesto-trapanese",
+        "instructions": "Place a large (this is key) pot of water to boil. Salt when it boils, not before.\nMeanwhile, make the pesto: In a mortar (or use a food processor with a blade) pound together the oil, almonds and pine-nuts. Add the garlic, 2 ice cubes and the rest of the ingredients, pounding quickly to make a paste.You want to leave a bit of a texture for crunch.\nCook the pasta al dente, as per directions, drain and reserve some of the boiling water. Toss the pasta with the pesto, using some of the reserved water to make it creamier. Grate some fresh pecorino or ricotta salata (or both) over and serve hot with a leaf of basil to garnish.",
+        "summary": "Spaghetti With Pesto Trapanese is a <b>lacto ovo vegetarian<\/b> recipe with 6 servings. For <b>$1.46 per serving<\/b>, this recipe <b>covers 19%<\/b> of your daily requirements of vitamins and minerals. One serving contains <b>433 calories<\/b>, <b>14g of protein<\/b>, and <b>15g of fat<\/b>. Not a lot of people made this recipe, and 4 would say it hit the spot. Head to the store and pick up spaghetti, almonds, pine nuts, and a few other things to make it today. It works best as a main course, and is done in around <b>45 minutes<\/b>. It is brought to you by Foodista. All things considered, we decided this recipe <b>deserves a spoonacular score of 86%<\/b>. This score is tremendous. Try <a href=\"https:\/\/spoonacular.com\/recipes\/spaghetti-with-pesto-trapanese-530919\">Spaghetti with Pesto Trapanese<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/pasta-con-il-pesto-alla-trapanese-tomato-and-almond-pesto-1219115\">Pasta con il pesto alla Trapanese (Tomato and almond pesto)<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/pasta-con-il-pesto-alla-trapanese-tomato-and-almond-pesto-218612\">Pasta con il pesto alla Trapanese (Tomato and almond pesto)<\/a> for similar recipes.",
         "cuisines": [],
         "dishTypes": [
+            "side dish",
             "lunch",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "6 oz bacon",
-            "4 lbs trimmed beef chuck",
-            "1 medium bouquet garnic",
-            "2 Tbsp butter",
-            "2 cups beef stock or canned beef broth",
-            "1 cup sliced carrots",
-            "2 cups chicken stock",
-            "1 1\/2 pounds of button or cremini mushrooms, quartered",
-            "3 Tbsp flour",
-            "2 to 3 Tbsp olive oil",
-            "2 cups sliced onions",
-            "20 pearl onions, peeled, or 1 large yellow onion, sliced",
-            "2 cups red wine (pinot noir, burgundy, or zinfandel)",
-            "Salt and pepper to taste",
-            "1 cup chopped tomatoes, fresh or canned"
+            "1 pound spaghetti",
+            "1\/2 cup (80 gr) almonds (if you can get the Sicilian ones from Noto they are wonderful)",
+            "1\/4 cup (30 gr) pine nuts",
+            "1\/2 cup (100 gr) extra virgin olive oil",
+            "3 garlic cloves",
+            "2 tomatoes, peeled and seeded",
+            "2 1\/2 cups (60 gr) basil",
+            "Salt and pepper as needed",
+            "Ricotta salata or pecorino, to be grated fresh over the past"
         ]
     }
 }
