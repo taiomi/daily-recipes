@@ -1,32 +1,37 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-03-08",
+    "lastUpdated": "2026-03-09",
     "recipe": {
-        "title": "Spaghetti With Pesto Trapanese",
+        "title": "Moroccan Chicken Tagine",
         "readyInMinutes": 45,
         "servings": 6,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/660835-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/VWV2WXBJ\/spaghetti-with-pesto-trapanese",
-        "instructions": "Place a large (this is key) pot of water to boil. Salt when it boils, not before.\nMeanwhile, make the pesto: In a mortar (or use a food processor with a blade) pound together the oil, almonds and pine-nuts. Add the garlic, 2 ice cubes and the rest of the ingredients, pounding quickly to make a paste.You want to leave a bit of a texture for crunch.\nCook the pasta al dente, as per directions, drain and reserve some of the boiling water. Toss the pasta with the pesto, using some of the reserved water to make it creamier. Grate some fresh pecorino or ricotta salata (or both) over and serve hot with a leaf of basil to garnish.",
-        "summary": "Spaghetti With Pesto Trapanese is a <b>lacto ovo vegetarian<\/b> recipe with 6 servings. For <b>$1.46 per serving<\/b>, this recipe <b>covers 19%<\/b> of your daily requirements of vitamins and minerals. One serving contains <b>433 calories<\/b>, <b>14g of protein<\/b>, and <b>15g of fat<\/b>. Not a lot of people made this recipe, and 4 would say it hit the spot. Head to the store and pick up spaghetti, almonds, pine nuts, and a few other things to make it today. It works best as a main course, and is done in around <b>45 minutes<\/b>. It is brought to you by Foodista. All things considered, we decided this recipe <b>deserves a spoonacular score of 86%<\/b>. This score is tremendous. Try <a href=\"https:\/\/spoonacular.com\/recipes\/spaghetti-with-pesto-trapanese-530919\">Spaghetti with Pesto Trapanese<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/pasta-con-il-pesto-alla-trapanese-tomato-and-almond-pesto-1219115\">Pasta con il pesto alla Trapanese (Tomato and almond pesto)<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/pasta-con-il-pesto-alla-trapanese-tomato-and-almond-pesto-218612\">Pasta con il pesto alla Trapanese (Tomato and almond pesto)<\/a> for similar recipes.",
+        "image": "https:\/\/img.spoonacular.com\/recipes\/652421-556x370.jpg",
+        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/V36XNVKB\/moroccan-chicken-tagine",
+        "instructions": "<ol><li>In a pie plate, combine the flour and Moroccan spice mixture. Add chicken pieces and toss to coat.<\/li><li>Heat oil in your pressure cooker over medium-high heat. Once hot, add the chicken pieces and allow to brown for one minute per side. Remove chicken from pressure cooker and set aside.<\/li><li>Reduce heat to medium and add ginger and onions. Saute for three minutes, until onions are semi-translucent. Add garlic and cook for another minute.<\/li><li>Add the apricots, whole tomatoes, chicken broth or stock, and browned chicken pieces to the pot.<\/li><li>Cover, and bring to low pressure over medium-high heat. Once you have reached pressure, cook for eight minutes then remove from heat and release the pressure using the quick release method (open the steam valve).<\/li><li>Stir in the chick peas, almonds, and honey and let them warm for a few minutes.<\/li><li>Check your chicken for done-ness and taste the tagine. Adjust salt and pepper as needed. Serve over couscous and garnish with cilantro leaves.<\/li><li>*If using a Dutch Oven instead, follow steps 1-4 as described, then bring the mixture to a boil, reduce to a simmer, and cook for 20-25 minutes or until apricots are tender. Continue with step 6.<\/li><\/ol>",
+        "summary": "Moroccan Chicken Tagine is a main course that serves 6. One serving contains <b>224 calories<\/b>, <b>14g of protein<\/b>, and <b>6g of fat<\/b>. For <b>$1.49 per serving<\/b>, this recipe <b>covers 19%<\/b> of your daily requirements of vitamins and minerals. 6 people found this recipe to be scrumptious and satisfying. It is brought to you by Foodista. A mixture of flour, almond slivers, canned tomatoes, and a handful of other ingredients are all it takes to make this recipe so tasty. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. It is a good option if you're following a <b>dairy free<\/b> diet. Taking all factors into account, this recipe <b>earns a spoonacular score of 74%<\/b>, which is pretty good. Similar recipes include <a href=\"https:\/\/spoonacular.com\/recipes\/moroccan-chicken-tagine-264133\">Moroccan Chicken Tagine<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/moroccan-chicken-tagine-124767\">Moroccan Chicken Tagine<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/moroccan-chicken-tagine-100347\">Moroccan Chicken Tagine<\/a>.",
         "cuisines": [],
         "dishTypes": [
-            "side dish",
             "lunch",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "1 pound spaghetti",
-            "1\/2 cup (80 gr) almonds (if you can get the Sicilian ones from Noto they are wonderful)",
-            "1\/4 cup (30 gr) pine nuts",
-            "1\/2 cup (100 gr) extra virgin olive oil",
-            "3 garlic cloves",
-            "2 tomatoes, peeled and seeded",
-            "2 1\/2 cups (60 gr) basil",
-            "Salt and pepper as needed",
-            "Ricotta salata or pecorino, to be grated fresh over the past"
+            "2 Tbsp. Moroccan spice mixture (1\/2 tsp. cayenne, 1\/2 tsp. turmeric, 2 1\/2 tsp cumin, 1 tsp. allspice, 1 tsp. cinnamon, 1\/2 tsp. coriander)",
+            "1\/8 c. almond slivers",
+            "1\/2 c. dried apricot halves, roughly chopped",
+            "1 14-oz. can chick peas, drained",
+            "1 28-oz. can whole peeled tomatoes",
+            "1\/2 cup Finely Chopped Cilantro",
+            "1 Tbsp. extra virgin olive oil",
+            "2 c. fat free chicken broth",
+            "1 Tbsp. flour",
+            "1 tsp. fresh ginger root, minced",
+            "1 garlic clove, minced",
+            "Salt and ground black pepper",
+            "1 Tbsp. honey",
+            "1 onion, finely chopped",
+            "2 large boneless skinless chicken breasts, cut into 1-inch cubes"
         ]
     }
 }
