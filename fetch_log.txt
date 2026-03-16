@@ -1466,3 +1466,7 @@
 [2026-03-15 03:49:33] Fetching recipe with day of year: 74
 [2026-03-15 03:49:33] Successfully fetched and saved recipe: Persian Rhubarb Stew (Khoresh Rivas)
 [2026-03-15 03:49:33] Recipe fetch process completed
+[2026-03-16 03:53:40] Starting recipe fetch process
+[2026-03-16 03:53:40] Fetching recipe with day of year: 75
+[2026-03-16 03:53:40] ERROR: Failed to get API response
+[2026-03-16 03:53:40] Recipe fetch process completed
