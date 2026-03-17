@@ -1,15 +1,17 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-03-15",
+    "lastUpdated": "2026-03-17",
     "recipe": {
-        "title": "Persian Rhubarb Stew (Khoresh Rivas)",
-        "readyInMinutes": 45,
-        "servings": 6,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/655771-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/35KFKR47\/persian-rhubarb-stew-khoresh-rivas",
-        "instructions": "<ol><li>In a pan, heat 2-3 tablespoons of oil and saute chopped onions until translucent. Add turmeric, stir, add the meat and brown on all sides. Add salt and pepper to taste. Pour enough water to cover the meat. Cover and cook for an hour on medium to low heat, longer if it is not yet tender.<\/li><li>In a medium-sized frying pan, saute the chopped parsley and mint together in 2 tablespoons of oil over medium heat.Combine the parsley and mint mixture with the meat sauce half way through the cooking. Add water if necessary.<\/li><li>Lightly saute sliced rhubarbs in 2 tablespoons of olive oil for 2-3 minutes on medium heat. Add the rhubarb to the pot, lower the heat to a gentle simmer and cook for an additional 15 minutes.<\/li><li>Taste and add 2-3 tablespoons of sugar or to taste, gently stir and cook for an additional 5 minutes.<\/li><li>Serve warm with basmati rice.<\/li><\/ol>",
-        "summary": "Persian Rhubarb Stew (Khoresh Rivas) could be just the <b>gluten free and dairy free<\/b> recipe you've been looking for. For <b>$1.47 per serving<\/b>, this recipe <b>covers 16%<\/b> of your daily requirements of vitamins and minerals. One serving contains <b>236 calories<\/b>, <b>24g of protein<\/b>, and <b>11g of fat<\/b>. This recipe serves 6. Not a lot of people really liked this main course. 4 people have tried and liked this recipe. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. It is perfect for <b>Mother's Day<\/b>. If you have lamb stew meat, sugar or, salt and pepper, and a few other ingredients on hand, you can make it. It is brought to you by Foodista. Overall, this recipe earns a <b>solid spoonacular score of 56%<\/b>. <a href=\"https:\/\/spoonacular.com\/recipes\/persian-lamb-stew-1328503\">Persian Lamb Stew<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/persian-lamb-stew-15762\">Persian Lamb Stew<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/persian-chicken-stew-330791\">Persian Chicken Stew<\/a> are very similar to this recipe.",
-        "cuisines": [],
+        "title": "How to Make the Best Chili",
+        "readyInMinutes": 130,
+        "servings": 8,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/1066893-556x370.jpg",
+        "sourceUrl": "https:\/\/www.pinkwhen.com\/the-best-chili-recipe\/",
+        "instructions": "Instructions\n\nStep 1: Brown the lean ground beef in a deep skillet. Cook over medium heat until cooked all the way through, and then drain.\n\nStep 2: In a large pan over high heat add in all of your additional ingredients: cooked ground beef, tomato juice, kidney beans, pinto beans, water, tomato paste, chili powder, cumin, black pepper, oregano, sugar, cayenne pepper, bell pepper, and chopped onions. Bring to a boil.\n\nStep 3: Once your large pot of chili has started to boil, lower the heat and simmer for 2 hours uncovered.",
+        "summary": "How to Make the Best Chili takes about <b>2 hours and 10 minutes<\/b> from beginning to end. Watching your figure? This gluten free and dairy free recipe has <b>304 calories<\/b>, <b>32g of protein<\/b>, and <b>7g of fat<\/b> per serving. For <b>$2.05 per serving<\/b>, this recipe <b>covers 29%<\/b> of your daily requirements of vitamins and minerals. This recipe serves 8. <b>The Super Bowl<\/b> will be even more special with this recipe. Not a lot of people really liked this main course. This recipe from Pink When requires bell pepper, tomato juice, ground beef, and chili powder. 5 people were impressed by this recipe. It is a <b>rather cheap<\/b> recipe for fans of American food. Overall, this recipe earns a <b>solid spoonacular score of 70%<\/b>. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/chili-basics-how-to-make-and-customize-basic-chili-1038377\">Chili Basics \u2013 How to Make and Customize Basic Chili<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/chili-basics-how-to-make-and-customize-basic-chili-1793317\">Chili Basics \u2013 How to Make and Customize Basic Chili<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/how-to-make-the-best-chili-1367801\">How to Make the Best Chili<\/a>.",
+        "cuisines": [
+            "American"
+        ],
         "dishTypes": [
             "lunch",
             "soup",
@@ -18,14 +20,20 @@
             "dinner"
         ],
         "ingredients": [
-            "1 1\/2 pounds of lamb stew meat",
-            "2-3 tbsp Oil",
-            "1 small onion chopped",
-            "8 stalks of rhubarb",
-            "Salt and pepper to taste",
-            "3 tablespoons sugar or to taste",
-            "1\/2 teaspoon turmeric",
-            "Water"
+            "1\/4 cup bell pepper",
+            "1 15 oz can kidney beans",
+            "1\/4 tsp cayenne pepper",
+            "1\/2 tbsp chili powder",
+            "1 1\/2 tsp cumin",
+            "2 lbs lean ground beef",
+            "1 1\/2 cups chopped onions",
+            "1\/2 tsp oregano",
+            "1 tsp group black pepper",
+            "1 150z can pinto beans",
+            "1 46 oz can tomato juice",
+            "2 6oz cans tomato paste Can be subbed with a 15oz can of tomato sauce",
+            "1 cup water",
+            "1\/2 tsp white sugar"
         ]
     }
 }
