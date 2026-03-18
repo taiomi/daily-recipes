@@ -1,39 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-03-17",
+    "lastUpdated": "2026-03-18",
     "recipe": {
-        "title": "How to Make the Best Chili",
-        "readyInMinutes": 130,
-        "servings": 8,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/1066893-556x370.jpg",
-        "sourceUrl": "https:\/\/www.pinkwhen.com\/the-best-chili-recipe\/",
-        "instructions": "Instructions\n\nStep 1: Brown the lean ground beef in a deep skillet. Cook over medium heat until cooked all the way through, and then drain.\n\nStep 2: In a large pan over high heat add in all of your additional ingredients: cooked ground beef, tomato juice, kidney beans, pinto beans, water, tomato paste, chili powder, cumin, black pepper, oregano, sugar, cayenne pepper, bell pepper, and chopped onions. Bring to a boil.\n\nStep 3: Once your large pot of chili has started to boil, lower the heat and simmer for 2 hours uncovered.",
-        "summary": "How to Make the Best Chili takes about <b>2 hours and 10 minutes<\/b> from beginning to end. Watching your figure? This gluten free and dairy free recipe has <b>304 calories<\/b>, <b>32g of protein<\/b>, and <b>7g of fat<\/b> per serving. For <b>$2.05 per serving<\/b>, this recipe <b>covers 29%<\/b> of your daily requirements of vitamins and minerals. This recipe serves 8. <b>The Super Bowl<\/b> will be even more special with this recipe. Not a lot of people really liked this main course. This recipe from Pink When requires bell pepper, tomato juice, ground beef, and chili powder. 5 people were impressed by this recipe. It is a <b>rather cheap<\/b> recipe for fans of American food. Overall, this recipe earns a <b>solid spoonacular score of 70%<\/b>. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/chili-basics-how-to-make-and-customize-basic-chili-1038377\">Chili Basics \u2013 How to Make and Customize Basic Chili<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/chili-basics-how-to-make-and-customize-basic-chili-1793317\">Chili Basics \u2013 How to Make and Customize Basic Chili<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/how-to-make-the-best-chili-1367801\">How to Make the Best Chili<\/a>.",
-        "cuisines": [
-            "American"
-        ],
+        "title": "Dulce De Leche Cr\u00e8me Br\u00fbl\u00e9e",
+        "readyInMinutes": 45,
+        "servings": 1,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/641727-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/T6DWSM6W\/dulce-de-leche-creme-brulee",
+        "instructions": "Oven: 325F\nPlace six ramekins in a water bath. Whisk eggs and sugar until pale, then slowly pour the hot cream into the yolks, whisking thoroughly. Pour custards into ramekins and bake ~35 min. until set. Chill at least 3 hours before serving.\nTo serve, sprinkle ~2 tsp sugar evenly over each custard and heat with a kitchen torch until a burnt crust forms atop each custard.",
+        "summary": "If you want to add more <b>gluten free and lacto ovo vegetarian<\/b> recipes to your repertoire, Dulce De Leche Cr\u00e8me Br\u00fbl\u00e9e might be a recipe you should try. This recipe serves 1 and costs $4.36 per serving. One serving contains <b>2277 calories<\/b>, <b>27g of protein<\/b>, and <b>195g of fat<\/b>. This recipe from Foodista has 42 fans. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. A mixture of cream, dulce de leche, sugar, and a handful of other ingredients are all it takes to make this recipe so yummy. A few people really liked this main course. Overall, this recipe earns an <b>excellent spoonacular score of 83%<\/b>. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/alfajores-dulce-de-leche-sandwich-crme-cookies-170895\">Alfajores (Dulce de Leche Sandwich Cr\u00e8me Cookies)<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/russian-dulce-de-leche-waffle-cake-and-instant-pot-dulce-de-leche-1062236\">Russian Dulce De Leche Waffle Cake and Instant Pot Dulce De Leche<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/dulce-de-leche-milkshake-malteada-de-arequipe-o-dulce-de-leche-226960\">Dulce de Leche Milkshake (Malteada de Arequipe o Dulce de Leche)<\/a>.",
+        "cuisines": [],
         "dishTypes": [
             "lunch",
-            "soup",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "1\/4 cup bell pepper",
-            "1 15 oz can kidney beans",
-            "1\/4 tsp cayenne pepper",
-            "1\/2 tbsp chili powder",
-            "1 1\/2 tsp cumin",
-            "2 lbs lean ground beef",
-            "1 1\/2 cups chopped onions",
-            "1\/2 tsp oregano",
-            "1 tsp group black pepper",
-            "1 150z can pinto beans",
-            "1 46 oz can tomato juice",
-            "2 6oz cans tomato paste Can be subbed with a 15oz can of tomato sauce",
-            "1 cup water",
-            "1\/2 tsp white sugar"
+            "2 cups cream",
+            "3 tablespoons Dulce de leche",
+            "1\/2 cup sugar",
+            "5 large egg yolks"
         ]
     }
 }
