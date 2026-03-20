@@ -1,26 +1,38 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-03-18",
+    "lastUpdated": "2026-03-20",
     "recipe": {
-        "title": "Dulce De Leche Cr\u00e8me Br\u00fbl\u00e9e",
-        "readyInMinutes": 45,
-        "servings": 1,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/641727-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/T6DWSM6W\/dulce-de-leche-creme-brulee",
-        "instructions": "Oven: 325F\nPlace six ramekins in a water bath. Whisk eggs and sugar until pale, then slowly pour the hot cream into the yolks, whisking thoroughly. Pour custards into ramekins and bake ~35 min. until set. Chill at least 3 hours before serving.\nTo serve, sprinkle ~2 tsp sugar evenly over each custard and heat with a kitchen torch until a burnt crust forms atop each custard.",
-        "summary": "If you want to add more <b>gluten free and lacto ovo vegetarian<\/b> recipes to your repertoire, Dulce De Leche Cr\u00e8me Br\u00fbl\u00e9e might be a recipe you should try. This recipe serves 1 and costs $4.36 per serving. One serving contains <b>2277 calories<\/b>, <b>27g of protein<\/b>, and <b>195g of fat<\/b>. This recipe from Foodista has 42 fans. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. A mixture of cream, dulce de leche, sugar, and a handful of other ingredients are all it takes to make this recipe so yummy. A few people really liked this main course. Overall, this recipe earns an <b>excellent spoonacular score of 83%<\/b>. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/alfajores-dulce-de-leche-sandwich-crme-cookies-170895\">Alfajores (Dulce de Leche Sandwich Cr\u00e8me Cookies)<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/russian-dulce-de-leche-waffle-cake-and-instant-pot-dulce-de-leche-1062236\">Russian Dulce De Leche Waffle Cake and Instant Pot Dulce De Leche<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/dulce-de-leche-milkshake-malteada-de-arequipe-o-dulce-de-leche-226960\">Dulce de Leche Milkshake (Malteada de Arequipe o Dulce de Leche)<\/a>.",
-        "cuisines": [],
+        "title": "Pulled Pork Nachos",
+        "readyInMinutes": 490,
+        "servings": 8,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/1039293-556x370.jpg",
+        "sourceUrl": "https:\/\/www.pinkwhen.com\/pulled-pork-nachos\/",
+        "instructions": "InstructionsClean the pork and pat dry. Add the pork rub to the shoulder and season all over. Place the pork shoulder into the crock pot and set the temperature to low. Add in the vegetable broth and cook on low for 8-10 hours. Remove from slow cooker and shred the pork. Top the nachos with the shredded pork, pico de gallo, shredded cheese, and sour cream if desired.",
+        "summary": "Pulled Pork Nachos requires roughly <b>8 hours and 10 minutes<\/b> from start to finish. One serving contains <b>352 calories<\/b>, <b>19g of protein<\/b>, and <b>16g of fat<\/b>. For <b>$1.63 per serving<\/b>, you get a hor d'oeuvre that serves 8. This recipe from Pink When requires nacho chips, cream, pork rub, and pork shoulder. Only a few people really liked this American dish. 6 people were glad they tried this recipe. It is a good option if you're following a <b>gluten free<\/b> diet. All things considered, we decided this recipe <b>deserves a spoonacular score of 63%<\/b>. This score is solid. Similar recipes include <a href=\"https:\/\/spoonacular.com\/recipes\/pulled-pork-nachos-1589123\">Pulled Pork Nachos<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/pulled-pork-nachos-498935\">Pulled Pork Nachos<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/pulled-pork-nachos-687166\">Pulled Pork Nachos<\/a>.",
+        "cuisines": [
+            "American"
+        ],
         "dishTypes": [
+            "fingerfood",
+            "antipasti",
             "lunch",
             "main course",
+            "starter",
+            "snack",
+            "appetizer",
             "main dish",
+            "antipasto",
+            "hor d'oeuvre",
             "dinner"
         ],
         "ingredients": [
-            "2 cups cream",
-            "3 tablespoons Dulce de leche",
-            "1\/2 cup sugar",
-            "5 large egg yolks"
+            "1 bag nacho chips",
+            "1 cup pico de gallo",
+            "4 tbsp pork rub",
+            "1 2lb pork shoulder",
+            "1\/2 cup shredded cheese",
+            "2 tbsp sour cream",
+            "2 cups vegetable broth"
         ]
     }
 }
