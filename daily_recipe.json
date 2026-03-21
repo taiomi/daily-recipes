@@ -1,38 +1,32 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-03-20",
+    "lastUpdated": "2026-03-21",
     "recipe": {
-        "title": "Pulled Pork Nachos",
-        "readyInMinutes": 490,
-        "servings": 8,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/1039293-556x370.jpg",
-        "sourceUrl": "https:\/\/www.pinkwhen.com\/pulled-pork-nachos\/",
-        "instructions": "InstructionsClean the pork and pat dry. Add the pork rub to the shoulder and season all over. Place the pork shoulder into the crock pot and set the temperature to low. Add in the vegetable broth and cook on low for 8-10 hours. Remove from slow cooker and shred the pork. Top the nachos with the shredded pork, pico de gallo, shredded cheese, and sour cream if desired.",
-        "summary": "Pulled Pork Nachos requires roughly <b>8 hours and 10 minutes<\/b> from start to finish. One serving contains <b>352 calories<\/b>, <b>19g of protein<\/b>, and <b>16g of fat<\/b>. For <b>$1.63 per serving<\/b>, you get a hor d'oeuvre that serves 8. This recipe from Pink When requires nacho chips, cream, pork rub, and pork shoulder. Only a few people really liked this American dish. 6 people were glad they tried this recipe. It is a good option if you're following a <b>gluten free<\/b> diet. All things considered, we decided this recipe <b>deserves a spoonacular score of 63%<\/b>. This score is solid. Similar recipes include <a href=\"https:\/\/spoonacular.com\/recipes\/pulled-pork-nachos-1589123\">Pulled Pork Nachos<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/pulled-pork-nachos-498935\">Pulled Pork Nachos<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/pulled-pork-nachos-687166\">Pulled Pork Nachos<\/a>.",
-        "cuisines": [
-            "American"
-        ],
+        "title": "Classic Pot Roast",
+        "readyInMinutes": 45,
+        "servings": 6,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/639628-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/MHHJFJCK\/classic-pot-roast",
+        "instructions": "Heat a cast iron skillet or dutch oven to medium high heat, and preheat the oven to 325 degrees.\nTrim excess fat off the chuck roast and season all over with salt and pepper, then coat the meat with canola oil, rubbing all sides of it.\nSear the meat in the skillet, browning for several minutes on all sides.\nRemove the meat and set aside, then add the vegetables. Saute for several minutes and season with salt and pepper.\nDeglaze the pan with beer and let reduce for several minutes.\nAdd the beef back to the pan and add the thyme, stock and Worcestershire.\nCover the pan and place in the oven and let cook for 6-8 hours, until the meat is fork tender. Serve with steamed potatoes or crusty bread.",
+        "summary": "Classic Pot Roast is a main course that serves 6. One serving contains <b>340 calories<\/b>, <b>30g of protein<\/b>, and <b>22g of fat<\/b>. For <b>$1.87 per serving<\/b>, this recipe <b>covers 20%<\/b> of your daily requirements of vitamins and minerals. 9 people have made this recipe and would make it again. This recipe from Foodista requires beef stock, salt and pepper, vegetable oil, and beer. It is a good option if you're following a <b>gluten free and dairy free<\/b> diet. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 57%<\/b>. This score is solid. <a href=\"https:\/\/spoonacular.com\/recipes\/classic-pot-roast-534670\">Classic Pot Roast<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/classic-pot-roast-293385\">Classic Pot Roast<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/classic-pot-roast-484451\">Classic Pot Roast<\/a> are very similar to this recipe.",
+        "cuisines": [],
         "dishTypes": [
-            "fingerfood",
-            "antipasti",
             "lunch",
             "main course",
-            "starter",
-            "snack",
-            "appetizer",
             "main dish",
-            "antipasto",
-            "hor d'oeuvre",
             "dinner"
         ],
         "ingredients": [
-            "1 bag nacho chips",
-            "1 cup pico de gallo",
-            "4 tbsp pork rub",
-            "1 2lb pork shoulder",
-            "1\/2 cup shredded cheese",
-            "2 tbsp sour cream",
-            "2 cups vegetable broth"
+            "2 pounds chuck roast",
+            "Salt and pepper",
+            "2 tablespoons vegetable oil",
+            "2 inches large onions, sliced half moons",
+            "20 inches baby carrots, cut half",
+            "3 inches celery stalks, cut into one pieces",
+            "8 ounces beer",
+            "2 sprigs of fresh thyme",
+            "1 cup beef stock",
+            "1 tablespoon Worcestershire sauce"
         ]
     }
 }
