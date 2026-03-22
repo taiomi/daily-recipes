@@ -1490,3 +1490,7 @@
 [2026-03-21 03:21:16] Fetching recipe with day of year: 80
 [2026-03-21 03:21:16] Successfully fetched and saved recipe: Classic Pot Roast
 [2026-03-21 03:21:16] Recipe fetch process completed
+[2026-03-22 03:38:07] Starting recipe fetch process
+[2026-03-22 03:38:07] Fetching recipe with day of year: 81
+[2026-03-22 03:38:07] ERROR: Failed to get API response
+[2026-03-22 03:38:07] Recipe fetch process completed
