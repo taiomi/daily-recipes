@@ -1,15 +1,18 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-03-21",
+    "lastUpdated": "2026-03-23",
     "recipe": {
-        "title": "Classic Pot Roast",
+        "title": "German Goulash",
         "readyInMinutes": 45,
-        "servings": 6,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/639628-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/MHHJFJCK\/classic-pot-roast",
-        "instructions": "Heat a cast iron skillet or dutch oven to medium high heat, and preheat the oven to 325 degrees.\nTrim excess fat off the chuck roast and season all over with salt and pepper, then coat the meat with canola oil, rubbing all sides of it.\nSear the meat in the skillet, browning for several minutes on all sides.\nRemove the meat and set aside, then add the vegetables. Saute for several minutes and season with salt and pepper.\nDeglaze the pan with beer and let reduce for several minutes.\nAdd the beef back to the pan and add the thyme, stock and Worcestershire.\nCover the pan and place in the oven and let cook for 6-8 hours, until the meat is fork tender. Serve with steamed potatoes or crusty bread.",
-        "summary": "Classic Pot Roast is a main course that serves 6. One serving contains <b>340 calories<\/b>, <b>30g of protein<\/b>, and <b>22g of fat<\/b>. For <b>$1.87 per serving<\/b>, this recipe <b>covers 20%<\/b> of your daily requirements of vitamins and minerals. 9 people have made this recipe and would make it again. This recipe from Foodista requires beef stock, salt and pepper, vegetable oil, and beer. It is a good option if you're following a <b>gluten free and dairy free<\/b> diet. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 57%<\/b>. This score is solid. <a href=\"https:\/\/spoonacular.com\/recipes\/classic-pot-roast-534670\">Classic Pot Roast<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/classic-pot-roast-293385\">Classic Pot Roast<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/classic-pot-roast-484451\">Classic Pot Roast<\/a> are very similar to this recipe.",
-        "cuisines": [],
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/644476-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/FVJCCCSZ\/german-goulash",
+        "instructions": "Cut roast in 1 inch cubes. In Dutch oven, brown meat, and onions in oil. Add water, bouillon cubes, flour, tomato sauce, paprika, and pepper. Simmer low for 2 hours, until meat is tender.\nServe over egg noodles.\nThis dish cooks up very well in a crock pot.",
+        "summary": "German Goulash might be a good recipe to expand your main course repertoire. This recipe makes 4 servings with <b>550 calories<\/b>, <b>66g of protein<\/b>, and <b>26g of fat<\/b> each. For <b>$3.35 per serving<\/b>, this recipe <b>covers 40%<\/b> of your daily requirements of vitamins and minerals. 2 people were impressed by this recipe. Not a lot of people really liked this Eastern European dish. It is brought to you by Foodista. Head to the store and pick up paprika, ground pepper, beef bouillon cubes, and a few other things to make it today. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. It is a good option if you're following a <b>dairy free<\/b> diet. With a spoonacular <b>score of 85%<\/b>, this dish is super. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/german-goulash-506980\">German Goulash<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/german-goulash-1247921\">German Goulash<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/german-goulash-1353091\">German Goulash<\/a>.",
+        "cuisines": [
+            "Eastern European",
+            "European"
+        ],
         "dishTypes": [
             "lunch",
             "main course",
@@ -17,16 +20,15 @@
             "dinner"
         ],
         "ingredients": [
-            "2 pounds chuck roast",
-            "Salt and pepper",
-            "2 tablespoons vegetable oil",
-            "2 inches large onions, sliced half moons",
-            "20 inches baby carrots, cut half",
-            "3 inches celery stalks, cut into one pieces",
-            "8 ounces beer",
-            "2 sprigs of fresh thyme",
-            "1 cup beef stock",
-            "1 tablespoon Worcestershire sauce"
+            "2 1\/2 lb.s top round beef roast",
+            "1 large onion, sliced",
+            "3 tbsp.s oil",
+            "4 c.s water, to cover meat",
+            "8 oz.s tomato sauce",
+            "2 beef bouillon cubes",
+            "3 tbsp.s paprika",
+            "1\/2 tsp. ground pepper",
+            "2 tbsp.s flour"
         ]
     }
 }
