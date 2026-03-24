@@ -1,34 +1,38 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-03-23",
+    "lastUpdated": "2026-03-24",
     "recipe": {
-        "title": "German Goulash",
+        "title": "Wisconsin Beer Cheese Soup",
         "readyInMinutes": 45,
         "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/644476-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/FVJCCCSZ\/german-goulash",
-        "instructions": "Cut roast in 1 inch cubes. In Dutch oven, brown meat, and onions in oil. Add water, bouillon cubes, flour, tomato sauce, paprika, and pepper. Simmer low for 2 hours, until meat is tender.\nServe over egg noodles.\nThis dish cooks up very well in a crock pot.",
-        "summary": "German Goulash might be a good recipe to expand your main course repertoire. This recipe makes 4 servings with <b>550 calories<\/b>, <b>66g of protein<\/b>, and <b>26g of fat<\/b> each. For <b>$3.35 per serving<\/b>, this recipe <b>covers 40%<\/b> of your daily requirements of vitamins and minerals. 2 people were impressed by this recipe. Not a lot of people really liked this Eastern European dish. It is brought to you by Foodista. Head to the store and pick up paprika, ground pepper, beef bouillon cubes, and a few other things to make it today. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. It is a good option if you're following a <b>dairy free<\/b> diet. With a spoonacular <b>score of 85%<\/b>, this dish is super. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/german-goulash-506980\">German Goulash<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/german-goulash-1247921\">German Goulash<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/german-goulash-1353091\">German Goulash<\/a>.",
-        "cuisines": [
-            "Eastern European",
-            "European"
-        ],
+        "image": "https:\/\/img.spoonacular.com\/recipes\/665403-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/VPR24J2V\/wisconsin-beer-cheese-soup",
+        "instructions": "Start out by melting up the butter on medium heat. Add in the onion, carrots, celery, and garlic. Cook it all for a good 3-4 minutes.\nAdd the flour to the pan and stir it in well.\nNext up you'll add in the beer and the broth. Let the soup heat up to a gentle boil.\nOnce your broth hits a gentle boil, turn the heat down to low and add in the the half & half and the cheese.\nAllow the cheese to melt completely and then add in the mustard, worcestershire, pepper, and red pepper flakes.\nGrab your immersion blender and smooth out your soup. If you don't have an immersion blender, you can puree batches in a blender. Just make sure you don't fill it more than a third full at a time and cover it tightly so you don't end up with a soupy mess.\nAdd a bit of salt to taste and you're ready to enjoy a big ol' bowl of true Wisconsin love.",
+        "summary": "You can never have too many main course recipes, so give Wisconsin Beer Cheese Soup a try. One serving contains <b>494 calories<\/b>, <b>26g of protein<\/b>, and <b>34g of fat<\/b>. This recipe serves 4. For <b>$1.6 per serving<\/b>, this recipe <b>covers 20%<\/b> of your daily requirements of vitamins and minerals. 2 people found this recipe to be tasty and satisfying. It can be enjoyed any time, but it is especially good for <b>Father's Day<\/b>. A mixture of butter, worcestershire, garlic, and a handful of other ingredients are all it takes to make this recipe so yummy. It is brought to you by Foodista. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. With a spoonacular <b>score of 37%<\/b>, this dish is rather bad. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/wisconsin-beer-cheese-soup-575486\">Wisconsin Beer Cheese Soup<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/wisconsin-potato-cheese-soup-378492\">Wisconsin Potato Cheese Soup<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/wisconsin-cauliflower-cheese-soup-112167\">Wisconsin Cauliflower Cheese Soup<\/a>.",
+        "cuisines": [],
         "dishTypes": [
             "lunch",
+            "soup",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "2 1\/2 lb.s top round beef roast",
-            "1 large onion, sliced",
-            "3 tbsp.s oil",
-            "4 c.s water, to cover meat",
-            "8 oz.s tomato sauce",
-            "2 beef bouillon cubes",
-            "3 tbsp.s paprika",
-            "1\/2 tsp. ground pepper",
-            "2 tbsp.s flour"
+            "1 tablespoon Butter",
+            "1 Onion, Chopped",
+            "2 Carrots, Chopped",
+            "2 Celery Sticks, Chopped",
+            "2 cloves of Garlic, Minced",
+            "4 tablespoons of Flour",
+            "1 cup Wisconsin Beer",
+            "4 cups Broth (Veggie or Chicken)",
+            "1\/2 cup Half& Half",
+            "2 cups of Wisconsin Cheddar, Shredded",
+            "1 tablespoon Mustard",
+            "1 teaspoon Worcestershire",
+            "1\/4 teaspoon Pepper",
+            "1\/8 teaspoon Red Pepper Flakes",
+            "Salt to Taste"
         ]
     }
 }
