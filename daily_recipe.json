@@ -1,38 +1,33 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-03-24",
+    "lastUpdated": "2026-03-26",
     "recipe": {
-        "title": "Wisconsin Beer Cheese Soup",
+        "title": "Peach, Ham and Feta Salad with Fruity Olive Oil Dressing",
         "readyInMinutes": 45,
         "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/665403-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/VPR24J2V\/wisconsin-beer-cheese-soup",
-        "instructions": "Start out by melting up the butter on medium heat. Add in the onion, carrots, celery, and garlic. Cook it all for a good 3-4 minutes.\nAdd the flour to the pan and stir it in well.\nNext up you'll add in the beer and the broth. Let the soup heat up to a gentle boil.\nOnce your broth hits a gentle boil, turn the heat down to low and add in the the half & half and the cheese.\nAllow the cheese to melt completely and then add in the mustard, worcestershire, pepper, and red pepper flakes.\nGrab your immersion blender and smooth out your soup. If you don't have an immersion blender, you can puree batches in a blender. Just make sure you don't fill it more than a third full at a time and cover it tightly so you don't end up with a soupy mess.\nAdd a bit of salt to taste and you're ready to enjoy a big ol' bowl of true Wisconsin love.",
-        "summary": "You can never have too many main course recipes, so give Wisconsin Beer Cheese Soup a try. One serving contains <b>494 calories<\/b>, <b>26g of protein<\/b>, and <b>34g of fat<\/b>. This recipe serves 4. For <b>$1.6 per serving<\/b>, this recipe <b>covers 20%<\/b> of your daily requirements of vitamins and minerals. 2 people found this recipe to be tasty and satisfying. It can be enjoyed any time, but it is especially good for <b>Father's Day<\/b>. A mixture of butter, worcestershire, garlic, and a handful of other ingredients are all it takes to make this recipe so yummy. It is brought to you by Foodista. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. With a spoonacular <b>score of 37%<\/b>, this dish is rather bad. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/wisconsin-beer-cheese-soup-575486\">Wisconsin Beer Cheese Soup<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/wisconsin-potato-cheese-soup-378492\">Wisconsin Potato Cheese Soup<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/wisconsin-cauliflower-cheese-soup-112167\">Wisconsin Cauliflower Cheese Soup<\/a>.",
+        "image": "https:\/\/img.spoonacular.com\/recipes\/655174-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/3CL4KR2T\/peach-ham-and-feta-salad-with-fruity-olive-oil-dressing",
+        "instructions": "<ol><li>In a small bowl, place 2 tablespoons of the reserved oil from the marinated feta and combine with the olive oil, cider apple vinegar and peach juice. Season with salt and pepper, set aside.<\/li><li>Tear the slices of ham into smaller pieces, and then toss them in a large bowl with the mesclun leaves and peaches. Place in serving bowls or on plates and drizzle with the dressing, leaving some to one side in a jug if there is too much. Crumble over the feta and scatter the croutons over the top.<\/li><li>Serve with crusty bread to mop the juices up and chilled white wine. Serve the extra dressing on the side if there is any.<\/li><\/ol>",
+        "summary": "You can never have too many main course recipes, so give Peach, Ham and Feta Salad with Fruity Olive Oil Dressing a try. This recipe serves 4. One portion of this dish contains roughly <b>15g of protein<\/b>, <b>22g of fat<\/b>, and a total of <b>387 calories<\/b>. For <b>$3.08 per serving<\/b>, this recipe <b>covers 18%<\/b> of your daily requirements of vitamins and minerals. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. 3 people found this recipe to be flavorful and satisfying. It is a good option if you're following a <b>gluten free<\/b> diet. A mixture of cider apple vinegar, peaches, mesclun leaves, and a handful of other ingredients are all it takes to make this recipe so scrumptious. It is brought to you by Foodista. Overall, this recipe earns a <b>solid spoonacular score of 59%<\/b>. Try <a href=\"https:\/\/spoonacular.com\/recipes\/grilled-vegetable-salad-with-olive-oil-and-feta-541543\">Grilled Vegetable Salad with Olive Oil and Feta<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/parsley-salad-with-olive-oil-dressing-654707\">Parsley Salad With Olive Oil Dressing<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/broccoli-salad-with-feta-olive-oil-fried-almonds-currants-56087\">Broccoli Salad With Feta, Olive-oil-fried Almonds & Currants<\/a> for similar recipes.",
         "cuisines": [],
         "dishTypes": [
+            "side dish",
             "lunch",
-            "soup",
             "main course",
+            "salad",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "1 tablespoon Butter",
-            "1 Onion, Chopped",
-            "2 Carrots, Chopped",
-            "2 Celery Sticks, Chopped",
-            "2 cloves of Garlic, Minced",
-            "4 tablespoons of Flour",
-            "1 cup Wisconsin Beer",
-            "4 cups Broth (Veggie or Chicken)",
-            "1\/2 cup Half& Half",
-            "2 cups of Wisconsin Cheddar, Shredded",
-            "1 tablespoon Mustard",
-            "1 teaspoon Worcestershire",
-            "1\/4 teaspoon Pepper",
-            "1\/8 teaspoon Red Pepper Flakes",
-            "Salt to Taste"
+            "2 tablespoon cider apple vinegar",
+            "cro\u00fbtons",
+            "150 gram (6 ozs) marinated feta in oil (oil reserved)",
+            "4 thin slices parma ham, or ham",
+            "2 tablespoon peach juice",
+            "100 gram (4 ozs) wild mesclun leaves",
+            "2 tablespoon olive oil",
+            "2 3\/4 pounds peaches, halved lengthwise, pitted, and cut into \u00be-inch-thick wedges (about 8 cups)",
+            "salt and black pepper"
         ]
     }
 }
