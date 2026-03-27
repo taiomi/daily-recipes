@@ -1,33 +1,33 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-03-26",
+    "lastUpdated": "2026-03-27",
     "recipe": {
-        "title": "Peach, Ham and Feta Salad with Fruity Olive Oil Dressing",
+        "title": "Pierogi Casserole",
         "readyInMinutes": 45,
         "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/655174-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/3CL4KR2T\/peach-ham-and-feta-salad-with-fruity-olive-oil-dressing",
-        "instructions": "<ol><li>In a small bowl, place 2 tablespoons of the reserved oil from the marinated feta and combine with the olive oil, cider apple vinegar and peach juice. Season with salt and pepper, set aside.<\/li><li>Tear the slices of ham into smaller pieces, and then toss them in a large bowl with the mesclun leaves and peaches. Place in serving bowls or on plates and drizzle with the dressing, leaving some to one side in a jug if there is too much. Crumble over the feta and scatter the croutons over the top.<\/li><li>Serve with crusty bread to mop the juices up and chilled white wine. Serve the extra dressing on the side if there is any.<\/li><\/ol>",
-        "summary": "You can never have too many main course recipes, so give Peach, Ham and Feta Salad with Fruity Olive Oil Dressing a try. This recipe serves 4. One portion of this dish contains roughly <b>15g of protein<\/b>, <b>22g of fat<\/b>, and a total of <b>387 calories<\/b>. For <b>$3.08 per serving<\/b>, this recipe <b>covers 18%<\/b> of your daily requirements of vitamins and minerals. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. 3 people found this recipe to be flavorful and satisfying. It is a good option if you're following a <b>gluten free<\/b> diet. A mixture of cider apple vinegar, peaches, mesclun leaves, and a handful of other ingredients are all it takes to make this recipe so scrumptious. It is brought to you by Foodista. Overall, this recipe earns a <b>solid spoonacular score of 59%<\/b>. Try <a href=\"https:\/\/spoonacular.com\/recipes\/grilled-vegetable-salad-with-olive-oil-and-feta-541543\">Grilled Vegetable Salad with Olive Oil and Feta<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/parsley-salad-with-olive-oil-dressing-654707\">Parsley Salad With Olive Oil Dressing<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/broccoli-salad-with-feta-olive-oil-fried-almonds-currants-56087\">Broccoli Salad With Feta, Olive-oil-fried Almonds & Currants<\/a> for similar recipes.",
-        "cuisines": [],
+        "image": "https:\/\/img.spoonacular.com\/recipes\/715563-556x370.jpg",
+        "sourceUrl": "http:\/\/www.pinkwhen.com\/pierogi-casserole\/",
+        "instructions": "<ol><li>Preheat oven to 375 degrees. Spray a large 2 large casserole dish with cooking spray.<\/li><li>Three separate items need cooked. You can cook them all at once to avoid having one sit aside for too long.<\/li><li>(Prepare your potatoes and set aside) Meanwhile, boil your noodles but reduce cooking time by 4 minutes to avoid overcooking. Drain and set aside. Prepare your onions by cooking in the 4 tbsp. of butter over medium heat until tender.<\/li><li>Add milk, 1 cup of cheese, salt and pepper, and onion mixture to your potatoes. Mash using a large wooden spoon or a hand held potato masher. Mash until soft, but some chunks remain. You don't want a completely smooth texture. Add in your noodles and toss to coat. Taste for seasoning and add more if necessary. If mixture seems dry, add more milk and butter until the entire mixture is lightly coated. Place in casserole dish. Sprinkle with the remaining \u00bd cup of cheese. Bake in your preheated oven for 25 minutes or until cheese starts to bubble. Serve immediately and enjoy!<\/li><\/ol>",
+        "summary": "You can never have too many main course recipes, so give Pierogi Casserole a try. This recipe makes 4 servings with <b>846 calories<\/b>, <b>30g of protein<\/b>, and <b>32g of fat<\/b> each. For <b>$1.55 per serving<\/b>, this recipe <b>covers 28%<\/b> of your daily requirements of vitamins and minerals. It is a good option if you're following a <b>lacto ovo vegetarian<\/b> diet. This recipe is liked by 1544 foodies and cooks. Plenty of people really liked this Eastern European dish. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. It can be enjoyed any time, but it is especially good for <b>Autumn<\/b>. This recipe from Pink When requires butter, sharp cheddar cheese, onions, and salt and pepper. Taking all factors into account, this recipe <b>earns a spoonacular score of 90%<\/b>, which is excellent. Try <a href=\"https:\/\/spoonacular.com\/recipes\/pierogi-casserole-1249305\">Pierogi Casserole<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/easy-pierogi-casserole-1196331\">Easy \"Pierogi\" Casserole<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/easy-pierogi-casserole-276341\">Easy \"Pierogi\" Casserole<\/a> for similar recipes.",
+        "cuisines": [
+            "Eastern European",
+            "European"
+        ],
         "dishTypes": [
             "side dish",
             "lunch",
             "main course",
-            "salad",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "2 tablespoon cider apple vinegar",
-            "cro\u00fbtons",
-            "150 gram (6 ozs) marinated feta in oil (oil reserved)",
-            "4 thin slices parma ham, or ham",
-            "2 tablespoon peach juice",
-            "100 gram (4 ozs) wild mesclun leaves",
-            "2 tablespoon olive oil",
-            "2 3\/4 pounds peaches, halved lengthwise, pitted, and cut into \u00be-inch-thick wedges (about 8 cups)",
-            "salt and black pepper"
+            "4 tbsp. butter + more for mixing",
+            "\u00bd cup milk+ more for mixing",
+            "2 large onions, sliced",
+            "salt and pepper to taste",
+            "1\u00bd cups sharp cheddar cheese, shredded",
+            "1 lb. white potatoes, peeled, cubed and then boiled until tender",
+            "1 lb. extra wide egg noodles"
         ]
     }
 }
