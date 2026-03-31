@@ -1526,3 +1526,7 @@
 [2026-03-30 03:57:55] Fetching recipe with day of year: 89
 [2026-03-30 03:57:55] Successfully fetched and saved recipe: Sausage & Pepperoni Stromboli
 [2026-03-30 03:57:55] Recipe fetch process completed
+[2026-03-31 03:49:09] Starting recipe fetch process
+[2026-03-31 03:49:09] Fetching recipe with day of year: 90
+[2026-03-31 03:49:09] ERROR: Failed to get API response
+[2026-03-31 03:49:09] Recipe fetch process completed
