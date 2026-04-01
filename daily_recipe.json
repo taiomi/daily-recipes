@@ -1,14 +1,14 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-03-30",
+    "lastUpdated": "2026-04-01",
     "recipe": {
-        "title": "Sausage & Pepperoni Stromboli",
-        "readyInMinutes": 28,
-        "servings": 6,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/776505-556x370.jpg",
-        "sourceUrl": "http:\/\/asouthern-soul.blogspot.com\/2014\/11\/sausage-pepperoni-stromboli.html",
-        "instructions": "<p>Cook Italian sausage in a medium skillet until browned. Drain on paper towels and crumble into small pieces.<\/p><p>Heat oven to 450 degrees.<\/p><p>Place parchment paper on a baking pan and lightly flour. Roll dough out to form a large rectangle.<\/p><p>Brush a thin layer of pizza sauce on dough. Layer on crumbled sausage then mozzarella cheese.<\/p><p>Place pepperoni slices on top of cheese then sprinkle with 3\/4 cup Parmesan cheese.<\/p><p>Gently roll in short sides of dough to form a seal around filling.<\/p><p>Starting on long side of dough, carefully roll into one third of Stromboli. Using parchment, roll dough again until reaching opposite end. Pinch together and place seam side down.<\/p><p>Mix egg with 1 tablespoon of water. Brush egg mixture over Stromboli and sprinkle with remaining 1\/4 Parmesan cheese.<\/p><p>Place in oven and IMMEDIATELY TURN OVEN DOWN to 350 degrees.<\/p><p>Bake for approximately 18 minutes. Remove from oven and let rest for 10 minutes. <\/p><p>Test center of turnover. If dough is not completely cooked, slice Stromboli in half and bake for additional 5-8 minutes.<\/p><p>Serve with warm pizza sauce<\/p>",
-        "summary": "Sausage & Pepperoni Stromboli takes about <b>28 minutes<\/b> from beginning to end. This recipe serves 6. One serving contains <b>692 calories<\/b>, <b>32g of protein<\/b>, and <b>46g of fat<\/b>. For <b>$2.58 per serving<\/b>, this recipe <b>covers 19%<\/b> of your daily requirements of vitamins and minerals. This recipe from asouthern-soul.blogspot.com has 32767 fans. If you have pepperoni, roll of pizza dough, parmesan cheese, and a few other ingredients on hand, you can make it. It works well as a budget friendly main course. Overall, this recipe earns a <b>good spoonacular score of 68%<\/b>. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/sausage-pepperoni-stromboli-1367373\">Sausage & Pepperoni Stromboli<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/sausage-pepperoni-stromboli-1249513\">Sausage & Pepperoni Stromboli<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/pepperoni-sausage-stromboli-570172\">Pepperoni & Sausage Stromboli<\/a>.",
+        "title": "Crab Salad in Avocado Boats",
+        "readyInMinutes": 45,
+        "servings": 2,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/640311-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/XNY2KBKG\/crab-salad-in-avocado-boats",
+        "instructions": "Stir red onion, mayonnaise, hot sauce, cilantro, 2 teaspoons lime juice, cumin and lime zest in medium bowl to blend.\nMix in crab meat. Season salad with salt and pepper.\nBrush each avocado with the remaining 1 teaspoon lime juice to prevent avocado from browning.\nMound crab salad on each avocado half. Serve salad with lime wedges.",
+        "summary": "Crab Salad in Avocado Boats is a <b>gluten free, dairy free, whole 30, and pescatarian<\/b> main course. One portion of this dish contains around <b>23g of protein<\/b>, <b>31g of fat<\/b>, and a total of <b>414 calories<\/b>. For <b>$5.16 per serving<\/b>, this recipe <b>covers 27%<\/b> of your daily requirements of vitamins and minerals. This recipe serves 2. 13 people have tried and liked this recipe. This recipe from Foodista requires lime juice, avocado, ground cumin, and cilantro. From preparation to the plate, this recipe takes about <b>45 minutes<\/b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 81%<\/b>. This score is excellent. Try <a href=\"https:\/\/spoonacular.com\/recipes\/crab-salad-in-avocado-boats-1336395\">Crab Salad in Avocado Boats<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/crab-salad-in-avocado-boats-1354545\">Crab Salad in Avocado Boats<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/crab-salad-in-avocado-boats-1356835\">Crab Salad in Avocado Boats<\/a> for similar recipes.",
         "cuisines": [],
         "dishTypes": [
             "lunch",
@@ -17,13 +17,15 @@
             "dinner"
         ],
         "ingredients": [
-            "1 egg",
-            "1 lb Italian sausage",
-            "1 cup shredded Parmesan cheese",
-            "1 package sliced pepperoni",
-            "1 ball or roll of pizza dough (homemade is great but I used store-bought)",
-            "2 cups pizza sauce",
-            "1 cup shredded mozzarella cheese"
+            "1\/3 cup finely chopped red onion",
+            "3 tablespoons mayonnaise",
+            "1\/2 teaspoon Thai style hot sauce such as Sriracha",
+            "2 tablespoons chopped fresh cilantro",
+            "3 teaspoons fresh lime juice",
+            "1\/2 teaspoon ground cumin",
+            "1\/2 teaspoon lime zest",
+            "8 ounces lump crab meat",
+            "1 ripe large avocado, halved and pitted"
         ]
     }
 }
