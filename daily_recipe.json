@@ -1,15 +1,17 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-04-01",
+    "lastUpdated": "2026-04-02",
     "recipe": {
-        "title": "Crab Salad in Avocado Boats",
+        "title": "Ginger Garlic Chili Salmon",
         "readyInMinutes": 45,
         "servings": 2,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/640311-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/XNY2KBKG\/crab-salad-in-avocado-boats",
-        "instructions": "Stir red onion, mayonnaise, hot sauce, cilantro, 2 teaspoons lime juice, cumin and lime zest in medium bowl to blend.\nMix in crab meat. Season salad with salt and pepper.\nBrush each avocado with the remaining 1 teaspoon lime juice to prevent avocado from browning.\nMound crab salad on each avocado half. Serve salad with lime wedges.",
-        "summary": "Crab Salad in Avocado Boats is a <b>gluten free, dairy free, whole 30, and pescatarian<\/b> main course. One portion of this dish contains around <b>23g of protein<\/b>, <b>31g of fat<\/b>, and a total of <b>414 calories<\/b>. For <b>$5.16 per serving<\/b>, this recipe <b>covers 27%<\/b> of your daily requirements of vitamins and minerals. This recipe serves 2. 13 people have tried and liked this recipe. This recipe from Foodista requires lime juice, avocado, ground cumin, and cilantro. From preparation to the plate, this recipe takes about <b>45 minutes<\/b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 81%<\/b>. This score is excellent. Try <a href=\"https:\/\/spoonacular.com\/recipes\/crab-salad-in-avocado-boats-1336395\">Crab Salad in Avocado Boats<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/crab-salad-in-avocado-boats-1354545\">Crab Salad in Avocado Boats<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/crab-salad-in-avocado-boats-1356835\">Crab Salad in Avocado Boats<\/a> for similar recipes.",
-        "cuisines": [],
+        "image": "https:\/\/img.spoonacular.com\/recipes\/644581-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/HY66L25Y\/ginger-garlic-chili-salmon",
+        "instructions": "Season both sides of salmon fillets with salt and pepper. Chop green onions and put them aside. In a bowl, combine minced ginger, crushed garlic, brown sugar, rice vinegar, hot chili sauce, soy sauce and water. This is the sauce for simmering the salmon.\nIn a deep skillet, pan sear the salmon on medium high heat for 4-5 minutes or until it's almost half done on the side. Flip the salmon to the other side and sear for 2 minutes.\nPour in the sauce when the salmon is still slightly raw in the middle, and let it simmer for 10 minutes on medium heat. When the sauce is reduced, add in the chopped green onions. Continuously scoop the sauce over the salmon for at least one minute to let the top side of the salmon absorb the sauce.\nRemove the salmon carefully from the skillet and transfer to a dish. If the sauce is not reduced to the desired consistency, leave it in the skillet and let it continue to reduce. Pour the sauce over the salmon and serve.",
+        "summary": "Ginger Garlic Chili Salmon might be a good recipe to expand your main course recipe box. For <b>$4.15 per serving<\/b>, this recipe <b>covers 27%<\/b> of your daily requirements of vitamins and minerals. This recipe makes 2 servings with <b>308 calories<\/b>, <b>35g of protein<\/b>, and <b>11g of fat<\/b> each. <b>The Super Bowl<\/b> will be even more special with this recipe. 2 people were glad they tried this recipe. It is a <b>pretty expensive<\/b> recipe for fans of American food. This recipe from Foodista requires chili sauce, salt and pepper, green onions, and rice vinegar. It is a good option if you're following a <b>gluten free, dairy free, and pescatarian<\/b> diet. From preparation to the plate, this recipe takes about <b>45 minutes<\/b>. Taking all factors into account, this recipe <b>earns a spoonacular score of 87%<\/b>, which is spectacular. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/ginger-garlic-chili-salmon-1200819\">Ginger Garlic Chili Salmon<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/ginger-garlic-chili-shrimp-1276779\">Ginger, Garlic & Chili Shrimp<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/ginger-garlic-chili-shrimp-1310935\">Ginger, Garlic & Chili Shrimp<\/a>.",
+        "cuisines": [
+            "American"
+        ],
         "dishTypes": [
             "lunch",
             "main course",
@@ -17,15 +19,16 @@
             "dinner"
         ],
         "ingredients": [
-            "1\/3 cup finely chopped red onion",
-            "3 tablespoons mayonnaise",
-            "1\/2 teaspoon Thai style hot sauce such as Sriracha",
-            "2 tablespoons chopped fresh cilantro",
-            "3 teaspoons fresh lime juice",
-            "1\/2 teaspoon ground cumin",
-            "1\/2 teaspoon lime zest",
-            "8 ounces lump crab meat",
-            "1 ripe large avocado, halved and pitted"
+            "2 salmon fillets (about half pound each)",
+            "1 Tbs minced ginger",
+            "2 cloves of crushed garlic",
+            "2 Tbs brown sugar",
+            "1\/4 cup of rice vinegar",
+            "1 tsp of hot chili sauce (add or reduce the amount as you like)",
+            "1 tsp of soy sauce",
+            "1\/4 cup of water",
+            "2 stalks of green onions",
+            "salt and pepper for seasoning the salmon"
         ]
     }
 }
