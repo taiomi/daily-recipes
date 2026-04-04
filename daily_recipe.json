@@ -1,17 +1,15 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-04-02",
+    "lastUpdated": "2026-04-04",
     "recipe": {
-        "title": "Ginger Garlic Chili Salmon",
-        "readyInMinutes": 45,
-        "servings": 2,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/644581-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/HY66L25Y\/ginger-garlic-chili-salmon",
-        "instructions": "Season both sides of salmon fillets with salt and pepper. Chop green onions and put them aside. In a bowl, combine minced ginger, crushed garlic, brown sugar, rice vinegar, hot chili sauce, soy sauce and water. This is the sauce for simmering the salmon.\nIn a deep skillet, pan sear the salmon on medium high heat for 4-5 minutes or until it's almost half done on the side. Flip the salmon to the other side and sear for 2 minutes.\nPour in the sauce when the salmon is still slightly raw in the middle, and let it simmer for 10 minutes on medium heat. When the sauce is reduced, add in the chopped green onions. Continuously scoop the sauce over the salmon for at least one minute to let the top side of the salmon absorb the sauce.\nRemove the salmon carefully from the skillet and transfer to a dish. If the sauce is not reduced to the desired consistency, leave it in the skillet and let it continue to reduce. Pour the sauce over the salmon and serve.",
-        "summary": "Ginger Garlic Chili Salmon might be a good recipe to expand your main course recipe box. For <b>$4.15 per serving<\/b>, this recipe <b>covers 27%<\/b> of your daily requirements of vitamins and minerals. This recipe makes 2 servings with <b>308 calories<\/b>, <b>35g of protein<\/b>, and <b>11g of fat<\/b> each. <b>The Super Bowl<\/b> will be even more special with this recipe. 2 people were glad they tried this recipe. It is a <b>pretty expensive<\/b> recipe for fans of American food. This recipe from Foodista requires chili sauce, salt and pepper, green onions, and rice vinegar. It is a good option if you're following a <b>gluten free, dairy free, and pescatarian<\/b> diet. From preparation to the plate, this recipe takes about <b>45 minutes<\/b>. Taking all factors into account, this recipe <b>earns a spoonacular score of 87%<\/b>, which is spectacular. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/ginger-garlic-chili-salmon-1200819\">Ginger Garlic Chili Salmon<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/ginger-garlic-chili-shrimp-1276779\">Ginger, Garlic & Chili Shrimp<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/ginger-garlic-chili-shrimp-1310935\">Ginger, Garlic & Chili Shrimp<\/a>.",
-        "cuisines": [
-            "American"
-        ],
+        "title": "Sweet and Sticky Chicken Strips",
+        "readyInMinutes": 32,
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/715527-556x370.jpg",
+        "sourceUrl": "http:\/\/www.pinkwhen.com\/sweet-and-sticky-chicken-strips\/",
+        "instructions": "Preheat your oven to 450 degrees F and line a large baking sheet with foil. Spray it generously with non-stick spray. Set aside.To one shallow bowl, add the flour. To a second shallow bowl, add the egg wash (2 eggs mixed with 1 tablespoon of water); and to a third shallow bowl, combine the bread crumbs, salt, garlic powder and cayenne pepper.Dredge the chicken strips in the flour, shaking to get rid of any excess. Transfer to the egg wash and fully coat. Finally, place the chicken strips in the panko bread crumb mixture and press to adhere where necessary. Place the chicken strips on the prepared baking sheet and spray generously with a non-stick spray. Bake for 20-22 minutes or until crispy, brown and cooked through.While the chicken is cooking, prepare your sauce. In a medium saucepan, whisk together the brown sugar, cayenne pepper sauce and butter. Bring to a boil, stirring constantly, and then remove from heat.Once the chicken has cooked, toss it in the sauce. Serve immediately with ranch. Enjoy!",
+        "summary": "You can never have too many main course recipes, so give Sweet and Sticky Chicken Strips a try. One portion of this dish contains roughly <b>32g of protein<\/b>, <b>25g of fat<\/b>, and a total of <b>800 calories<\/b>. This recipe serves 4 and costs $2.11 per serving. 5551 person have tried and liked this recipe. This recipe from Pink When requires brown sugar, eggs, ranch, and chicken breast. From preparation to the plate, this recipe takes about <b>32 minutes<\/b>. Overall, this recipe earns a <b>solid spoonacular score of 77%<\/b>. Try <a href=\"https:\/\/spoonacular.com\/recipes\/sweet-and-sticky-chicken-strips-1636441\">Sweet and Sticky Chicken Strips<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/sweet-sticky-honey-soy-sauce-chicken-strips-1242883\">Sweet & Sticky Honey Soy Sauce Chicken Strips<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/sweet-sticky-honey-soy-sauce-chicken-strips-627472\">Sweet & Sticky Honey Soy Sauce Chicken Strips<\/a> for similar recipes.",
+        "cuisines": [],
         "dishTypes": [
             "lunch",
             "main course",
@@ -19,16 +17,17 @@
             "dinner"
         ],
         "ingredients": [
-            "2 salmon fillets (about half pound each)",
-            "1 Tbs minced ginger",
-            "2 cloves of crushed garlic",
-            "2 Tbs brown sugar",
-            "1\/4 cup of rice vinegar",
-            "1 tsp of hot chili sauce (add or reduce the amount as you like)",
-            "1 tsp of soy sauce",
-            "1\/4 cup of water",
-            "2 stalks of green onions",
-            "salt and pepper for seasoning the salmon"
+            "1\u00bd cups brown sugar",
+            "2 eggs mixed with 1 tablespoon of water",
+            "\u00be cup all-purpose flour",
+            "\u00bd teaspoon garlic powder",
+            "\u00bc teaspoon ground cayenne pepper",
+            "\u00bd teaspoon kosher salt",
+            "1 cup panko bread crumbs",
+            "\u00bd cup cayenne pepper sauce (like Frank's Red Hot)",
+            "ranch, for serving",
+            "1 pound boneless and skinless chicken breast, cut into strips",
+            "2 tablespoons unsalted butter"
         ]
     }
 }
