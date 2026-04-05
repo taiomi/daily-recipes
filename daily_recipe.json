@@ -1,15 +1,17 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-04-04",
+    "lastUpdated": "2026-04-05",
     "recipe": {
-        "title": "Sweet and Sticky Chicken Strips",
-        "readyInMinutes": 32,
+        "title": "All American Sloppy Joes",
+        "readyInMinutes": 45,
         "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/715527-556x370.jpg",
-        "sourceUrl": "http:\/\/www.pinkwhen.com\/sweet-and-sticky-chicken-strips\/",
-        "instructions": "Preheat your oven to 450 degrees F and line a large baking sheet with foil. Spray it generously with non-stick spray. Set aside.To one shallow bowl, add the flour. To a second shallow bowl, add the egg wash (2 eggs mixed with 1 tablespoon of water); and to a third shallow bowl, combine the bread crumbs, salt, garlic powder and cayenne pepper.Dredge the chicken strips in the flour, shaking to get rid of any excess. Transfer to the egg wash and fully coat. Finally, place the chicken strips in the panko bread crumb mixture and press to adhere where necessary. Place the chicken strips on the prepared baking sheet and spray generously with a non-stick spray. Bake for 20-22 minutes or until crispy, brown and cooked through.While the chicken is cooking, prepare your sauce. In a medium saucepan, whisk together the brown sugar, cayenne pepper sauce and butter. Bring to a boil, stirring constantly, and then remove from heat.Once the chicken has cooked, toss it in the sauce. Serve immediately with ranch. Enjoy!",
-        "summary": "You can never have too many main course recipes, so give Sweet and Sticky Chicken Strips a try. One portion of this dish contains roughly <b>32g of protein<\/b>, <b>25g of fat<\/b>, and a total of <b>800 calories<\/b>. This recipe serves 4 and costs $2.11 per serving. 5551 person have tried and liked this recipe. This recipe from Pink When requires brown sugar, eggs, ranch, and chicken breast. From preparation to the plate, this recipe takes about <b>32 minutes<\/b>. Overall, this recipe earns a <b>solid spoonacular score of 77%<\/b>. Try <a href=\"https:\/\/spoonacular.com\/recipes\/sweet-and-sticky-chicken-strips-1636441\">Sweet and Sticky Chicken Strips<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/sweet-sticky-honey-soy-sauce-chicken-strips-1242883\">Sweet & Sticky Honey Soy Sauce Chicken Strips<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/sweet-sticky-honey-soy-sauce-chicken-strips-627472\">Sweet & Sticky Honey Soy Sauce Chicken Strips<\/a> for similar recipes.",
-        "cuisines": [],
+        "image": "https:\/\/img.spoonacular.com\/recipes\/632071-556x370.jpg",
+        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/DNFR7JZT\/sloppy-joe",
+        "instructions": "<ol><li>Heat the olive oil in a large skillet. Add in minced garlic, shallots, and green bell pepper.  Stir until fragrant and tender, about 3 minutes. Season it with salt and black pepper.<\/li><li>Add the ground beef to the vegetables. Stir and cook about 5 minutes, until the meat is no longer pink and fully cooked. Add tomato sauce, barbecue sauce, Worcestershire, and hot sauce into the skillet. Stir to combine. Simmer until thickened.<\/li><li>To serve, spoon and pile sloppy meat onto the toasted, buttered bun bottoms and cover with bun tops with your favourite side dish or pickles.<\/li><\/ol>",
+        "summary": "The recipe All American Sloppy Joes could satisfy your American craving in roughly <b>45 minutes<\/b>. This recipe serves 4 and costs $1.82 per serving. Watching your figure? This dairy free recipe has <b>507 calories<\/b>, <b>25g of protein<\/b>, and <b>28g of fat<\/b> per serving. A couple people made this recipe, and 37 would say it hit the spot. It works well as a budget friendly main course. This recipe from Foodista requires shallots, burger buns, garlic cloves, and ground beef. Taking all factors into account, this recipe <b>earns a spoonacular score of 64%<\/b>, which is solid. Try <a href=\"https:\/\/spoonacular.com\/recipes\/sloppy-chori-joes-chorizo-sloppy-joes-472129\">Sloppy Chori-Joes (Chorizo Sloppy Joes)<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/mushy-joes-sloppy-joes-meatless-cousin-meatless-monday-603187\">Mushy Joes (Sloppy Joes Meatless Cousin) (Meatless Monday)<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/mushy-joes-sloppy-joes-meatless-cousin-meatless-monday-1334583\">Mushy Joes (Sloppy Joes Meatless Cousin) (Meatless Monday)<\/a> for similar recipes.",
+        "cuisines": [
+            "American"
+        ],
         "dishTypes": [
             "lunch",
             "main course",
@@ -17,17 +19,17 @@
             "dinner"
         ],
         "ingredients": [
-            "1\u00bd cups brown sugar",
-            "2 eggs mixed with 1 tablespoon of water",
-            "\u00be cup all-purpose flour",
-            "\u00bd teaspoon garlic powder",
-            "\u00bc teaspoon ground cayenne pepper",
-            "\u00bd teaspoon kosher salt",
-            "1 cup panko bread crumbs",
-            "\u00bd cup cayenne pepper sauce (like Frank's Red Hot)",
-            "ranch, for serving",
-            "1 pound boneless and skinless chicken breast, cut into strips",
-            "2 tablespoons unsalted butter"
+            "100 grams American barbecue sauce",
+            "4 Homemade burger buns, split, toasted, and buttere",
+            "2 Garlic cloves, minced",
+            "1\/2 Green bell pepper, diced",
+            "450 grams Ground beef",
+            "1 teaspoon Hot sauce",
+            "1 tablespoon Olive oil",
+            "Salt and freshly ground black pepper",
+            "2 Shallots, chopped",
+            "180 grams Tomato sauce",
+            "2\/3 tablespoon Worcestershire sauce"
         ]
     }
 }
