@@ -1,35 +1,34 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-04-05",
+    "lastUpdated": "2026-04-07",
     "recipe": {
-        "title": "All American Sloppy Joes",
+        "title": "Pasta With Chicken and Mushrooms",
         "readyInMinutes": 45,
-        "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/632071-556x370.jpg",
-        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/DNFR7JZT\/sloppy-joe",
-        "instructions": "<ol><li>Heat the olive oil in a large skillet. Add in minced garlic, shallots, and green bell pepper.  Stir until fragrant and tender, about 3 minutes. Season it with salt and black pepper.<\/li><li>Add the ground beef to the vegetables. Stir and cook about 5 minutes, until the meat is no longer pink and fully cooked. Add tomato sauce, barbecue sauce, Worcestershire, and hot sauce into the skillet. Stir to combine. Simmer until thickened.<\/li><li>To serve, spoon and pile sloppy meat onto the toasted, buttered bun bottoms and cover with bun tops with your favourite side dish or pickles.<\/li><\/ol>",
-        "summary": "The recipe All American Sloppy Joes could satisfy your American craving in roughly <b>45 minutes<\/b>. This recipe serves 4 and costs $1.82 per serving. Watching your figure? This dairy free recipe has <b>507 calories<\/b>, <b>25g of protein<\/b>, and <b>28g of fat<\/b> per serving. A couple people made this recipe, and 37 would say it hit the spot. It works well as a budget friendly main course. This recipe from Foodista requires shallots, burger buns, garlic cloves, and ground beef. Taking all factors into account, this recipe <b>earns a spoonacular score of 64%<\/b>, which is solid. Try <a href=\"https:\/\/spoonacular.com\/recipes\/sloppy-chori-joes-chorizo-sloppy-joes-472129\">Sloppy Chori-Joes (Chorizo Sloppy Joes)<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/mushy-joes-sloppy-joes-meatless-cousin-meatless-monday-603187\">Mushy Joes (Sloppy Joes Meatless Cousin) (Meatless Monday)<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/mushy-joes-sloppy-joes-meatless-cousin-meatless-monday-1334583\">Mushy Joes (Sloppy Joes Meatless Cousin) (Meatless Monday)<\/a> for similar recipes.",
-        "cuisines": [
-            "American"
-        ],
+        "servings": 6,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/654913-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/6QZ47BPL\/pasta-with-chicken-and-mushrooms",
+        "instructions": "<ol><li>Bring 6 quarts of salted water to a rolling boil in a large pot. Season the flour with salt and pepper. Dredge the chicken in the seasoned flour.<\/li><li>Shake off any excess. Heat the oil in a large, heavy non-stick skillet over high heat. Brown the chicken on one side (about 3 minutes). Add the garlic. Turn the chicken. Scatter the mushrooms over the chicken. Cook for 3 minutes, shaking the skillet to distribute the mushrooms. Add the vinegar, broth, bay leaves, and thyme. Cover the skillet lightly. Cook, over medium heat for 10 minutes, turning the chicken once. Uncover.<\/li><li>Transfer the chicken to a warm plate. Cover with foil. Continue cooking the mushrooms for another 7 minutes. Cook the pasta, stirring frequently, in the boiling salted water until al dente.Drain. Place on a warm serving plate. Arrange the chicken pieces over the pasta. Remove the bay leaf from the sauce. Pour the mushroom sauce over the chicken and pasta. Serve.<\/li><\/ol>",
+        "summary": "Pasta With Chicken and Mushrooms might be just the main course you are searching for. This recipe serves 6 and costs $1.75 per serving. Watching your figure? This dairy free recipe has <b>463 calories<\/b>, <b>36g of protein<\/b>, and <b>6g of fat<\/b> per serving. Head to the store and pick up chicken broth, olive oil, chicken breast halves, and a few other things to make it today. This recipe is liked by 2 foodies and cooks. It is brought to you by Foodista. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. Overall, this recipe earns a <b>good spoonacular score of 67%<\/b>. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/pasta-with-chicken-and-mushrooms-1398593\">Pasta With Chicken and Mushrooms<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/penne-pasta-with-chicken-and-mushrooms-655582\">Penne Pasta With Chicken And Mushrooms<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/chicken-piccata-with-pasta-mushrooms-1326243\">Chicken Piccata with Pasta & Mushrooms<\/a>.",
+        "cuisines": [],
         "dishTypes": [
+            "side dish",
             "lunch",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "100 grams American barbecue sauce",
-            "4 Homemade burger buns, split, toasted, and buttere",
-            "2 Garlic cloves, minced",
-            "1\/2 Green bell pepper, diced",
-            "450 grams Ground beef",
-            "1 teaspoon Hot sauce",
-            "1 tablespoon Olive oil",
-            "Salt and freshly ground black pepper",
-            "2 Shallots, chopped",
-            "180 grams Tomato sauce",
-            "2\/3 tablespoon Worcestershire sauce"
+            "1\/4 cup Balsamic Vinegar",
+            "1 bay leaf",
+            "6 Chicken Breast Halves, skinned & boned",
+            "2 cups chicken broth",
+            "1\/4 cup flour",
+            "1 pound Linguini, uncooked",
+            "1\/2 pound mushrooms, sliced",
+            "2 teaspoons olive oil",
+            "1\/2 teaspoon pepper",
+            "1\/4 teaspoon salt",
+            "1\/4 teaspoon Thyme"
         ]
     }
 }
