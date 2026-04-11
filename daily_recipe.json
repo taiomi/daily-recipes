@@ -1,14 +1,14 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-04-10",
+    "lastUpdated": "2026-04-11",
     "recipe": {
-        "title": "Almond Horns",
+        "title": "Trout wrapped in bacon",
         "readyInMinutes": 45,
-        "servings": 1,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/632140-556x370.jpg",
-        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/Z8CYT36R\/almond-horns",
-        "instructions": "<ol><li>(*) To blanch almonds, dip almonds into boiling water for 1 minute. Remove the brown skin covering. Dry in a 200 F oven for 30-45 minutes, stirring occasionally. Use a food processor to chop them to the finest size possible. (A 2-pound bag of almonds is what you'll need for this recipe).<\/li><li>Preheat oven to 300 F. Combine all of the ingredients thoroughly. Form into desired shapes and sizes (we usually form them into crescents) and bake on greased and floured cookie sheets. Bake for 20-30 minutes depending on thickness of cookie. (In my oven, it takes about 24 minutes).<\/li><li>NOTES :This recipe is a double recipe. These are one of my favorite cookies-I just LOVE almonds!<\/li><\/ol>",
-        "summary": "Almond Horns is a <b>gluten free, dairy free, lacto ovo vegetarian, and fodmap friendly<\/b> recipe with 1 servings. One serving contains <b>7261 calories<\/b>, <b>234g of protein<\/b>, and <b>526g of fat<\/b>. For <b>$32.07 per serving<\/b>, this recipe <b>covers 68%<\/b> of your daily requirements of vitamins and minerals. It works well as an expensive main course. This recipe from Foodista has 15 fans. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. If you have sugar, blanched almonds, egg whites, and a few other ingredients on hand, you can make it. Overall, this recipe earns an <b>excellent spoonacular score of 91%<\/b>. <a href=\"https:\/\/spoonacular.com\/recipes\/chocolate-dipped-almond-horns-205627\">Chocolate Dipped Almond Horns<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/chocolate-glazed-almond-horns-563052\">Chocolate-Glazed Almond Horns<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/chocolate-glazed-almond-horns-494240\">Chocolate-Glazed Almond Horns<\/a> are very similar to this recipe.",
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/663879-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/BTXLJDFN\/trout-wrapped-in-bacon",
+        "instructions": "Squeeze lemon juice over the skin and inside the cavity of each fish, season all over with salt and ground black pepper, then put a thyme sprig in each cavity.\nStretch each bacon rasher using the back of a knife, then wrap two rashers around each fish. Place the fish in a shallow ovenproof dish, lightly greased with butter, with the loose ends of bacon tucked underneath to prevent them from unwinding.\nBake the trout for 15-20 minutes in an oven at 200C, until the flesh flakes easily tested with the point of a sharp knife and the bacon is crisp an beginning to brown.\nTransfer the fish to warmed individual plates and serve immediately garnished with chopped parsley and sprigs of thyme and accompanied by lemon wedges.",
+        "summary": "Trout wrapped in bacon is a <b>gluten free, primal, and fodmap friendly<\/b> recipe with 4 servings. For <b>$5.52 per serving<\/b>, this recipe <b>covers 34%<\/b> of your daily requirements of vitamins and minerals. This main course has <b>519 calories<\/b>, <b>47g of protein<\/b>, and <b>35g of fat<\/b> per serving. It is brought to you by Foodista. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. 4 people were glad they tried this recipe. A mixture of trout, rashers rindless streaky bacon, thyme sprigs, and a handful of other ingredients are all it takes to make this recipe so delicious. Taking all factors into account, this recipe <b>earns a spoonacular score of 81%<\/b>, which is super. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/trout-wrapped-in-bacon-88854\">Trout Wrapped in Bacon<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/bacon-wrapped-trout-88865\">Bacon-Wrapped Trout<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/bacon-wrapped-trout-with-rosemary-7191\">Bacon-Wrapped Trout with Rosemary<\/a>.",
         "cuisines": [],
         "dishTypes": [
             "lunch",
@@ -17,10 +17,14 @@
             "dinner"
         ],
         "ingredients": [
-            "3 tablespoons almond extract",
-            "8 cups Finely chopped blanched almonds",
-            "6 Egg whites",
-            "1 1\/2 cups sugar"
+            "4 trout, gutted (about 800 g)",
+            "Juice of \u00bd lemon",
+            "4 fresh thyme sprigs",
+            "8 thin rashers (strips) rindless streaky bacon",
+            "Salt and ground black pepper",
+            "Fresh parsley, chopped, to garnish",
+            "Lemon wedges, to serve",
+            "Butter, for greasing"
         ]
     }
 }
