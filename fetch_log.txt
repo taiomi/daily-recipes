@@ -1586,3 +1586,7 @@
 [2026-04-14 04:08:26] Fetching recipe with day of year: 104
 [2026-04-14 04:08:27] Successfully fetched and saved recipe: Lamb and Fresh Goat Cheese Roulade
 [2026-04-14 04:08:27] Recipe fetch process completed
+[2026-04-15 04:07:37] Starting recipe fetch process
+[2026-04-15 04:07:37] Fetching recipe with day of year: 105
+[2026-04-15 04:07:38] ERROR: Failed to get API response
+[2026-04-15 04:07:38] Recipe fetch process completed
