@@ -1610,3 +1610,7 @@
 [2026-04-20 04:18:55] Fetching recipe with day of year: 110
 [2026-04-20 04:18:55] Successfully fetched and saved recipe: Peri Peri Chicken and Savoury Rice
 [2026-04-20 04:18:55] Recipe fetch process completed
+[2026-04-21 04:11:05] Starting recipe fetch process
+[2026-04-21 04:11:05] Fetching recipe with day of year: 111
+[2026-04-21 04:11:05] ERROR: Failed to get API response
+[2026-04-21 04:11:05] Recipe fetch process completed
