@@ -1,38 +1,33 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-04-29",
+    "lastUpdated": "2026-05-01",
     "recipe": {
-        "title": "Greek-Style Baked Fish: Fresh, Simple, and Delicious",
-        "readyInMinutes": 30,
+        "title": "Tomato and lentil soup",
+        "readyInMinutes": 45,
         "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/716408-556x370.jpg",
-        "sourceUrl": "https:\/\/fullbellysisters.blogspot.com\/2012\/04\/greek-style-baked-fish-fresh-simple-and.html",
-        "instructions": "<p><span class=\"Apple-style-span\">Preheat the oven to 450 degrees F. Choose an oven-proof baking dish that your fish will fit in without overlapping and spray it with cooking spray.<\/span><\/p><p><span class=\"Apple-style-span\">Lay the fish fillets in the baking pan in a single layer, season with salt and pepper, then top the fish with red onion and bell pepper.<\/span><\/p><p><span class=\"Apple-style-span\">Sprinkle with dried basil and oregano, the tomato, and the feta cheese, then drizzle the white wine and olive oil over top. Grind some fresh pepper over the top.<br><\/span><\/p><p><span class=\"Apple-style-span\">Bake uncovered for about 12 \u2013 15 minutes or until the fish flakes easily with a fork. Squeeze the lemon wedges over the cooked fish, garnish with the fresh basil and\/or oregano and serve with hot cooked rice.<\/span><\/p>",
-        "summary": "Greek-Style Baked Fish: Fresh, Simple, and Delicious might be just the <b>Mediterranean<\/b> recipe you are searching for. For <b>$3.04 per serving<\/b>, this recipe <b>covers 21%<\/b> of your daily requirements of vitamins and minerals. One portion of this dish contains roughly <b>28g of protein<\/b>, <b>12g of fat<\/b>, and a total of <b>343 calories<\/b>. This recipe serves 4. Plenty of people made this recipe, and 396 would say it hit the spot. It works well as a main course. Head to the store and pick up pepper, white wine, basil, and a few other things to make it today. From preparation to the plate, this recipe takes roughly <b>30 minutes<\/b>. It is a good option if you're following a <b>gluten free and pescatarian<\/b> diet. It is brought to you by fullbellysisters.blogspot.com. Overall, this recipe earns a <b>tremendous spoonacular score of 98%<\/b>. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/simple-greek-style-baked-fish-557560\">Simple Greek Style Baked Fish<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/greek-style-baked-fish-526858\">Greek Style Baked Fish<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/delicious-greek-pastitsio-casserole-style-569500\">Delicious Greek Pastitsio {Casserole-Style}<\/a>.",
-        "cuisines": [
-            "Mediterranean",
-            "European",
-            "Greek"
-        ],
+        "image": "https:\/\/img.spoonacular.com\/recipes\/663559-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/5V4PTMT2\/tomato-and-lentil-soup",
+        "instructions": "Saut onion and garlic in olive oil for 5 minutes.\nAdd the carrot, saut for another 2 minutes.\nAdd tomatoes, bay leaf and water, stir and bring to the boil.\nStir in lentils, season with salt and cook for 5 minutes.\nBefore serving sprinkle with chopped parsley.",
+        "summary": "Tomato and lentil soup might be a good recipe to expand your main course recipe box. This recipe makes 4 servings with <b>340 calories<\/b>, <b>18g of protein<\/b>, and <b>8g of fat<\/b> each. For <b>$1.16 per serving<\/b>, this recipe <b>covers 34%<\/b> of your daily requirements of vitamins and minerals. It is perfect for <b>Autumn<\/b>. This recipe from Foodista requires bay leaf, onion, garlic, and carrots. 11 person were glad they tried this recipe. From preparation to the plate, this recipe takes about <b>45 minutes<\/b>. It is a good option if you're following a <b>gluten free, dairy free, lacto ovo vegetarian, and vegan<\/b> diet. With a spoonacular <b>score of 96%<\/b>, this dish is great. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/tomato-and-lentil-soup-482854\">Tomato and Lentil Soup<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/lentil-tomato-soup-398380\">Lentil-Tomato Soup<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/lentil-tomato-soup-108370\">Lentil & Tomato Soup<\/a>.",
+        "cuisines": [],
         "dishTypes": [
             "lunch",
+            "soup",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "1 bell pepper",
-            "Cooked rice, for serving",
-            "1 tsp Dried basil",
-            "2 \u2013 3 oz. of crumbled feta cheese per pound of fish",
-            "1 lb fish fillets",
-            "2 Tablespoons olive oil per pound of fish",
-            "1 tsp dried oregano",
-            "Freshly ground pepper",
-            "1\/2 Red onion",
-            "Salt & pepper",
-            "1 tomato",
-            "\u00bc cup white wine"
+            "2 Tbs olive oil",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "3 carrots cut into cubes",
+            "480g canned chopped tomatoes",
+            "1 bay leaf",
+            "1.3 l water",
+            "250 g lentils",
+            "\u00bc tsp salt",
+            "1 bunch chopped parsley"
         ]
     }
 }
