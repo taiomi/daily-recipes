@@ -1,33 +1,30 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-05-01",
+    "lastUpdated": "2026-05-02",
     "recipe": {
-        "title": "Tomato and lentil soup",
+        "title": "Toasted\" Agnolotti (or Ravioli)",
         "readyInMinutes": 45,
-        "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/663559-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/5V4PTMT2\/tomato-and-lentil-soup",
-        "instructions": "Saut onion and garlic in olive oil for 5 minutes.\nAdd the carrot, saut for another 2 minutes.\nAdd tomatoes, bay leaf and water, stir and bring to the boil.\nStir in lentils, season with salt and cook for 5 minutes.\nBefore serving sprinkle with chopped parsley.",
-        "summary": "Tomato and lentil soup might be a good recipe to expand your main course recipe box. This recipe makes 4 servings with <b>340 calories<\/b>, <b>18g of protein<\/b>, and <b>8g of fat<\/b> each. For <b>$1.16 per serving<\/b>, this recipe <b>covers 34%<\/b> of your daily requirements of vitamins and minerals. It is perfect for <b>Autumn<\/b>. This recipe from Foodista requires bay leaf, onion, garlic, and carrots. 11 person were glad they tried this recipe. From preparation to the plate, this recipe takes about <b>45 minutes<\/b>. It is a good option if you're following a <b>gluten free, dairy free, lacto ovo vegetarian, and vegan<\/b> diet. With a spoonacular <b>score of 96%<\/b>, this dish is great. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/tomato-and-lentil-soup-482854\">Tomato and Lentil Soup<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/lentil-tomato-soup-398380\">Lentil-Tomato Soup<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/lentil-tomato-soup-108370\">Lentil & Tomato Soup<\/a>.",
-        "cuisines": [],
+        "servings": 2,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/631807-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/HR6QS422\/toasted-agnolotti-or-ravioli",
+        "instructions": "Preheat oven to 180 degrees Celsius (350 F) for a fan-forced oven or 200 degrees Celsius (392 F) for a convection oven.\nLine a baking tray with baking paper.\nSpray a thin layer of olive oil (any oil of your choice will do) on the baking paper. Set aside.\nCrack and beat an egg on a plate. On a separate plate  add breadcrumbs.\nDip agnolotti in the beaten egg first.\nThen coat it with breadcrumbs.  Repeat step 5 and 6 with the remaining agnolotti until egg and breadcrumbs are finished.\nPlace the crumbed agnolotti onto a baking tray. Once youve completed step 5 and 6, spray another thin layer of oil over the crumbed aganolotti. Bake the crumbed agnolotti for 25 minutes or until golden brown.\nServe immediately with pasta sauce or ketchup.",
+        "summary": "Toasted\" Agnolotti (or Ravioli) requires around <b>45 minutes<\/b> from start to finish. This recipe serves 2 and costs $1.95 per serving. This main course has <b>965 calories<\/b>, <b>41g of protein<\/b>, and <b>28g of fat<\/b> per serving. This recipe is liked by 7 foodies and cooks. It is a good option if you're following a <b>dairy free<\/b> diet. It is a <b>budget friendly<\/b> recipe for fans of Mediterranean food. If you have g pre-made agnolotti\/ravioli, egg, breadcrumbs, and a few other ingredients on hand, you can make it. It is brought to you by Foodista. Overall, this recipe earns a <b>pretty good spoonacular score of 61%<\/b>. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/butternut-squash-ravioli-agnolotti-di-zucca-375353\">Butternut Squash Ravioli: Agnolotti di Zucca<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/toasted-ravioli-426313\">Toasted Ravioli<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/toasted-ravioli-472366\">Toasted Ravioli<\/a>.",
+        "cuisines": [
+            "Mediterranean",
+            "Italian",
+            "European"
+        ],
         "dishTypes": [
+            "side dish",
             "lunch",
-            "soup",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "2 Tbs olive oil",
-            "1 onion, chopped",
-            "2 cloves garlic, minced",
-            "3 carrots cut into cubes",
-            "480g canned chopped tomatoes",
-            "1 bay leaf",
-            "1.3 l water",
-            "250 g lentils",
-            "\u00bc tsp salt",
-            "1 bunch chopped parsley"
+            "1\/3 packet of 375g (13 oz) pre-made fresh agnolotti\/ravioli",
+            "1 egg",
+            "1.5 cup breadcrumbs"
         ]
     }
 }
