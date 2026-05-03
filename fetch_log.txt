@@ -1658,3 +1658,7 @@
 [2026-05-02 04:17:24] Fetching recipe with day of year: 122
 [2026-05-02 04:17:24] Successfully fetched and saved recipe: Toasted" Agnolotti (or Ravioli)
 [2026-05-02 04:17:24] Recipe fetch process completed
+[2026-05-03 04:39:49] Starting recipe fetch process
+[2026-05-03 04:39:49] Fetching recipe with day of year: 123
+[2026-05-03 04:39:49] ERROR: Failed to get API response
+[2026-05-03 04:39:49] Recipe fetch process completed
