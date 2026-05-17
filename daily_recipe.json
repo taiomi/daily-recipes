@@ -1,31 +1,33 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-05-16",
+    "lastUpdated": "2026-05-17",
     "recipe": {
-        "title": "Baked Chicken Dijon",
+        "title": "Pasta With Wild Mushrooms, Peas and Bacon",
         "readyInMinutes": 45,
-        "servings": 6,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/633519-556x370.jpg",
-        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/K3ZQSDXQ\/baked-chicken-dijon",
-        "instructions": "<ol><li>Preheat oven to 350 F. Lightly coat 1 or 2 large baking sheets with cooking spray. Trim all visible fat from chicken and sprinkle lightly with salt and pepper. Stir yogurt and mustard in a small bowl. Spread mixture on bottom sides of chicken. Place on baking sheets, coated sides down, leaving space between pieces. Spread mixture over top. Combine bread crumbs, marjoram, salt and pepper. Sprinkle over chicken. Bake for 30 to 35 minutes until golden brown and no longer pink <\/li><li>Makes 6 servings (about4-ounces each)<\/li><\/ol>",
-        "summary": "Baked Chicken Dijon is a <b>ketogenic<\/b> main course. One serving contains <b>1887 calories<\/b>, <b>163g of protein<\/b>, and <b>125g of fat<\/b>. This recipe serves 6. For <b>$7.98 per serving<\/b>, this recipe <b>covers 50%<\/b> of your daily requirements of vitamins and minerals. It is brought to you by Foodista. 2 people have tried and liked this recipe. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. Head to the store and pick up pepper, chicken, marjoram, and a few other things to make it today. With a spoonacular <b>score of 77%<\/b>, this dish is solid. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/baked-chicken-dijon-1383915\">Baked Chicken Dijon<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/baked-chicken-dijon-168315\">Baked Chicken Dijon<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/baked-chicken-dijon-923277\">Baked Chicken Dijon<\/a>.",
+        "servings": 2,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/654965-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/5QMH5LX5\/pasta-with-wild-mushrooms-peas-and-bacon",
+        "instructions": "Heat 2 tablespoons of olive oil in a non-stick saute pan over medium heat. Add in the chopped shallot, garlic and bacon, cooking until the shallot softens and then bacon begins to crisp up nicely.\nToss in the mushrooms (make sure you've sliced any large ones), sauteing everything together for another 5-6 minutes, or until the mushrooms reach your desired consistency (tender, but not falling apart).\nMeanwhile, cook the pasta until it is al dente. I prefer to use a nice whole wheat fettuccine for this recipe as it pairs well with the nuttiness of the mushrooms. Once the pasta is cooked, drain it and set aside.\nAdd the peas and parsley to the skillet, season with salt and pepper and cook for just a minute or two before tossing in the pasta and mixing well, coating the pasta with the oils and fat.\nRemove the skillet from the heat and put the pasta into a large serving bowl. Shave a generous amount of Parmeggiano Reggiano over the dish, tossing to combine.\nServe with additional cheese and salt and fresh pepper, to your liking.",
+        "summary": "Pasta With Wild Mushrooms, Peas and Bacon is a main course that serves 2. For <b>$4.06 per serving<\/b>, this recipe <b>covers 41%<\/b> of your daily requirements of vitamins and minerals. One portion of this dish contains about <b>38g of protein<\/b>, <b>37g of fat<\/b>, and a total of <b>970 calories<\/b>. It is brought to you by Foodista. Only a few people made this recipe, and 8 would say it hit the spot. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. Head to the store and pick up fettuccine, garlic, peas, and a few other things to make it today. All things considered, we decided this recipe <b>deserves a spoonacular score of 82%<\/b>. This score is super. Try <a href=\"https:\/\/spoonacular.com\/recipes\/penne-with-chicken-wild-mushrooms-and-peas-349197\">Penne with Chicken, Wild Mushrooms and Peas<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/wild-rice-with-bacon-mushrooms-green-onions-665344\">Wild Rice With Bacon, Mushrooms & Green Onions<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/creamy-buckwheat-pasta-with-wild-mushrooms-76442\">Creamy Buckwheat Pasta with Wild Mushrooms<\/a> for similar recipes.",
         "cuisines": [],
         "dishTypes": [
+            "side dish",
             "lunch",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "1\/2 cup Fine fresh bread crumbs",
-            "6 Boneless skinless chicken",
-            "1\/4 cup Dijon mustard",
-            "1 teaspoon Dried marjoram",
-            "cup Nonfat yogurt",
-            "pepper, onion powder, 2 cans cream of chicken soup",
-            "pound Breasts -- about 2",
-            "1\/2 teaspoon Salt",
-            "Salt and pepper -- optional"
+            "10 ounces whole wheat fettuccine",
+            "1 cup of mixed wild mushrooms, cleaned, with stems trimmed to your liking",
+            "cup of fresh, shelled English peas",
+            "2 inches slices of good quality bacon, cut up into 1 cubes",
+            "3 tablespoons of olive oil",
+            "salt and pepper, to taste",
+            "1 large shallot, chopped finely",
+            "Parmeggiano Reggiano, to taste",
+            "2 tablespoons of fresh parsley, chopped finely",
+            "2 cloves of garlic, minced"
         ]
     }
 }
