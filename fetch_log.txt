@@ -1718,3 +1718,7 @@
 [2026-05-17 04:52:12] Fetching recipe with day of year: 137
 [2026-05-17 04:52:13] Successfully fetched and saved recipe: Pasta With Wild Mushrooms, Peas and Bacon
 [2026-05-17 04:52:13] Recipe fetch process completed
+[2026-05-18 05:05:15] Starting recipe fetch process
+[2026-05-18 05:05:15] Fetching recipe with day of year: 138
+[2026-05-18 05:05:16] ERROR: Failed to get API response
+[2026-05-18 05:05:16] Recipe fetch process completed
