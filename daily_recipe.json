@@ -1,33 +1,43 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-05-17",
+    "lastUpdated": "2026-05-19",
     "recipe": {
-        "title": "Pasta With Wild Mushrooms, Peas and Bacon",
-        "readyInMinutes": 45,
-        "servings": 2,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/654965-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/5QMH5LX5\/pasta-with-wild-mushrooms-peas-and-bacon",
-        "instructions": "Heat 2 tablespoons of olive oil in a non-stick saute pan over medium heat. Add in the chopped shallot, garlic and bacon, cooking until the shallot softens and then bacon begins to crisp up nicely.\nToss in the mushrooms (make sure you've sliced any large ones), sauteing everything together for another 5-6 minutes, or until the mushrooms reach your desired consistency (tender, but not falling apart).\nMeanwhile, cook the pasta until it is al dente. I prefer to use a nice whole wheat fettuccine for this recipe as it pairs well with the nuttiness of the mushrooms. Once the pasta is cooked, drain it and set aside.\nAdd the peas and parsley to the skillet, season with salt and pepper and cook for just a minute or two before tossing in the pasta and mixing well, coating the pasta with the oils and fat.\nRemove the skillet from the heat and put the pasta into a large serving bowl. Shave a generous amount of Parmeggiano Reggiano over the dish, tossing to combine.\nServe with additional cheese and salt and fresh pepper, to your liking.",
-        "summary": "Pasta With Wild Mushrooms, Peas and Bacon is a main course that serves 2. For <b>$4.06 per serving<\/b>, this recipe <b>covers 41%<\/b> of your daily requirements of vitamins and minerals. One portion of this dish contains about <b>38g of protein<\/b>, <b>37g of fat<\/b>, and a total of <b>970 calories<\/b>. It is brought to you by Foodista. Only a few people made this recipe, and 8 would say it hit the spot. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. Head to the store and pick up fettuccine, garlic, peas, and a few other things to make it today. All things considered, we decided this recipe <b>deserves a spoonacular score of 82%<\/b>. This score is super. Try <a href=\"https:\/\/spoonacular.com\/recipes\/penne-with-chicken-wild-mushrooms-and-peas-349197\">Penne with Chicken, Wild Mushrooms and Peas<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/wild-rice-with-bacon-mushrooms-green-onions-665344\">Wild Rice With Bacon, Mushrooms & Green Onions<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/creamy-buckwheat-pasta-with-wild-mushrooms-76442\">Creamy Buckwheat Pasta with Wild Mushrooms<\/a> for similar recipes.",
-        "cuisines": [],
+        "title": "Green Thai Curry with Beef",
+        "readyInMinutes": 180,
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/645541-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/XLCRNHRG\/green-thai-curry-with-beef",
+        "instructions": "<ol><li>Prepare marinade.<\/li><li>Slice beef. Add beef and marinade to freezer bag. Marinate for 2-4 in the fridge. The longer the better.<\/li><li>Slice\/chop all your veggies.<\/li><li>Prepare your curry paste.<\/li><li>Add oil to wok and heat.<\/li><li>Cook beef until done, approximately 10 minutes.<\/li><li>Remove from wok and set aside.<\/li><li>Add onions and cook for about 2 minutes.<\/li><li>Add carrots, peppers and mushrooms.<\/li><li>When almost done (to your preferred tenderness) add snap peas and bok choy. Cook about 2 minutes.<\/li><li>Remove veggies from wok and set aside.<\/li><li>Add curry paste to wok and heat through.<\/li><li>Add coconut milk and whisk until smooth.<\/li><li>Bring to a boil.<\/li><li>Add beef to the sauce.<\/li><li>Add veggies to the beef\/sauce mixture.<\/li><li>Heat through.<\/li><li>Serve over your choice of noodles or riice.<\/li><\/ol>",
+        "summary": "Green Thai Curry with Beef might be a good recipe to expand your main course recipe box. For <b>$5.87 per serving<\/b>, this recipe <b>covers 42%<\/b> of your daily requirements of vitamins and minerals. This recipe serves 4. Watching your figure? This gluten free and dairy free recipe has <b>659 calories<\/b>, <b>39g of protein<\/b>, and <b>46g of fat<\/b> per serving. If you have soy sauce, oil, flank steak, and a few other ingredients on hand, you can make it. It is an <b>expensive<\/b> recipe for fans of Asian food. 2 people have tried and liked this recipe. It is brought to you by Foodista. From preparation to the plate, this recipe takes around <b>3 hours<\/b>. With a spoonacular <b>score of 78%<\/b>, this dish is good. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/thai-red-beef-curry-with-green-beans-1366063\">Thai Red Beef Curry with Green Beans<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/thai-red-beef-curry-with-green-beans-838836\">Thai Red Beef Curry with Green Beans<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/homemade-thai-green-curry-paste-and-an-easy-thai-green-curry-909057\">Homemade Thai Green Curry Paste (And An Easy Thai Green Curry)<\/a>.",
+        "cuisines": [
+            "Thai",
+            "Asian"
+        ],
         "dishTypes": [
-            "side dish",
             "lunch",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "10 ounces whole wheat fettuccine",
-            "1 cup of mixed wild mushrooms, cleaned, with stems trimmed to your liking",
-            "cup of fresh, shelled English peas",
-            "2 inches slices of good quality bacon, cut up into 1 cubes",
-            "3 tablespoons of olive oil",
-            "salt and pepper, to taste",
-            "1 large shallot, chopped finely",
-            "Parmeggiano Reggiano, to taste",
-            "2 tablespoons of fresh parsley, chopped finely",
-            "2 cloves of garlic, minced"
+            "4 oz baby bok choy (trimmed)",
+            "1 can coconut milk",
+            "2 large carrots (thinly sliced diagonal)",
+            "2 tbsp. green curry powder",
+            "2 tbsp. fish sauce",
+            "20 oz. flank steak",
+            "2 cloves of garlic (thinly sliced)",
+            "1 tbsp. lemon juice",
+            "1\/2 tsp. ground lemongrass",
+            "Oil for cooking in wok",
+            "1 large onions (sliced)",
+            "1 orange pepper (thinly sliced)",
+            "7oz. oyster mushrooms (chopped)",
+            "1 red pepper (thinly sliced)",
+            "1 tbsp. rice wine vinegar",
+            "4 oz. snap peas (thinly sliced diagonal)",
+            "3 tbsp. soy sauce",
+            "1 yellow pepper (thinly sliced)"
         ]
     }
 }
