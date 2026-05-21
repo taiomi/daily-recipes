@@ -1730,3 +1730,7 @@
 [2026-05-20 05:04:22] Fetching recipe with day of year: 140
 [2026-05-20 05:04:22] Successfully fetched and saved recipe: Grilled Chicken with Sateay Sauce
 [2026-05-20 05:04:22] Recipe fetch process completed
+[2026-05-21 05:08:24] Starting recipe fetch process
+[2026-05-21 05:08:24] Fetching recipe with day of year: 141
+[2026-05-21 05:08:24] ERROR: Failed to get API response
+[2026-05-21 05:08:24] Recipe fetch process completed
