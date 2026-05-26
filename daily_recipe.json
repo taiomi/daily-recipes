@@ -1,17 +1,18 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-05-25",
+    "lastUpdated": "2026-05-26",
     "recipe": {
-        "title": "Vietnamese Banh Mi",
+        "title": "Easy Eggplant Parmesan",
         "readyInMinutes": 45,
-        "servings": 6,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/664828-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/F8TW84J6\/vietnamese-banh-mi",
-        "instructions": "Mix all marinade ingredients (except for pork) in a plastic bag. Let all ingredients dissolve in oil, then add slices of pork.\nAllow pork to marinade for at least 1 hour.\nHeat pan on medium heat, lay slices of pork, one layer at a time. When one side is cooked, flip to other side to finish cooking.\nLet the meat rest for 10 minutes and then slice into strips\nAssemble pork in your sandwich",
-        "summary": "Vietnamese Banh Mi is a <b>dairy free<\/b> recipe with 6 servings. One portion of this dish contains around <b>24g of protein<\/b>, <b>21g of fat<\/b>, and a total of <b>477 calories<\/b>. For <b>$1.86 per serving<\/b>, this recipe <b>covers 17%<\/b> of your daily requirements of vitamins and minerals. 3 people found this recipe to be delicious and satisfying. It is a <b>rather inexpensive<\/b> recipe for fans of Vietnamese food. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. It is brought to you by Foodista. If you have fish sauce, cucumber, sesame seed oil, and a few other ingredients on hand, you can make it. Not a lot of people really liked this main course. All things considered, we decided this recipe <b>deserves a spoonacular score of 46%<\/b>. This score is good. <a href=\"https:\/\/spoonacular.com\/recipes\/vietnamese-fried-egg-banh-mi-recipe-banh-mi-trung-op-la-the-41453\">Vietnamese Fried Egg Banh Mi Recipe (banh Mi Trung Op La)- \u201cthe<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/banh-xeo-bnh-xo-savory-vietnamese-crpe-1000958\">Banh Xeo (B\u00e1nh X\u00e8o) \u2013 Savory Vietnamese Cr\u00eape<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/vietnamese-banh-mi-sandwich-551749\">Vietnamese Banh Mi Sandwich<\/a> are very similar to this recipe.",
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/641962-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/XQNPGJDB\/easy-eggplant-parmesan",
+        "instructions": "Put the eggplant on a baking sheet and brush with olive oil. Place under the broiler until soft. Remove and allow to cool.\nMeanwhile, heat the sauce in a small saucepan. Heat the remaining oil and cook the onion for 5 minutes. Then add the garlic and cook for an additional minute. Add the onion and garlic to the sauce.\nArrange the eggplant across the bottom of a 8 x 6 baking dish and then scatter cheese on top. Repeat layers until you run out of eggplant. Finish off with sauce, basil and remaining cheese. Bake for 40 minutes and 375.\nOptional: If you prefer you can fry the eggplant in a bit of olive oil. Then, soak up oil on a paper towel.",
+        "summary": "Easy Eggplant Parmesan might be a good recipe to expand your main course recipe box. For <b>$2.63 per serving<\/b>, this recipe <b>covers 21%<\/b> of your daily requirements of vitamins and minerals. Watching your figure? This gluten free, lacto ovo vegetarian, and primal recipe has <b>288 calories<\/b>, <b>21g of protein<\/b>, and <b>12g of fat<\/b> per serving. This recipe serves 4. 2 people have tried and liked this recipe. This recipe is typical of Mediterranean cuisine. A mixture of style cheese, onion, pasta sauce, and a handful of other ingredients are all it takes to make this recipe so delicious. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. It is brought to you by Foodista. Overall, this recipe earns a <b>solid spoonacular score of 64%<\/b>. <a href=\"https:\/\/spoonacular.com\/recipes\/easy-eggplant-parmesan-265330\">Easy Eggplant Parmesan<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/easy-eggplant-parmesan-1620099\">Easy Eggplant Parmesan<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/easy-eggplant-parmesan-103890\">Easy Eggplant Parmesan<\/a> are very similar to this recipe.",
         "cuisines": [
-            "Vietnamese",
-            "Asian"
+            "Mediterranean",
+            "Italian",
+            "European"
         ],
         "dishTypes": [
             "lunch",
@@ -20,21 +21,13 @@
             "dinner"
         ],
         "ingredients": [
-            "6 rolls",
-            "1 pound of pork chops, shoulder or loin. Sliced thinly",
-            "2 cloves crushed garlic",
-            "2 tablespoons of fish sauce",
-            "2 teaspoons sugar",
-            "2 tablespoons fresh ground black pepper",
-            "2 tablespoons of finely chopped onion",
-            "1\/4 cup vegetable oil",
-            "1 teaspoon of sesame seed oil",
-            "mayo",
-            "cilantro sprigs",
-            "pickled carrot and daikon",
-            "pate",
-            "cucumber",
-            "jalapeno"
+            "3 tablespoons olive oil",
+            "1 onion, chopped",
+            "1 garlic clove, minced",
+            "1\/2 jar pasta sauce",
+            "1 1\/2 pounds eggplant, sliced",
+            "2 cups bag of Italian Style Cheese",
+            "1 cup basil leaves, chopped"
         ]
     }
 }
