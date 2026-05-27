@@ -1754,3 +1754,7 @@
 [2026-05-26 05:02:59] Fetching recipe with day of year: 146
 [2026-05-26 05:03:00] Successfully fetched and saved recipe: Easy Eggplant Parmesan
 [2026-05-26 05:03:00] Recipe fetch process completed
+[2026-05-27 05:14:40] Starting recipe fetch process
+[2026-05-27 05:14:40] Fetching recipe with day of year: 147
+[2026-05-27 05:14:40] ERROR: Failed to get API response
+[2026-05-27 05:14:40] Recipe fetch process completed
