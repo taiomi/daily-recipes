@@ -1,33 +1,34 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-05-26",
+    "lastUpdated": "2026-05-28",
     "recipe": {
-        "title": "Easy Eggplant Parmesan",
+        "title": "Chicken Sausage, White Bean and Cabbage Soup",
         "readyInMinutes": 45,
-        "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/641962-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/XQNPGJDB\/easy-eggplant-parmesan",
-        "instructions": "Put the eggplant on a baking sheet and brush with olive oil. Place under the broiler until soft. Remove and allow to cool.\nMeanwhile, heat the sauce in a small saucepan. Heat the remaining oil and cook the onion for 5 minutes. Then add the garlic and cook for an additional minute. Add the onion and garlic to the sauce.\nArrange the eggplant across the bottom of a 8 x 6 baking dish and then scatter cheese on top. Repeat layers until you run out of eggplant. Finish off with sauce, basil and remaining cheese. Bake for 40 minutes and 375.\nOptional: If you prefer you can fry the eggplant in a bit of olive oil. Then, soak up oil on a paper towel.",
-        "summary": "Easy Eggplant Parmesan might be a good recipe to expand your main course recipe box. For <b>$2.63 per serving<\/b>, this recipe <b>covers 21%<\/b> of your daily requirements of vitamins and minerals. Watching your figure? This gluten free, lacto ovo vegetarian, and primal recipe has <b>288 calories<\/b>, <b>21g of protein<\/b>, and <b>12g of fat<\/b> per serving. This recipe serves 4. 2 people have tried and liked this recipe. This recipe is typical of Mediterranean cuisine. A mixture of style cheese, onion, pasta sauce, and a handful of other ingredients are all it takes to make this recipe so delicious. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. It is brought to you by Foodista. Overall, this recipe earns a <b>solid spoonacular score of 64%<\/b>. <a href=\"https:\/\/spoonacular.com\/recipes\/easy-eggplant-parmesan-265330\">Easy Eggplant Parmesan<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/easy-eggplant-parmesan-1620099\">Easy Eggplant Parmesan<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/easy-eggplant-parmesan-103890\">Easy Eggplant Parmesan<\/a> are very similar to this recipe.",
-        "cuisines": [
-            "Mediterranean",
-            "Italian",
-            "European"
-        ],
+        "servings": 6,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/638315-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/R66F23JJ\/chicken-sausage-white-bean-and-cabbage-soup",
+        "instructions": "In a large pot, heat oil over medium heat.\nSaute onions until tender, about 8 minutes.\nAdd carrots and continue cooking for another 5 minutes.\nSeason with salt, pepper, garlic and red pepper flakes; cook for another minute.\nRemove sausage from casing and break into small chunks in the pot.\nToss with vegetables to brown meat, cooking for another 8-10 minutes.\nPour in stock, enough to cover everything; bring to a simmer.\nAdd white beans and cabbage, stirring to combine.\nSimmer, covered, until cabbage is wilted but not mushy, about 10 minutes.\nGenerally the sausage will contain enough salt for the soup, but check seasoning and add more salt or pepper if needed.",
+        "summary": "If you want to add more <b>gluten free and dairy free<\/b> recipes to your recipe box, Chicken Sausage, White Bean and Cabbage Soup might be a recipe you should try. One serving contains <b>312 calories<\/b>, <b>19g of protein<\/b>, and <b>13g of fat<\/b>. For <b>$1.96 per serving<\/b>, this recipe <b>covers 17%<\/b> of your daily requirements of vitamins and minerals. This recipe serves 6. 13 people have made this recipe and would make it again. A mixture of olive oil, mild chicken sausage, salt, and a handful of other ingredients are all it takes to make this recipe so flavorful. It can be enjoyed any time, but it is especially good for <b>Autumn<\/b>. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. It works well as a main course. It is brought to you by Foodista. Overall, this recipe earns a <b>pretty good spoonacular score of 67%<\/b>. Try <a href=\"https:\/\/spoonacular.com\/recipes\/white-bean-and-chicken-sausage-soup-1065782\">White Bean and Chicken Sausage Soup<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/chicken-sausage-and-white-bean-soup-video-850572\">Chicken Sausage and White Bean Soup Video<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/cabbage-and-white-bean-soup-11799\">Cabbage and White Bean Soup<\/a> for similar recipes.",
+        "cuisines": [],
         "dishTypes": [
             "lunch",
+            "soup",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "3 tablespoons olive oil",
-            "1 onion, chopped",
-            "1 garlic clove, minced",
-            "1\/2 jar pasta sauce",
-            "1 1\/2 pounds eggplant, sliced",
-            "2 cups bag of Italian Style Cheese",
-            "1 cup basil leaves, chopped"
+            "1 tablespoon olive oil",
+            "1 medium white onion, small dice (about 2 cups chopped)",
+            "2 carrots, peeled and diced",
+            "1\/2 teaspoon salt",
+            "1\/4 teaspoon black pepper",
+            "1 clove garlic, minced",
+            "1\/4 teaspoon crushed red pepper flakes",
+            "1 pound mild Italian chicken sausage",
+            "5 cups low sodium chicken or vegetable stock",
+            "15 oz can white beans, drained and rinsed",
+            "1\/2 head green cabbage"
         ]
     }
 }
