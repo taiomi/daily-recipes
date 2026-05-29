@@ -1,34 +1,32 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-05-28",
+    "lastUpdated": "2026-05-29",
     "recipe": {
-        "title": "Chicken Sausage, White Bean and Cabbage Soup",
+        "title": "Eggplant & Artichoke Heart Galettes",
         "readyInMinutes": 45,
-        "servings": 6,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/638315-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/R66F23JJ\/chicken-sausage-white-bean-and-cabbage-soup",
-        "instructions": "In a large pot, heat oil over medium heat.\nSaute onions until tender, about 8 minutes.\nAdd carrots and continue cooking for another 5 minutes.\nSeason with salt, pepper, garlic and red pepper flakes; cook for another minute.\nRemove sausage from casing and break into small chunks in the pot.\nToss with vegetables to brown meat, cooking for another 8-10 minutes.\nPour in stock, enough to cover everything; bring to a simmer.\nAdd white beans and cabbage, stirring to combine.\nSimmer, covered, until cabbage is wilted but not mushy, about 10 minutes.\nGenerally the sausage will contain enough salt for the soup, but check seasoning and add more salt or pepper if needed.",
-        "summary": "If you want to add more <b>gluten free and dairy free<\/b> recipes to your recipe box, Chicken Sausage, White Bean and Cabbage Soup might be a recipe you should try. One serving contains <b>312 calories<\/b>, <b>19g of protein<\/b>, and <b>13g of fat<\/b>. For <b>$1.96 per serving<\/b>, this recipe <b>covers 17%<\/b> of your daily requirements of vitamins and minerals. This recipe serves 6. 13 people have made this recipe and would make it again. A mixture of olive oil, mild chicken sausage, salt, and a handful of other ingredients are all it takes to make this recipe so flavorful. It can be enjoyed any time, but it is especially good for <b>Autumn<\/b>. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. It works well as a main course. It is brought to you by Foodista. Overall, this recipe earns a <b>pretty good spoonacular score of 67%<\/b>. Try <a href=\"https:\/\/spoonacular.com\/recipes\/white-bean-and-chicken-sausage-soup-1065782\">White Bean and Chicken Sausage Soup<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/chicken-sausage-and-white-bean-soup-video-850572\">Chicken Sausage and White Bean Soup Video<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/cabbage-and-white-bean-soup-11799\">Cabbage and White Bean Soup<\/a> for similar recipes.",
+        "servings": 2,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/642272-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/LD5GLFXJ\/eggplant-artichoke-heart-galettes",
+        "instructions": "<ol><li>Peel and thinly slice the eggplant. Place in a drainer or bowl and toss with sea salt. Let it sit for one hour for the bitter juices to be drawn out. Rinse under running water to remove the salt and squeeze tightly with your hands to remove excess water. Place in a mixing bowl.<\/li><li>In a medium bowl, beat eggs with flour to make a thick paste. If paste is thin, add extra flour. Mix well till the mixture is smooth. Stir in eggplant &amp; artichoke hearts and mix till they are well coated.<\/li><li>Add rosemary, chili flakes, garlic and season to taste with sea salt and pepper (be careful not to add too much salt) . Add goat cheese and mix carefully so not to cream it - you want them to be chunky.<\/li><li>Heat a large oiled pan. When hot, pour about 2 spoonfuls of mixture into the pan and they should form into galettes or \"cakes\". Cook until both sides are golden brown.<\/li><li>Makes 6 galettes\/cakes. Serving size is 3 cakes per person.<\/li><\/ol>",
+        "summary": "Eggplant & Artichoke Heart Galettes is a main course that serves 2. One serving contains <b>463 calories<\/b>, <b>21g of protein<\/b>, and <b>14g of fat<\/b>. For <b>$3.73 per serving<\/b>, this recipe <b>covers 33%<\/b> of your daily requirements of vitamins and minerals. If you have goat cheese, bell pepper, garlic cloves, and a few other ingredients on hand, you can make it. 13 people have made this recipe and would make it again. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. It is a good option if you're following a <b>gluten free and lacto ovo vegetarian<\/b> diet. It is brought to you by Foodista. Taking all factors into account, this recipe <b>earns a spoonacular score of 81%<\/b>, which is awesome. Try <a href=\"https:\/\/spoonacular.com\/recipes\/jerusalem-artichoke-and-artichoke-heart-linguine-190961\">Jerusalem Artichoke and Artichoke Heart Linguine<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/artichoke-heart-dip-109092\">Artichoke Heart Dip<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/artichoke-heart-chicken-109207\">Artichoke Heart Chicken<\/a> for similar recipes.",
         "cuisines": [],
         "dishTypes": [
             "lunch",
-            "soup",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "1 tablespoon olive oil",
-            "1 medium white onion, small dice (about 2 cups chopped)",
-            "2 carrots, peeled and diced",
-            "1\/2 teaspoon salt",
-            "1\/4 teaspoon black pepper",
-            "1 clove garlic, minced",
-            "1\/4 teaspoon crushed red pepper flakes",
-            "1 pound mild Italian chicken sausage",
-            "5 cups low sodium chicken or vegetable stock",
-            "15 oz can white beans, drained and rinsed",
-            "1\/2 head green cabbage"
+            "1 can plain artichoke hearts, chopped",
+            "10 tablespoons brown rice flour (or regular)",
+            "1 teaspoon chili flakes",
+            "1 medium\/large eggplant",
+            "3 eggs",
+            "3 teaspoons fresh rosemary, finely chopped",
+            "2 garlic cloves, minced",
+            "1\/4 cup fresh goat cheese (or cheese)",
+            "pepper",
+            "1 tablespoon sea salt"
         ]
     }
 }
