@@ -1,15 +1,18 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-05-31",
+    "lastUpdated": "2026-06-01",
     "recipe": {
-        "title": "Peruvian Roast Chicken",
+        "title": "Barbecue Pizza",
         "readyInMinutes": 45,
-        "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/655793-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/48JPTJ2N\/peruvian-roast-chicken",
-        "instructions": "1. Mix together the marinade ingredients.\n2. Place the whole chicken into a large (about 2 gallon size) ziploc bag and pour in the marinade.\n3. Spread the marinade so that it covers all the chicken.\n4. Marinade overnight.\n5. Take the chicken out of the fridge about 30-45 minutes before you roast it, so it comes closer to room temperature. This helps the chicken become more moist and cooked evenly.\n6. Preheat the oven to 450F.\n7. Remove the chicken from the marinate and brush off any garlic so it will not burn.\n8. Lay the chicken breast side up in a roasting pan or cast iron skillet.\n9. Truss the chicken. This keeps the juices in during the roasting and makes the meat more tender.\n10. Roast 45-55 minutes.\n11. Let rest 5 minutes before carving.",
-        "summary": "If you have about <b>45 minutes<\/b> to spend in the kitchen, Peruvian Roast Chicken might be an outstanding <b>gluten free, dairy free, and ketogenic<\/b> recipe to try. This main course has <b>472 calories<\/b>, <b>32g of protein<\/b>, and <b>36g of fat<\/b> per serving. This recipe serves 4 and costs $1.7 per serving. This recipe from Foodista requires olive oil, garlic cloves, juice of lemon, and red wine vinegar. 2 people were impressed by this recipe. All things considered, we decided this recipe <b>deserves a spoonacular score of 54%<\/b>. This score is solid. If you like this recipe, take a look at these similar recipes: <a href=\"https:\/\/spoonacular.com\/recipes\/peruvian-roast-chicken-1583009\">Peruvian Roast Chicken<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/peruvian-roast-chicken-600230\">Peruvian Roast Chicken<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/peruvian-roast-chicken-1262947\">Peruvian Roast Chicken<\/a>.",
-        "cuisines": [],
+        "servings": 1,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/634274-556x370.jpg",
+        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/T4WXYL67\/barbecue-pizza",
+        "instructions": "<ol><li>Preheat oven to 400 degrees. Place pizza crust on a baking sheet. Evenly spread pizza sauce on crust. Top with cheese. In a separate bowl mix barbecue meat and sauce. Spread barbecue mixture on toip of cheese. Top with onion rings, as desired. Bake in oven for 10-12 minutes until cheese bubbles.<\/li><\/ol>",
+        "summary": "If you want to add more <b>Barbecue<\/b> recipes to your recipe box, Barbecue Pizza might be a recipe you should try. This recipe makes 1 servings with <b>2450 calories<\/b>, <b>121g of protein<\/b>, and <b>73g of fat<\/b> each. For <b>$11.81 per serving<\/b>, this recipe <b>covers 61%<\/b> of your daily requirements of vitamins and minerals. Not a lot of people really liked this main course. 2 people have tried and liked this recipe. It will be a hit at your <b>Father's Day<\/b> event. Head to the store and pick up barbecue sauce, & barbecue meat, pizza crust, and a few other things to make it today. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. It is brought to you by Foodista. Overall, this recipe earns an <b>excellent spoonacular score of 84%<\/b>. Similar recipes include <a href=\"https:\/\/spoonacular.com\/recipes\/barbecue-pizza-elvis-pizza-colettas-italian-restaurant-1205451\">Barbecue Pizza: Elvis Pizza (Coletta's Italian Restaurant)<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/barbecue-pizza-elvis-pizza-colettas-italian-restaurant-395955\">Barbecue Pizza: Elvis Pizza (Coletta's Italian Restaurant)<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/barbecue-pizza-1483807\">Barbecue Pizza<\/a>.",
+        "cuisines": [
+            "bbq",
+            "Barbecue"
+        ],
         "dishTypes": [
             "lunch",
             "main course",
@@ -17,19 +20,12 @@
             "dinner"
         ],
         "ingredients": [
-            "1 3-4 lb. whole chicken",
-            "4 garlic cloves, chopped",
-            "juice of 1\/2 lemon",
-            "3 tablespoons white vinegar or red wine vinegar",
-            "1 tablespoon soy sauce",
-            "3 tablespoons canola or olive oil",
-            "2 tablespoons paprika",
-            "1 tablespoon cumin",
-            "1 teaspoon turmeric",
-            "salt",
-            "black pepper",
-            "kitchen twine",
-            "kitchen twine"
+            "1\/2 cup barbecue sauce",
+            "4 ounces Cooked & chopped barbecue meat (pork, chicken6 Sliced rings of red onion (up to 8)",
+            "6 Sliced rings of red onion (up to 8)",
+            "1 12\" Pizza Crust",
+            "2 cups Shredded mozzarella cheese",
+            "cup Pizza sauce or meatless spaghetti"
         ]
     }
 }
