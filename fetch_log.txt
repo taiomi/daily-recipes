@@ -1790,3 +1790,7 @@
 [2026-06-04 05:56:04] Fetching recipe with day of year: 155
 [2026-06-04 05:56:05] Successfully fetched and saved recipe: Beef Pot Pies with Irish Cheddar Crust
 [2026-06-04 05:56:05] Recipe fetch process completed
+[2026-06-05 05:16:08] Starting recipe fetch process
+[2026-06-05 05:16:08] Fetching recipe with day of year: 156
+[2026-06-05 05:16:08] ERROR: Failed to get API response
+[2026-06-05 05:16:08] Recipe fetch process completed
