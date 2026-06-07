@@ -1,34 +1,36 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-06-06",
+    "lastUpdated": "2026-06-07",
     "recipe": {
-        "title": "How To Make Fried Chicken Without Frying",
+        "title": "A Classic Caesar Salad",
         "readyInMinutes": 45,
-        "servings": 2,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/647577-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/QPM63867\/how-to-make-fried-chicken-without-frying",
-        "instructions": "Preheat the oven to 200C\/400F.\nWash and dry the chicken thighs.\nMince the herbs.\nIn a bowl put the extra virgin olive oil, the minced herbs, salt and pepper.\nPut the chicken inside the bowl and gently massage the chicken with the oil and herbs mixture.\nPass each thigh on the breadcrumbs and put on an oven tray covered with parchment paper.\nCook until well done, from 50 minutes to one hour, depending on your oven and the weight of the chicken pieces.\nAt half cooking time, turn each piece to the other side.\nPrepare a sauce mixing the honey and vinegar.\nFive minutes before taking the chicken out of the oven, brush each piece with the sauce.",
-        "summary": "How To Make Fried Chicken Without Frying takes around <b>45 minutes<\/b> from beginning to end. One portion of this dish contains around <b>42g of protein<\/b>, <b>53g of fat<\/b>, and a total of <b>826 calories<\/b>. This recipe serves 2 and costs $2.19 per serving. It is a good option if you're following a <b>dairy free<\/b> diet. 15 people were impressed by this recipe. This recipe from Foodista requires chicken thighs, bell pepper, rosemary, and sage. It works well as a main course. This recipe is typical of Southern cuisine. With a spoonacular <b>score of 69%<\/b>, this dish is good. <a href=\"https:\/\/spoonacular.com\/recipes\/frying-peppers-cherry-tomatoes-chicken-sausage-saute-612410\">Frying Peppers, Cherry Tomatoes & Chicken Sausage Saute<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/how-to-make-southern-fried-chicken-244541\">How to Make Southern Fried Chicken<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/how-to-make-buttermilk-fried-chicken-1190443\">How to Make Buttermilk Fried Chicken<\/a> are very similar to this recipe.",
+        "servings": 1,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/631890-556x370.jpg",
+        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/2DQP7DTZ\/a-classic-caesar-salad",
+        "instructions": "<ol><li>First make the croutons: Preheat the oven Fan 160oC\/180oC\/Gas Mark 4. Place a small roasting tray in the oven to heat up. Cut the bread, crusts and all, into chunky crouton shapes. Add the oil to the hot oven tray, then add the bread and quickly stir to coat in hot oil. Return the tray to the oven and bake for 10 mins or until crisp and golden. Cool.<\/li><li>To make the dressing: Place the egg yolk, lemon, mustard and two sauces in a medium bowl. Add plenty of salt and freshly ground black pepper and use a whisk to beat together.<\/li><li>When nicely combined, gradually add the two oils, whisking between additions until a creamy, thick dressing forms. Check the seasoning and adjust to your taste.<\/li><li>Break the lettuce into leaves, then thickly slice these. Place in a bowl, add the croutons, half the cheese and half the dressing then mix well to coat the leaves. Drizzle over the reaming dressing and scatter over the cheese. Serve straight away.<\/li><\/ol>",
+        "summary": "Forget going out to eat or ordering takeout every time you crave American food. Try making A Classic Caesar Salad at home. For <b>$5.78 per serving<\/b>, this recipe <b>covers 58%<\/b> of your daily requirements of vitamins and minerals. This main course has <b>1606 calories<\/b>, <b>37g of protein<\/b>, and <b>118g of fat<\/b> per serving. This recipe serves 1. 7 people were impressed by this recipe. Head to the store and pick up thickly crusty bread, egg yolk, romaine lettuce, and a few other things to make it today. It is brought to you by Foodista. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. Overall, this recipe earns a <b>spectacular spoonacular score of 95%<\/b>. <a href=\"https:\/\/spoonacular.com\/recipes\/a-classic-caesar-salad-1245311\">A Classic Caesar Salad<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/classic-caesar-salad-865728\">Classic Caesar Salad<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/classic-caesar-salad-1123310\">Classic Caesar Salad<\/a> are very similar to this recipe.",
         "cuisines": [
-            "Southern"
+            "American"
         ],
         "dishTypes": [
+            "side dish",
             "lunch",
             "main course",
+            "salad",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "4 chicken thighs",
-            "2 Tbsp of extra virgin olive oil",
-            "rosemary",
-            "sage",
-            "tarragon",
-            "salt",
-            "pepper",
-            "6 Tbsp of bread crumbs",
-            "2 Tbsp of honey",
-            "2 Tbsp of vinegar"
+            "150 g 5oz thickly sliced crusty bread",
+            "2 large egg yolk",
+            "60 ml\/4tbsp extra virgin olive oil",
+            "30 ml\/2tbsp lemon juice",
+            "5 ml\/1tsp English mustard powder",
+            "25 g 1oz freshly grated Parmesan cheese.",
+            "1 head of Romaine lettuce, trimmed and washed",
+            "45 ml\/3tbsp sunflower oil",
+            "5 ml\/1tsp Tabasco sauce",
+            "2 tsp\/10ml Worcestershire sauce"
         ]
     }
 }
