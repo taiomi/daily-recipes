@@ -1,36 +1,39 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-06-07",
+    "lastUpdated": "2026-06-09",
     "recipe": {
-        "title": "A Classic Caesar Salad",
+        "title": "Khachapuri",
         "readyInMinutes": 45,
-        "servings": 1,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/631890-556x370.jpg",
-        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/2DQP7DTZ\/a-classic-caesar-salad",
-        "instructions": "<ol><li>First make the croutons: Preheat the oven Fan 160oC\/180oC\/Gas Mark 4. Place a small roasting tray in the oven to heat up. Cut the bread, crusts and all, into chunky crouton shapes. Add the oil to the hot oven tray, then add the bread and quickly stir to coat in hot oil. Return the tray to the oven and bake for 10 mins or until crisp and golden. Cool.<\/li><li>To make the dressing: Place the egg yolk, lemon, mustard and two sauces in a medium bowl. Add plenty of salt and freshly ground black pepper and use a whisk to beat together.<\/li><li>When nicely combined, gradually add the two oils, whisking between additions until a creamy, thick dressing forms. Check the seasoning and adjust to your taste.<\/li><li>Break the lettuce into leaves, then thickly slice these. Place in a bowl, add the croutons, half the cheese and half the dressing then mix well to coat the leaves. Drizzle over the reaming dressing and scatter over the cheese. Serve straight away.<\/li><\/ol>",
-        "summary": "Forget going out to eat or ordering takeout every time you crave American food. Try making A Classic Caesar Salad at home. For <b>$5.78 per serving<\/b>, this recipe <b>covers 58%<\/b> of your daily requirements of vitamins and minerals. This main course has <b>1606 calories<\/b>, <b>37g of protein<\/b>, and <b>118g of fat<\/b> per serving. This recipe serves 1. 7 people were impressed by this recipe. Head to the store and pick up thickly crusty bread, egg yolk, romaine lettuce, and a few other things to make it today. It is brought to you by Foodista. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. Overall, this recipe earns a <b>spectacular spoonacular score of 95%<\/b>. <a href=\"https:\/\/spoonacular.com\/recipes\/a-classic-caesar-salad-1245311\">A Classic Caesar Salad<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/classic-caesar-salad-865728\">Classic Caesar Salad<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/classic-caesar-salad-1123310\">Classic Caesar Salad<\/a> are very similar to this recipe.",
-        "cuisines": [
-            "American"
-        ],
+        "servings": 8,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/648852-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/6KTLX5JQ\/khachapuri",
+        "instructions": "Dissolve yeast and 1 tsp sugar in 1\/4 cup water and let stand 5-10 minutes to proof until foamy. Add milk, 2 tbs sugar, butter, salt, and enough flour to make a soft dough. Place in greased bowl and turn to coat all sides. cover and let rise until double in bulk. shred cheeses, combine all filling ingredients and refrigerate. grease a 9\" springform pan very well. punch down dough, shape into a ball, and roll to a 20\" circle. Ease dough into pan (fold in half to lift and unfold in pan) letting excess hang over the edge. mound cheese filling onto dough in pan and bring dough up over the filling, folding to make 8-12 evenly-spaced pleats.\nTwist and pinch ends together to make a rough knob. Cover with a buttered 12\" square of waxed paper and let rise until double in bulk. Brush loaf with glaze of 1 egg white + 1 tbs water (or use margarine).\nBake 40-50 min. @ 375 or until deep golden brown. Remove bread from pan, place directly on oven rack, and bake for an additional 5 minutes to brown bottom crust. Cool on rack for 45 minutes before cutting into wedges.",
+        "summary": "Khachapuri is a <b>lacto ovo vegetarian<\/b> main course. One serving contains <b>686 calories<\/b>, <b>37g of protein<\/b>, and <b>55g of fat<\/b>. This recipe serves 8 and costs $2.4 per serving. This recipe from Foodista has 2 fans. From preparation to the plate, this recipe takes about <b>45 minutes<\/b>. A mixture of twist and ends together to make a rough knob. cover, parsley, swiss cheese 8 ounces cheddar 2 eggs, and a handful of other ingredients are all it takes to make this recipe so yummy. Taking all factors into account, this recipe <b>earns a spoonacular score of 49%<\/b>, which is good. Try <a href=\"https:\/\/spoonacular.com\/recipes\/khachapuri-446570\">Khachapuri<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/buffalo-chicken-khachapuri-865645\">Buffalo Chicken Khachapuri<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/khachapuri-is-a-georgian-cheese-bread-572881\">Khachapuri Is a Georgian Cheese Bread<\/a> for similar recipes.",
+        "cuisines": [],
         "dishTypes": [
-            "side dish",
             "lunch",
             "main course",
-            "salad",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "150 g 5oz thickly sliced crusty bread",
-            "2 large egg yolk",
-            "60 ml\/4tbsp extra virgin olive oil",
-            "30 ml\/2tbsp lemon juice",
-            "5 ml\/1tsp English mustard powder",
-            "25 g 1oz freshly grated Parmesan cheese.",
-            "1 head of Romaine lettuce, trimmed and washed",
-            "45 ml\/3tbsp sunflower oil",
-            "5 ml\/1tsp Tabasco sauce",
-            "2 tsp\/10ml Worcestershire sauce"
+            "1 package dry yeast",
+            "1 teaspoon sugar",
+            "1\/4 cup water, warm (110 degrees)",
+            "3\/4 cup milk, room temp.",
+            "2 tablespoons sugar",
+            "1\/2 cup butter, melted",
+            "1 teaspoon salt",
+            "3 1\/2 cups flour (all-purpose or bread 8 ounces muenster cheese 8 ounces Jarlsberg or Swiss cheese 8 ounces white cheddar 2 eggs, beaten slightly 2 tablespoons parsley, chopped 1\/4 teaspoon pepper, white",
+            "8 ounces muenster cheese",
+            "8 ounces Jarlsberg or Swiss cheese",
+            "8 ounces white cheddar",
+            "2 eggs, beaten slightly",
+            "2 tablespoons parsley, chopped",
+            "1\/4 teaspoon pepper, white",
+            "1Dissolve yeast and 1 tsp sugar in 1\/4 cup water and let stand 5-10 minutes to proof until foamy. Add milk, 2 Tbs sugar, butter, salt, and enough flour to make a soft dough. Place in greased bowl and turn to coat all sides. cover and let rise until double",
+            "2Twist and pinch ends together to make a rough knob. Cover with a buttered 12\" square of waxed paper and let rise until double in bulk. Brush loaf with glaze of 1 egg white + 1 Tbs water (or use margarine).",
+            "3Bake 40-50 min. @ 375 or until deep golden brown. Remove bread from pan, place directly on oven rack, and bake for an additional 5 minutes to brown bottom crust. Cool on rack for 45 minutes before cutting into wedges."
         ]
     }
 }
