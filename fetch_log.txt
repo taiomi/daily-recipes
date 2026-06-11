@@ -1814,3 +1814,7 @@
 [2026-06-10 05:17:42] Fetching recipe with day of year: 161
 [2026-06-10 05:17:43] Successfully fetched and saved recipe: Pecan Sandies
 [2026-06-10 05:17:43] Recipe fetch process completed
+[2026-06-11 05:46:56] Starting recipe fetch process
+[2026-06-11 05:46:56] Fetching recipe with day of year: 162
+[2026-06-11 05:46:56] ERROR: Failed to get API response
+[2026-06-11 05:46:56] Recipe fetch process completed
