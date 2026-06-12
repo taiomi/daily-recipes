@@ -1,15 +1,18 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-06-10",
+    "lastUpdated": "2026-06-12",
     "recipe": {
-        "title": "Pecan Sandies",
+        "title": "Garam Masala Pork Chops with Mint Yogurt and Spiced Couscous",
         "readyInMinutes": 45,
-        "servings": 1,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/655523-556x370.jpg",
-        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/XTJMLMP2\/pecan-sandies",
-        "instructions": "<ol><li>In a large bowl, whisk flour, salt, and baking soda. Set aside. <\/li><li>In a separate large bowl, beat butter with sugars and oil until well combined. Beat in eggs and vanilla. Gradually add in flour mixture, beating just until combined. Stir in the chopped pecans. Cover and chill the dough for at least 30 minutes. <\/li><li>When ready to bake, preheat the oven to 375 degrees F. Drop by tablespoon-fuls onto a cookie sheet and bake for about 10 minutes, until light brown in color.<\/li><\/ol>",
-        "summary": "If you want to add more <b>lacto ovo vegetarian<\/b> recipes to your recipe box, Pecan Sandies might be a recipe you should try. For <b>$7.55 per serving<\/b>, this recipe <b>covers 56%<\/b> of your daily requirements of vitamins and minerals. This recipe serves 1. This main course has <b>4772 calories<\/b>, <b>41g of protein<\/b>, and <b>311g of fat<\/b> per serving. This recipe from Foodista requires salt, soda, oil, and eggs. Only a few people made this recipe, and 8 would say it hit the spot. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. Overall, this recipe earns an <b>outstanding spoonacular score of 86%<\/b>. If you like this recipe, take a look at these similar recipes: <a href=\"https:\/\/spoonacular.com\/recipes\/pecan-sandies-158022\">Pecan Sandies<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/pecan-sandies-140685\">Pecan Sandies<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/pecan-sandies-538412\">Pecan Sandies<\/a>.",
-        "cuisines": [],
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/644167-556x370.jpg",
+        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/6247HX8F\/garam-masala-pork-chops-with-mint-yogurt-and-spiced-couscous",
+        "instructions": "<ol><li>Chops:<\/li><li>Trim pork chops of excess fat. Rub garam masala into chops (both sides).<\/li><li>Place on a plate, cover and refrigerate for 6-8 hours, to allow flavors to penetrate.<\/li><li>Chop the mint and stir into the yogurt and refrigerate for the same period as the pork chops.<\/li><li>Preheat broiler. Spray broiler rack with nonstick cooking spray. Broil chops for about 5 minutes each side. Alternately, grill chops over direct heat until well marked on both sides, move to indirect heat, cover loosely in foil, and cook until internal temp reaches 145F. Remove from heat and allow to rest 3 minutes.<\/li><li>Serve with mint yogurt.<\/li><li>Note: *Garam Masala is available in specialty stores and many larger grocery stores.<\/li><li>Spiced Couscous:<\/li><li>In a medium saucepan bring the broth, raisins, olive oil, cumin, cayenne and salt to a boil. Stir in the couscous, bring back to a boil, cover and remove from the heat. Set aside for 5 minutes.<\/li><li>Juice the lemon and stir into the couscous with the sesame seeds.<\/li><li>Serve.<\/li><\/ol>",
+        "summary": "Garam Masala Pork Chops with Mint Yogurt and Spiced Couscous might be just the <b>Indian<\/b> recipe you are searching for. For <b>$4.57 per serving<\/b>, you get a main course that serves 4. One serving contains <b>461 calories<\/b>, <b>47g of protein<\/b>, and <b>15g of fat<\/b>. This recipe from Foodista requires yogurt, raisins, couscous, and lemon. 2 people have made this recipe and would make it again. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. With a spoonacular <b>score of 77%<\/b>, this dish is solid. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/garam-masala-lamb-chops-with-apricot-couscous-697250\">Garam Masala Lamb Chops with Apricot Couscous<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/spiced-lamb-chops-on-sauteed-peppers-and-onions-with-garlic-and-mint-couscous-288106\">Spiced Lamb Chops on Sauteed Peppers and Onions with Garlic and Mint Couscous<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/garam-masala-how-to-make-punjabi-garam-masala-powder-at-home-487599\">garam masala , how to make punjabi garam masala powder at home<\/a>.",
+        "cuisines": [
+            "Indian",
+            "Asian"
+        ],
         "dishTypes": [
             "lunch",
             "main course",
@@ -17,17 +20,19 @@
             "dinner"
         ],
         "ingredients": [
-            "1 cup butter, softened",
-            "1 teaspoon soda",
-            "1 teaspoon cream of tartar",
-            "2 eggs",
-            "1 1\/2 cups flour, sifted",
-            "1 cup oil",
-            "1 cup pecans finely chopped",
-            "1 cup powdered sugar",
-            "1\/2 teaspoon salt",
-            "1 cup sugar",
-            "1 teaspoon vanilla"
+            "1 tablespoon Cayenne pepper, ground",
+            "1 1\/3 cup chicken broth",
+            "2\/3 cup couscous",
+            "10 fresh mint leaves",
+            "4 tbsp. garam masala spices*",
+            "1 tsp. ground cumin",
+            "4 6-oz. lean pork loin chops",
+            "1 lemon",
+            "2 tablespoons olive oil",
+            "4 tsp. raisins",
+            "Salt to taste",
+            "2 tsp. sesame seeds",
+            "1\/2 cup Greek style yogurt"
         ]
     }
 }
