@@ -1,18 +1,15 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-06-12",
+    "lastUpdated": "2026-06-13",
     "recipe": {
-        "title": "Garam Masala Pork Chops with Mint Yogurt and Spiced Couscous",
-        "readyInMinutes": 45,
+        "title": "Cranberry and Orange Juice Spareribs",
+        "readyInMinutes": 210,
         "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/644167-556x370.jpg",
-        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/6247HX8F\/garam-masala-pork-chops-with-mint-yogurt-and-spiced-couscous",
-        "instructions": "<ol><li>Chops:<\/li><li>Trim pork chops of excess fat. Rub garam masala into chops (both sides).<\/li><li>Place on a plate, cover and refrigerate for 6-8 hours, to allow flavors to penetrate.<\/li><li>Chop the mint and stir into the yogurt and refrigerate for the same period as the pork chops.<\/li><li>Preheat broiler. Spray broiler rack with nonstick cooking spray. Broil chops for about 5 minutes each side. Alternately, grill chops over direct heat until well marked on both sides, move to indirect heat, cover loosely in foil, and cook until internal temp reaches 145F. Remove from heat and allow to rest 3 minutes.<\/li><li>Serve with mint yogurt.<\/li><li>Note: *Garam Masala is available in specialty stores and many larger grocery stores.<\/li><li>Spiced Couscous:<\/li><li>In a medium saucepan bring the broth, raisins, olive oil, cumin, cayenne and salt to a boil. Stir in the couscous, bring back to a boil, cover and remove from the heat. Set aside for 5 minutes.<\/li><li>Juice the lemon and stir into the couscous with the sesame seeds.<\/li><li>Serve.<\/li><\/ol>",
-        "summary": "Garam Masala Pork Chops with Mint Yogurt and Spiced Couscous might be just the <b>Indian<\/b> recipe you are searching for. For <b>$4.57 per serving<\/b>, you get a main course that serves 4. One serving contains <b>461 calories<\/b>, <b>47g of protein<\/b>, and <b>15g of fat<\/b>. This recipe from Foodista requires yogurt, raisins, couscous, and lemon. 2 people have made this recipe and would make it again. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. With a spoonacular <b>score of 77%<\/b>, this dish is solid. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/garam-masala-lamb-chops-with-apricot-couscous-697250\">Garam Masala Lamb Chops with Apricot Couscous<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/spiced-lamb-chops-on-sauteed-peppers-and-onions-with-garlic-and-mint-couscous-288106\">Spiced Lamb Chops on Sauteed Peppers and Onions with Garlic and Mint Couscous<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/garam-masala-how-to-make-punjabi-garam-masala-powder-at-home-487599\">garam masala , how to make punjabi garam masala powder at home<\/a>.",
-        "cuisines": [
-            "Indian",
-            "Asian"
-        ],
+        "image": "https:\/\/img.spoonacular.com\/recipes\/640349-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/KND4S2Q4\/cranberry-and-orange-juice-spareribs",
+        "instructions": "<ol><li>Combine all of the ingredients for the marinade in a bowl and stir.<\/li><li>Place ribs in the marinade and refrigerate for at least one hour or more or up to overnight.<\/li><li>Preheat oven to 325 degrees F.<\/li><li>Place the ribs in a roasting pan with the marinade.<\/li><li>Bake uncovered for 2 \u2013 2 \u00bd hours or until the ribs are fall off the bone tender. Allow the marinade to evaporate in the cooking process.<\/li><li>Let the ribs cool slightly; then separate the ribs with a cooking scissor and plate.<\/li><\/ol>",
+        "summary": "Cranberry and Orange Juice Spareribs is a main course that serves 4. For <b>$2.54 per serving<\/b>, this recipe <b>covers 34%<\/b> of your daily requirements of vitamins and minerals. Watching your figure? This gluten free, dairy free, and ketogenic recipe has <b>942 calories<\/b>, <b>51g of protein<\/b>, and <b>75g of fat<\/b> per serving. 7 people were glad they tried this recipe. It is brought to you by Foodista. A mixture of ketchup, orange juice, curry powder, and a handful of other ingredients are all it takes to make this recipe so tasty. From preparation to the plate, this recipe takes about <b>3 hours and 30 minutes<\/b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 71%<\/b>. This score is solid. Similar recipes include <a href=\"https:\/\/spoonacular.com\/recipes\/cranberry-orange-juice-slushee-128682\">Cranberry-Orange Juice Slushee<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/cranberry-orange-juice-bread-1258529\">Cranberry Orange Juice Bread<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/cranberry-orange-juice-bread-515851\">Cranberry Orange Juice Bread<\/a>.",
+        "cuisines": [],
         "dishTypes": [
             "lunch",
             "main course",
@@ -20,19 +17,18 @@
             "dinner"
         ],
         "ingredients": [
-            "1 tablespoon Cayenne pepper, ground",
-            "1 1\/3 cup chicken broth",
-            "2\/3 cup couscous",
-            "10 fresh mint leaves",
-            "4 tbsp. garam masala spices*",
+            "1 tsp. black pepper",
+            "\u00bd cup cranberry juice",
+            "1 tsp. curry powder",
+            "1 tsp. garlic powder",
             "1 tsp. ground cumin",
-            "4 6-oz. lean pork loin chops",
-            "1 lemon",
-            "2 tablespoons olive oil",
-            "4 tsp. raisins",
-            "Salt to taste",
-            "2 tsp. sesame seeds",
-            "1\/2 cup Greek style yogurt"
+            "\u00bc cup ketchup",
+            "\u00bd cup orange juice",
+            "1 tsp. salt",
+            "\u00bc cup soy sauce",
+            "4 lbs. spare ribs",
+            "\u00bc cup vinegar (any kind)",
+            "\u00bc cup water"
         ]
     }
 }
