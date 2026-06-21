@@ -1,31 +1,35 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-06-19",
+    "lastUpdated": "2026-06-21",
     "recipe": {
-        "title": "Artisan Farfalle Pasta With Smoked Salmon and Cream Sauce",
+        "title": "My Chicken Korma",
         "readyInMinutes": 45,
-        "servings": 2,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/632778-556x370.jpg",
-        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/KTCQCFSJ\/artisan-farfalle-pasta-with-smoked-salmon-and-cream-sauce",
-        "instructions": "<ol><li>In a large pot of boiling salted water, add 85 grams of pasta and cook according to direction about 7 minutes.<\/li><li>Heat the oil in a saute pan and add the chopped shallots. Cook until transparent, about 2 minutes. Add the wine and the chicken broth and continue to cook for an additional 3-4 minutes until the liquids reduce. Stir in the pesto and sun dried tomatoes. Add the salmon and cream and allow to heat through, about 1-2 minutes.  Serve on the drained cooked pasta.  Serves 2 main courses<\/li><li>In a large pot of boiling salted water, add 85 grams of pasta and cook according to direction about 7 minutes.<\/li><li>Heat the oil in a saute pan and add the chopped shallots. Cook until transparent, about 2 minutes.<\/li><li>Add the wine and the chicken broth and continue to cook for an additional 3-4 minutes until the liquids reduce.<\/li><li>Stir in the pesto and sun dried tomatoes.<\/li><li>Add the salmon and cream and allow to heat through, about 1-2 minutes.  Serve on the drained cooked pasta.<\/li><\/ol>",
-        "summary": "Artisan Farfalle Pasta With Smoked Salmon and Cream Sauce might be just the main course you are searching for. This recipe makes 2 servings with <b>762 calories<\/b>, <b>28g of protein<\/b>, and <b>48g of fat<\/b> each. For <b>$6.5 per serving<\/b>, this recipe <b>covers 31%<\/b> of your daily requirements of vitamins and minerals. It is brought to you by Foodista. Only a few people made this recipe, and 3 would say it hit the spot. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. If you have chicken broth, artisan pasta, extra virgin oil, and a few other ingredients on hand, you can make it. Overall, this recipe earns a <b>pretty good spoonacular score of 78%<\/b>. Similar recipes include <a href=\"https:\/\/spoonacular.com\/recipes\/farfalle-pasta-with-smoked-salmon-and-cream-cheese-1233493\">Farfalle Pasta With Smoked Salmon And Cream Cheese<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/farfalle-pasta-with-smoked-salmon-and-cream-cheese-30071\">Farfalle Pasta With Smoked Salmon And Cream Cheese<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/smoked-salmon-and-farfalle-in-lemon-cream-sauce-321798\">Smoked Salmon and Farfalle in Lemon Cream Sauce<\/a>.",
-        "cuisines": [],
+        "servings": 3,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/652834-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/DYMLK2QG\/my-chicken-korma",
+        "instructions": "<ol><li>Cut the chicken breasts into small pieces.<\/li><li>Heat Oil in a pan. Add the ginger\/garlic paste to the oil and fry it for about 3 mins at a low heat. Then add cumin, coriander, almond and poppy seeds. Fry the masala for about 3-4 mins at a low heat.<\/li><li>Add the chicken pieces to the masala and continue to fry for another 5 mins at a low heat, stirring carefully and folding the masala from across the pan.<\/li><li>Add the coconut milk, stir the chicken pieces and ensure they are covered with coconut milk. Add salt to taste and the raisins.<\/li><li>Cover the pan and let the chicken cook with occasional stirring.<\/li><li>Serve with basmati rice.<\/li><\/ol>",
+        "summary": "If you want to add more <b>gluten free, dairy free, whole 30, and ketogenic<\/b> recipes to your collection, My Chicken Korma might be a recipe you should try. This main course has <b>315 calories<\/b>, <b>20g of protein<\/b>, and <b>25g of fat<\/b> per serving. This recipe serves 3. For <b>$1.44 per serving<\/b>, this recipe <b>covers 14%<\/b> of your daily requirements of vitamins and minerals. 7 people found this recipe to be flavorful and satisfying. Head to the store and pick up oil, ginger\/garlic paste, salt, and a few other things to make it today. It is brought to you by Foodista. This recipe is typical of Indian cuisine. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. Overall, this recipe earns a <b>solid spoonacular score of 41%<\/b>. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/vegetable-korma-how-to-make-veg-korma-487584\">vegetable korma , how to make veg korma<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/vegetable-korma-how-to-make-veg-korma-1265641\">vegetable korma , how to make veg korma<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/vegetable-korma-how-to-make-veg-korma-1262709\">vegetable korma , how to make veg korma<\/a>.",
+        "cuisines": [
+            "Indian",
+            "Asian"
+        ],
         "dishTypes": [
-            "side dish",
             "lunch",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "1\/2 cup chicken broth",
-            "1\/2 cup 15%% cooking cream (or 35%% cream)",
-            "3 tablespoons extra virgin oil",
-            "85 grams artisan pasta",
-            "2 shallots, chopped",
-            "6 ounces smoked salmon cut into bite size pieces",
-            "1\/2 cup sun dried tomatoes, cut into thin slices",
-            "1\/4 cup white wine"
+            "250 g of Chicken Breast",
+            "1 cup coconut milk",
+            "1\/2 teaspoon of coriander powder",
+            "1\/2 teaspoon of cumin powder",
+            "2 teaspoons of Ginger\/Garlic Paste",
+            "2 teaspoons of ground almond",
+            "1 tablespoon of Oil",
+            "\u00bd teaspoon of poppy seeds",
+            "3 -4 raisins",
+            "1 teaspoon salt"
         ]
     }
 }
