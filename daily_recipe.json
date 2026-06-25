@@ -1,43 +1,31 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-06-24",
+    "lastUpdated": "2026-06-25",
     "recipe": {
-        "title": "Game Day Jerk Wings",
+        "title": "Chicken Liver Salad",
         "readyInMinutes": 45,
-        "servings": 10,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/644149-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/HZFC3WHJ\/game-day-jerk-wings",
-        "instructions": "Split wings apart into 2 sections and slash a slit in the flat part of the wing for quicker cooking.\nCombine chile powder, salt, black pepper, cayenne, and allspice in a bowl and sprinkle liberally over the wings (you don't need to use all of it).  Refrigerate for at least 1 hour.\nCombine Pickapeppa sauce, butter, honey, Tabasco, and pepper flakes in a medium saucepan over low heat until it is well incorporated.\nLet wings come to room temperature.\nPrepare grill for medium high direct heat. Grill dry rubbed wings for 20-25 mins, constantly turning the wings with tongs to maintain good grill marks without over-charing the wings. Take the biggest wing after 20 mins and take a bite out of it, and if the juices run clear, they are done. Place wings in a large bowl and toss with the jerk sauce.\nServe with blue cheese dressing and carrots.",
-        "summary": "Game Day Jerk Wings might be just the hor d'oeuvre you are searching for. This recipe serves 10 and costs $2.21 per serving. One portion of this dish contains about <b>54g of protein<\/b>, <b>51g of fat<\/b>, and a total of <b>721 calories<\/b>. This recipe is liked by 3 foodies and cooks. This recipe is typical of American cuisine. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. If you have pickapeppa sauce, honey, kosher salt, and a few other ingredients on hand, you can make it. It is brought to you by Foodista. It is a good option if you're following a <b>gluten free and ketogenic<\/b> diet. All things considered, we decided this recipe <b>deserves a spoonacular score of 48%<\/b>. This score is solid. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/game-day-jerk-wings-1367701\">Game Day Jerk Wings<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/spicy-baked-chicken-wings-for-game-day-or-any-day-629529\">Spicy Baked Chicken Wings for Game Day or Any Day<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/game-day-indonesian-chicken-wings-1100290\">GAME DAY INDONESIAN CHICKEN WINGS<\/a>.",
-        "cuisines": [
-            "American"
-        ],
+        "servings": 2,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/638166-556x370.jpg",
+        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/CDV8FDBT\/chicken-liver-salad",
+        "instructions": "<ol><li>Saut` the onion and the bacon with the olive oil in a large skillet, over medium high heat.<\/li><li>When the bacon is slightly crisp add the chicken livers. Stir well.<\/li><li>Add the balsamic vinegar and continue to cook slowly.  Add more vinegar if necessary.<\/li><li>Serve warm over a bed of lettuce.<\/li><\/ol>",
+        "summary": "You can never have too many main course recipes, so give Chicken Liver Salad a try. One serving contains <b>613 calories<\/b>, <b>45g of protein<\/b>, and <b>42g of fat<\/b>. For <b>$1.81 per serving<\/b>, this recipe <b>covers 56%<\/b> of your daily requirements of vitamins and minerals. This recipe serves 2. 4 people found this recipe to be tasty and satisfying. It is brought to you by Foodista. Head to the store and pick up salt and pepper, balsamic vinegar, chicken livers, and a few other things to make it today. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. It is a good option if you're following a <b>gluten free, dairy free, paleolithic, and primal<\/b> diet. All things considered, we decided this recipe <b>deserves a spoonacular score of 94%<\/b>. This score is great. <a href=\"https:\/\/spoonacular.com\/recipes\/liver-pt-the-silkiest-and-creamiest-chicken-liver-mousse-ever-551492\">Liver P\u00e2t\u00e9 \u2013 The Silkiest and Creamiest Chicken Liver Mousse Ever<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/warm-chicken-liver-salad-225723\">Warm chicken liver salad<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/warm-artichoke-and-chicken-liver-salad-28783\">Warm Artichoke and Chicken Liver Salad<\/a> are very similar to this recipe.",
+        "cuisines": [],
         "dishTypes": [
-            "antipasti",
+            "side dish",
             "lunch",
             "main course",
-            "starter",
-            "snack",
-            "appetizer",
+            "salad",
             "main dish",
-            "antipasto",
-            "hor d'oeuvre",
             "dinner"
         ],
         "ingredients": [
-            "60 jumbo chicken wings split with wing tips removed",
-            "1\/4 cup pasilla chile powder",
-            "1\/4 cup kosher salt",
-            "1 tablespoon ground black pepper",
-            "2 tablespoons ground cayenne pepper",
-            "2 tablespoons jamaican ground allspice",
-            "1 bottle Pickapeppa Sauce (available at most supermarkets)",
-            "3 tablespoons of unsalted butter",
-            "3 tablespoons honey",
-            "5 or more dashes Tabasco sauce (depending how hot you like it!)",
-            "1 tablespoon red pepper flakes",
-            "carrot sticks and celery sticks",
-            "Blue Cheese Dressing"
+            "4 slices of bacon cut in small strips",
+            "Balsamic vinegar",
+            "Romaine or Boston lettuce cut in small pieces",
+            "1 pound chicken livers",
+            "Olive oil",
+            "1 onion, chopped",
+            "Salt and pepper"
         ]
     }
 }
