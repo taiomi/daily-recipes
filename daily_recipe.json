@@ -1,41 +1,36 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-06-27",
+    "lastUpdated": "2026-06-28",
     "recipe": {
-        "title": "Classic French Mussels",
-        "readyInMinutes": 45,
-        "servings": 2,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/639599-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/X2W746Q6\/classic-french-mussels-done-light",
-        "instructions": "<ol><li>Scrub mussels with a stiff brush, discard any that are open and stay that way even when you close the shell. Discard any with broken shells.<\/li><li>Soak them in cool clean water for at least an hour. Mussels are alive and breathing and have taken in sand over time. This allows them to expel the sand.<\/li><li>Mussels have a small fibrous \"beard\" that should be removed. Pull it out toward the hinge of the shell to keep from injuring the mussel.<\/li><li>Heat the olive oil in a large pot over medium-high heat. Add the shallots and garlic and cook until soft, about 5 minutes. Add the mussels, wine, buttermilk, butter, and parsley and season well with the kosher salt. Give it a good stir, cover the pot, and cook until mussels open and are cooked through, 10 to 15 minutes. Divide the mussels and the juices between 2 bowls and serve with a crusty whole-grain bread to sop up that wonderful sauce.<\/li><\/ol>",
-        "summary": "You can never have too many hor d'oeuvre recipes, so give Classic French Mussels a try. This recipe serves 2 and costs $2.93 per serving. Watching your figure? This gluten free, primal, and pescatarian recipe has <b>501 calories<\/b>, <b>32g of protein<\/b>, and <b>28g of fat<\/b> per serving. From preparation to the plate, this recipe takes about <b>45 minutes<\/b>. 2 people have made this recipe and would make it again. It is brought to you by Foodista. It is a <b>reasonably priced<\/b> recipe for fans of Mediterranean food. If you have buttermilk, parsley, butter, and a few other ingredients on hand, you can make it. All things considered, we decided this recipe <b>deserves a spoonacular score of 72%<\/b>. This score is solid. Similar recipes include <a href=\"https:\/\/spoonacular.com\/recipes\/classic-french-mussels-738888\">Classic French Mussels<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/french-country-mussels-138579\">French Country Mussels<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/french-steamed-mussels-1180539\">French Steamed Mussels<\/a>.",
-        "cuisines": [
-            "Mediterranean",
-            "French",
-            "European"
-        ],
+        "title": "Red Lentil Soup with Chicken and Turnips",
+        "readyInMinutes": 55,
+        "servings": 8,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/715415-556x370.jpg",
+        "sourceUrl": "https:\/\/www.pinkwhen.com\/red-lentil-soup-with-chicken-and-turnips\/",
+        "instructions": "To a large dutch oven or soup pot, heat the olive oil over medium heat. Add the onion, carrots and celery and cook for 8-10 minutes or until tender, stirring occasionally. Add the garlic and cook for an additional 2 minutes, or until fragrant. Season conservatively with a pinch of salt and black pepper.To the pot, add the tomatoes, turnip and red lentils. Stir to combine. Stir in the vegetable stock and increase the heat on the stove to high. Bring the soup to a boil and then reduce to a simmer. Simmer for 20 minutes or until the turnips are tender and the lentils are cooked through. Add the chicken breast and parsley. Cook for an additional 5 minutes. Adjust seasoning to taste.Serve the soup immediately garnished with fresh parsley and any additional toppings. Enjoy!",
+        "summary": "Red Lentil Soup with Chicken and Turnips might be a good recipe to expand your main course repertoire. This recipe serves 8 and costs $3.0 per serving. One serving contains <b>477 calories<\/b>, <b>27g of protein<\/b>, and <b>20g of fat<\/b>. It is brought to you by Pink When. 1866 people have tried and liked this recipe. It can be enjoyed any time, but it is especially good for <b>Autumn<\/b>. From preparation to the plate, this recipe takes approximately <b>55 minutes<\/b>. It is a good option if you're following a <b>gluten free and dairy free<\/b> diet. Head to the store and pick up salt and pepper, canned tomatoes, flat leaf parsley, and a few other things to make it today. Overall, this recipe earns a <b>spectacular spoonacular score of 99%<\/b>. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/red-lentil-and-chicken-soup-682185\">Red Lentil and Chicken Soup<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/red-lentil-and-chicken-soup-1058971\">Red Lentil and Chicken Soup<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/red-lentil-soup-34121\">Red-Lentil Soup<\/a>.",
+        "cuisines": [],
         "dishTypes": [
             "lunch",
-            "antipasti",
+            "soup",
             "main course",
-            "starter",
-            "snack",
-            "appetizer",
             "main dish",
-            "antipasto",
-            "dinner",
-            "hor d'oeuvre"
+            "dinner"
         ],
         "ingredients": [
-            "1\/2 cup dry white wine",
-            "3 sprigs fresh parsley",
-            "4 garlic cloves, finely chopped",
-            "Kosher salt",
-            "1\/2 cup low-fat buttermilk",
-            "2 pounds mussels, cleaned",
-            "1 Tbs olive oil",
-            "2 shallots, finely chopped",
-            "4 tablespoons unsalted light butter, cut into pieces"
+            "additional toppings: diced avocado, micro greens, chopped basil)",
+            "3 medium carrots, peeled and diced",
+            "3 celery stalks, diced",
+            "2 cups fully-cooked chicken breast, shredded (may be omitted for a vegetarian version)",
+            "\u00bd cup flat leaf Italian parsley, chopped (plus extra for garnish)",
+            "6 cloves of garlic, finely minced",
+            "2 tablespoons olive oil",
+            "28 ounce-can plum tomatoes, drained and rinsed, chopped",
+            "2 cups dried red lentils, rinsed",
+            "salt and black pepper, to taste",
+            "1 large turnip, peeled and diced",
+            "8 cups vegetable stock",
+            "1 medium yellow onion, diced"
         ]
     }
 }
