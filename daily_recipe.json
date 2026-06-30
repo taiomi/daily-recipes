@@ -1,36 +1,33 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-06-28",
+    "lastUpdated": "2026-06-30",
     "recipe": {
-        "title": "Red Lentil Soup with Chicken and Turnips",
-        "readyInMinutes": 55,
-        "servings": 8,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/715415-556x370.jpg",
-        "sourceUrl": "https:\/\/www.pinkwhen.com\/red-lentil-soup-with-chicken-and-turnips\/",
-        "instructions": "To a large dutch oven or soup pot, heat the olive oil over medium heat. Add the onion, carrots and celery and cook for 8-10 minutes or until tender, stirring occasionally. Add the garlic and cook for an additional 2 minutes, or until fragrant. Season conservatively with a pinch of salt and black pepper.To the pot, add the tomatoes, turnip and red lentils. Stir to combine. Stir in the vegetable stock and increase the heat on the stove to high. Bring the soup to a boil and then reduce to a simmer. Simmer for 20 minutes or until the turnips are tender and the lentils are cooked through. Add the chicken breast and parsley. Cook for an additional 5 minutes. Adjust seasoning to taste.Serve the soup immediately garnished with fresh parsley and any additional toppings. Enjoy!",
-        "summary": "Red Lentil Soup with Chicken and Turnips might be a good recipe to expand your main course repertoire. This recipe serves 8 and costs $3.0 per serving. One serving contains <b>477 calories<\/b>, <b>27g of protein<\/b>, and <b>20g of fat<\/b>. It is brought to you by Pink When. 1866 people have tried and liked this recipe. It can be enjoyed any time, but it is especially good for <b>Autumn<\/b>. From preparation to the plate, this recipe takes approximately <b>55 minutes<\/b>. It is a good option if you're following a <b>gluten free and dairy free<\/b> diet. Head to the store and pick up salt and pepper, canned tomatoes, flat leaf parsley, and a few other things to make it today. Overall, this recipe earns a <b>spectacular spoonacular score of 99%<\/b>. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/red-lentil-and-chicken-soup-682185\">Red Lentil and Chicken Soup<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/red-lentil-and-chicken-soup-1058971\">Red Lentil and Chicken Soup<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/red-lentil-soup-34121\">Red-Lentil Soup<\/a>.",
-        "cuisines": [],
+        "title": "Crispy Southern Fried Chicken",
+        "readyInMinutes": 45,
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/640843-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/868TLMQL\/crispy-southern-fried-chicken",
+        "instructions": "1.Pour the buttermilk into a tray or bowl add one teaspoon of salt, mix through and place the chicken pieces into the buttermilk. Depending on the size and shape of your bowl you may need a little bit more buttermilk in order that the chicken is covered. Cover with some cling film and place in the fridge for up to 8 hours. Remove before frying to give enough time to bring the meat up to room temperature.\n2.In a dish or bowl combine the flour, half teaspoon of salt, smoked paprika, thyme and pepper. Combine with your fingers or a fork.\n3.Remove the chicken from the buttermilk marinade and dispose of the marinade. Shake off most of the drips and then dredge the chicken in your flour mix making sure each piece is covered completely.\n4.Heat about 1.5cm \/ 0.5 in. of oil in a heavy bottomed wide pan. While this is heating up you can get a wire rack ready to drain the chicken. I do this by placing kitchen paper over the rack.\n5.The oil temperature should be about 170C \/ 340F for frying. I dont check with a thermometer but by putting a piece of bread in the oil and it is ready when it fizzes and turns brown quickly. The time the oil takes to heat up will depend on the thickness of the metal of your pan, your stove top and the quantity of oil you have used.\n6.You will probably have to cook in batches so as not to over load the pan. I start with the thighs which need a little bit more time than the legs. Place each one carefully in the pan and fry, covered, on a good strong simmer for anywhere between 8 to 12 minutes on each side. The heat needs to be high enough to give you a nice brown colour and a crisp finish. Remove and set on the rack to drain. Then do the same with the legs, giving them a couple of minutes less than the thighs.",
+        "summary": "Crispy Southern Fried Chicken might be just the <b>Southern<\/b> recipe you are searching for. For <b>$1.25 per serving<\/b>, you get a main course that serves 4. One serving contains <b>723 calories<\/b>, <b>37g of protein<\/b>, and <b>46g of fat<\/b>. Head to the store and pick up oz. flour, pepper, tsps of spicy paprika powder, and a few other things to make it today. 2 people found this recipe to be tasty and satisfying. It is brought to you by Foodista. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. Taking all factors into account, this recipe <b>earns a spoonacular score of 58%<\/b>, which is solid. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/crispy-southern-fried-chicken-1368271\">Crispy Southern Fried Chicken<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/crispy-southern-fried-chicken-1532087\">Crispy Southern Fried Chicken<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/crispy-southern-fried-hot-wings-1261263\">Crispy Southern Fried Hot Wings<\/a>.",
+        "cuisines": [
+            "Southern"
+        ],
         "dishTypes": [
             "lunch",
-            "soup",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "additional toppings: diced avocado, micro greens, chopped basil)",
-            "3 medium carrots, peeled and diced",
-            "3 celery stalks, diced",
-            "2 cups fully-cooked chicken breast, shredded (may be omitted for a vegetarian version)",
-            "\u00bd cup flat leaf Italian parsley, chopped (plus extra for garnish)",
-            "6 cloves of garlic, finely minced",
-            "2 tablespoons olive oil",
-            "28 ounce-can plum tomatoes, drained and rinsed, chopped",
-            "2 cups dried red lentils, rinsed",
-            "salt and black pepper, to taste",
-            "1 large turnip, peeled and diced",
-            "8 cups vegetable stock",
-            "1 medium yellow onion, diced"
+            "1.2kg \/ 2.6 lb. chicken legs and thighs. This weight usually gives me 4 legs and 4 thighs.",
+            "500ml \/ 1 pt. buttermilk",
+            "1 x tsp salt",
+            "150gr \/ 5 oz. plain flour",
+            "\u00bd tsp salt",
+            "2 x tsps of spicy smoked paprika powder (you can also use the mild version, but I like spice)",
+            "2 x tsps dried thyme",
+            "1 x tsp freshly ground black pepper",
+            "Vegetable oil to fry the chicken (I like to use rapeseed oil or sunflower oil)"
         ]
     }
 }
