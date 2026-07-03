@@ -1,44 +1,33 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-07-01",
+    "lastUpdated": "2026-07-03",
     "recipe": {
-        "title": "Make Olive Garden\u2019s Delicious Pasta Fagioli At Home",
+        "title": "Barbecued Baby Back Pork Ribs and Bush's Grillin' Beans",
         "readyInMinutes": 45,
-        "servings": 20,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/650654-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/3Q2XBWRG\/make-olive-gardens-delicious-pasta-fagioli-at-home",
-        "instructions": "Brown beef in a large soup pot.  Drain in a colander in sink.\nIn the same pot, heat the olive oil.  Add the onions, carrots, celery, and garlic and cook for 2 minutes. Stir often.\nAdd the drained beef back to the pot.  Stir in the canned tomatoes, beans, beef broth, spaghetti sauce, zucchini, water, Italian seasonings and pepper.\nBring soup up to a boil.  Turn heat to a simmer, cover and let cook for 50 minutes.\nAdd pasta to the soup.  Cover and cook for about 10 minutes longer until pasta is ready.\nLadle soup into a small bowl or cup.  Top with grated Parmesan cheese, if desired\nMakes 20 cups",
-        "summary": "If you want to add more <b>Mediterranean<\/b> recipes to your recipe box, Make Olive Garden\u2019s Delicious Pasta Fagioli At Home might be a recipe you should try. This recipe serves 20. One portion of this dish contains approximately <b>21g of protein<\/b>, <b>10g of fat<\/b>, and a total of <b>285 calories<\/b>. For <b>$1.58 per serving<\/b>, this recipe <b>covers 18%<\/b> of your daily requirements of vitamins and minerals. It works well as a main course. Not a lot of people made this recipe, and 2 would say it hit the spot. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. It is brought to you by Foodista. If you have kidney beans, garlic cloves, excellent northern beans, and a few other ingredients on hand, you can make it. All things considered, we decided this recipe <b>deserves a spoonacular score of 62%<\/b>. This score is good. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/olive-garden-pasta-e-fagioli-1347881\">Olive Garden Pastan e Fagioli<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/olive-garden-pasta-e-fagioli-1228645\">Olive Garden Pastan e Fagioli<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/olive-garden-pasta-e-fagioli-990430\">Olive Garden Pastan e Fagioli<\/a>.",
-        "cuisines": [
-            "Mediterranean",
-            "Italian",
-            "European"
-        ],
+        "servings": 2,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/634295-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/BT3LG25C\/barbecued-baby-back-pork-ribs-and-bush-s-grillin-beans",
+        "instructions": "<ol><li>Before Cooking:<\/li><li>A. Before marinating the ribs, remove the white membrane on the underside of the ribs. Start the removal with a sharp knife then use a paper towel to grab it and simply pull it off.<\/li><li>B. Mix all the marinade ingredients and pour over ribs in a flat casserole dish. If you have any extra marinade, don't pour it on and save it for after the ribs are cooked.<\/li><li>C. Marinate the ribs for at least 1 hour; but preferably for several hours before cooking.<\/li><li>Cooking:<\/li><li>1. Spray the BBQ grill rack with oil so the ribs wont stick. Place ribs on the grill, bone side down over low to medium heat; about 300*F.<\/li><li>2. Cook for about 20 minutes; and when the ribs start getting burnt on the underside, place them on aluminum foil so they cook but dont burn. Cook for another 20 minutes or so until done. A cut next to a bone will show no red.<\/li><li>3. Cut into individual ribs and serve hot with grillin' beans or whatever you choose. Then enjoy the wonderful flavor.<\/li><\/ol>",
+        "summary": "If you have about <b>45 minutes<\/b> to spend in the kitchen, Barbecued Baby Back Pork Ribs and Bush's Grillin' Beans might be a great <b>gluten free and dairy free<\/b> recipe to try. For <b>$1.96 per serving<\/b>, this recipe <b>covers 25%<\/b> of your daily requirements of vitamins and minerals. This recipe serves 2. One portion of this dish contains approximately <b>30g of protein<\/b>, <b>23g of fat<\/b>, and a total of <b>538 calories<\/b>. Not a lot of people made this recipe, and 2 would say it hit the spot. If you have baby back pork ribs, coriander, cider vinegar, and a few other ingredients on hand, you can make it. It works well as a budget friendly main course. It is brought to you by Foodista. With a spoonacular <b>score of 58%<\/b>, this dish is good. Similar recipes include <a href=\"https:\/\/spoonacular.com\/recipes\/cuban-pork-chops-with-bushs-black-bean-fiesta-grillin-beans-1297303\">Cuban Pork Chops with Bush\u2019s Black Bean Fiesta Grillin\u2019 Beans<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/cuban-pork-chops-with-bushs-black-bean-fiesta-grillin-beans-429139\">Cuban Pork Chops with Bush\u2019s Black Bean Fiesta Grillin\u2019 Beans<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/cuban-pork-chops-with-bushs-black-bean-fiesta-grillin-beans-1214827\">Cuban Pork Chops with Bush\u2019s Black Bean Fiesta Grillin\u2019 Beans<\/a>.",
+        "cuisines": [],
         "dishTypes": [
-            "soup",
             "lunch",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "1 pound lean ground beef or ground turkey",
-            "1 teaspoon olive oil",
-            "3 cups onions, chopped",
-            "4 carrots, chopped",
-            "4 celery stalks, chopped",
-            "2 garlic cloves, minced",
-            "1 can (28 oz) tomatoes, diced",
-            "1 can (16 oz) red kidney beans, rinsed and drained",
-            "1 can (16 oz) white kidney beans, rinsed and drained",
-            "1 can (16 oz) great northern beans, rinsed and drained",
-            "3 cans (10 oz) reduced-sodium beef broth",
-            "1 jar (24 oz) spaghetti, marinara, or pasta sauce, we used Prego's Heart Smart",
-            "1 zucchini, chopped",
-            "2 tablespoons Italian seasoning blend",
-            "2 teaspoons fresh ground pepper or to taste",
-            "6 ounces whole wheat penne pasta",
-            "Grated Parmesan cheese to top each bowl with, optional"
+            "1 rack of baby back pork ribs, about 1\u00bd - 2 pounds",
+            "1 t black peppercorns, cooked until smoking then ground in a spice grinder.",
+            "2 tablespoons brown sugar",
+            "1 T cider vinegar",
+            "1 t dried coriander",
+            "4 cloves garlic coarsely chopped",
+            "2 green onions, chopped small",
+            "1 cup ketchup",
+            "1 T molasses",
+            "1 t orange zest",
+            "1 T soy sauce"
         ]
     }
 }
