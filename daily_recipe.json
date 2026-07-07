@@ -1,15 +1,17 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-07-06",
+    "lastUpdated": "2026-07-07",
     "recipe": {
-        "title": "Fish Crocchette Appetizer",
+        "title": "Grilled Portabella and Poblano Tacos",
         "readyInMinutes": 45,
-        "servings": 8,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/642927-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/PQCSG8LG\/fish-crocchette",
-        "instructions": "<ol><li>Begin to cook the fish and potatoes.<\/li><li>Cook cod in a saucepan.<\/li><li>Boil the potatoes in their skins in a pot with the water or in the microwave in a container with two inches of water (for the cooking time in the microwave, read the instruction booklet)<\/li><li>Let cool cod, eliminated any remaining bones. In a bowl add the mashed potatoes, the minced cod, the garlic cooked in the milk, tuna, drained, Parmesan, chopped parsley, salt , egg and the half lemon zest grated.<\/li><li>Mix well the mixture , form into balls to the same size if possible.<\/li><li>Coat in white flour, dip in beaten egg and into bread crumbs, fry in canola oil (325 degrees F) until golden , dry on paper towels.<\/li><\/ol>",
-        "summary": "If you have around <b>45 minutes<\/b> to spend in the kitchen, Fish Crocchette Appetizer might be a spectacular <b>pescatarian<\/b> recipe to try. For <b>$2.22 per serving<\/b>, you get a main course that serves 8. One serving contains <b>406 calories<\/b>, <b>27g of protein<\/b>, and <b>21g of fat<\/b>. This recipe from Foodista has 2 fans. If you have bread crumbs, canolan oil, cod fillet, and a few other ingredients on hand, you can make it. With a spoonacular <b>score of 70%<\/b>, this dish is pretty good. Try <a href=\"https:\/\/spoonacular.com\/recipes\/homemade-fish-shaped-appetizer-1087019\">Homemade Fish Shaped Appetizer<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/gefilte-fish-appetizer-doctored-from-the-jar-94967\">Gefilte Fish Appetizer (Doctored from the Jar)<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/crocchette-di-miglio-carote-e-olive-nere-556417\">Crocchette di miglio, carote e olive nere<\/a> for similar recipes.",
-        "cuisines": [],
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/645812-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/52YSN467\/grilled-portabella-and-poblano-tacos",
+        "instructions": "<ol><li>Preheat a lightly oiled grill on medium-high heat.<\/li><li>While the grill is heating up, prepare the pico de gallo. In a small mixing bowl, combine tomatoes, onion, cilantro, garlic, salt and lime juice. Set aside.<\/li><li>Next, prepare the grilled portabella filling. Remove the stems from the portabellas, and discard. Using a spoon, scrape out the dark gills from the underside of the mushroom caps.<\/li><li>Lightly brush the portabellas and the onions on both sides with canola oil, and sprinkle generously with salt and pepper.<\/li><li>Arrange the mushrooms, onion, and poblano on the hot grill, and cook for 5-6 minutes per side or until the mushrooms are softened and the onion is lightly charred. Remove from heat and transfer to a cutting board.<\/li><li>Remove the stem and seeds from the poblano, and discard. Cut the poblano and the portabellas into thin strips, and roughly chop the onion. Transfer to a mixing bowl and toss with lime juice and chipotle powder until well coated.<\/li><li>To assemble, arrange 2 tortillas per plate, and divide the mushroom filling evenly between them.  Serve with pico de gallo and bowls of the different toppings so that everyone can garnish their tacos as they please.<\/li><\/ol>",
+        "summary": "Grilled Portabellan and Poblano Tacos might be just the main course you are searching for. This recipe serves 4. For <b>$2.72 per serving<\/b>, this recipe <b>covers 21%<\/b> of your daily requirements of vitamins and minerals. Watching your figure? This gluten free and lacto ovo vegetarian recipe has <b>448 calories<\/b>, <b>14g of protein<\/b>, and <b>29g of fat<\/b> per serving. It is brought to you by Foodista. If you have roma tomatoes, portabella mushrooms, garlic, and a few other ingredients on hand, you can make it. It can be enjoyed any time, but it is especially good for <b>The Fourth Of July<\/b>. 2 people have tried and liked this recipe. It is a <b>reasonably priced<\/b> recipe for fans of Mexican food. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 53%<\/b>. This score is pretty good. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/grilled-portabella-and-poblano-tacos-1364373\">Grilled Portabellan and Poblano Tacos<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/grilled-portabella-tacos-with-avocado-lime-crema-557599\">Grilled portabella tacos with avocado lime crema<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/grilled-steak-and-poblano-tacos-486004\">Grilled Steak and Poblano Tacos<\/a>.",
+        "cuisines": [
+            "Mexican"
+        ],
         "dishTypes": [
             "lunch",
             "main course",
@@ -17,19 +19,23 @@
             "dinner"
         ],
         "ingredients": [
-            "Bread crumbs",
-            "Canola oil",
-            "500 grams cod fillet (or any white fish fillet)",
-            "2 eggs",
-            "100 grams flour",
-            "1 clove garlic",
-            "1\/2 Grated rind of a lemon",
-            "1 cup milk",
-            "50 grams parmesan cheese",
-            "1 bunch chopped parsley",
-            "400 grams potatoes",
-            "Salt",
-            "150 grams tuna in olive oil"
+            "1 tbsp canola oil",
+            "1\/2 tsp chipotle powder",
+            "\u00bc cup chopped cilantro",
+            "Cilantro sprigs",
+            "8 small corn tortillas, warmed",
+            "1\/2 head of garlic",
+            "Guacamole",
+            "1 tsp lime juice",
+            "Lime wedges",
+            "1\/4 cup olive oil",
+            "1 whole poblano chile",
+            "6 whole portabella mushrooms cleaned, stems removed",
+            "1 large red onion, cut into six 2\" slices",
+            "2 roma tomatoes, diced",
+            "1 tablespoon 1 salt, plus teaspoon, plus more for potato water",
+            "Salt and pepper",
+            "Shredded Monterey Jack or cheddar cheese"
         ]
     }
 }
