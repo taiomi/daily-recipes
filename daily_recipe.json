@@ -1,33 +1,40 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-07-09",
+    "lastUpdated": "2026-07-10",
     "recipe": {
-        "title": "Crock Pot Boneless Beef Ribs",
+        "title": "Frittata",
         "readyInMinutes": 45,
-        "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/640856-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/HTSVQZN7\/crock-pot-boneless-beef-ribs",
-        "instructions": "<ol><li>In a large zippy bag place the flour, salt &amp; pepper, mix to combine. Add the ribs in batches and shake to coat. In a large frying pan melt the butter and brown the ribs on all sides, transfer the browned ribs to the bottom of a 5 qt crock pot. In the same frying pan combine the remaining items and bring to a boil, pour over the ribs. Cover and cook on low for 10-12 hours or until meat is tender and falling apart. Serve hot over mashed taters then ladle some of the sauce over top.<\/li><\/ol>",
-        "summary": "The recipe Crock Pot Boneless Beef Ribs can be made <b>in around 45 minutes<\/b>. This recipe serves 4. This main course has <b>953 calories<\/b>, <b>69g of protein<\/b>, and <b>47g of fat<\/b> per serving. For <b>$5.7 per serving<\/b>, this recipe <b>covers 38%<\/b> of your daily requirements of vitamins and minerals. 5 people have tried and liked this recipe. This recipe from Foodista requires beef broth, salt, tabasco sauce, and butter. All things considered, we decided this recipe <b>deserves a spoonacular score of 75%<\/b>. This score is solid. <a href=\"https:\/\/spoonacular.com\/recipes\/crock-pot-chinese-boneless-pork-ribs-574287\">Crock Pot Chinese Boneless Pork Ribs<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/crock-pot-beef-short-ribs-100045\">Crock Pot Beef Short Ribs<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/tender-juicy-balsamic-braised-beef-short-ribs-in-a-crock-pot-574583\">Tender Juicy Balsamic Braised Beef Short Ribs in a Crock Pot<\/a> are very similar to this recipe.",
+        "servings": 2,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/643857-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/SNFFG2VB\/frittata",
+        "instructions": "<ol><li>In a large mixing bowl add six eggs, soy sauce and water and whisk vigorously to incorporate air. (Hint: a large bowl should result in a shallow mixture that more readily allows the air bubbles to develop. An electric hand mixer can reduce a labor.) Set aside<\/li><li>In a ten inch non-stick pan add olive oil and heat over a medium flame.<\/li><li>Add olive oil and sliced shallots, fry until just approaching transparency<\/li><li>Add mushrooms, bell pepper, and red pepper flakes stirring frequently until all are tender and shallots show very slight caramelization<\/li><li>Without removing the contents, deglaze pan with the saki, stirring and scraping the bottom vigorously for 1 minute.<\/li><li>Add diced tomatoes and cook for one more minute<\/li><li>Giving one last vigorous whisk, add egg mixture to the pan and reduce flame to low. Cover pan with a lid or aluminum foil with the reflective side facing in<\/li><li>Check pan contents frequently. Using a spatula to lift an edge of the frittata will allow you to check the bottom. Your looking for the top to approach firmness and the bottom to become golden brown. Timing is critical.<\/li><li>With the top half inch of the frittata still slightly liquid, add shredded cheese, spreading evenly across the surface. Replace cover and cook until cheese melts, approximately 1 minute.<\/li><li>Toss chives across the surface and lace with fresh ground black and red pepper to taste<\/li><li>Replace cover and cook for one more minute or until firm on top.<\/li><li>Turn off flame and allow to set for two - three minutes.<\/li><li>The frittata can be loosened with a large plastic spatula and slid on to a serving plate or served directly from the frying pan using a plastic pie wedge spatula.<\/li><li>Serve with a tossed salad and crusty bread.<\/li><\/ol>",
+        "summary": "Frittata requires about <b>45 minutes<\/b> from start to finish. One serving contains <b>582 calories<\/b>, <b>32g of protein<\/b>, and <b>43g of fat<\/b>. This gluten free recipe serves 2 and costs <b>$2.71 per serving<\/b>. 2 people have tried and liked this recipe. A mixture of chili flakes, various mushrooms, saki, and a handful of other ingredients are all it takes to make this recipe so delicious. Only a few people really liked this main course. It is brought to you by Foodista. Taking all factors into account, this recipe <b>earns a spoonacular score of 74%<\/b>, which is good. Similar recipes include <a href=\"https:\/\/spoonacular.com\/recipes\/frittata-di-zucchine-al-forno-baked-frittata-with-zucchini-1338351\">Frittata di zucchine al forno (Baked Frittata with Zucchini)<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/frittata-di-zucchine-al-forno-baked-frittata-with-zucchini-612039\">Frittata di zucchine al forno (Baked Frittata with Zucchini)<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/frittata-di-zucchine-al-forno-baked-frittata-with-zucchini-1357871\">Frittata di zucchine al forno (Baked Frittata with Zucchini)<\/a>.",
         "cuisines": [],
         "dishTypes": [
             "lunch",
             "main course",
+            "morning meal",
+            "brunch",
             "main dish",
+            "breakfast",
             "dinner"
         ],
         "ingredients": [
-            "1 1\/2 cups Beef Broth",
-            "4 pounds boneless Beef Ribs",
-            "1\/2 cup Packed Brown Sugar",
-            "1\/4 cup butter",
-            "2\/3 cup - Flour",
-            "1 cup Ketchup",
-            "1\/2 cup Mustard",
-            "1 onion",
-            "1\/2 teaspoon - Pepper",
-            "2 teaspoons - Salt",
-            "2 tablespoons -Tabasco sauce"
+            "1 whole diced bell pepper (capsicum)",
+            "3\/4 cup shredded emmantel cheese",
+            "3 inches long stem chives, sliced in \u00bc lengths (for color and flavor on top)",
+            "6 eggs",
+            "1\/4 cup milk",
+            "1 1\/2 cups various mushrooms, cleaned and sliced to fill",
+            "arugula or mustard greens (for color and flavor on top)",
+            "2 tablespoons regular olive oil",
+            "1\/2 teaspoon red chili flakes (pepperoncin)",
+            "3 medium shallots, sliced thin",
+            "3 dashs of soy sauce",
+            "2 small or (one large) tomatoes, deseeded and diced",
+            "2 tablespoons water",
+            "1 ounce sweet saki",
+            "1 ounce sweet saki"
         ]
     }
 }
