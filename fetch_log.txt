@@ -1934,3 +1934,7 @@
 [2026-07-10 04:51:18] Fetching recipe with day of year: 191
 [2026-07-10 04:51:18] Successfully fetched and saved recipe: Frittata
 [2026-07-10 04:51:18] Recipe fetch process completed
+[2026-07-11 04:11:41] Starting recipe fetch process
+[2026-07-11 04:11:41] Fetching recipe with day of year: 192
+[2026-07-11 04:11:41] ERROR: Failed to get API response
+[2026-07-11 04:11:41] Recipe fetch process completed
