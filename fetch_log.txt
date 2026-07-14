@@ -1946,3 +1946,7 @@
 [2026-07-13 04:29:01] Fetching recipe with day of year: 194
 [2026-07-13 04:29:02] Successfully fetched and saved recipe: Khachapuri
 [2026-07-13 04:29:02] Recipe fetch process completed
+[2026-07-14 03:55:54] Starting recipe fetch process
+[2026-07-14 03:55:54] Fetching recipe with day of year: 195
+[2026-07-14 03:55:54] ERROR: Failed to get API response
+[2026-07-14 03:55:54] Recipe fetch process completed
