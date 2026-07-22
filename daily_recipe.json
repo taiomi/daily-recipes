@@ -1,34 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-07-21",
+    "lastUpdated": "2026-07-22",
     "recipe": {
-        "title": "Venison Stew",
+        "title": "Pecan-Baked Ham",
         "readyInMinutes": 45,
-        "servings": 7,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/664786-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/JJ7SSGCX\/venison-stew",
-        "instructions": "Cut all ingredients into 1 inch pieces. Dredge venison with flour and spices. Brown venison in hot vegetable oil. Boil and simmer venison 2 hours with beef bouillon and water. Add remaining ingredients and simmer for 1\/2 hour. Mix 3 tablespoons flour and 1 cup cold water and add to stew to thicken.",
-        "summary": "Venison Stew is a <b>dairy free<\/b> main course. This recipe serves 7. One serving contains <b>316 calories<\/b>, <b>32g of protein<\/b>, and <b>7g of fat<\/b>. For <b>$2.02 per serving<\/b>, this recipe <b>covers 30%<\/b> of your daily requirements of vitamins and minerals. It can be enjoyed any time, but it is especially good for <b>Autumn<\/b>. 3 people found this recipe to be tasty and satisfying. Head to the store and pick up venison stew meat, baby carrots, bell pepper, and a few other things to make it today. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. It is brought to you by Foodista. All things considered, we decided this recipe <b>deserves a spoonacular score of 86%<\/b>. This score is tremendous. Similar recipes include <a href=\"https:\/\/spoonacular.com\/recipes\/venison-bourguignon-venison-stew-147886\">Venison Bourguignon (Venison Stew)<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/venison-stew-629599\">Venison Stew<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/venison-stew-404173\">Venison Stew<\/a>.",
+        "servings": 12,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/655540-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/NXK3HKLD\/pecan-baked-ham",
+        "instructions": "<ol><li>Preheat the oven to 350. In a small bowl, mix the pecans, sugar, and five-spice powder with the butter until you have a fine, crumbly mixture. Rub generously over the ham, patting the crust with your hands.<\/li><li>Scatter the onions in the bottom of a heavy roasting pan and add about 2 cups water. Place the ham on the bed of onions. Slide the pan into the oven and roast for about 2 hours, checking to make sure theres still liquid in the pan. As the water evaporates, add a bit more. The ham is done when a nice glaze forms on the outside.<\/li><li>The pecan mixture and the water in the pan will create their own sauce to pour over the ham after youve sliced it into beautiful pink rounds. If the sauce seems too thin, just pour into a saucepan and reduce it.<\/li><\/ol>",
+        "summary": "Pecan-Baked Ham could be just the <b>gluten free<\/b> recipe you've been looking for. This recipe makes 12 servings with <b>409 calories<\/b>, <b>36g of protein<\/b>, and <b>20g of fat<\/b> each. For <b>$3.43 per serving<\/b>, this recipe <b>covers 23%<\/b> of your daily requirements of vitamins and minerals. This recipe is liked by 2 foodies and cooks. It works well as a rather pricey main course. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. If you have pecans, brown sugar, butter, and a few other ingredients on hand, you can make it. It is brought to you by Foodista. With a spoonacular <b>score of 55%<\/b>, this dish is pretty good. If you like this recipe, take a look at these similar recipes: <a href=\"https:\/\/spoonacular.com\/recipes\/baked-ham-with-brown-sugar-ham-glaze-1430187\">Baked Ham with Brown Sugar Ham Glaze<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/baked-ham-with-brown-sugar-ham-glaze-551806\">Baked Ham with Brown Sugar Ham Glaze<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/maple-pecan-glazed-ham-418170\">Maple-Pecan Glazed Ham<\/a>.",
         "cuisines": [],
         "dishTypes": [
             "lunch",
-            "soup",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "2 pounds venison stew meat, cut in cubes",
-            "Spices: onion salt, 8 cups water 4 pieces large potatoes 1 piece large onion 4 pieces carrots or baby carrots 4 stalks celery 1 can mushrooms 1 piece green pepper 1 cup flour and 3 tbsp 2 tablespoons beef bouillon",
-            "8 cups water",
-            "4 pieces large potatoes",
-            "1 piece large onion",
-            "4 pieces carrots or baby carrots",
-            "4 stalks celery",
-            "1 can mushrooms",
-            "1 piece green pepper",
-            "1 cup flour and 3 tbsp",
-            "2 tablespoons beef bouillon"
+            "1 tablespoon Chinese five-spice powder",
+            "1 cup brown sugar",
+            "3 tablespoons butter",
+            "1 5-pound good quality cooked ham",
+            "2 medium onions, chopped",
+            "4 tablespoons Chopped pecans, chopped medium fine"
         ]
     }
 }
