@@ -1,14 +1,14 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-07-22",
+    "lastUpdated": "2026-07-24",
     "recipe": {
-        "title": "Pecan-Baked Ham",
+        "title": "Moroccan Spiced Chicken Under A Brick",
         "readyInMinutes": 45,
-        "servings": 12,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/655540-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/NXK3HKLD\/pecan-baked-ham",
-        "instructions": "<ol><li>Preheat the oven to 350. In a small bowl, mix the pecans, sugar, and five-spice powder with the butter until you have a fine, crumbly mixture. Rub generously over the ham, patting the crust with your hands.<\/li><li>Scatter the onions in the bottom of a heavy roasting pan and add about 2 cups water. Place the ham on the bed of onions. Slide the pan into the oven and roast for about 2 hours, checking to make sure theres still liquid in the pan. As the water evaporates, add a bit more. The ham is done when a nice glaze forms on the outside.<\/li><li>The pecan mixture and the water in the pan will create their own sauce to pour over the ham after youve sliced it into beautiful pink rounds. If the sauce seems too thin, just pour into a saucepan and reduce it.<\/li><\/ol>",
-        "summary": "Pecan-Baked Ham could be just the <b>gluten free<\/b> recipe you've been looking for. This recipe makes 12 servings with <b>409 calories<\/b>, <b>36g of protein<\/b>, and <b>20g of fat<\/b> each. For <b>$3.43 per serving<\/b>, this recipe <b>covers 23%<\/b> of your daily requirements of vitamins and minerals. This recipe is liked by 2 foodies and cooks. It works well as a rather pricey main course. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. If you have pecans, brown sugar, butter, and a few other ingredients on hand, you can make it. It is brought to you by Foodista. With a spoonacular <b>score of 55%<\/b>, this dish is pretty good. If you like this recipe, take a look at these similar recipes: <a href=\"https:\/\/spoonacular.com\/recipes\/baked-ham-with-brown-sugar-ham-glaze-1430187\">Baked Ham with Brown Sugar Ham Glaze<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/baked-ham-with-brown-sugar-ham-glaze-551806\">Baked Ham with Brown Sugar Ham Glaze<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/maple-pecan-glazed-ham-418170\">Maple-Pecan Glazed Ham<\/a>.",
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/652442-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/XZ875TD7\/moroccan-spiced-chicken-under-a-brick",
+        "instructions": "Make the paste:\nCombine garlic, cilantro, one teaspoon salt, lemon zest and saffron in a mortar with pestle.\nSmash to a paste.\nAdd 3 tablespoons olive oil and stir to combine.\nRub chicken all over with paste, including between skin and breast meat.\nPlace on tray or platter, skin side up and cover loosely with plastic wrap.\nRefrigerate at least 2 hours and up to 6 hours.\nRemove from refrigerator 30 minutes before roasting.\nPrepare chicken:\nPreheat oven to 450 F.\nMix one teaspoon salt, paprika, cumin, black pepper and cayenne together in a small bowl.\nSprinkle over all sides of chicken.\nHeat one tablespoon olive oil in oven-proof skillet over medium-high heat.\nPlace chicken, skin-side down, in skillet.\nPlace brick wrapped in foil (or heavy pan or Dutch-oven) over chicken.\nCook chicken over medium-high heat without moving brick or chicken, 10 minutes.\nRotate skillet occasionally, to ensure even cooking.\nRemove from heat.\nUsing a spatula, turn over chicken, skin-side up.\nPlace in oven (without brick) and continue cooking until done, 20-30 minutes, depending on size of chicken.\nLet rest 10 minutes before carving into serving pieces.",
+        "summary": "If you have around <b>45 minutes<\/b> to spend in the kitchen, Moroccan Spiced Chicken Under A Brick might be a great <b>gluten free, dairy free, paleolithic, and primal<\/b> recipe to try. One portion of this dish contains approximately <b>31g of protein<\/b>, <b>39g of fat<\/b>, and a total of <b>488 calories<\/b>. This recipe serves 4. For <b>$1.55 per serving<\/b>, this recipe <b>covers 16%<\/b> of your daily requirements of vitamins and minerals. Only a few people really liked this main course. Head to the store and pick up cayenne, ground cumin, pepper, and a few other things to make it today. 2 people have made this recipe and would make it again. It is brought to you by Foodista. With a spoonacular <b>score of 42%<\/b>, this dish is solid. Similar recipes include <a href=\"https:\/\/spoonacular.com\/recipes\/moroccan-spiced-chicken-74219\">Moroccan-spiced Chicken<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/moroccan-spiced-chicken-167562\">Moroccan Spiced Chicken<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/moroccan-spiced-chicken-and-squash-1532137\">Moroccan Spiced Chicken and Squash<\/a>.",
         "cuisines": [],
         "dishTypes": [
             "lunch",
@@ -17,12 +17,17 @@
             "dinner"
         ],
         "ingredients": [
-            "1 tablespoon Chinese five-spice powder",
-            "1 cup brown sugar",
-            "3 tablespoons butter",
-            "1 5-pound good quality cooked ham",
-            "2 medium onions, chopped",
-            "4 tablespoons Chopped pecans, chopped medium fine"
+            "1 whole chicken (3-4 lb.), backbone removed, butterflied",
+            "4 garlic cloves",
+            "1\/4 cup fresh cilantro leaves",
+            "2 teaspoons sea salt",
+            "1 teaspoon finely grated lemon zest",
+            "1\/4 teaspoon saffron threads",
+            "4 tablespoons olive oil",
+            "1 tablespoon paprika",
+            "1 teaspoon ground cumin",
+            "1\/2 teaspoon freshly ground black pepper",
+            "1\/4 teaspoon cayenne, or to taste"
         ]
     }
 }
