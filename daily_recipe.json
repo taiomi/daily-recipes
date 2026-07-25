@@ -1,33 +1,31 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-07-24",
+    "lastUpdated": "2026-07-25",
     "recipe": {
-        "title": "Moroccan Spiced Chicken Under A Brick",
+        "title": "Farfalle With Broccoli, Carrots and Tomatoes",
         "readyInMinutes": 45,
-        "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/652442-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/XZ875TD7\/moroccan-spiced-chicken-under-a-brick",
-        "instructions": "Make the paste:\nCombine garlic, cilantro, one teaspoon salt, lemon zest and saffron in a mortar with pestle.\nSmash to a paste.\nAdd 3 tablespoons olive oil and stir to combine.\nRub chicken all over with paste, including between skin and breast meat.\nPlace on tray or platter, skin side up and cover loosely with plastic wrap.\nRefrigerate at least 2 hours and up to 6 hours.\nRemove from refrigerator 30 minutes before roasting.\nPrepare chicken:\nPreheat oven to 450 F.\nMix one teaspoon salt, paprika, cumin, black pepper and cayenne together in a small bowl.\nSprinkle over all sides of chicken.\nHeat one tablespoon olive oil in oven-proof skillet over medium-high heat.\nPlace chicken, skin-side down, in skillet.\nPlace brick wrapped in foil (or heavy pan or Dutch-oven) over chicken.\nCook chicken over medium-high heat without moving brick or chicken, 10 minutes.\nRotate skillet occasionally, to ensure even cooking.\nRemove from heat.\nUsing a spatula, turn over chicken, skin-side up.\nPlace in oven (without brick) and continue cooking until done, 20-30 minutes, depending on size of chicken.\nLet rest 10 minutes before carving into serving pieces.",
-        "summary": "If you have around <b>45 minutes<\/b> to spend in the kitchen, Moroccan Spiced Chicken Under A Brick might be a great <b>gluten free, dairy free, paleolithic, and primal<\/b> recipe to try. One portion of this dish contains approximately <b>31g of protein<\/b>, <b>39g of fat<\/b>, and a total of <b>488 calories<\/b>. This recipe serves 4. For <b>$1.55 per serving<\/b>, this recipe <b>covers 16%<\/b> of your daily requirements of vitamins and minerals. Only a few people really liked this main course. Head to the store and pick up cayenne, ground cumin, pepper, and a few other things to make it today. 2 people have made this recipe and would make it again. It is brought to you by Foodista. With a spoonacular <b>score of 42%<\/b>, this dish is solid. Similar recipes include <a href=\"https:\/\/spoonacular.com\/recipes\/moroccan-spiced-chicken-74219\">Moroccan-spiced Chicken<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/moroccan-spiced-chicken-167562\">Moroccan Spiced Chicken<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/moroccan-spiced-chicken-and-squash-1532137\">Moroccan Spiced Chicken and Squash<\/a>.",
+        "servings": 8,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/642582-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/YV88GS5Z\/farfalle-with-broccoli-carrots-and-tomatoes",
+        "instructions": "Bring a large pot of water to boil\nCook pasta about one or two minutes less than recommended on package directions.\nClean and slice the carrots into thin rounds\nCut the broccoli into small florets\nRoughly dice the stalks\nThinly slice the green onions\nHeat the peanut oil in a skillet over medium-high heat\nAdd minced garlic and saute for about 30 seconds\nAdd broccoli and carrots, and cook 3-5 minutes until the vegetables are softened but are still crisp\nAdd the scallions and cook for another 30 seconds\nSeason well with salt and remove from heat.\nMix the vegetables and the pasta, let cool T\nThen add tomatoes and cheese (note: if cooking ahead of time, wait to add the tomatoes and cheese until about an hour before serving).",
+        "summary": "Farfalle With Broccoli, Carrots and Tomatoes might be just the main course you are searching for. This recipe makes 8 servings with <b>309 calories<\/b>, <b>13g of protein<\/b>, and <b>8g of fat<\/b> each. For <b>96 cents per serving<\/b>, this recipe <b>covers 15%<\/b> of your daily requirements of vitamins and minerals. 4 people have made this recipe and would make it again. If you have parmigiano-reggiano, broccoli heads, carrots, and a few other ingredients on hand, you can make it. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. It is brought to you by Foodista. Overall, this recipe earns an <b>excellent spoonacular score of 83%<\/b>. If you like this recipe, take a look at these similar recipes: <a href=\"https:\/\/spoonacular.com\/recipes\/farfalle-with-broccoli-carrots-and-tomatoes-1364645\">Farfalle With Broccoli, Carrots and Tomatoes<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/farfalle-with-tomatoes-and-feta-cheese-108238\">Farfalle with Tomatoes and Feta Cheese<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/farfalle-with-sausage-tomatoes-and-cream-106954\">Farfalle with Sausage, Tomatoes, and Cream<\/a>.",
         "cuisines": [],
         "dishTypes": [
+            "side dish",
             "lunch",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "1 whole chicken (3-4 lb.), backbone removed, butterflied",
-            "4 garlic cloves",
-            "1\/4 cup fresh cilantro leaves",
-            "2 teaspoons sea salt",
-            "1 teaspoon finely grated lemon zest",
-            "1\/4 teaspoon saffron threads",
-            "4 tablespoons olive oil",
-            "1 tablespoon paprika",
-            "1 teaspoon ground cumin",
-            "1\/2 teaspoon freshly ground black pepper",
-            "1\/4 teaspoon cayenne, or to taste"
+            "1 pound farfalle pasta",
+            "2 tablespoons peanut oil",
+            "3 carrots",
+            "2 inches large broccoli heads (that's what she said)",
+            "2 bunches of scallions",
+            "3 garlic cloves, minced",
+            "1 cup + of Parmigiano-Reggiano, grated",
+            "1 container grape tomatoes"
         ]
     }
 }
