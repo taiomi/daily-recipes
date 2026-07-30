@@ -1,36 +1,41 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-07-28",
+    "lastUpdated": "2026-07-30",
     "recipe": {
-        "title": "Chobani Harvest Fruit Salad",
+        "title": "Cajun Lobster Pasta",
         "readyInMinutes": 45,
         "servings": 1,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/638779-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/SJ2FLX7W\/chobani-harvest-fruit-salad",
-        "instructions": "In a large bowl, combine the apples, pear, banana and grapes.\nPour in the lemon juice and gently toss.\nAdd the raisins and pecans.\nAfter opening the yogurt container, incorporate the honey and cinnamon. Stir well.\nThen, pour the yogurt mixture over the fruit and toss to coat.\nShare and enjoy!",
-        "summary": "Need a <b>gluten free, lacto ovo vegetarian, and primal main course<\/b>? Chobani Harvest Fruit Salad could be an excellent recipe to try. One portion of this dish contains roughly <b>26g of protein<\/b>, <b>38g of fat<\/b>, and a total of <b>1562 calories<\/b>. For <b>$9.79 per serving<\/b>, this recipe <b>covers 39%<\/b> of your daily requirements of vitamins and minerals. This recipe serves 1. 8 people have tried and liked this recipe. This recipe from Foodista requires pink lady apples, cinnamon, pecan halves, and lemon juice. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. Overall, this recipe earns an <b>excellent spoonacular score of 86%<\/b>. <a href=\"https:\/\/spoonacular.com\/recipes\/harvest-bacon-and-chicken-dinner-salad-with-tangy-fruit-dressing-270038\">Harvest Bacon and Chicken Dinner Salad with Tangy Fruit Dressing<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/waldorf-ish-chicken-salad-with-chobani-0-pear-cawalnuts-493101\">Waldorf-ish Chicken Salad with @Chobani 0% Pear & @CAWalnuts<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/harvest-fruit-puree-195719\">Harvest Fruit Puree<\/a> are very similar to this recipe.",
-        "cuisines": [],
+        "image": "https:\/\/img.spoonacular.com\/recipes\/636732-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/36T2YS7G\/cajun-lobster-pasta",
+        "instructions": "<ol><li>Cook up your bacon in a small frying pan over medium heat. Remove the bacon and drain off the fat, reserving about a tablespoon.<\/li><li>To the pan add in your garlic and pepper. Cook it up on medium heat for about two to three minutes.<\/li><li>Add in the green onions. Let cook for an additional minute.<\/li><li>Chop up your bacon and add it to the pan along with the broth. Love me some bacon.<\/li><li>Now add in your spices; the cajun, old bay, onion powder, garlic powder, lemon pepper, oregano, and pepper.<\/li><li>Allow the mixture to heat back up and then turn your heat down to medium low. Add in your lobster and allow it about three to five minutes to heat up completely.<\/li><li>Last up, add in your cream.<\/li><li>Serve your finished lobster over fresh cooked pasta with a few pinches of parmesan cheese and a sprinkle of chopped green onions over the top.<\/li><\/ol>",
+        "summary": "Cajun Lobster Pasta could be just the <b>gluten free and primal<\/b> recipe you've been looking for. For <b>$5.4 per serving<\/b>, this recipe <b>covers 45%<\/b> of your daily requirements of vitamins and minerals. One serving contains <b>684 calories<\/b>, <b>35g of protein<\/b>, and <b>50g of fat<\/b>. This recipe serves 1. 2 people have made this recipe and would make it again. This recipe is typical of Cajun cuisine. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. A mixture of garlic powder, bell pepper, lemon pepper, and a handful of other ingredients are all it takes to make this recipe so yummy. It is brought to you by Foodista. It works well as a main course. Taking all factors into account, this recipe <b>earns a spoonacular score of 76%<\/b>, which is pretty good. <a href=\"https:\/\/spoonacular.com\/recipes\/cajun-lobster-pasta-1396967\">Cajun Lobster Pasta<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/cajun-lobster-pasta-1614055\">Cajun Lobster Pasta<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/red-lobster-cajun-chicken-pasta-138824\">Red Lobster Cajun Chicken Pasta<\/a> are very similar to this recipe.",
+        "cuisines": [
+            "Cajun",
+            "Creole"
+        ],
         "dishTypes": [
             "side dish",
             "lunch",
             "main course",
-            "salad",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "2 Pink Lady apples, chopped",
-            "2 Granny Smith apples, chopped",
-            "1 Bartlett pear, chopped",
-            "1 banana, sliced",
-            "1 cup green grapes, halved",
-            "1 cup red globe grapes, halved and seeded",
-            "1\/2 teaspoon lemon juice",
-            "1\/2 cup raisins",
-            "1\/2 cup pecan halves",
-            "6 ounces vanilla-flavored Chobani Greek Yogurt",
-            "1 tablespoon honey",
-            "1\/8 teaspoon cinnamon"
+            "3 strips of Bacon",
+            "1 Bell Pepper, any Color, Chopped",
+            "3\/4 cup Chicken, Seafood, or Veggie Broth",
+            "1 teaspoon of Cajun Spice",
+            "3 cloves of Garlic, Minced",
+            "1\/2 teaspoon of Garlic Powder",
+            "3 Green Onions, Chopped",
+            "1\/4 cup of Heavy Cream",
+            "1\/2 teaspoon of Lemon Pepper",
+            "1 pd of Lobster",
+            "1 teaspoon of Old Bay Seasoning",
+            "1\/2 teaspoon of Onion Powder",
+            "1\/2 teaspoon of Oregano",
+            "Pepper to taste",
+            "1\/4 tsp salt"
         ]
     }
 }
