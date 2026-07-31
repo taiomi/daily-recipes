@@ -1,17 +1,18 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-07-30",
+    "lastUpdated": "2026-07-31",
     "recipe": {
-        "title": "Cajun Lobster Pasta",
+        "title": "Salmon Quinoa Risotto",
         "readyInMinutes": 45,
-        "servings": 1,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/636732-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/36T2YS7G\/cajun-lobster-pasta",
-        "instructions": "<ol><li>Cook up your bacon in a small frying pan over medium heat. Remove the bacon and drain off the fat, reserving about a tablespoon.<\/li><li>To the pan add in your garlic and pepper. Cook it up on medium heat for about two to three minutes.<\/li><li>Add in the green onions. Let cook for an additional minute.<\/li><li>Chop up your bacon and add it to the pan along with the broth. Love me some bacon.<\/li><li>Now add in your spices; the cajun, old bay, onion powder, garlic powder, lemon pepper, oregano, and pepper.<\/li><li>Allow the mixture to heat back up and then turn your heat down to medium low. Add in your lobster and allow it about three to five minutes to heat up completely.<\/li><li>Last up, add in your cream.<\/li><li>Serve your finished lobster over fresh cooked pasta with a few pinches of parmesan cheese and a sprinkle of chopped green onions over the top.<\/li><\/ol>",
-        "summary": "Cajun Lobster Pasta could be just the <b>gluten free and primal<\/b> recipe you've been looking for. For <b>$5.4 per serving<\/b>, this recipe <b>covers 45%<\/b> of your daily requirements of vitamins and minerals. One serving contains <b>684 calories<\/b>, <b>35g of protein<\/b>, and <b>50g of fat<\/b>. This recipe serves 1. 2 people have made this recipe and would make it again. This recipe is typical of Cajun cuisine. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. A mixture of garlic powder, bell pepper, lemon pepper, and a handful of other ingredients are all it takes to make this recipe so yummy. It is brought to you by Foodista. It works well as a main course. Taking all factors into account, this recipe <b>earns a spoonacular score of 76%<\/b>, which is pretty good. <a href=\"https:\/\/spoonacular.com\/recipes\/cajun-lobster-pasta-1396967\">Cajun Lobster Pasta<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/cajun-lobster-pasta-1614055\">Cajun Lobster Pasta<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/red-lobster-cajun-chicken-pasta-138824\">Red Lobster Cajun Chicken Pasta<\/a> are very similar to this recipe.",
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/659109-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/KH5STR7N\/salmon-quinoa-risotto",
+        "instructions": "In a 4 quart saucepan, heat 2 tablespoons of olive oil over medium high heat.\nWhen oil is shimmering, add diced onion.\nSaute onion until transparent.  Add quinoa to onion mixture and stir, to toast quinoa, for 2 minutes.\nAdd 1 cup of vegetable stock to quinoa and onions.\nStir until stock is absorbed.  Once stock is absorbed, add 1 cup of stock.\nContinue stirring until stock is absorbed.\nAdd remaining stock in 1\/2 cup intervals, stirring until all stock is absorbed.\nRemove from heat.\nWhile preparing the onion quinoa mixture, heat 1 tablespoon of oil in a saute pan with chopped garlic (over medium high heat).\nOnce garlic is sizzling, add chopped kale to the pan.\nTurn kale to coat with oil and garlic.\nTurn kale mixture until fragrant (approximately 2 minutes).  Remove kale mixture from heat.\nOnce quinoa is complete, add kale and salmon.\nStir to combine.\nAdd salt and pepper to taste.",
+        "summary": "Salmon Quinoa Risotto might be just the main course you are searching for. One serving contains <b>437 calories<\/b>, <b>25g of protein<\/b>, and <b>20g of fat<\/b>. This recipe serves 4. For <b>$3.83 per serving<\/b>, this recipe <b>covers 43%<\/b> of your daily requirements of vitamins and minerals. Head to the store and pick up quinoa, poached salmon, olive oil, and a few other things to make it today. It is a good option if you're following a <b>gluten free, dairy free, and pescatarian<\/b> diet. It is a <b>rather expensive<\/b> recipe for fans of Mediterranean food. 3 people found this recipe to be yummy and satisfying. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. It is brought to you by Foodista. Overall, this recipe earns an <b>outstanding spoonacular score of 94%<\/b>. Similar recipes include <a href=\"https:\/\/spoonacular.com\/recipes\/salmon-quinoa-risotto-1360771\">Salmon Quinoa Risotto<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/salmon-quinoa-risotto-1288579\">Salmon Quinoa Risotto<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/quinoa-risotto-with-salmon-and-kale-15276\">Quinoa Risotto With Salmon And Kale<\/a>.",
         "cuisines": [
-            "Cajun",
-            "Creole"
+            "Mediterranean",
+            "Italian",
+            "European"
         ],
         "dishTypes": [
             "side dish",
@@ -21,21 +22,15 @@
             "dinner"
         ],
         "ingredients": [
-            "3 strips of Bacon",
-            "1 Bell Pepper, any Color, Chopped",
-            "3\/4 cup Chicken, Seafood, or Veggie Broth",
-            "1 teaspoon of Cajun Spice",
-            "3 cloves of Garlic, Minced",
-            "1\/2 teaspoon of Garlic Powder",
-            "3 Green Onions, Chopped",
-            "1\/4 cup of Heavy Cream",
-            "1\/2 teaspoon of Lemon Pepper",
-            "1 pd of Lobster",
-            "1 teaspoon of Old Bay Seasoning",
-            "1\/2 teaspoon of Onion Powder",
-            "1\/2 teaspoon of Oregano",
-            "Pepper to taste",
-            "1\/4 tsp salt"
+            "1 cup Quinoa",
+            "1 medium Onion (diced)",
+            "8 Leaves of Kale (stems removed and cut into ribbons)",
+            "5 Garlic Cloves (finely chopped)",
+            "3 tablespoons Olive Oil (divided)",
+            "10 ounces Poached Salmon (flaked)*",
+            "32 ounces Organic Vegetable Stock",
+            "Salt",
+            "Pepper"
         ]
     }
 }
