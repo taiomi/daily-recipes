@@ -2030,3 +2030,7 @@
 [2026-08-03 04:28:45] Fetching recipe with day of year: 215
 [2026-08-03 04:28:46] Successfully fetched and saved recipe: Easy Chicken, Kielbasa and Shrimp Paella
 [2026-08-03 04:28:46] Recipe fetch process completed
+[2026-08-04 04:12:59] Starting recipe fetch process
+[2026-08-04 04:12:59] Fetching recipe with day of year: 216
+[2026-08-04 04:13:00] ERROR: Failed to get API response
+[2026-08-04 04:13:00] Recipe fetch process completed
