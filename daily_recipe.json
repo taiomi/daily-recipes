@@ -1,16 +1,17 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-08-03",
+    "lastUpdated": "2026-08-05",
     "recipe": {
-        "title": "Easy Chicken, Kielbasa and Shrimp Paella",
+        "title": "Baked Lasagne",
         "readyInMinutes": 45,
-        "servings": 8,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/641911-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/JYKRF2ZZ\/easy-chicken-kielbasa-and-shrimp-paella",
-        "instructions": "<ol><li>Heat the oil in a 12-inch skillet over medium heat. Add the rice and cook for 30 seconds, stirring constantly. Stir the broth, picante sauce and turmeric in the skillet and heat to a boil. Reduce the heat to low. Cover and cook for 15 minutes.<\/li><li>Stir the kielbasa, shrimp and chicken in the skillet. Cover and cook for 5 minutes or until the rice is tender.<\/li><\/ol>",
-        "summary": "If you have roughly <b>45 minutes<\/b> to spend in the kitchen, Easy Chicken, Kielbasan and Shrimp Paella might be a great <b>gluten free and dairy free<\/b> recipe to try. For <b>$2.94 per serving<\/b>, you get a main course that serves 8. One serving contains <b>385 calories<\/b>, <b>33g of protein<\/b>, and <b>9g of fat<\/b>. It is a <b>budget friendly<\/b> recipe for fans of European food. This recipe is liked by 19 foodies and cooks. A mixture of regular rice, picante sauce, shrimp, and a handful of other ingredients are all it takes to make this recipe so tasty. It is brought to you by Foodista. With a spoonacular <b>score of 69%<\/b>, this dish is solid. Try <a href=\"https:\/\/spoonacular.com\/recipes\/easy-shrimp-and-chicken-paella-838618\">Easy Shrimp and Chicken Paella<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/shrimp-and-scallop-easy-paella-301298\">Shrimp and Scallop Easy Paella<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/chicken-and-shrimp-paella-198233\">Chicken and Shrimp Paella<\/a> for similar recipes.",
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/633661-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/QMRCT7R8\/baked-lasagne",
+        "instructions": "Heat the olive oil; cook the onions, green peppers and garlic in it for 10 minutes. Add the salt, pepper, oregano, parsley, tomatoes and tomato sauce. Cover and cook over low heat 30 minutes. Stir in 2 tablespoons Gouda cheese.\nCook the lasagne (if you can't get it, use broad noodles) as package directs. Spread 1\/3 of the sauce on the bottom of a 12- by 8-inch baking dish. Arrange alternating layers of the lasagne, Swiss, cottage cheese, a sprinkling of the Gouda and spread with sauce; then repeat until all the ingredients are arranged in layers in baking dish. Cover with remaining sauce and sprinkle top with remaining Gouda cheese.\nBake in a 350 degree oven 35 minutes. Serve hot.\nServes 8.",
+        "summary": "Baked Lasagne is a main course that serves 4. For <b>$4.56 per serving<\/b>, this recipe <b>covers 47%<\/b> of your daily requirements of vitamins and minerals. One serving contains <b>1357 calories<\/b>, <b>76g of protein<\/b>, and <b>69g of fat<\/b>. This recipe is typical of Mediterranean cuisine. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. This recipe from Foodista has 2 fans. A mixture of olive oil, salt, garlic cloves, and a handful of other ingredients are all it takes to make this recipe so tasty. Taking all factors into account, this recipe <b>earns a spoonacular score of 76%<\/b>, which is solid. <a href=\"https:\/\/spoonacular.com\/recipes\/baked-lasagne-1368313\">Baked Lasagne<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/baked-spinach-lasagne-1216461\">Baked Spinach Lasagne<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/baked-spinach-lasagne-19742\">Baked Spinach Lasagne<\/a> are very similar to this recipe.",
         "cuisines": [
-            "Spanish",
+            "Mediterranean",
+            "Italian",
             "European"
         ],
         "dishTypes": [
@@ -20,14 +21,20 @@
             "dinner"
         ],
         "ingredients": [
-            "1 package (about 10 ounces) refrigerated fully-cooked chicken breast strips (about 1 3\/4 cups)",
-            "4 cups Swanson\u00ae Chicken Broth or Swanson\u00ae Chicken Stock, heated",
-            "1 teaspoon ground turmeric",
-            "1 cup Pace\u00ae Picante Sauce",
-            "2 cups uncooked regular long-grain white rice",
-            "3\/4 pound small frozen peeled, deveined, cooked shrimp, thawed",
-            "1 package (16 ounces) turkey kielbasa, sliced",
-            "1 tablespoon vegetable oil"
+            "3 tablespoons Olive oil",
+            "1 cup Minced onions",
+            "1 cup Thinly sliced green peppers",
+            "2 Garlic cloves minced",
+            "teaspoon Salt",
+            "teaspoon Pepper",
+            "teaspoon Oregano",
+            "2 tablespoons Chopped parsley",
+            "1 can Tomatoes - (#2 \u00bd)",
+            "1 can Tomato sauce - (8 oz)",
+            "cup Grated dry Gouda or Edam cheese",
+            "pound Lasagne (1 \u00bd\" wide noodles)",
+            "pound Swiss cheese sliced",
+            "pound Cottage cheese"
         ]
     }
 }
