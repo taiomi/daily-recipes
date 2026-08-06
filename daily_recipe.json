@@ -1,40 +1,33 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-08-05",
+    "lastUpdated": "2026-08-06",
     "recipe": {
-        "title": "Baked Lasagne",
-        "readyInMinutes": 45,
+        "title": "Quinoa Salad with Barberries & Nuts",
+        "readyInMinutes": 30,
         "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/633661-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/QMRCT7R8\/baked-lasagne",
-        "instructions": "Heat the olive oil; cook the onions, green peppers and garlic in it for 10 minutes. Add the salt, pepper, oregano, parsley, tomatoes and tomato sauce. Cover and cook over low heat 30 minutes. Stir in 2 tablespoons Gouda cheese.\nCook the lasagne (if you can't get it, use broad noodles) as package directs. Spread 1\/3 of the sauce on the bottom of a 12- by 8-inch baking dish. Arrange alternating layers of the lasagne, Swiss, cottage cheese, a sprinkling of the Gouda and spread with sauce; then repeat until all the ingredients are arranged in layers in baking dish. Cover with remaining sauce and sprinkle top with remaining Gouda cheese.\nBake in a 350 degree oven 35 minutes. Serve hot.\nServes 8.",
-        "summary": "Baked Lasagne is a main course that serves 4. For <b>$4.56 per serving<\/b>, this recipe <b>covers 47%<\/b> of your daily requirements of vitamins and minerals. One serving contains <b>1357 calories<\/b>, <b>76g of protein<\/b>, and <b>69g of fat<\/b>. This recipe is typical of Mediterranean cuisine. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. This recipe from Foodista has 2 fans. A mixture of olive oil, salt, garlic cloves, and a handful of other ingredients are all it takes to make this recipe so tasty. Taking all factors into account, this recipe <b>earns a spoonacular score of 76%<\/b>, which is solid. <a href=\"https:\/\/spoonacular.com\/recipes\/baked-lasagne-1368313\">Baked Lasagne<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/baked-spinach-lasagne-1216461\">Baked Spinach Lasagne<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/baked-spinach-lasagne-19742\">Baked Spinach Lasagne<\/a> are very similar to this recipe.",
-        "cuisines": [
-            "Mediterranean",
-            "Italian",
-            "European"
-        ],
+        "image": "https:\/\/img.spoonacular.com\/recipes\/1098387-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/PBQJCDDG\/quinoa-salad-with-barberries-nuts",
+        "instructions": "<ol><li>Put the quinoa in a sieve and rinse under running water. Drain. <\/li><li>Pour the boiling water over quinoa in a medium saucepan. <\/li><li>Add salt, stir well and cook over medium-low heat until quinoa is cooked through but still has a bite in the center. Drain in a sieve.<\/li><li>Pick over the barberries, rinse in a sieve and dry on kitchen paper.<\/li><li>While the quinoa is cooking, heat 1 tablespoon of oil in a saucepan over medium heat and lightly toast the almond slivers. Add the slivered pistachios, then the rest of the oil and the rinsed barberries. Cook briefly until the barberries are shiny and a little puffed.<\/li><li>Save a tablespoon of the barberry and nut mix and a tablespoon of the chopped herbs for garnishing the finished dish. <\/li><li>Mix all of the remaining nut and barberry mix, herbs and quinoa. <\/li><li>Return to the pot and place on low heat. Cover with a lid and cook for ten minutes or until completely heated through and steam is rising. <\/li><li>Turn into a serving dish and fluff with a fork. <\/li><li>Add a little extra olive oil and a twist of black pepper if you wish.<\/li><li>Sprinkle the quinoa with the rest of the berry-nut mix and chopped herbs and serve on its own as a main dish or as a side dish.<\/li><\/ol>",
+        "summary": "Quinoa Salad with Barberries & Nuts is a <b>gluten free, dairy free, lacto ovo vegetarian, and vegan<\/b> main course. This recipe makes 4 servings with <b>459 calories<\/b>, <b>14g of protein<\/b>, and <b>19g of fat<\/b> each. For <b>$2.09 per serving<\/b>, this recipe <b>covers 22%<\/b> of your daily requirements of vitamins and minerals. Only a few people made this recipe, and 9 would say it hit the spot. Head to the store and pick up slivered almonds, olive oil, slivered pistachios, and a few other things to make it today. From preparation to the plate, this recipe takes roughly <b>30 minutes<\/b>. It is brought to you by Foodista. With a spoonacular <b>score of 92%<\/b>, this dish is tremendous. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/quinoa-salad-with-barberries-nuts-1394637\">Quinoa Salad with Barberries & Nuts<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/quinoa-salad-with-barberries-nuts-1395243\">Quinoa Salad with Barberries & Nuts<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/quinoa-salad-with-barberries-nuts-1376471\">Quinoa Salad with Barberries & Nuts<\/a>.",
+        "cuisines": [],
         "dishTypes": [
+            "side dish",
             "lunch",
             "main course",
+            "salad",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "3 tablespoons Olive oil",
-            "1 cup Minced onions",
-            "1 cup Thinly sliced green peppers",
-            "2 Garlic cloves minced",
-            "teaspoon Salt",
-            "teaspoon Pepper",
-            "teaspoon Oregano",
-            "2 tablespoons Chopped parsley",
-            "1 can Tomatoes - (#2 \u00bd)",
-            "1 can Tomato sauce - (8 oz)",
-            "cup Grated dry Gouda or Edam cheese",
-            "pound Lasagne (1 \u00bd\" wide noodles)",
-            "pound Swiss cheese sliced",
-            "pound Cottage cheese"
+            "300g quinoa",
+            "1 1\/2 liters boiling water",
+            "1 tsp salt",
+            "2 tbsp olive oil (not extra-virgin, it will overpower other flavours)",
+            "50g barberries",
+            "4 tbsp slivered almonds",
+            "2 tbsp slivered pistachios",
+            "30g chopped coriander, chopped",
+            "A few sprigs of mint, chopped"
         ]
     }
 }
