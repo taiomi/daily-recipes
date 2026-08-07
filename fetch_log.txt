@@ -2042,3 +2042,7 @@
 [2026-08-06 04:11:09] Fetching recipe with day of year: 218
 [2026-08-06 04:11:10] Successfully fetched and saved recipe: Quinoa Salad with Barberries & Nuts
 [2026-08-06 04:11:10] Recipe fetch process completed
+[2026-08-07 03:48:13] Starting recipe fetch process
+[2026-08-07 03:48:13] Fetching recipe with day of year: 219
+[2026-08-07 03:48:13] ERROR: Failed to get API response
+[2026-08-07 03:48:13] Recipe fetch process completed
