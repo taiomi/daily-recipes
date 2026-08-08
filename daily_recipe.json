@@ -1,33 +1,30 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-08-06",
+    "lastUpdated": "2026-08-08",
     "recipe": {
-        "title": "Quinoa Salad with Barberries & Nuts",
-        "readyInMinutes": 30,
+        "title": "Chicken with Grape Tomatoes and Mushrooms",
+        "readyInMinutes": 45,
         "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/1098387-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/PBQJCDDG\/quinoa-salad-with-barberries-nuts",
-        "instructions": "<ol><li>Put the quinoa in a sieve and rinse under running water. Drain. <\/li><li>Pour the boiling water over quinoa in a medium saucepan. <\/li><li>Add salt, stir well and cook over medium-low heat until quinoa is cooked through but still has a bite in the center. Drain in a sieve.<\/li><li>Pick over the barberries, rinse in a sieve and dry on kitchen paper.<\/li><li>While the quinoa is cooking, heat 1 tablespoon of oil in a saucepan over medium heat and lightly toast the almond slivers. Add the slivered pistachios, then the rest of the oil and the rinsed barberries. Cook briefly until the barberries are shiny and a little puffed.<\/li><li>Save a tablespoon of the barberry and nut mix and a tablespoon of the chopped herbs for garnishing the finished dish. <\/li><li>Mix all of the remaining nut and barberry mix, herbs and quinoa. <\/li><li>Return to the pot and place on low heat. Cover with a lid and cook for ten minutes or until completely heated through and steam is rising. <\/li><li>Turn into a serving dish and fluff with a fork. <\/li><li>Add a little extra olive oil and a twist of black pepper if you wish.<\/li><li>Sprinkle the quinoa with the rest of the berry-nut mix and chopped herbs and serve on its own as a main dish or as a side dish.<\/li><\/ol>",
-        "summary": "Quinoa Salad with Barberries & Nuts is a <b>gluten free, dairy free, lacto ovo vegetarian, and vegan<\/b> main course. This recipe makes 4 servings with <b>459 calories<\/b>, <b>14g of protein<\/b>, and <b>19g of fat<\/b> each. For <b>$2.09 per serving<\/b>, this recipe <b>covers 22%<\/b> of your daily requirements of vitamins and minerals. Only a few people made this recipe, and 9 would say it hit the spot. Head to the store and pick up slivered almonds, olive oil, slivered pistachios, and a few other things to make it today. From preparation to the plate, this recipe takes roughly <b>30 minutes<\/b>. It is brought to you by Foodista. With a spoonacular <b>score of 92%<\/b>, this dish is tremendous. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/quinoa-salad-with-barberries-nuts-1394637\">Quinoa Salad with Barberries & Nuts<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/quinoa-salad-with-barberries-nuts-1395243\">Quinoa Salad with Barberries & Nuts<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/quinoa-salad-with-barberries-nuts-1376471\">Quinoa Salad with Barberries & Nuts<\/a>.",
+        "image": "https:\/\/img.spoonacular.com\/recipes\/631738-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/2Y3G5WSH\/chicken-with-grape-tomatoes-and-mushrooms",
+        "instructions": "Heat 1 tablespoon oil in a 12-inch skillet over medium-high heat.  Add the chicken and cook until well browned, stirring often.  Remove the chicken from the skillet.\nHeat the remaining oil in the skillet over medium heat.  Add the mushrooms and cook until tender, stirring occasionally.\nAdd the garlic, tomatoes, and onions to the skillet; cook and stir for 1 minute.  Return the chicken to the skillet.  Stir in the Flavor Boost and water; cook until the chicken is cooked through.",
+        "summary": "Chicken with Grape Tomatoes and Mushrooms is a <b>gluten free, dairy free, paleolithic, and primal<\/b> recipe with 4 servings. This main course has <b>257 calories<\/b>, <b>33g of protein<\/b>, and <b>11g of fat<\/b> per serving. For <b>$3.0 per serving<\/b>, this recipe <b>covers 23%<\/b> of your daily requirements of vitamins and minerals. 9 people have made this recipe and would make it again. If you have olive oil, grape tomatoes, flavor concentrated chicken broth, and a few other ingredients on hand, you can make it. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. It is brought to you by Foodista. Overall, this recipe earns a <b>good spoonacular score of 79%<\/b>. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/chicken-with-grape-tomatoes-and-mushrooms-1405597\">Chicken with Grape Tomatoes and Mushrooms<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/spaghetti-with-sauteed-chicken-and-grape-tomatoes-76980\">Spaghetti With Sauteed Chicken And Grape Tomatoes<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/spaghetti-with-sauteed-chicken-and-grape-tomatoes-1505881\">Spaghetti with Sauteed Chicken and Grape Tomatoes<\/a>.",
         "cuisines": [],
         "dishTypes": [
-            "side dish",
             "lunch",
             "main course",
-            "salad",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "300g quinoa",
-            "1 1\/2 liters boiling water",
-            "1 tsp salt",
-            "2 tbsp olive oil (not extra-virgin, it will overpower other flavours)",
-            "50g barberries",
-            "4 tbsp slivered almonds",
-            "2 tbsp slivered pistachios",
-            "30g chopped coriander, chopped",
-            "A few sprigs of mint, chopped"
+            "2 tablespoons olive oil",
+            "1 1\/4 pounds skinless, boneless chicken breast halves, cut into thin strips",
+            "1 package (8 ounces) sliced fresh mushrooms (about 2 1\/4 cups)",
+            "1 clove garlic, minced",
+            "1 pint grape tomatoes (about 2 1\/2 cups)",
+            "3 green onions, cut into 1-inch pieces (about 1\/3 cup)",
+            "2 packets Swanson\u00ae Flavor Concentrated Chicken Broth",
+            "2 tablespoons water"
         ]
     }
 }
