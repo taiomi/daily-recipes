@@ -1,14 +1,14 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-08-08",
+    "lastUpdated": "2026-08-09",
     "recipe": {
-        "title": "Chicken with Grape Tomatoes and Mushrooms",
+        "title": "Easy Baked Parmesan Chicken",
         "readyInMinutes": 45,
         "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/631738-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/2Y3G5WSH\/chicken-with-grape-tomatoes-and-mushrooms",
-        "instructions": "Heat 1 tablespoon oil in a 12-inch skillet over medium-high heat.  Add the chicken and cook until well browned, stirring often.  Remove the chicken from the skillet.\nHeat the remaining oil in the skillet over medium heat.  Add the mushrooms and cook until tender, stirring occasionally.\nAdd the garlic, tomatoes, and onions to the skillet; cook and stir for 1 minute.  Return the chicken to the skillet.  Stir in the Flavor Boost and water; cook until the chicken is cooked through.",
-        "summary": "Chicken with Grape Tomatoes and Mushrooms is a <b>gluten free, dairy free, paleolithic, and primal<\/b> recipe with 4 servings. This main course has <b>257 calories<\/b>, <b>33g of protein<\/b>, and <b>11g of fat<\/b> per serving. For <b>$3.0 per serving<\/b>, this recipe <b>covers 23%<\/b> of your daily requirements of vitamins and minerals. 9 people have made this recipe and would make it again. If you have olive oil, grape tomatoes, flavor concentrated chicken broth, and a few other ingredients on hand, you can make it. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. It is brought to you by Foodista. Overall, this recipe earns a <b>good spoonacular score of 79%<\/b>. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/chicken-with-grape-tomatoes-and-mushrooms-1405597\">Chicken with Grape Tomatoes and Mushrooms<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/spaghetti-with-sauteed-chicken-and-grape-tomatoes-76980\">Spaghetti With Sauteed Chicken And Grape Tomatoes<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/spaghetti-with-sauteed-chicken-and-grape-tomatoes-1505881\">Spaghetti with Sauteed Chicken and Grape Tomatoes<\/a>.",
+        "image": "https:\/\/img.spoonacular.com\/recipes\/641836-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/KVKJYVHX\/easy-parmesan-chicken",
+        "instructions": "Preheat oven to 400 degrees. Dip chicken in egg, then bread crumbs.\nIn 13 X 9 inch baking dish, arrange chicken. bake uncovered 20 minutes.\nPour pasta sauce over chicken, then top with cheese. Bake 10 more minutes or until chicken reaches 170 degrees and is no longer pink.\nServe immediately with or over pasta.",
+        "summary": "Easy Baked Parmesan Chicken might be a good recipe to expand your main course recipe box. This recipe serves 4 and costs $3.4 per serving. One portion of this dish contains roughly <b>62g of protein<\/b>, <b>20g of fat<\/b>, and a total of <b>497 calories<\/b>. This recipe is liked by 92 foodies and cooks. This recipe from Foodista requires chicken breast halves, egg, parmesan cheese, and mozzarella cheese. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. With a spoonacular <b>score of 93%<\/b>, this dish is amazing. <a href=\"https:\/\/spoonacular.com\/recipes\/easy-baked-chicken-parmesan-1450493\">Easy Baked Chicken Parmesan<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/easy-parmesan-baked-chicken-137192\">Easy Parmesan Baked Chicken<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/weight-watchers-easy-healthy-baked-chicken-parmesan-1293595\">Weight Watchers Easy Healthy Baked Chicken Parmesan<\/a> are very similar to this recipe.",
         "cuisines": [],
         "dishTypes": [
             "lunch",
@@ -17,14 +17,12 @@
             "dinner"
         ],
         "ingredients": [
-            "2 tablespoons olive oil",
-            "1 1\/4 pounds skinless, boneless chicken breast halves, cut into thin strips",
-            "1 package (8 ounces) sliced fresh mushrooms (about 2 1\/4 cups)",
-            "1 clove garlic, minced",
-            "1 pint grape tomatoes (about 2 1\/2 cups)",
-            "3 green onions, cut into 1-inch pieces (about 1\/3 cup)",
-            "2 packets Swanson\u00ae Flavor Concentrated Chicken Broth",
-            "2 tablespoons water"
+            "8 boneless, skinless chicken breast halves",
+            "2 egg, slightly beaten",
+            "1 1\/2 cups Italian bread crumbs",
+            "1 jar pasta sauce",
+            "1 cup mozzarella cheese, shredded",
+            "1\/4 cup Parmesan cheese, grated"
         ]
     }
 }
