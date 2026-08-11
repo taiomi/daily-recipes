@@ -1,28 +1,41 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-08-09",
+    "lastUpdated": "2026-08-11",
     "recipe": {
-        "title": "Easy Baked Parmesan Chicken",
+        "title": "Classic French Mussels",
         "readyInMinutes": 45,
-        "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/641836-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/KVKJYVHX\/easy-parmesan-chicken",
-        "instructions": "Preheat oven to 400 degrees. Dip chicken in egg, then bread crumbs.\nIn 13 X 9 inch baking dish, arrange chicken. bake uncovered 20 minutes.\nPour pasta sauce over chicken, then top with cheese. Bake 10 more minutes or until chicken reaches 170 degrees and is no longer pink.\nServe immediately with or over pasta.",
-        "summary": "Easy Baked Parmesan Chicken might be a good recipe to expand your main course recipe box. This recipe serves 4 and costs $3.4 per serving. One portion of this dish contains roughly <b>62g of protein<\/b>, <b>20g of fat<\/b>, and a total of <b>497 calories<\/b>. This recipe is liked by 92 foodies and cooks. This recipe from Foodista requires chicken breast halves, egg, parmesan cheese, and mozzarella cheese. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. With a spoonacular <b>score of 93%<\/b>, this dish is amazing. <a href=\"https:\/\/spoonacular.com\/recipes\/easy-baked-chicken-parmesan-1450493\">Easy Baked Chicken Parmesan<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/easy-parmesan-baked-chicken-137192\">Easy Parmesan Baked Chicken<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/weight-watchers-easy-healthy-baked-chicken-parmesan-1293595\">Weight Watchers Easy Healthy Baked Chicken Parmesan<\/a> are very similar to this recipe.",
-        "cuisines": [],
+        "servings": 2,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/639599-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/X2W746Q6\/classic-french-mussels-done-light",
+        "instructions": "<ol><li>Scrub mussels with a stiff brush, discard any that are open and stay that way even when you close the shell. Discard any with broken shells.<\/li><li>Soak them in cool clean water for at least an hour. Mussels are alive and breathing and have taken in sand over time. This allows them to expel the sand.<\/li><li>Mussels have a small fibrous \"beard\" that should be removed. Pull it out toward the hinge of the shell to keep from injuring the mussel.<\/li><li>Heat the olive oil in a large pot over medium-high heat. Add the shallots and garlic and cook until soft, about 5 minutes. Add the mussels, wine, buttermilk, butter, and parsley and season well with the kosher salt. Give it a good stir, cover the pot, and cook until mussels open and are cooked through, 10 to 15 minutes. Divide the mussels and the juices between 2 bowls and serve with a crusty whole-grain bread to sop up that wonderful sauce.<\/li><\/ol>",
+        "summary": "You can never have too many hor d'oeuvre recipes, so give Classic French Mussels a try. This recipe serves 2 and costs $2.93 per serving. Watching your figure? This gluten free, primal, and pescatarian recipe has <b>501 calories<\/b>, <b>32g of protein<\/b>, and <b>28g of fat<\/b> per serving. From preparation to the plate, this recipe takes about <b>45 minutes<\/b>. 2 people have made this recipe and would make it again. It is brought to you by Foodista. It is a <b>reasonably priced<\/b> recipe for fans of Mediterranean food. If you have buttermilk, parsley, butter, and a few other ingredients on hand, you can make it. All things considered, we decided this recipe <b>deserves a spoonacular score of 72%<\/b>. This score is solid. Similar recipes include <a href=\"https:\/\/spoonacular.com\/recipes\/classic-french-mussels-738888\">Classic French Mussels<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/french-country-mussels-138579\">French Country Mussels<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/french-steamed-mussels-1180539\">French Steamed Mussels<\/a>.",
+        "cuisines": [
+            "Mediterranean",
+            "French",
+            "European"
+        ],
         "dishTypes": [
             "lunch",
+            "antipasti",
             "main course",
+            "starter",
+            "snack",
+            "appetizer",
             "main dish",
-            "dinner"
+            "antipasto",
+            "dinner",
+            "hor d'oeuvre"
         ],
         "ingredients": [
-            "8 boneless, skinless chicken breast halves",
-            "2 egg, slightly beaten",
-            "1 1\/2 cups Italian bread crumbs",
-            "1 jar pasta sauce",
-            "1 cup mozzarella cheese, shredded",
-            "1\/4 cup Parmesan cheese, grated"
+            "1\/2 cup dry white wine",
+            "3 sprigs fresh parsley",
+            "4 garlic cloves, finely chopped",
+            "Kosher salt",
+            "1\/2 cup low-fat buttermilk",
+            "2 pounds mussels, cleaned",
+            "1 Tbs olive oil",
+            "2 shallots, finely chopped",
+            "4 tablespoons unsalted light butter, cut into pieces"
         ]
     }
 }
