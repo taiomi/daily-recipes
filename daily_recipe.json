@@ -1,41 +1,35 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-08-11",
+    "lastUpdated": "2026-08-12",
     "recipe": {
-        "title": "Classic French Mussels",
+        "title": "Fish Crocchette Appetizer",
         "readyInMinutes": 45,
-        "servings": 2,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/639599-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/X2W746Q6\/classic-french-mussels-done-light",
-        "instructions": "<ol><li>Scrub mussels with a stiff brush, discard any that are open and stay that way even when you close the shell. Discard any with broken shells.<\/li><li>Soak them in cool clean water for at least an hour. Mussels are alive and breathing and have taken in sand over time. This allows them to expel the sand.<\/li><li>Mussels have a small fibrous \"beard\" that should be removed. Pull it out toward the hinge of the shell to keep from injuring the mussel.<\/li><li>Heat the olive oil in a large pot over medium-high heat. Add the shallots and garlic and cook until soft, about 5 minutes. Add the mussels, wine, buttermilk, butter, and parsley and season well with the kosher salt. Give it a good stir, cover the pot, and cook until mussels open and are cooked through, 10 to 15 minutes. Divide the mussels and the juices between 2 bowls and serve with a crusty whole-grain bread to sop up that wonderful sauce.<\/li><\/ol>",
-        "summary": "You can never have too many hor d'oeuvre recipes, so give Classic French Mussels a try. This recipe serves 2 and costs $2.93 per serving. Watching your figure? This gluten free, primal, and pescatarian recipe has <b>501 calories<\/b>, <b>32g of protein<\/b>, and <b>28g of fat<\/b> per serving. From preparation to the plate, this recipe takes about <b>45 minutes<\/b>. 2 people have made this recipe and would make it again. It is brought to you by Foodista. It is a <b>reasonably priced<\/b> recipe for fans of Mediterranean food. If you have buttermilk, parsley, butter, and a few other ingredients on hand, you can make it. All things considered, we decided this recipe <b>deserves a spoonacular score of 72%<\/b>. This score is solid. Similar recipes include <a href=\"https:\/\/spoonacular.com\/recipes\/classic-french-mussels-738888\">Classic French Mussels<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/french-country-mussels-138579\">French Country Mussels<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/french-steamed-mussels-1180539\">French Steamed Mussels<\/a>.",
-        "cuisines": [
-            "Mediterranean",
-            "French",
-            "European"
-        ],
+        "servings": 8,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/642927-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/PQCSG8LG\/fish-crocchette",
+        "instructions": "<ol><li>Begin to cook the fish and potatoes.<\/li><li>Cook cod in a saucepan.<\/li><li>Boil the potatoes in their skins in a pot with the water or in the microwave in a container with two inches of water (for the cooking time in the microwave, read the instruction booklet)<\/li><li>Let cool cod, eliminated any remaining bones. In a bowl add the mashed potatoes, the minced cod, the garlic cooked in the milk, tuna, drained, Parmesan, chopped parsley, salt , egg and the half lemon zest grated.<\/li><li>Mix well the mixture , form into balls to the same size if possible.<\/li><li>Coat in white flour, dip in beaten egg and into bread crumbs, fry in canola oil (325 degrees F) until golden , dry on paper towels.<\/li><\/ol>",
+        "summary": "If you have around <b>45 minutes<\/b> to spend in the kitchen, Fish Crocchette Appetizer might be a spectacular <b>pescatarian<\/b> recipe to try. For <b>$2.22 per serving<\/b>, you get a main course that serves 8. One serving contains <b>406 calories<\/b>, <b>27g of protein<\/b>, and <b>21g of fat<\/b>. This recipe from Foodista has 2 fans. If you have bread crumbs, canolan oil, cod fillet, and a few other ingredients on hand, you can make it. With a spoonacular <b>score of 70%<\/b>, this dish is pretty good. Try <a href=\"https:\/\/spoonacular.com\/recipes\/homemade-fish-shaped-appetizer-1087019\">Homemade Fish Shaped Appetizer<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/gefilte-fish-appetizer-doctored-from-the-jar-94967\">Gefilte Fish Appetizer (Doctored from the Jar)<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/crocchette-di-miglio-carote-e-olive-nere-556417\">Crocchette di miglio, carote e olive nere<\/a> for similar recipes.",
+        "cuisines": [],
         "dishTypes": [
             "lunch",
-            "antipasti",
             "main course",
-            "starter",
-            "snack",
-            "appetizer",
             "main dish",
-            "antipasto",
-            "dinner",
-            "hor d'oeuvre"
+            "dinner"
         ],
         "ingredients": [
-            "1\/2 cup dry white wine",
-            "3 sprigs fresh parsley",
-            "4 garlic cloves, finely chopped",
-            "Kosher salt",
-            "1\/2 cup low-fat buttermilk",
-            "2 pounds mussels, cleaned",
-            "1 Tbs olive oil",
-            "2 shallots, finely chopped",
-            "4 tablespoons unsalted light butter, cut into pieces"
+            "Bread crumbs",
+            "Canola oil",
+            "500 grams cod fillet (or any white fish fillet)",
+            "2 eggs",
+            "100 grams flour",
+            "1 clove garlic",
+            "1\/2 Grated rind of a lemon",
+            "1 cup milk",
+            "50 grams parmesan cheese",
+            "1 bunch chopped parsley",
+            "400 grams potatoes",
+            "Salt",
+            "150 grams tuna in olive oil"
         ]
     }
 }
