@@ -2066,3 +2066,7 @@
 [2026-08-12 03:22:05] Fetching recipe with day of year: 224
 [2026-08-12 03:22:06] Successfully fetched and saved recipe: Fish Crocchette Appetizer
 [2026-08-12 03:22:06] Recipe fetch process completed
+[2026-08-13 03:25:28] Starting recipe fetch process
+[2026-08-13 03:25:28] Fetching recipe with day of year: 225
+[2026-08-13 03:25:28] ERROR: Failed to get API response
+[2026-08-13 03:25:28] Recipe fetch process completed
