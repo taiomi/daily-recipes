@@ -1,14 +1,14 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-08-12",
+    "lastUpdated": "2026-08-14",
     "recipe": {
-        "title": "Fish Crocchette Appetizer",
+        "title": "Chicken Cordon Bleu",
         "readyInMinutes": 45,
-        "servings": 8,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/642927-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/PQCSG8LG\/fish-crocchette",
-        "instructions": "<ol><li>Begin to cook the fish and potatoes.<\/li><li>Cook cod in a saucepan.<\/li><li>Boil the potatoes in their skins in a pot with the water or in the microwave in a container with two inches of water (for the cooking time in the microwave, read the instruction booklet)<\/li><li>Let cool cod, eliminated any remaining bones. In a bowl add the mashed potatoes, the minced cod, the garlic cooked in the milk, tuna, drained, Parmesan, chopped parsley, salt , egg and the half lemon zest grated.<\/li><li>Mix well the mixture , form into balls to the same size if possible.<\/li><li>Coat in white flour, dip in beaten egg and into bread crumbs, fry in canola oil (325 degrees F) until golden , dry on paper towels.<\/li><\/ol>",
-        "summary": "If you have around <b>45 minutes<\/b> to spend in the kitchen, Fish Crocchette Appetizer might be a spectacular <b>pescatarian<\/b> recipe to try. For <b>$2.22 per serving<\/b>, you get a main course that serves 8. One serving contains <b>406 calories<\/b>, <b>27g of protein<\/b>, and <b>21g of fat<\/b>. This recipe from Foodista has 2 fans. If you have bread crumbs, canolan oil, cod fillet, and a few other ingredients on hand, you can make it. With a spoonacular <b>score of 70%<\/b>, this dish is pretty good. Try <a href=\"https:\/\/spoonacular.com\/recipes\/homemade-fish-shaped-appetizer-1087019\">Homemade Fish Shaped Appetizer<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/gefilte-fish-appetizer-doctored-from-the-jar-94967\">Gefilte Fish Appetizer (Doctored from the Jar)<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/crocchette-di-miglio-carote-e-olive-nere-556417\">Crocchette di miglio, carote e olive nere<\/a> for similar recipes.",
+        "servings": 6,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/638035-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/KFDCB2XH\/chicken-cordon-bleu",
+        "instructions": "<ol><li>Preheat oven to 350 degrees F.<\/li><li>Butterfly the chicken breasts by slicing half lengthwise but not cutting all the way through. Lay the halved breasts between 2 pieces of plastic wrap. Using the flat side of a meat mallet, gently pound the chicken to 1\/4-inch thickness, taking care to not tear or create holes in the meat.<\/li><li>Lay 2 slices of cheese on each breast, followed by 2 slices of ham, and 2 more of cheese; leaving a 1\/2-inch margin on all sides to help seal the roll. Tuck in the sides of the breast and roll up tight like a jellyroll. Squeeze the log gently to seal.<\/li><li>Season the flour with salt and pepper; spread out on waxed paper or in a flat dish. Mix the breadcrumbs with thyme, kosher salt, pepper, and oil. The oil will help the crust brown. Beat together the eggs and water, the mixture should be fluid. Lightly dust the chicken with flour, then dip in the egg mixture. Gently coat in the bread crumbs.<\/li><li>Carefully transfer the roulades to a baking pan and bake for 20 minutes until browned and cooked through.<\/li><li>Serve whole or cut into pinwheels.<\/li><\/ol>",
+        "summary": "Chicken Cordon Bleu might be a good recipe to expand your main course repertoire. For <b>$1.81 per serving<\/b>, this recipe <b>covers 24%<\/b> of your daily requirements of vitamins and minerals. This recipe makes 6 servings with <b>417 calories<\/b>, <b>43g of protein<\/b>, and <b>21g of fat<\/b> each. 162 people found this recipe to be delicious and satisfying. This recipe from Foodista requires kosher salt and pepper, eggs, flour, and swiss cheese. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. Overall, this recipe earns an <b>outstanding spoonacular score of 83%<\/b>. If you like this recipe, take a look at these similar recipes: <a href=\"https:\/\/spoonacular.com\/recipes\/chicken-cordon-bleu-38785\">Chicken Cordon Bleu<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/chicken-cordon-bleu-355114\">Chicken Cordon Bleu<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/chicken-cordon-bleu-558701\">Chicken Cordon Bleu<\/a>.",
         "cuisines": [],
         "dishTypes": [
             "lunch",
@@ -17,19 +17,16 @@
             "dinner"
         ],
         "ingredients": [
-            "Bread crumbs",
-            "Canola oil",
-            "500 grams cod fillet (or any white fish fillet)",
+            "6 slices deli ham",
             "2 eggs",
-            "100 grams flour",
-            "1 clove garlic",
-            "1\/2 Grated rind of a lemon",
-            "1 cup milk",
-            "50 grams parmesan cheese",
-            "1 bunch chopped parsley",
-            "400 grams potatoes",
-            "Salt",
-            "150 grams tuna in olive oil"
+            "1\/4 cup flour",
+            "2 teaspoons fresh thyme leaves",
+            "kosher salt and freshly ground black pepper",
+            "1 teaspoon olive oil",
+            "1 cup panko bread crumbs",
+            "6 boneless, skinless chicken breasts",
+            "12 slices Gruyere or Swiss cheese",
+            "2 tsps water"
         ]
     }
 }
