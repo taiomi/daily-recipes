@@ -1,14 +1,14 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-08-14",
+    "lastUpdated": "2026-08-15",
     "recipe": {
-        "title": "Chicken Cordon Bleu",
+        "title": "Baked Salmon With Lime",
         "readyInMinutes": 45,
-        "servings": 6,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/638035-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/KFDCB2XH\/chicken-cordon-bleu",
-        "instructions": "<ol><li>Preheat oven to 350 degrees F.<\/li><li>Butterfly the chicken breasts by slicing half lengthwise but not cutting all the way through. Lay the halved breasts between 2 pieces of plastic wrap. Using the flat side of a meat mallet, gently pound the chicken to 1\/4-inch thickness, taking care to not tear or create holes in the meat.<\/li><li>Lay 2 slices of cheese on each breast, followed by 2 slices of ham, and 2 more of cheese; leaving a 1\/2-inch margin on all sides to help seal the roll. Tuck in the sides of the breast and roll up tight like a jellyroll. Squeeze the log gently to seal.<\/li><li>Season the flour with salt and pepper; spread out on waxed paper or in a flat dish. Mix the breadcrumbs with thyme, kosher salt, pepper, and oil. The oil will help the crust brown. Beat together the eggs and water, the mixture should be fluid. Lightly dust the chicken with flour, then dip in the egg mixture. Gently coat in the bread crumbs.<\/li><li>Carefully transfer the roulades to a baking pan and bake for 20 minutes until browned and cooked through.<\/li><li>Serve whole or cut into pinwheels.<\/li><\/ol>",
-        "summary": "Chicken Cordon Bleu might be a good recipe to expand your main course repertoire. For <b>$1.81 per serving<\/b>, this recipe <b>covers 24%<\/b> of your daily requirements of vitamins and minerals. This recipe makes 6 servings with <b>417 calories<\/b>, <b>43g of protein<\/b>, and <b>21g of fat<\/b> each. 162 people found this recipe to be delicious and satisfying. This recipe from Foodista requires kosher salt and pepper, eggs, flour, and swiss cheese. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. Overall, this recipe earns an <b>outstanding spoonacular score of 83%<\/b>. If you like this recipe, take a look at these similar recipes: <a href=\"https:\/\/spoonacular.com\/recipes\/chicken-cordon-bleu-38785\">Chicken Cordon Bleu<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/chicken-cordon-bleu-355114\">Chicken Cordon Bleu<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/chicken-cordon-bleu-558701\">Chicken Cordon Bleu<\/a>.",
+        "servings": 2,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/633779-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/ZMQQY5TD\/baked-salmon-with-lime",
+        "instructions": "Clean, remove all the scales and pad dry the cutlet with paper towel and place it on baking tray or foil.\nSeason the fish all around with cooking wine, lime rind and lime juice then top it evenly with crashed peppercorns, shredded ginger, chili, spring onion and butter cubes.\nYou can either baked it in a pre-heated oven at 200 degree for 12 minutes or you can toast it in the oven toaster for 15 - 18 minutes depend on the thickness and how well you want it to be cooked.",
+        "summary": "If you want to add more <b>gluten free and pescatarian<\/b> recipes to your recipe box, Baked Salmon With Lime might be a recipe you should try. For <b>$7.11 per serving<\/b>, this recipe <b>covers 30%<\/b> of your daily requirements of vitamins and minerals. This recipe makes 2 servings with <b>296 calories<\/b>, <b>36g of protein<\/b>, and <b>13g of fat<\/b> each. It works well as an expensive main course. 3 people were impressed by this recipe. Head to the store and pick up peppercorns, spring onion, cooking wine, and a few other things to make it today. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. It is brought to you by Foodista. Taking all factors into account, this recipe <b>earns a spoonacular score of 79%<\/b>, which is solid. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/chili-lime-baked-salmon-in-foil-1704907\">Chili-Lime Baked Salmon in Foil<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/chili-lime-baked-salmon-in-foil-911476\">Chili-Lime Baked Salmon in Foil<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/chili-lime-baked-salmon-in-foil-1645391\">Chili-Lime Baked Salmon in Foil<\/a>.",
         "cuisines": [],
         "dishTypes": [
             "lunch",
@@ -17,16 +17,15 @@
             "dinner"
         ],
         "ingredients": [
-            "6 slices deli ham",
-            "2 eggs",
-            "1\/4 cup flour",
-            "2 teaspoons fresh thyme leaves",
-            "kosher salt and freshly ground black pepper",
-            "1 teaspoon olive oil",
-            "1 cup panko bread crumbs",
-            "6 boneless, skinless chicken breasts",
-            "12 slices Gruyere or Swiss cheese",
-            "2 tsps water"
+            "350 grams Salmon Cutlet",
+            "1 stalk of Spring Onion, cut into sections",
+            "5 grams Of Shredded Ginger",
+            "1 Chili, deseed and cut into strips (optional)",
+            "1 teaspoon of Cooking Wine",
+            "1 Rind of Lime",
+            "1 tablespoon of Lime Juice",
+            "1\/2 teaspoon Black Peppercorns, lightly crashed",
+            "5 grams of Butter, cubes"
         ]
     }
 }
