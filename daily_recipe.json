@@ -1,29 +1,44 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-08-18",
+    "lastUpdated": "2026-08-20",
     "recipe": {
-        "title": "Pork chops with apples and onions",
+        "title": "Make Olive Garden\u2019s Delicious Pasta Fagioli At Home",
         "readyInMinutes": 45,
-        "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/656738-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/ZFS45WC2\/pork-chops-with-apples-and-onions",
-        "instructions": "Season the chops with salt and pepper on both sides. Saut the pork chops in hot oil for 5 minutes on each side until browned. Transfer the chops to a warm plate.\nSwirl the butter into the pan, and add the onion and apples. Saut until the onion slices are lightly caramelized and the apples have begun to soften, about 8 minutes.\nStir in the wine or other liquid. Return chops to the pan.\nCook until the pork is tender, about 15 more minutes (depending on the size of the chops), turning halfway through and covering the chops with the apple mixture.\nServe the chops over rice or mashed potatoes with a large spoonful of the apple-onion mixture over the top.\nEasy suggestion: replace the onion with leeks or add a sliced potato. You can deglaze the pan with beer, cider, chicken broth, or even water.",
-        "summary": "You can never have too many main course recipes, so give Pork chops with apples and onions a try. Watching your figure? This gluten free recipe has <b>483 calories<\/b>, <b>36g of protein<\/b>, and <b>25g of fat<\/b> per serving. This recipe serves 4 and costs $2.52 per serving. If you have pork chops, white wine, butter, and a few other ingredients on hand, you can make it. It is brought to you by Foodista. This recipe is liked by 8 foodies and cooks. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. Taking all factors into account, this recipe <b>earns a spoonacular score of 64%<\/b>, which is solid. Try <a href=\"https:\/\/spoonacular.com\/recipes\/pork-chops-with-apples-and-onions-1364599\">Pork chops with apples and onions<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/pork-chops-with-onions-and-apples-436654\">Pork Chops with Onions and Apples<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/pork-chops-with-apples-and-onions-1218929\">Pork Chops with Apples and Onions<\/a> for similar recipes.",
-        "cuisines": [],
+        "servings": 20,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/650654-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/3Q2XBWRG\/make-olive-gardens-delicious-pasta-fagioli-at-home",
+        "instructions": "Brown beef in a large soup pot.  Drain in a colander in sink.\nIn the same pot, heat the olive oil.  Add the onions, carrots, celery, and garlic and cook for 2 minutes. Stir often.\nAdd the drained beef back to the pot.  Stir in the canned tomatoes, beans, beef broth, spaghetti sauce, zucchini, water, Italian seasonings and pepper.\nBring soup up to a boil.  Turn heat to a simmer, cover and let cook for 50 minutes.\nAdd pasta to the soup.  Cover and cook for about 10 minutes longer until pasta is ready.\nLadle soup into a small bowl or cup.  Top with grated Parmesan cheese, if desired\nMakes 20 cups",
+        "summary": "If you want to add more <b>Mediterranean<\/b> recipes to your recipe box, Make Olive Garden\u2019s Delicious Pasta Fagioli At Home might be a recipe you should try. This recipe serves 20. One portion of this dish contains approximately <b>21g of protein<\/b>, <b>10g of fat<\/b>, and a total of <b>285 calories<\/b>. For <b>$1.58 per serving<\/b>, this recipe <b>covers 18%<\/b> of your daily requirements of vitamins and minerals. It works well as a main course. Not a lot of people made this recipe, and 2 would say it hit the spot. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. It is brought to you by Foodista. If you have kidney beans, garlic cloves, excellent northern beans, and a few other ingredients on hand, you can make it. All things considered, we decided this recipe <b>deserves a spoonacular score of 62%<\/b>. This score is good. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/olive-garden-pasta-e-fagioli-1347881\">Olive Garden Pastan e Fagioli<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/olive-garden-pasta-e-fagioli-1228645\">Olive Garden Pastan e Fagioli<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/olive-garden-pasta-e-fagioli-990430\">Olive Garden Pastan e Fagioli<\/a>.",
+        "cuisines": [
+            "Mediterranean",
+            "Italian",
+            "European"
+        ],
         "dishTypes": [
             "lunch",
+            "soup",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "4 pork chops (loin or shoulder, bone-in)",
-            "Salt and ground black pepper",
-            "1 Tbs olive oil or sunflower oil",
-            "2 Tbs unsalted butter",
-            "1 large white onion, sliced",
-            "3 cups apples (2 to 3 apples), cored and sliced",
-            "1 cup white wine"
+            "1 pound lean ground beef or ground turkey",
+            "1 teaspoon olive oil",
+            "3 cups onions, chopped",
+            "4 carrots, chopped",
+            "4 celery stalks, chopped",
+            "2 garlic cloves, minced",
+            "1 can (28 oz) tomatoes, diced",
+            "1 can (16 oz) red kidney beans, rinsed and drained",
+            "1 can (16 oz) white kidney beans, rinsed and drained",
+            "1 can (16 oz) great northern beans, rinsed and drained",
+            "3 cans (10 oz) reduced-sodium beef broth",
+            "1 jar (24 oz) spaghetti, marinara, or pasta sauce, we used Prego's Heart Smart",
+            "1 zucchini, chopped",
+            "2 tablespoons Italian seasoning blend",
+            "2 teaspoons fresh ground pepper or to taste",
+            "6 ounces whole wheat penne pasta",
+            "Grated Parmesan cheese to top each bowl with, optional"
         ]
     }
 }
