@@ -2102,3 +2102,7 @@
 [2026-08-21 02:22:13] Fetching recipe with day of year: 233
 [2026-08-21 02:22:14] Successfully fetched and saved recipe: Bulgur Pilaf With Green Lentils, Served With Caramelized Onions -Mercimekli Bulgur Pilavi
 [2026-08-21 02:22:14] Recipe fetch process completed
+[2026-08-22 02:14:45] Starting recipe fetch process
+[2026-08-22 02:14:45] Fetching recipe with day of year: 234
+[2026-08-22 02:14:45] ERROR: Failed to get API response
+[2026-08-22 02:14:45] Recipe fetch process completed
