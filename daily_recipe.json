@@ -1,15 +1,19 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-08-24",
+    "lastUpdated": "2026-08-26",
     "recipe": {
-        "title": "Balsamic-Honey Chicken Drumsticks",
+        "title": "Lamb Burgers With Tzatziki Sauce",
         "readyInMinutes": 45,
-        "servings": 8,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/633955-556x370.jpg",
-        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/VV27WS4C\/balsamic-honey-chicken-drumsticks",
-        "instructions": "<ol><li>Combine the balsamic vinegar, honey, brown sugar, soy sauce, rosemary sprigs, and garlic cloves in a large, resealable plastic bag. Shake and squeeze the contents of the bag to dissolve the honey and brown sugar. Add the chicken drumsticks to the bag and seal with as little air as possible in the bag. Place in the refrigerator and marinate for 2 hours.<\/li><li>Preheat the oven to 450 degrees F.<\/li><li>Place the chicken drumsticks on a foil-lined baking sheet. Bake until the skin is caramelized and very dark in spots, about 30 to 35 minutes.<\/li><li>Meanwhile, place the marinade in a small saucepan. Bring the marinade to a boil. Reduce the heat to simmer and cook over low heat until thick, about 15 minutes. Reserve.<\/li><li>Use a pastry brush to brush some of the boiled marinade on the cooked chicken. Place the chicken on a serving platter. Sprinkle with the sesame seeds and the chopped parsley.<\/li><\/ol>",
-        "summary": "Balsamic-Honey Chicken Drumsticks is a <b>gluten free and dairy free<\/b> main course. One portion of this dish contains around <b>18g of protein<\/b>, <b>10g of fat<\/b>, and a total of <b>301 calories<\/b>. This recipe serves 8. For <b>$1.11 per serving<\/b>, this recipe <b>covers 11%<\/b> of your daily requirements of vitamins and minerals. This recipe from Foodista has 11 fans. If you have soy sauce, honey, garlic cloves, and a few other ingredients on hand, you can make it. From preparation to the plate, this recipe takes about <b>45 minutes<\/b>. With a spoonacular <b>score of 40%<\/b>, this dish is rather bad. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/sticky-honey-balsamic-chicken-drumsticks-519513\">Sticky Honey Balsamic Chicken Drumsticks<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/sticky-honey-balsamic-chicken-drumsticks-1306427\">Sticky Honey Balsamic Chicken Drumsticks<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/chicken-drumsticks-with-a-mushroom-balsamic-sauce-542261\">Chicken Drumsticks with a Mushroom Balsamic Sauce<\/a>.",
-        "cuisines": [],
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/649195-556x370.jpg",
+        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/QLMYDMY6\/lamb-burgers-with-tzatziki-sauce",
+        "instructions": "<ol><li>For the lamb burger, mix 1 pound ground lamb, 1 egg, 1 splash of extra virgin olive oil, the juice of 1 lemon, 1\/4 cup chopped flat leaf parsley, and 6 cloves of chopped garlic. Season with kosher salt &amp; pepper to taste and let sit for  to 1 hour.<\/li><li>Grill burgers to your liking.<\/li><li>For the tzatziki sauce, mix together 1 pint Greek yogurt, 1 diced cucumber, juice of 1 lemon, 1 tablespoon extra virgin olive oil, 6 garlic cloves (add garlic bit by bit until you have the level of garlic you like), 1 handful minced fresh dill, and kosher salt and fresh cracked pepper to taste. Refrigerate overnight to let the flavors intensify.<\/li><li>Serve the grilled burgers on toasted buns and add a dollop of the sauce on top.<\/li><\/ol>",
+        "summary": "If you want to add more <b>Mediterranean<\/b> recipes to your collection, Lamb Burgers With Tzatziki Sauce might be a recipe you should try. One serving contains <b>617 calories<\/b>, <b>38g of protein<\/b>, and <b>37g of fat<\/b>. For <b>$3.6 per serving<\/b>, you get a main course that serves 4. 12 people were impressed by this recipe. This recipe from Foodista requires cucumber, greek yogurt, ground lamb, and juice of lemon. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. Taking all factors into account, this recipe <b>earns a spoonacular score of 77%<\/b>, which is solid. <a href=\"https:\/\/spoonacular.com\/recipes\/lamb-burgers-with-tzatziki-sauce-1308601\">Lamb Burgers With Tzatziki Sauce<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/greek-lamb-burgers-with-tzatziki-sauce-888153\">Greek Lamb Burgers with Tzatziki Sauce<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/greek-lamb-burgers-with-tzatziki-sauce-1303797\">Greek Lamb Burgers with Tzatziki Sauce<\/a> are very similar to this recipe.",
+        "cuisines": [
+            "Mediterranean",
+            "European",
+            "Greek"
+        ],
         "dishTypes": [
             "lunch",
             "main course",
@@ -17,15 +21,17 @@
             "dinner"
         ],
         "ingredients": [
-            "1\/2 cup balsamic vinegar",
-            "1\/2 cup brown sugar",
-            "10 to 12 chicken drumsticks",
-            "1\/4 cup chopped fresh flat-leaf parsley",
-            "5 garlic cloves, halved",
-            "1\/2 cup honey",
-            "5 sprigs of rosemary",
-            "2 tablespoons toasted sesame seeds",
-            "1\/4 cup soy sauce"
+            "1 cucumber, seeded and diced",
+            "1 egg",
+            "2 tablespoons extra virgin olive oil",
+            "1\/4 cup chopped flat leaf parsley",
+            "1 handful of minced fresh dill",
+            "12 Cloves garlic, peeled and cut in ha",
+            "1 pint Greek yogurt",
+            "1 pound ground lamb",
+            "4 hamburger buns",
+            "juice of 2 lemons",
+            "Kosher salt & pepper to taste"
         ]
     }
 }
