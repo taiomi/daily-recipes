@@ -1,18 +1,16 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-08-26",
+    "lastUpdated": "2026-08-27",
     "recipe": {
-        "title": "Lamb Burgers With Tzatziki Sauce",
+        "title": "All American Sloppy Joes",
         "readyInMinutes": 45,
         "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/649195-556x370.jpg",
-        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/QLMYDMY6\/lamb-burgers-with-tzatziki-sauce",
-        "instructions": "<ol><li>For the lamb burger, mix 1 pound ground lamb, 1 egg, 1 splash of extra virgin olive oil, the juice of 1 lemon, 1\/4 cup chopped flat leaf parsley, and 6 cloves of chopped garlic. Season with kosher salt &amp; pepper to taste and let sit for  to 1 hour.<\/li><li>Grill burgers to your liking.<\/li><li>For the tzatziki sauce, mix together 1 pint Greek yogurt, 1 diced cucumber, juice of 1 lemon, 1 tablespoon extra virgin olive oil, 6 garlic cloves (add garlic bit by bit until you have the level of garlic you like), 1 handful minced fresh dill, and kosher salt and fresh cracked pepper to taste. Refrigerate overnight to let the flavors intensify.<\/li><li>Serve the grilled burgers on toasted buns and add a dollop of the sauce on top.<\/li><\/ol>",
-        "summary": "If you want to add more <b>Mediterranean<\/b> recipes to your collection, Lamb Burgers With Tzatziki Sauce might be a recipe you should try. One serving contains <b>617 calories<\/b>, <b>38g of protein<\/b>, and <b>37g of fat<\/b>. For <b>$3.6 per serving<\/b>, you get a main course that serves 4. 12 people were impressed by this recipe. This recipe from Foodista requires cucumber, greek yogurt, ground lamb, and juice of lemon. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. Taking all factors into account, this recipe <b>earns a spoonacular score of 77%<\/b>, which is solid. <a href=\"https:\/\/spoonacular.com\/recipes\/lamb-burgers-with-tzatziki-sauce-1308601\">Lamb Burgers With Tzatziki Sauce<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/greek-lamb-burgers-with-tzatziki-sauce-888153\">Greek Lamb Burgers with Tzatziki Sauce<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/greek-lamb-burgers-with-tzatziki-sauce-1303797\">Greek Lamb Burgers with Tzatziki Sauce<\/a> are very similar to this recipe.",
+        "image": "https:\/\/img.spoonacular.com\/recipes\/632071-556x370.jpg",
+        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/DNFR7JZT\/sloppy-joe",
+        "instructions": "<ol><li>Heat the olive oil in a large skillet. Add in minced garlic, shallots, and green bell pepper.  Stir until fragrant and tender, about 3 minutes. Season it with salt and black pepper.<\/li><li>Add the ground beef to the vegetables. Stir and cook about 5 minutes, until the meat is no longer pink and fully cooked. Add tomato sauce, barbecue sauce, Worcestershire, and hot sauce into the skillet. Stir to combine. Simmer until thickened.<\/li><li>To serve, spoon and pile sloppy meat onto the toasted, buttered bun bottoms and cover with bun tops with your favourite side dish or pickles.<\/li><\/ol>",
+        "summary": "The recipe All American Sloppy Joes could satisfy your American craving in roughly <b>45 minutes<\/b>. This recipe serves 4 and costs $1.82 per serving. Watching your figure? This dairy free recipe has <b>507 calories<\/b>, <b>25g of protein<\/b>, and <b>28g of fat<\/b> per serving. A couple people made this recipe, and 37 would say it hit the spot. It works well as a budget friendly main course. This recipe from Foodista requires shallots, burger buns, garlic cloves, and ground beef. Taking all factors into account, this recipe <b>earns a spoonacular score of 64%<\/b>, which is solid. Try <a href=\"https:\/\/spoonacular.com\/recipes\/sloppy-chori-joes-chorizo-sloppy-joes-472129\">Sloppy Chori-Joes (Chorizo Sloppy Joes)<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/mushy-joes-sloppy-joes-meatless-cousin-meatless-monday-603187\">Mushy Joes (Sloppy Joes Meatless Cousin) (Meatless Monday)<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/mushy-joes-sloppy-joes-meatless-cousin-meatless-monday-1334583\">Mushy Joes (Sloppy Joes Meatless Cousin) (Meatless Monday)<\/a> for similar recipes.",
         "cuisines": [
-            "Mediterranean",
-            "European",
-            "Greek"
+            "American"
         ],
         "dishTypes": [
             "lunch",
@@ -21,17 +19,17 @@
             "dinner"
         ],
         "ingredients": [
-            "1 cucumber, seeded and diced",
-            "1 egg",
-            "2 tablespoons extra virgin olive oil",
-            "1\/4 cup chopped flat leaf parsley",
-            "1 handful of minced fresh dill",
-            "12 Cloves garlic, peeled and cut in ha",
-            "1 pint Greek yogurt",
-            "1 pound ground lamb",
-            "4 hamburger buns",
-            "juice of 2 lemons",
-            "Kosher salt & pepper to taste"
+            "100 grams American barbecue sauce",
+            "4 Homemade burger buns, split, toasted, and buttere",
+            "2 Garlic cloves, minced",
+            "1\/2 Green bell pepper, diced",
+            "450 grams Ground beef",
+            "1 teaspoon Hot sauce",
+            "1 tablespoon Olive oil",
+            "Salt and freshly ground black pepper",
+            "2 Shallots, chopped",
+            "180 grams Tomato sauce",
+            "2\/3 tablespoon Worcestershire sauce"
         ]
     }
 }
