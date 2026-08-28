@@ -2126,3 +2126,7 @@
 [2026-08-27 10:55:26] Fetching recipe with day of year: 239
 [2026-08-27 10:55:26] Successfully fetched and saved recipe: All American Sloppy Joes
 [2026-08-27 10:55:26] Recipe fetch process completed
+[2026-08-28 12:31:06] Starting recipe fetch process
+[2026-08-28 12:31:06] Fetching recipe with day of year: 240
+[2026-08-28 12:31:07] ERROR: Failed to get API response
+[2026-08-28 12:31:07] Recipe fetch process completed
