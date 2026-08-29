@@ -1,17 +1,15 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-08-27",
+    "lastUpdated": "2026-08-29",
     "recipe": {
-        "title": "All American Sloppy Joes",
+        "title": "Chicken with White Wine Tarragon Cream Sauce",
         "readyInMinutes": 45,
         "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/632071-556x370.jpg",
-        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/DNFR7JZT\/sloppy-joe",
-        "instructions": "<ol><li>Heat the olive oil in a large skillet. Add in minced garlic, shallots, and green bell pepper.  Stir until fragrant and tender, about 3 minutes. Season it with salt and black pepper.<\/li><li>Add the ground beef to the vegetables. Stir and cook about 5 minutes, until the meat is no longer pink and fully cooked. Add tomato sauce, barbecue sauce, Worcestershire, and hot sauce into the skillet. Stir to combine. Simmer until thickened.<\/li><li>To serve, spoon and pile sloppy meat onto the toasted, buttered bun bottoms and cover with bun tops with your favourite side dish or pickles.<\/li><\/ol>",
-        "summary": "The recipe All American Sloppy Joes could satisfy your American craving in roughly <b>45 minutes<\/b>. This recipe serves 4 and costs $1.82 per serving. Watching your figure? This dairy free recipe has <b>507 calories<\/b>, <b>25g of protein<\/b>, and <b>28g of fat<\/b> per serving. A couple people made this recipe, and 37 would say it hit the spot. It works well as a budget friendly main course. This recipe from Foodista requires shallots, burger buns, garlic cloves, and ground beef. Taking all factors into account, this recipe <b>earns a spoonacular score of 64%<\/b>, which is solid. Try <a href=\"https:\/\/spoonacular.com\/recipes\/sloppy-chori-joes-chorizo-sloppy-joes-472129\">Sloppy Chori-Joes (Chorizo Sloppy Joes)<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/mushy-joes-sloppy-joes-meatless-cousin-meatless-monday-603187\">Mushy Joes (Sloppy Joes Meatless Cousin) (Meatless Monday)<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/mushy-joes-sloppy-joes-meatless-cousin-meatless-monday-1334583\">Mushy Joes (Sloppy Joes Meatless Cousin) (Meatless Monday)<\/a> for similar recipes.",
-        "cuisines": [
-            "American"
-        ],
+        "image": "https:\/\/img.spoonacular.com\/recipes\/638455-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/KTPC33HB\/chicken-and-cream-sauce",
+        "instructions": "In large skillet saute onions, mushrooms, and garlic until lightly brown; add chicken breast and cook on medium high for 10 minutes or until chicken is done.\nRemove chicken and place on a platter. Add white wine and cook until alcohol has burned off, about 2 minutes. Add Worchestershire sauce and sour cream and stir until combined. Pour sauce over chicken, sprinkle with tarragon and serve.\nExcellent with biscuits, pasta or rice.",
+        "summary": "Chicken with White Wine Tarragon Cream Sauce is a main course that serves 4. Watching your figure? This gluten free and ketogenic recipe has <b>628 calories<\/b>, <b>43g of protein<\/b>, and <b>44g of fat<\/b> per serving. For <b>$3.37 per serving<\/b>, this recipe <b>covers 28%<\/b> of your daily requirements of vitamins and minerals. Head to the store and pick up tarragon, cream, onion, and a few other things to make it today. 3 people have tried and liked this recipe. It is brought to you by Foodista. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 65%<\/b>. This score is good. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/chicken-with-white-wine-tarragon-cream-sauce-1396961\">Chicken with White Wine Tarragon Cream Sauce<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/chicken-florentine-with-white-wine-cream-sauce-1522279\">Chicken Florentine with White Wine Cream Sauce<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/chicken-and-mushrooms-in-cream-and-white-wine-sauce-1320423\">Chicken and mushrooms in cream and white wine sauce<\/a>.",
+        "cuisines": [],
         "dishTypes": [
             "lunch",
             "main course",
@@ -19,17 +17,15 @@
             "dinner"
         ],
         "ingredients": [
-            "100 grams American barbecue sauce",
-            "4 Homemade burger buns, split, toasted, and buttere",
-            "2 Garlic cloves, minced",
-            "1\/2 Green bell pepper, diced",
-            "450 grams Ground beef",
-            "1 teaspoon Hot sauce",
-            "1 tablespoon Olive oil",
-            "Salt and freshly ground black pepper",
-            "2 Shallots, chopped",
-            "180 grams Tomato sauce",
-            "2\/3 tablespoon Worcestershire sauce"
+            "2 tbsp.s butter",
+            "1 pkg. fresh mushrooms, sliced",
+            "1 large onion, sliced",
+            "Fresh garlic, to taste (dash)",
+            "6 skinless, boneless chicken breasts",
+            "3 tbsp white wine",
+            "Dash of Worcestershire sauce",
+            "3 c sour cream",
+            "Dash of tarragon"
         ]
     }
 }
