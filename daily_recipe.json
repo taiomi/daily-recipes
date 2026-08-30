@@ -1,15 +1,17 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-08-29",
+    "lastUpdated": "2026-08-30",
     "recipe": {
-        "title": "Chicken with White Wine Tarragon Cream Sauce",
+        "title": "Skirt Steak Fajitas",
         "readyInMinutes": 45,
-        "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/638455-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/KTPC33HB\/chicken-and-cream-sauce",
-        "instructions": "In large skillet saute onions, mushrooms, and garlic until lightly brown; add chicken breast and cook on medium high for 10 minutes or until chicken is done.\nRemove chicken and place on a platter. Add white wine and cook until alcohol has burned off, about 2 minutes. Add Worchestershire sauce and sour cream and stir until combined. Pour sauce over chicken, sprinkle with tarragon and serve.\nExcellent with biscuits, pasta or rice.",
-        "summary": "Chicken with White Wine Tarragon Cream Sauce is a main course that serves 4. Watching your figure? This gluten free and ketogenic recipe has <b>628 calories<\/b>, <b>43g of protein<\/b>, and <b>44g of fat<\/b> per serving. For <b>$3.37 per serving<\/b>, this recipe <b>covers 28%<\/b> of your daily requirements of vitamins and minerals. Head to the store and pick up tarragon, cream, onion, and a few other things to make it today. 3 people have tried and liked this recipe. It is brought to you by Foodista. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 65%<\/b>. This score is good. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/chicken-with-white-wine-tarragon-cream-sauce-1396961\">Chicken with White Wine Tarragon Cream Sauce<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/chicken-florentine-with-white-wine-cream-sauce-1522279\">Chicken Florentine with White Wine Cream Sauce<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/chicken-and-mushrooms-in-cream-and-white-wine-sauce-1320423\">Chicken and mushrooms in cream and white wine sauce<\/a>.",
-        "cuisines": [],
+        "servings": 6,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/660234-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/3X3HYGB4\/skirt-steak-fajitas",
+        "instructions": "<ol><li>Get the marinade prepared: Whisk together the marinade ingredients in a small bowl. Reserve about 1\/3 cup of marinade for the vegetables. Place the steak in a gallon-sized ziplock bag. Add the remaining marinade. Seal the bag, pressing out any excess air, massage the marinade into the meat a bit. Refrigerate anywhere from 3-10 hours.<\/li><li>After meat has finished marinating, remove steak from marinade and wipe off excess marinade with paper towel. (I also cut the steak into a couple of more manageable sized pieces, for easier turning on the grill). brush the vegetables with reserved marinade. Heat your grill to high. Scrape the grill grate clean and oil the grate. Add the steak to the super hot grill and grill, covered about 2 1\/2 minutes per side (for medium\/medium-rare), or until steak reaches desired doneness. Remove steak to a clean plate and cover with foil &amp; let rest for 10-15 minutes.<\/li><li>Add the peppers and onions to the grill and grill, turning occasionally until cooked, peppers should take about 5 minutes and onions will take about 10. Remove from grill. Briefly add the tortillas to the grill, a couple at a time and grill until warmed and lightly charred around the edges. Wrap the tortillas in foil to keep warm.<\/li><li>Thinly slice the steak, against the grain. Slice the onions in half and separate the rings. Slice the peppers. Serve with the tortillas, lime wedges and toppings of your choice.<\/li><\/ol>",
+        "summary": "Skirt Steak Fajitas takes about <b>45 minutes<\/b> from beginning to end. This main course has <b>700 calories<\/b>, <b>43g of protein<\/b>, and <b>34g of fat<\/b> per serving. For <b>$4.51 per serving<\/b>, this recipe <b>covers 36%<\/b> of your daily requirements of vitamins and minerals. This recipe serves 6. Not a lot of people made this recipe, and 2 would say it hit the spot. It can be enjoyed any time, but it is especially good for <b>valentin day<\/b>. A mixture of bell peppers, cream, squeezed lime juice, and a handful of other ingredients are all it takes to make this recipe so delicious. This recipe is typical of Mexican cuisine. It is brought to you by Foodista. Taking all factors into account, this recipe <b>earns a spoonacular score of 77%<\/b>, which is solid. Similar recipes include <a href=\"https:\/\/spoonacular.com\/recipes\/skirt-steak-fajitas-694084\">Skirt Steak Fajitas<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/skirt-steak-fajitas-568197\">Skirt Steak Fajitas<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/skirt-steak-fajitas-1367757\">Skirt Steak Fajitas<\/a>.",
+        "cuisines": [
+            "Mexican"
+        ],
         "dishTypes": [
             "lunch",
             "main course",
@@ -17,15 +19,21 @@
             "dinner"
         ],
         "ingredients": [
-            "2 tbsp.s butter",
-            "1 pkg. fresh mushrooms, sliced",
-            "1 large onion, sliced",
-            "Fresh garlic, to taste (dash)",
-            "6 skinless, boneless chicken breasts",
-            "3 tbsp white wine",
-            "Dash of Worcestershire sauce",
-            "3 c sour cream",
-            "Dash of tarragon"
+            "2-3 bell peppers, ends trimmed, cored and seeded, cut into a couple large pieces",
+            "2 T. brown sugar",
+            "1\/3 c. canola oil",
+            "1 t. chile powder",
+            "cilantro",
+            "1 t. cumin",
+            "18 6-inch flour tortillas",
+            "1 clove of garlic, peeled and finely chopped",
+            "1\/3 c. fresh squeezed lime juice",
+            "lime wedges",
+            "salsa",
+            "about 2 lb. skirt steak",
+            "sour cream",
+            "1\/3 c. soy sauce",
+            "1 large white onion, peeled and cut into 1\/2-3\/4-inch slices (keep the slices intact)"
         ]
     }
 }
