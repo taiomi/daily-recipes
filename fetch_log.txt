@@ -2150,3 +2150,7 @@
 [2026-09-02 05:27:58] Fetching recipe with day of year: 245
 [2026-09-02 05:27:59] Successfully fetched and saved recipe: Salmon, Watercress, Fennel and Baby Beetroot Salad With Lemony "Caviar" Dressing
 [2026-09-02 05:27:59] Recipe fetch process completed
+[2026-09-03 05:29:18] Starting recipe fetch process
+[2026-09-03 05:29:18] Fetching recipe with day of year: 246
+[2026-09-03 05:29:18] ERROR: Failed to get API response
+[2026-09-03 05:29:18] Recipe fetch process completed
