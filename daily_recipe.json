@@ -1,36 +1,30 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-09-02",
+    "lastUpdated": "2026-09-04",
     "recipe": {
-        "title": "Salmon, Watercress, Fennel and Baby Beetroot Salad With Lemony \"Caviar\" Dressing",
+        "title": "Grilled Chicken Hunter Style",
         "readyInMinutes": 45,
         "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/659143-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/WHSTLX2T\/salmon-watercress-fennel-and-baby-beetroot-salad-with-lemony-arenkha-msc-dressing",
-        "instructions": "<ol><li>Place the salmon in a pan, cover with water, and add the wine, bay and tarragon stalks.  Bring to the boil and then immediately turn off and leave for a couple of minutes to cook in the residual heat. Remove to a plate with a slotted spoon and leave to cool before flaking into large pieces.<\/li><li>Make the dressing by lightly whisking the olive oil and lemon juice together. Stir in the Arnkha MSC and season with some black pepper.<\/li><li>Next, arrange the watercress, beets and fennel in 4 shallow salad bowls, then add the salmon and tarragon.  Drizzle over the Arnkha MSC dressing and serve.<\/li><\/ol>",
-        "summary": "Salmon, Watercress, Fennel and Baby Beetroot Salad With Lemony \"Caviar\" Dressing might be a good recipe to expand your main course recipe box. One portion of this dish contains approximately <b>27g of protein<\/b>, <b>29g of fat<\/b>, and a total of <b>440 calories<\/b>. This recipe serves 4 and costs $4.28 per serving. A mixture of white wine, baby beets, watercress, and a handful of other ingredients are all it takes to make this recipe so delicious. Not a lot of people made this recipe, and 4 would say it hit the spot. It is brought to you by Foodista. From preparation to the plate, this recipe takes about <b>45 minutes<\/b>. It is a good option if you're following a <b>gluten free, dairy free, paleolithic, and primal<\/b> diet. With a spoonacular <b>score of 95%<\/b>, this dish is super. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/wild-rice-baby-beetroot-beef-kofta-salad-ft-love-beets-baby-beetroot-494268\">Wild Rice, Baby Beetroot & Beef Kofta Salad (ft. Love Beets Baby Beetroot)<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/poached-salmon-and-watercress-salad-with-dill-yogurt-dressing-14170\">Poached Salmon and Watercress Salad with Dill-Yogurt Dressing<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/beetroot-red-apple-and-watercress-salad-9732\">Beetroot, Red Apple And Watercress Salad<\/a>.",
+        "image": "https:\/\/img.spoonacular.com\/recipes\/645647-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/D3ZKMQJ3\/grilled-chicken-hunter-style",
+        "instructions": "<ol><li>Coat chicken breasts in 1 ounce of extra virgin olive oil and set aside.<\/li><li>In a 2 quart sauce pot, add 2 ounces extra virgin olive oil, the green bell pepper, the red bell pepper and the mushrooms. Cook over medium heat until the vegetables begin to brown slightly. Add the Mamma Lombardis Marinana Sauce, salt and freshly ground black pepper and simmer for approximately 12 minutes.<\/li><li>Grill chicken breasts until thoroughly cooked and juicy. Place on a serving tray and ladle the sauce over the chicken. Top with grated romano cheese and serve.<\/li><\/ol>",
+        "summary": "Grilled Chicken Hunter Style might be a good recipe to expand your main course recipe box. One serving contains <b>732 calories<\/b>, <b>84g of protein<\/b>, and <b>38g of fat<\/b>. This recipe serves 4. For <b>$4.67 per serving<\/b>, this recipe <b>covers 41%<\/b> of your daily requirements of vitamins and minerals. It is a good option if you're following a <b>gluten free and primal<\/b> diet. It can be enjoyed any time, but it is especially good for <b>The Fourth Of July<\/b>. 2 people were glad they tried this recipe. A mixture of romano cheese, mushrooms, bell pepper, and a handful of other ingredients are all it takes to make this recipe so flavorful. It is brought to you by Foodista. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. Taking all factors into account, this recipe <b>earns a spoonacular score of 81%<\/b>, which is amazing. If you like this recipe, take a look at these similar recipes: <a href=\"https:\/\/spoonacular.com\/recipes\/hunter-style-chicken-74368\">Hunter-style Chicken<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/chicken-chasseur-hunter-style-chicken-with-creamy-polenta-with-gruyere-and-parmesan-1602495\">Chicken Chasseur (Hunter-Style Chicken) with Creamy Polenta with Gruyere and Parmesan<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/chicken-chasseur-hunter-style-chicken-with-creamy-polenta-with-gruyere-and-parmesan-1230479\">Chicken Chasseur (Hunter-Style Chicken) with Creamy Polenta with Gruyere and Parmesan<\/a>.",
         "cuisines": [],
         "dishTypes": [
-            "side dish",
             "lunch",
             "main course",
-            "salad",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "4 teaspoons Ar\u00ebnkha MSC caviar substitute",
-            "12 cooked baby beets",
-            "1 bay leaf",
-            "freshly ground black pepper",
-            "6 tbsp extra virgin olive oil",
-            "1 head fennel, outside leaves discarded, finely sliced",
-            "2 tbsp lemon juice",
-            "4 110g (4oz) skinless salmon fillets",
-            "tarragon stalks",
-            "few tarragon leaves",
-            "1 bunch watercress, picked over, washed & dried",
-            "1 tablespoon white wine"
+            "6 Boneless chicken breasts",
+            "3 ounces extra virgin olive oil",
+            "1 green bell pepper, sliced",
+            "16 ounces Mamma Lombardi's Marinara Sauce",
+            "4 ounces washed, sliced mushrooms",
+            "1 red bell pepper, sliced",
+            "4 ounces Grated Romano Cheese",
+            "salt and freshly ground black pepper to taste"
         ]
     }
 }
