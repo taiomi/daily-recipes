@@ -1,37 +1,33 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-09-10",
+    "lastUpdated": "2026-09-11",
     "recipe": {
-        "title": "Chicken Mulligatawny Soup",
+        "title": "Linguine with Prawns, Fresh Tomatoes and Spinach",
         "readyInMinutes": 45,
-        "servings": 6,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/638199-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/FLJTTJNH\/chicken-mulligatawny-soup",
-        "instructions": "<ol><li>Heat the butter in a large pot over medium heat. Add the onions, celery, carrots, apples and ginger. Saut for 5 minutesstirring occasionally.<\/li><li>Mix in the flour, curry powder and cayenne pepper. Stir another 3-5 minutes, then add the chicken stock, rice chopped chicken and 1 tsp. salt.<\/li><li>Bring to a boil and lower the heat to a simmer. Simmer for 15 minutesor until the rice is tender and the chicken has cooked through.<\/li><li>Add the coconut milk and salt and pepper to taste.<\/li><li>Garnish with toasted almonds or cilantro!<\/li><\/ol>",
-        "summary": "The recipe Chicken Mulligatawny Soup can be made <b>in around 45 minutes<\/b>. This main course has <b>368 calories<\/b>, <b>27g of protein<\/b>, and <b>10g of fat<\/b> per serving. This recipe serves 6. For <b>$2.5 per serving<\/b>, this recipe <b>covers 22%<\/b> of your daily requirements of vitamins and minerals. A couple people made this recipe, and 36 would say it hit the spot. It is brought to you by Foodista. <b>Autumn<\/b> will be even more special with this recipe. Head to the store and pick up apples, basmati rice, cayenne pepper, and a few other things to make it today. With a spoonacular <b>score of 74%<\/b>, this dish is pretty good. <a href=\"https:\/\/spoonacular.com\/recipes\/chicken-mulligatawny-soup-1589473\">Chicken Mulligatawny Soup<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/chicken-mulligatawny-soup-678904\">Chicken Mulligatawny Soup<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/mulligatawny-soup-chicken-94598\">Mulligatawny Soup ( Chicken )<\/a> are very similar to this recipe.",
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/650139-556x370.jpg",
+        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/GYVMPF7R\/linguine-with-prawns-fresh-tomatoes-and-spinach",
+        "instructions": "<ol><li>Cook the Linguine according to package direction.<\/li><li>In a large skillet under medium heat melt the butter with the olive oil. Add the chopped tomatoes, chopped parsley, chopped garlic and saute until slightly tender. Add the spinach, the wine and the prawns. Saute until the prawns are pink and the spinach wilted.<\/li><li>Drain the pasta, add it to the skillet and mix well.<\/li><li>Serve hot.<\/li><\/ol>",
+        "summary": "If you have around <b>45 minutes<\/b> to spend in the kitchen, Linguine with Prawns, Fresh Tomatoes and Spinach might be an amazing <b>pescatarian<\/b> recipe to try. One portion of this dish contains around <b>41g of protein<\/b>, <b>22g of fat<\/b>, and a total of <b>725 calories<\/b>. This recipe serves 4 and costs $3.93 per serving. 10 people were glad they tried this recipe. It is brought to you by Foodista. If you have prawns, tomatoes, salt and pepper, and a few other ingredients on hand, you can make it. It works well as a main course. With a spoonacular <b>score of 85%<\/b>, this dish is excellent. <a href=\"https:\/\/spoonacular.com\/recipes\/linguine-with-fresh-tomatoes-443547\">Linguine with Fresh Tomatoes<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/linguine-with-fresh-tuna-tomatoes-and-lemon-7856\">Linguine with Fresh Tuna, Tomatoes and Lemon<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/linguinie-with-prawns-spinach-tomatoes-and-goat-cheese-567454\">Linguinie with Prawns, Spinach, Tomatoes and Goat Cheese<\/a> are very similar to this recipe.",
         "cuisines": [],
         "dishTypes": [
-            "soup",
+            "side dish",
             "lunch",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "2 apples, peeled and chopped",
-            "1\/2 cup basmati rice",
-            "2 teaspoons butter",
-            "1 cup chopped carrots",
-            "1\/8 teaspoon cayenne pepper",
-            "1 cup sliced celery",
-            "2 liters chicken stock",
-            "2 tablespoons curry powder",
-            "3 tablespoons flour",
-            "1 tablespoon freshly grated ginger",
-            "3\/4 cup lite coconut milk",
-            "1 onion chopped",
-            "Salt and pepper",
-            "1 pound boneless, skinless chicken breast, chopped"
+            "1\/2 package fresh baby spinach stems removed and cleaned",
+            "1 pound of Fettuccine Barilla",
+            "1 garlic clove",
+            "1\/4 cup Olive oil",
+            "1 tablespoon freshly chopped parsley",
+            "1 pound of fresh prawns, shell and tail removes and deveined",
+            "Salt and Pepper to taste",
+            "4 fresh tomatoes, seed removed and chopped",
+            "2 teaspoons unsalted butter",
+            "1\/2 cup White wine"
         ]
     }
 }
