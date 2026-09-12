@@ -2186,3 +2186,7 @@
 [2026-09-11 05:38:23] Fetching recipe with day of year: 254
 [2026-09-11 05:38:24] Successfully fetched and saved recipe: Linguine with Prawns, Fresh Tomatoes and Spinach
 [2026-09-11 05:38:24] Recipe fetch process completed
+[2026-09-12 05:25:47] Starting recipe fetch process
+[2026-09-12 05:25:47] Fetching recipe with day of year: 255
+[2026-09-12 05:25:48] ERROR: Failed to get API response
+[2026-09-12 05:25:48] Recipe fetch process completed
