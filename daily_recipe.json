@@ -1,14 +1,14 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-09-11",
+    "lastUpdated": "2026-09-13",
     "recipe": {
-        "title": "Linguine with Prawns, Fresh Tomatoes and Spinach",
+        "title": "Farfalle With Broccoli, Carrots and Tomatoes",
         "readyInMinutes": 45,
-        "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/650139-556x370.jpg",
-        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/GYVMPF7R\/linguine-with-prawns-fresh-tomatoes-and-spinach",
-        "instructions": "<ol><li>Cook the Linguine according to package direction.<\/li><li>In a large skillet under medium heat melt the butter with the olive oil. Add the chopped tomatoes, chopped parsley, chopped garlic and saute until slightly tender. Add the spinach, the wine and the prawns. Saute until the prawns are pink and the spinach wilted.<\/li><li>Drain the pasta, add it to the skillet and mix well.<\/li><li>Serve hot.<\/li><\/ol>",
-        "summary": "If you have around <b>45 minutes<\/b> to spend in the kitchen, Linguine with Prawns, Fresh Tomatoes and Spinach might be an amazing <b>pescatarian<\/b> recipe to try. One portion of this dish contains around <b>41g of protein<\/b>, <b>22g of fat<\/b>, and a total of <b>725 calories<\/b>. This recipe serves 4 and costs $3.93 per serving. 10 people were glad they tried this recipe. It is brought to you by Foodista. If you have prawns, tomatoes, salt and pepper, and a few other ingredients on hand, you can make it. It works well as a main course. With a spoonacular <b>score of 85%<\/b>, this dish is excellent. <a href=\"https:\/\/spoonacular.com\/recipes\/linguine-with-fresh-tomatoes-443547\">Linguine with Fresh Tomatoes<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/linguine-with-fresh-tuna-tomatoes-and-lemon-7856\">Linguine with Fresh Tuna, Tomatoes and Lemon<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/linguinie-with-prawns-spinach-tomatoes-and-goat-cheese-567454\">Linguinie with Prawns, Spinach, Tomatoes and Goat Cheese<\/a> are very similar to this recipe.",
+        "servings": 8,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/642582-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/YV88GS5Z\/farfalle-with-broccoli-carrots-and-tomatoes",
+        "instructions": "Bring a large pot of water to boil\nCook pasta about one or two minutes less than recommended on package directions.\nClean and slice the carrots into thin rounds\nCut the broccoli into small florets\nRoughly dice the stalks\nThinly slice the green onions\nHeat the peanut oil in a skillet over medium-high heat\nAdd minced garlic and saute for about 30 seconds\nAdd broccoli and carrots, and cook 3-5 minutes until the vegetables are softened but are still crisp\nAdd the scallions and cook for another 30 seconds\nSeason well with salt and remove from heat.\nMix the vegetables and the pasta, let cool T\nThen add tomatoes and cheese (note: if cooking ahead of time, wait to add the tomatoes and cheese until about an hour before serving).",
+        "summary": "Farfalle With Broccoli, Carrots and Tomatoes might be just the main course you are searching for. This recipe makes 8 servings with <b>309 calories<\/b>, <b>13g of protein<\/b>, and <b>8g of fat<\/b> each. For <b>96 cents per serving<\/b>, this recipe <b>covers 15%<\/b> of your daily requirements of vitamins and minerals. 4 people have made this recipe and would make it again. If you have parmigiano-reggiano, broccoli heads, carrots, and a few other ingredients on hand, you can make it. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. It is brought to you by Foodista. Overall, this recipe earns an <b>excellent spoonacular score of 83%<\/b>. If you like this recipe, take a look at these similar recipes: <a href=\"https:\/\/spoonacular.com\/recipes\/farfalle-with-broccoli-carrots-and-tomatoes-1364645\">Farfalle With Broccoli, Carrots and Tomatoes<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/farfalle-with-tomatoes-and-feta-cheese-108238\">Farfalle with Tomatoes and Feta Cheese<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/farfalle-with-sausage-tomatoes-and-cream-106954\">Farfalle with Sausage, Tomatoes, and Cream<\/a>.",
         "cuisines": [],
         "dishTypes": [
             "side dish",
@@ -18,16 +18,14 @@
             "dinner"
         ],
         "ingredients": [
-            "1\/2 package fresh baby spinach stems removed and cleaned",
-            "1 pound of Fettuccine Barilla",
-            "1 garlic clove",
-            "1\/4 cup Olive oil",
-            "1 tablespoon freshly chopped parsley",
-            "1 pound of fresh prawns, shell and tail removes and deveined",
-            "Salt and Pepper to taste",
-            "4 fresh tomatoes, seed removed and chopped",
-            "2 teaspoons unsalted butter",
-            "1\/2 cup White wine"
+            "1 pound farfalle pasta",
+            "2 tablespoons peanut oil",
+            "3 carrots",
+            "2 inches large broccoli heads (that's what she said)",
+            "2 bunches of scallions",
+            "3 garlic cloves, minced",
+            "1 cup + of Parmigiano-Reggiano, grated",
+            "1 container grape tomatoes"
         ]
     }
 }
