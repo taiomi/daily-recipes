@@ -2210,3 +2210,7 @@
 [2026-09-17 05:47:21] Fetching recipe with day of year: 260
 [2026-09-17 05:47:22] Successfully fetched and saved recipe: Potatoes Smothered with Egg Sauce (Cariucho)
 [2026-09-17 05:47:22] Recipe fetch process completed
+[2026-09-18 05:34:21] Starting recipe fetch process
+[2026-09-18 05:34:21] Fetching recipe with day of year: 261
+[2026-09-18 05:34:21] ERROR: Failed to get API response
+[2026-09-18 05:34:21] Recipe fetch process completed
