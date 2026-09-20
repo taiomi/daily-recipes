@@ -1,39 +1,35 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-09-19",
+    "lastUpdated": "2026-09-20",
     "recipe": {
-        "title": "French Onion Marsala Soup",
+        "title": "Mediterrean Tuna Salad",
         "readyInMinutes": 45,
-        "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/643362-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/Y6YT6DKN\/french-onion-marsala-soup",
-        "instructions": "Melt butter with olive oil in a large pot over medium heat. Add onions and stir continually until translucent. Add beef broth, marsala and thyme. Simmer for 30 minutes. Add sugar and season with salt and pepper. Be careful not to over salt!\nLadle soup into oven-safe bowls and place a handful of croutons in each. Sprinkle parmesan and swiss cheese and layer 2 slices of provolone on top. Place bowls on cookie sheet and broil in the preheated oven until cheese bubbles and browns.",
-        "summary": "French Onion Marsala Soup is a Mediterranean main course. One serving contains <b>515 calories<\/b>, <b>19g of protein<\/b>, and <b>34g of fat<\/b>. This recipe serves 4. For <b>$2.4 per serving<\/b>, this recipe <b>covers 14%<\/b> of your daily requirements of vitamins and minerals. This recipe from Foodista requires salt and pepper, olive oil, thyme, and swiss cheese. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. <b>Autumn<\/b> will be even more special with this recipe. 8 people have made this recipe and would make it again. With a spoonacular <b>score of 43%<\/b>, this dish is solid. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/french-onion-soup-topped-french-bread-pizzas-and-salad-with-dijon-vinaigrette-312082\">French Onion Soup Topped French Bread Pizzas and Salad with Dijon Vinaigrette<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/crockpot-french-onion-soup-with-cheesy-french-toast-685740\">Crockpot French Onion Soup with Cheesy French Toast<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/crockpot-french-onion-soup-with-cheesy-french-toast-1320489\">Crockpot French Onion Soup with Cheesy French Toast<\/a>.",
-        "cuisines": [
-            "Mediterranean",
-            "French",
-            "European"
-        ],
+        "servings": 2,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/651453-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/56LBK6DL\/mediterrean-tuna-salad",
+        "instructions": "<ol><li>In a small bowl or ramekin, add the finely chopped shallot and cover with white wine vinegar and 1\/2 teaspoon of sugar.<\/li><li>Set aside and let marinate while preparing the tuna.<\/li><li>Drain the tuna removing any excess water.<\/li><li>In a bowl, add the tuna and with a fork; break into bite size pieces.<\/li><li>Add the remaining ingredients and mix well.<\/li><li>Serve on a bed of mixed salad, tossed with olive oil and red balsamic vinaigrette. The ratio for the vinaigrette is 1 part vinegar to 3 parts oil.<\/li><li>Garnish with whole kalamata olives and  parsley.<\/li><\/ol>",
+        "summary": "Mediterrean Tuna Salad requires about <b>45 minutes<\/b> from start to finish. One serving contains <b>522 calories<\/b>, <b>28g of protein<\/b>, and <b>42g of fat<\/b>. For <b>$2.43 per serving<\/b>, you get a main course that serves 2. Only a few people made this recipe, and 9 would say it hit the spot. A mixture of arugula, olive oil, roma tomato, and a handful of other ingredients are all it takes to make this recipe so flavorful. It is brought to you by Foodista. It is a good option if you're following a <b>gluten free, dairy free, and pescatarian<\/b> diet. All things considered, we decided this recipe <b>deserves a spoonacular score of 73%<\/b>. This score is pretty good. Similar recipes include <a href=\"https:\/\/spoonacular.com\/recipes\/mediterrean-tuna-salad-1247823\">Mediterrean Tuna Salad<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/mediterrean-tuna-salad-1375193\">Mediterrean Tuna Salad<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/mediterrean-tuna-salad-1262937\">Mediterrean Tuna Salad<\/a>.",
+        "cuisines": [],
         "dishTypes": [
-            "soup",
             "lunch",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "1\/4 cup butter",
-            "2 tablespoons olive oil",
-            "4 cups onions, sliced",
-            "3 (14 oz) cans beef broth",
-            "1\/2 cup marsala wine",
-            "1 teaspoon dried thyme",
-            "salt and pepper to taste",
-            "2 heaping tbsp sugar",
-            "2 bags Texas Toast croutons",
-            "8 slices provolone cheese",
-            "2 slices Swiss cheese, diced",
-            "1\/4 cup grated Parmesan cheese"
+            "arugula",
+            "1 tablespoon red balsamic vinegar",
+            "1 tablespoon capers, chopped",
+            "6 black kalamata black olives, pitted and chopped",
+            "2 tablespoons mayonnaise",
+            "3 tablespoons olive oil",
+            "1 tablespoon Italian parsley, chopped",
+            "1 Roma tomato,seeded and diced",
+            "mixed spring salad",
+            "1 small shallot, finely chopped",
+            "1 7 oz can Albacore solid white tuna",
+            "1\/2 teaspoon sugar",
+            "2 tablespoons white wine vinegar"
         ]
     }
 }
