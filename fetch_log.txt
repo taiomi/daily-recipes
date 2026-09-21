@@ -2222,3 +2222,7 @@
 [2026-09-20 05:45:23] Fetching recipe with day of year: 263
 [2026-09-20 05:45:24] Successfully fetched and saved recipe: Mediterrean Tuna Salad
 [2026-09-20 05:45:24] Recipe fetch process completed
+[2026-09-21 05:56:05] Starting recipe fetch process
+[2026-09-21 05:56:05] Fetching recipe with day of year: 264
+[2026-09-21 05:56:05] ERROR: Failed to get API response
+[2026-09-21 05:56:05] Recipe fetch process completed
