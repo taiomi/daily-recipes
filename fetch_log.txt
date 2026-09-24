@@ -2234,3 +2234,7 @@
 [2026-09-23 05:31:41] Fetching recipe with day of year: 266
 [2026-09-23 05:31:42] Successfully fetched and saved recipe: Seared Scallops With Wilted Greens
 [2026-09-23 05:31:42] Recipe fetch process completed
+[2026-09-24 05:52:26] Starting recipe fetch process
+[2026-09-24 05:52:26] Fetching recipe with day of year: 267
+[2026-09-24 05:52:27] ERROR: Failed to get API response
+[2026-09-24 05:52:27] Recipe fetch process completed
