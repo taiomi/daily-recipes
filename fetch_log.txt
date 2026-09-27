@@ -2246,3 +2246,7 @@
 [2026-09-26 05:52:49] Fetching recipe with day of year: 269
 [2026-09-26 05:52:49] Successfully fetched and saved recipe: Mahi-Mahi With Lemon Caper Sauce
 [2026-09-26 05:52:49] Recipe fetch process completed
+[2026-09-27 06:17:26] Starting recipe fetch process
+[2026-09-27 06:17:26] Fetching recipe with day of year: 270
+[2026-09-27 06:17:26] ERROR: Failed to get API response
+[2026-09-27 06:17:26] Recipe fetch process completed
