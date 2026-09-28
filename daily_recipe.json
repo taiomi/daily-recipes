@@ -1,14 +1,14 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-09-26",
+    "lastUpdated": "2026-09-28",
     "recipe": {
-        "title": "Mahi-Mahi With Lemon Caper Sauce",
+        "title": "Gambas Al Ajillo",
         "readyInMinutes": 45,
         "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/650632-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/KB2P6WYL\/mahi-mahi-with-lemon-caper-sauce",
-        "instructions": "Prepare the fish by sprinkling each side with salt and pepper (or lemon pepper).\nPour the olive oil into a stainless steel pan on medium high heat.  When the oil is hot, test it with the tip of the fish fillet.  If the oil crackles from the touch, your ready!  If not, it needs to be hotter to get the sear the dish needs.\nWhen the Mahi-Mahi is cooked (usually 3-4 minutes per side depending on the thickness of your fillet), remove and cover loosely to keep warm.\nAdd the butter to the hot pan and melt.\nSaute the shallots until softened in the melted butter.\nAdd wine, broth, lemon juice, and lemon zest to the pan and use a spatula to scrape up all the browned bits (aka deglaze the pan).  Allow the mixture to simmer and reduce by 1\/3 to 1\/2, stirring occasionally.  Note: you can adjust the wine\/broth ratio according to your tastes and how much wine you have left in the bottle by the time you get to this step ;)\nAdd the rinsed capers and simmer one more minute.  While you are waiting, plate your fillets.  Pour the sauce over the top.",
-        "summary": "Need a <b>gluten free, primal, and pescatarian main course<\/b>? Mahi-Mahi With Lemon Caper Sauce could be a great recipe to try. This recipe serves 4. For <b>$6.61 per serving<\/b>, this recipe <b>covers 16%<\/b> of your daily requirements of vitamins and minerals. One serving contains <b>217 calories<\/b>, <b>32g of protein<\/b>, and <b>7g of fat<\/b>. This recipe from Foodista requires mahi-mahi, capers, juice of lemon, and shallot. 3 people were glad they tried this recipe. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 40%<\/b>. This score is solid. <a href=\"https:\/\/spoonacular.com\/recipes\/pesto-crusted-mahi-mahi-with-blistered-tomatoes-and-lemon-butter-sauce-608482\">Pesto Crusted Mahi-Mahi with Blistered Tomatoes and Lemon Butter Sauce<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/almond-thyme-crusted-mahi-mahi-with-lemon-chardonnay-sauce-630911\">Almond-Thyme-Crusted Mahi Mahi with Lemon Chardonnay Sauce<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/almond-thyme-crusted-mahi-mahi-with-lemon-chardonnay-sauce-1369637\">Almond-Thyme-Crusted Mahi Mahi with Lemon Chardonnay Sauce<\/a> are very similar to this recipe.",
+        "image": "https:\/\/img.spoonacular.com\/recipes\/644140-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/8FJGTT57\/gambas-al-ajillo",
+        "instructions": "<ol><li>In a saut pan over medium-high heat, add olive oil. When hot, add shrimp and seasonings, and saut until they are cooked halfway.<\/li><li>Add garlic, tomatoes, bacon and saut a bit longer. Add sherry and cook until reduced by half. Add butter and stir in.<\/li><li>Sprinkle with parsley and squeeze the lemon wedges over the shrimp. Serve with crusty bread and a crisp white wine like a Verdejo from Rueda or a bubbly Cava from Penedes.<\/li><\/ol>",
+        "summary": "Gambas Al Ajillo takes approximately <b>45 minutes<\/b> from beginning to end. One serving contains <b>402 calories<\/b>, <b>27g of protein<\/b>, and <b>25g of fat<\/b>. For <b>$3.86 per serving<\/b>, this recipe <b>covers 16%<\/b> of your daily requirements of vitamins and minerals. This recipe serves 4. It works well as a rather pricey main course. This recipe from Foodista requires bacon, butter, garlic, and olive oil. 2 people have tried and liked this recipe. Taking all factors into account, this recipe <b>earns a spoonacular score of 47%<\/b>, which is pretty good. Try <a href=\"https:\/\/spoonacular.com\/recipes\/gambas-al-ajillo-1250429\">Gambas Al Ajillo<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/gambas-al-ajillo-1444537\">Gambas Al Ajillo<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/gambas-al-ajillo-575511\">Gambas al Ajillo<\/a> for similar recipes.",
         "cuisines": [],
         "dishTypes": [
             "lunch",
@@ -17,15 +17,20 @@
             "dinner"
         ],
         "ingredients": [
-            "4 Mahi-Mahi fillets",
-            "Salt and Pepper (I recommend using a lemon 1 tablespoon olive oil",
-            "2 tablespoons butter",
-            "1 shallot, minced",
-            "1\/4 cup white wine",
-            "1\/4 cup chicken or vegetable broth",
-            "1 lemon, juiced",
-            "1 tablespoon lemon rind",
-            "1\/4 cup capers, drained and rinsed (we love capers.. you may not hold the same relations"
+            "3 slices bacon, broken into bits",
+            "3 tablespoons butter",
+            "1\/2 teaspoon cayenne pepper",
+            "1 tablespoon chili powder",
+            "1 cup dry sherry",
+            "2 tablespoons garlic, minced",
+            "lemon wedges",
+            "2 tablespoons olive oil",
+            "1 tablespoon paprika",
+            "chopped parsley",
+            "toasted slices of rustic bread",
+            "1 teaspoon salt",
+            "1 pound small shrimp (31\/40 count), peeled and deveined",
+            "1\/2 cup tomato, diced"
         ]
     }
 }
