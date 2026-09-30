@@ -2258,3 +2258,7 @@
 [2026-09-29 06:35:49] Fetching recipe with day of year: 272
 [2026-09-29 06:35:51] Successfully fetched and saved recipe: Gluten Free Coconut Chicken Salad
 [2026-09-29 06:35:51] Recipe fetch process completed
+[2026-09-30 06:18:39] Starting recipe fetch process
+[2026-09-30 06:18:39] Fetching recipe with day of year: 273
+[2026-09-30 06:18:39] ERROR: Failed to get API response
+[2026-09-30 06:18:39] Recipe fetch process completed
