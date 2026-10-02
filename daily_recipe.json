@@ -1,34 +1,31 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-10-01",
+    "lastUpdated": "2026-10-02",
     "recipe": {
-        "title": "Baked Rigatoni With Sausage",
+        "title": "Grilled Ginger Miso Chicken",
         "readyInMinutes": 45,
-        "servings": 6,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/633765-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/XSDM3NJC\/baked-rigatoni-with-sausage",
-        "instructions": "<ol><li>Bring a large pot of salted water to a boil over high heat for the pasta.<\/li><li>Meanwhile, heat 1 tablespoon olive oil in a large skillet over medium-high heat. Add the sausage and saute for 3 to 4 minutes until brown, but not fully cooked. Drain sausage and place in a 9x13 baking dish.<\/li><li>Add the remaining 1 tablespoon olive oil to the skillet, then add the onion and garlic, and cook until translucent ( 3 to 4 minutes). Add the tomatoes and their juices into a bowl and crush with your hands to break them up; pour tomatoes into the skillet with the basil and cook it down until slightly thickened (about 15 minutes).<\/li><li>Add the rigatoni to the boiling water, give it a stir, and cook for 6 to 7 minutes, it should be slightly firm as it will cook further in the oven. Ladle out 1\/2 cup of the pasta cooking water and reserve; then drain the rigatoni.<\/li><li>Preheat the oven to 450 degrees F. Add the tomato sauce, rigatoni, and the reserved pasta water to the baking dish. Break up half the mozzarella over the mixture, season with salt and pepper, and gently mix with a spoon. Dust with the Parmigiano and drizzle with more olive oil. Bake for 15 minutes. Spread the remaining mozzarella in an even layer over the top and continue to bake for another 10 minutes or until golden brown and bubbly.<\/li><\/ol>",
-        "summary": "Baked Rigatoni With Sausage might be a good recipe to expand your main course recipe box. One serving contains <b>844 calories<\/b>, <b>43g of protein<\/b>, and <b>43g of fat<\/b>. This recipe serves 6 and costs $2.59 per serving. This recipe from Foodista requires garlic cloves, rigatoni, onion, and mozzarella. 9 people found this recipe to be delicious and satisfying. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. With a spoonacular <b>score of 90%<\/b>, this dish is awesome. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/baked-rigatoni-sausage-424945\">Baked Rigatoni & Sausage<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/baked-rigatoni-with-eggplant-and-sausage-331732\">Baked Rigatoni with Eggplant and Sausage<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/baked-sausage-and-cheese-rigatoni-826969\">Baked Sausage and Cheese Rigatoni<\/a>.",
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/645722-556x370.jpg",
+        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/ZHYSF2NB\/grilled-miso-chicken",
+        "instructions": "<ol><li>Blend soy sauce, sake, mirin, miso, green onions, ginger root and garlic in a rectangular baking dish. Coat chicken with mixture. Marinate 1 hour or refrigerate overnight, turning several times.<\/li><li>Preheat a hibachi, portable tabletop grill or charcoal grill. Shake marinade off chicken; pat dry. Place skin-down on hot grill. Grill 4 to 5 minutes. Turn chicken; grill second side 4 to 5 minutes or until golden brown and done inside. When chicken is done, sprinkle with sesame seeds and spice mixture.<\/li><li>This recipe yields 4 servings.<\/li><li>Comments: Miso marinade adds a rich flavor to this country-style grilled chicken. Thigh meat stays moist and tender, but boned chicken breasts are delicious, too. The chicken can be sauteed in a skillet.<\/li><\/ol>",
+        "summary": "Grilled Ginger Miso Chicken is a <b>gluten free, dairy free, and ketogenic<\/b> recipe with 4 servings. This main course has <b>688 calories<\/b>, <b>50g of protein<\/b>, and <b>49g of fat<\/b> per serving. For <b>$2.12 per serving<\/b>, this recipe <b>covers 24%<\/b> of your daily requirements of vitamins and minerals. If you have green onions, sake, ginger root, and a few other ingredients on hand, you can make it. 5 people were glad they tried this recipe. It is brought to you by Foodista. It will be a hit at your <b>The Fourth Of July<\/b> event. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 59%<\/b>. This score is solid. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/ginger-grilled-chicken-and-radishes-with-miso-scallion-dressing-1648739\">Ginger-Grilled Chicken and Radishes with Miso-Scallion Dressing<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/ginger-miso-grilled-asparagus-1304749\">Ginger-Miso Grilled Asparagus<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/grilled-avocados-with-ginger-miso-743666\">Grilled Avocados with Ginger Miso<\/a>.",
         "cuisines": [],
         "dishTypes": [
-            "side dish",
             "lunch",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "Leaves from 1 small bunch basil",
-            "Freshly ground black pepper",
-            "1 large can (28 ounces) peeled whole tomatoes",
-            "1 pound fresh mozzarella",
-            "3 garlic cloves, chopped",
-            "3\/4 pound Italian sausage",
-            "Kosher Salt",
-            "1 tablespoon extra-virgin olive oil",
-            "1 large onion, chopped",
-            "1 cup freshly grated Parmigiano-Reggiano",
-            "1 pound rigatoni"
+            "1 tablespoon five-spice powder (optional)",
+            "1 garlic clove minced",
+            "1 tablespoon ginger root, minced",
+            "2 sliced green onions",
+            "2 tablespoons light soy sauce (usukuchi shoyu)",
+            "2 tablespoons mirin",
+            "2 tablespoons light miso",
+            "2 tablespoons sake",
+            "8 boned chicken thighs skin intact"
         ]
     }
 }
