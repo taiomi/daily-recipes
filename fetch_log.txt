@@ -2270,3 +2270,7 @@
 [2026-10-02 06:44:07] Fetching recipe with day of year: 275
 [2026-10-02 06:44:08] Successfully fetched and saved recipe: Grilled Ginger Miso Chicken
 [2026-10-02 06:44:08] Recipe fetch process completed
+[2026-10-03 06:03:36] Starting recipe fetch process
+[2026-10-03 06:03:36] Fetching recipe with day of year: 276
+[2026-10-03 06:03:37] ERROR: Failed to get API response
+[2026-10-03 06:03:37] Recipe fetch process completed
