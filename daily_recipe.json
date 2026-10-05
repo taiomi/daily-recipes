@@ -1,16 +1,17 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-10-04",
+    "lastUpdated": "2026-10-05",
     "recipe": {
-        "title": "Grilled Portabella and Poblano Tacos",
+        "title": "Slow Cooker Lamb Curry",
         "readyInMinutes": 45,
-        "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/645812-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/52YSN467\/grilled-portabella-and-poblano-tacos",
-        "instructions": "<ol><li>Preheat a lightly oiled grill on medium-high heat.<\/li><li>While the grill is heating up, prepare the pico de gallo. In a small mixing bowl, combine tomatoes, onion, cilantro, garlic, salt and lime juice. Set aside.<\/li><li>Next, prepare the grilled portabella filling. Remove the stems from the portabellas, and discard. Using a spoon, scrape out the dark gills from the underside of the mushroom caps.<\/li><li>Lightly brush the portabellas and the onions on both sides with canola oil, and sprinkle generously with salt and pepper.<\/li><li>Arrange the mushrooms, onion, and poblano on the hot grill, and cook for 5-6 minutes per side or until the mushrooms are softened and the onion is lightly charred. Remove from heat and transfer to a cutting board.<\/li><li>Remove the stem and seeds from the poblano, and discard. Cut the poblano and the portabellas into thin strips, and roughly chop the onion. Transfer to a mixing bowl and toss with lime juice and chipotle powder until well coated.<\/li><li>To assemble, arrange 2 tortillas per plate, and divide the mushroom filling evenly between them.  Serve with pico de gallo and bowls of the different toppings so that everyone can garnish their tacos as they please.<\/li><\/ol>",
-        "summary": "Grilled Portabellan and Poblano Tacos might be just the main course you are searching for. This recipe serves 4. For <b>$2.72 per serving<\/b>, this recipe <b>covers 21%<\/b> of your daily requirements of vitamins and minerals. Watching your figure? This gluten free and lacto ovo vegetarian recipe has <b>448 calories<\/b>, <b>14g of protein<\/b>, and <b>29g of fat<\/b> per serving. It is brought to you by Foodista. If you have roma tomatoes, portabella mushrooms, garlic, and a few other ingredients on hand, you can make it. It can be enjoyed any time, but it is especially good for <b>The Fourth Of July<\/b>. 2 people have tried and liked this recipe. It is a <b>reasonably priced<\/b> recipe for fans of Mexican food. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 53%<\/b>. This score is pretty good. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/grilled-portabella-and-poblano-tacos-1364373\">Grilled Portabellan and Poblano Tacos<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/grilled-portabella-tacos-with-avocado-lime-crema-557599\">Grilled portabella tacos with avocado lime crema<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/grilled-steak-and-poblano-tacos-486004\">Grilled Steak and Poblano Tacos<\/a>.",
+        "servings": 8,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/660290-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/Z5MXNR2V\/slow-cooker-lamb-curry",
+        "instructions": "<ol><li>Pull out your slow cooker and add everything into the pot with the exception of the yogurt.<\/li><li>Now turn on your pot, setting it on low for the next 4-6 hours or high for the next 3-5.<\/li><li>When the time is up, open up your slow cooker, grab your yogurt and stir it into the curry.<\/li><li>Serve over rice.<\/li><\/ol>",
+        "summary": "The recipe Slow Cooker Lamb Curry could satisfy your Indian craving in about <b>45 minutes<\/b>. This recipe serves 8. For <b>$3.6 per serving<\/b>, this recipe <b>covers 40%<\/b> of your daily requirements of vitamins and minerals. One serving contains <b>567 calories<\/b>, <b>67g of protein<\/b>, and <b>24g of fat<\/b>. 19 people were impressed by this recipe. Head to the store and pick up fennel powder, oregano, garam masala, and a few other things to make it today. It is a good option if you're following a <b>gluten free<\/b> diet. It works well as a pretty expensive main course. It is brought to you by Foodista. With a spoonacular <b>score of 92%<\/b>, this dish is super. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/slow-cooker-lamb-curry-1583131\">Slow cooker lamb curry<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/slow-cooker-lamb-stew-1146747\">Slow Cooker Lamb Stew<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/slow-cooker-lamb-shanks-484177\">Slow Cooker Lamb Shanks<\/a>.",
         "cuisines": [
-            "Mexican"
+            "Indian",
+            "Asian"
         ],
         "dishTypes": [
             "lunch",
@@ -19,23 +20,24 @@
             "dinner"
         ],
         "ingredients": [
-            "1 tbsp canola oil",
-            "1\/2 tsp chipotle powder",
-            "\u00bc cup chopped cilantro",
-            "Cilantro sprigs",
-            "8 small corn tortillas, warmed",
-            "1\/2 head of garlic",
-            "Guacamole",
-            "1 tsp lime juice",
-            "Lime wedges",
-            "1\/4 cup olive oil",
-            "1 whole poblano chile",
-            "6 whole portabella mushrooms cleaned, stems removed",
-            "1 large red onion, cut into six 2\" slices",
-            "2 roma tomatoes, diced",
-            "1 tablespoon 1 salt, plus teaspoon, plus more for potato water",
-            "Salt and pepper",
-            "Shredded Monterey Jack or cheddar cheese"
+            "2 baking Potatoes",
+            "2 cups of beef broth",
+            "2 tablespoons of Butter",
+            "1 bunch of Cilantro, Chopped",
+            "2 tablespoons of Curry",
+            "1\/2 teaspoon of fennel powder",
+            "1\/2 teaspoon of Garam Masala",
+            "3 cloves of Garlic, Minced",
+            "1 teaspoon of Ginger",
+            "5 1\/2 pounds of Cooked Lamb stew meat",
+            "6 ounces of Mushrooms, Chopped",
+            "2 tablespoons of Olive Oil",
+            "1 Onion, Diced",
+            "1 tablespoon of Oregano",
+            "1\/2 cup of Plain Yogurt",
+            "1 tablespoon of Rosemary",
+            "1\/2 teaspoon of Salt",
+            "1 can of Tomato Paste"
         ]
     }
 }
