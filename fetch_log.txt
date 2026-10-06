@@ -2282,3 +2282,7 @@
 [2026-10-05 06:34:17] Fetching recipe with day of year: 278
 [2026-10-05 06:34:17] Successfully fetched and saved recipe: Slow Cooker Lamb Curry
 [2026-10-05 06:34:17] Recipe fetch process completed
+[2026-10-06 07:13:05] Starting recipe fetch process
+[2026-10-06 07:13:05] Fetching recipe with day of year: 279
+[2026-10-06 07:13:05] ERROR: Failed to get API response
+[2026-10-06 07:13:05] Recipe fetch process completed
