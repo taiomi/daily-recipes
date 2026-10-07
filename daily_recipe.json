@@ -1,18 +1,15 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-10-05",
+    "lastUpdated": "2026-10-07",
     "recipe": {
-        "title": "Slow Cooker Lamb Curry",
+        "title": "Perch Fillets With Shrimp and Vermouth Sauce",
         "readyInMinutes": 45,
-        "servings": 8,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/660290-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/Z5MXNR2V\/slow-cooker-lamb-curry",
-        "instructions": "<ol><li>Pull out your slow cooker and add everything into the pot with the exception of the yogurt.<\/li><li>Now turn on your pot, setting it on low for the next 4-6 hours or high for the next 3-5.<\/li><li>When the time is up, open up your slow cooker, grab your yogurt and stir it into the curry.<\/li><li>Serve over rice.<\/li><\/ol>",
-        "summary": "The recipe Slow Cooker Lamb Curry could satisfy your Indian craving in about <b>45 minutes<\/b>. This recipe serves 8. For <b>$3.6 per serving<\/b>, this recipe <b>covers 40%<\/b> of your daily requirements of vitamins and minerals. One serving contains <b>567 calories<\/b>, <b>67g of protein<\/b>, and <b>24g of fat<\/b>. 19 people were impressed by this recipe. Head to the store and pick up fennel powder, oregano, garam masala, and a few other things to make it today. It is a good option if you're following a <b>gluten free<\/b> diet. It works well as a pretty expensive main course. It is brought to you by Foodista. With a spoonacular <b>score of 92%<\/b>, this dish is super. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/slow-cooker-lamb-curry-1583131\">Slow cooker lamb curry<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/slow-cooker-lamb-stew-1146747\">Slow Cooker Lamb Stew<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/slow-cooker-lamb-shanks-484177\">Slow Cooker Lamb Shanks<\/a>.",
-        "cuisines": [
-            "Indian",
-            "Asian"
-        ],
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/655716-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/N6LQSQNH\/perch-fillets-with-shrimp-and-vermouth-sauce",
+        "instructions": "<ol><li>Wash and dry fillets, dust with flour.<\/li><li>Mix egg with milk, add salt.<\/li><li>Dip fish into egg and milk mixture.<\/li><li>Dredge in crumbs. Reserve.<\/li><li>Heat butter in pan. Add flour and stir into paste (roux). Cook for 2 minutes (do not allow to brown).<\/li><li>Add cream, stock and vermouth. Simmer until thick.<\/li><li>Add shrimp. Simmer for 5 minutes on low heat.<\/li><li>Heat oil in skillet. Fry fish in oil for 1 -2 minutes each side.<\/li><li>Place fried fillets on platter. Pour half the sauce over fish. Serve remainder separately.<\/li><\/ol>",
+        "summary": "You can never have too many main course recipes, so give Perch Fillets With Shrimp and Vermouth Sauce a try. Watching your figure? This pescatarian recipe has <b>818 calories<\/b>, <b>43g of protein<\/b>, and <b>47g of fat<\/b> per serving. This recipe serves 4 and costs $4.75 per serving. From preparation to the plate, this recipe takes about <b>45 minutes<\/b>. 5 people have tried and liked this recipe. This recipe from Foodista requires baby shrimp, flour, egg, and perch fillets. Overall, this recipe earns a <b>pretty good spoonacular score of 65%<\/b>. Try <a href=\"https:\/\/spoonacular.com\/recipes\/perch-fillets-85243\">Perch Fillets<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/aromatic-perch-fillets-632726\">Aromatic perch fillets<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/crispy-fried-perch-fillets-640815\">Crispy Fried Perch Fillets<\/a> for similar recipes.",
+        "cuisines": [],
         "dishTypes": [
             "lunch",
             "main course",
@@ -20,24 +17,19 @@
             "dinner"
         ],
         "ingredients": [
-            "2 baking Potatoes",
-            "2 cups of beef broth",
-            "2 tablespoons of Butter",
-            "1 bunch of Cilantro, Chopped",
-            "2 tablespoons of Curry",
-            "1\/2 teaspoon of fennel powder",
-            "1\/2 teaspoon of Garam Masala",
-            "3 cloves of Garlic, Minced",
-            "1 teaspoon of Ginger",
-            "5 1\/2 pounds of Cooked Lamb stew meat",
-            "6 ounces of Mushrooms, Chopped",
-            "2 tablespoons of Olive Oil",
-            "1 Onion, Diced",
-            "1 tablespoon of Oregano",
-            "1\/2 cup of Plain Yogurt",
-            "1 tablespoon of Rosemary",
-            "1\/2 teaspoon of Salt",
-            "1 can of Tomato Paste"
+            "250 grams baby shrimp",
+            "1 cup homemade bread crumbs",
+            "3 tablespoons butter",
+            "1\/2 cup chicken stock from \u00bd cube",
+            "1 egg",
+            "cup flour",
+            "3 tablespoons flour",
+            "1 cup heavy cream",
+            "1\/2 cup milk",
+            "1 cup peanut oil, for frying",
+            "450 grams perch fillets",
+            "1 tablespoon Salt",
+            "1\/4 cup vermouth rosso"
         ]
     }
 }
