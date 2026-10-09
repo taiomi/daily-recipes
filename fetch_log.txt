@@ -2294,3 +2294,7 @@
 [2026-10-08 07:00:49] Fetching recipe with day of year: 281
 [2026-10-08 07:00:49] Successfully fetched and saved recipe: Ham with Orange Rosemary Marmalade Glaze
 [2026-10-08 07:00:49] Recipe fetch process completed
+[2026-10-09 07:08:58] Starting recipe fetch process
+[2026-10-09 07:08:58] Fetching recipe with day of year: 282
+[2026-10-09 07:08:58] ERROR: Failed to get API response
+[2026-10-09 07:08:58] Recipe fetch process completed
