@@ -1,31 +1,39 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-10-08",
+    "lastUpdated": "2026-10-10",
     "recipe": {
-        "title": "Ham with Orange Rosemary Marmalade Glaze",
+        "title": "Creamy White Chili",
         "readyInMinutes": 45,
         "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/646217-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/TV3JLDLH\/ham-with-orange-rosemary-marmalade-glaze",
-        "instructions": "Preheat oven to 350 degrees. Cover ham with a large piece of parchment and then foil. Place ham, widest side down, on a heavy rimmed baking sheet. Bake for 1 hour.\nHeat glaze ingredients in a saucepan over medium heat until runny, about 5 minutes.\nRemove ham from oven, and uncover. Score ham all over in a diamond pattern. Brush 1\/2 of the glaze over ham.\nIncrease temperature to 425 degrees. Bake ham, uncovered, for 20 minutes. Brush with remaining glaze, and bake until golden brown, 10 to 15 minutes more. Let rest for 15 to 30 minutes before slicing.",
-        "summary": "If you have approximately <b>45 minutes<\/b> to spend in the kitchen, Ham with Orange Rosemary Marmalade Glaze might be a spectacular <b>gluten free and dairy free<\/b> recipe to try. One serving contains <b>1486 calories<\/b>, <b>190g of protein<\/b>, and <b>41g of fat<\/b>. For <b>$14.48 per serving<\/b>, this recipe <b>covers 34%<\/b> of your daily requirements of vitamins and minerals. This recipe serves 4. A mixture of rosemary, orange zest, apple cider, and a handful of other ingredients are all it takes to make this recipe so delicious. This recipe from Foodista has 61 fans. It works well as a pricey main course. Overall, this recipe earns an <b>amazing spoonacular score of 95%<\/b>. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/baked-ham-with-marmalade-horseradish-glaze-42455\">Baked Ham with Marmalade-Horseradish Glaze<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/pork-and-ham-loaf-with-marmalade-mustard-glaze-733892\">Pork and Ham Loaf with Marmalade-Mustard Glaze<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/ham-and-peach-kebabs-with-marmalade-mustard-glaze-17435\">Ham and Peach Kebabs with Marmalade-Mustard Glaze<\/a>.",
-        "cuisines": [],
+        "image": "https:\/\/img.spoonacular.com\/recipes\/640722-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/5QVKF6LG\/creamy-white-chili",
+        "instructions": "<ol><li>In heavy saucepan, saut chicken, onion, and garlic in olive oil.<\/li><li>When chicken is cooked, add broth, beans, chilies, and seasonings.<\/li><li>Simmer on low heat for 20 minutes. Remove from heat and add sour cream and whipping cream.<\/li><li>Top with shredded cheddar cheese.<\/li><\/ol>",
+        "summary": "You can never have too many American recipes, so give Creamy White Chili a try. This main course has <b>809 calories<\/b>, <b>53g of protein<\/b>, and <b>52g of fat<\/b> per serving. This recipe serves 4 and costs $3.13 per serving. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. This recipe from Foodista has 2 fans. It can be enjoyed any time, but it is especially good for <b>The Super Bowl<\/b>. It is a good option if you're following a <b>gluten free<\/b> diet. If you have pepper, garlic, olive oil, and a few other ingredients on hand, you can make it. All things considered, we decided this recipe <b>deserves a spoonacular score of 50%<\/b>. This score is pretty good. Try <a href=\"https:\/\/spoonacular.com\/recipes\/creamy-white-chili-112574\">Creamy White Chili<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/creamy-white-chili-1369485\">Creamy White Chili<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/creamy-white-chili-569226\">Creamy White Chili<\/a> for similar recipes.",
+        "cuisines": [
+            "American"
+        ],
         "dishTypes": [
+            "soup",
             "lunch",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "1 smoked bone-in ham (10 pounds)",
-            "Zest of 1 orange",
-            "1 cup apple cider",
-            "1 cup apple juice",
-            "2 cups orange juice",
-            "1 cup orange marmalade",
-            "1\/4 cup packed brown sugar",
-            "1 sprig of fresh rosemary, about 1 tablespoon",
-            "1 teaspoon fresh ginger, minced"
+            "2 teaspoons black pepper",
+            "1 (15.5 oz.) can Great Northern beans, drained",
+            "1 pound cubed chicken",
+            "1 (14 oz.) can chicken broth",
+            "1 teaspoon cumin",
+            "1 clove garlic",
+            "1 (4.5oz.) can green chilies, drained",
+            "\u00bd cup heavy whipping cream",
+            "1 tablespoon olive oil",
+            "1 small onion, chopped",
+            "1 teaspoon oregano",
+            "1\/2 teaspoon salt",
+            "1 cup shredded cheddar cheese for garnish",
+            "1 cup sour cream"
         ]
     }
 }
