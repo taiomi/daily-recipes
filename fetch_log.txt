@@ -2306,3 +2306,7 @@
 [2026-10-11 06:49:15] Fetching recipe with day of year: 284
 [2026-10-11 06:49:16] Successfully fetched and saved recipe: Ginger Chicken Stir-Fry
 [2026-10-11 06:49:16] Recipe fetch process completed
+[2026-10-12 06:59:39] Starting recipe fetch process
+[2026-10-12 06:59:39] Fetching recipe with day of year: 285
+[2026-10-12 06:59:39] ERROR: Failed to get API response
+[2026-10-12 06:59:39] Recipe fetch process completed
