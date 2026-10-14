@@ -1,17 +1,15 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-10-13",
+    "lastUpdated": "2026-10-14",
     "recipe": {
-        "title": "Turkey Enchilada Bake",
+        "title": "Stir Fried Quinoa, Brown Rice and Chicken Breast",
         "readyInMinutes": 45,
-        "servings": 8,
-        "image": null,
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/KX5B3NYB\/turkey-enchilada-bake",
-        "instructions": "<ol><li>1.Make the turkey mixture: Roast the vegetables: Preheat oven to 400 degrees.Cut the tomatillos in half, slice the onion into  in slices and remove garlic from covering. Place on baking sheet. Roast till tomatillos are tender and start to brown, about 20 minutes.<\/li><li>2.Meanwhile,make the sauce: Add tomatillos, onion, garlic, tomatoes, green chilies, chipotles, chili powder, cumin, paprika, and coriander to blender or food processor. Blend until smooth.<\/li><li>In a large bowel, add the turkey, beans, and sauce, Mix together until everything is evenly distributed.<\/li><li>3.Layer 1:In a 9 by 13 baking dish, spread salsa on the bottom evenly. place 3.5 tortillas on top, making sure they cover evenly. Add 1 cup of turkey mixture on top of tortillas, spreading evenly. Add 1 cup of cheese on top, sprinkling evenly. Place  cup of thinly sliced red onion on top of cheese.<\/li><li>4.Layer 2: Repeat of layer 1<\/li><li>5.Layer 3:Place tortillas, then turkey. Place the sliced of avocado on top of turkey so they evenly cover. Add lime juice evenly over avocado, this will help them stay green. Top with final cup of cheese. Cover with foil.<\/li><li>6.Place in oven and bake for 30 min, rotating  way. Remove foil and chook for another 10 minutes.<\/li><li>7.Let cool for at least 10 minutes. Serve with chopped cilantro and a dollop of sour cream. Serve with tortillas chips. Enjoy!<\/li><li>Your can find step by step pictures on how to make the turkey mixture on my Mini Mexican Bell Pepper Recipe<\/li><li>Again, I made a double batch of turkey when I made those, so this recipe was even easier. I highly recommend doing so.<\/li><\/ol>",
-        "summary": "Turkey Enchilada Bake is a <b>gluten free<\/b> main course. This recipe serves 8 and costs $2.73 per serving. One portion of this dish contains approximately <b>26g of protein<\/b>, <b>31g of fat<\/b>, and a total of <b>517 calories<\/b>. This recipe is typical of Mexican cuisine. 31 person were glad they tried this recipe. This recipe from Foodista requires juice of lime, canned tomatoes, chili powder, and cilantro. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 81%<\/b>. This score is awesome. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/roasted-turkey-enchilada-bake-268214\">Roasted Turkey Enchilada Bake<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/roasted-turkey-enchilada-bake-422626\">Roasted Turkey Enchilada Bake<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/carrot-and-turkey-enchilada-bake-1107170\">Carrot and Turkey Enchilada Bake<\/a>.",
-        "cuisines": [
-            "Mexican"
-        ],
+        "servings": 1,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/716361-556x370.jpg",
+        "sourceUrl": "https:\/\/www.afrolems.com\/2014\/06\/26\/stir-fried-quinoa-brown-rice-and-chicken-breast\/",
+        "instructions": "In a bowl, season the chicken breast with the seasoning cubes and suya spice and allow to marinate for 2 hours or if you are really hungry, you can use immediately.In a pot of boiling water (1 cup), pour in your quinoa mix and the teaspoon of oil and allow to boil till soft which should take about 5-7 minutes. Pour into a bowl and set aside.In a pan, heat up the melted butter and pan fry on medium heat the chicken breast, constantly flipping it over so it browns\u00a0on both sides, reduce the heat, cover the pan and allow the chicken cook properly. If the pan becomes to dry, add 2 tablespoons of water.Stir in the chopped vegetables into the pan of frying chicken and finally add the quinoa\/brown rice mix.Serve hot!    \u00a0",
+        "summary": "You can never have too many main course recipes, so give Stir Fried Quinoa, Brown Rice and Chicken Breast a try. This recipe serves 1 and costs $3.58 per serving. One serving contains <b>750 calories<\/b>, <b>58g of protein<\/b>, and <b>20g of fat<\/b>. 39 people were impressed by this recipe. If you have cherry tomatoes, spring onion, butter, and a few other ingredients on hand, you can make it. It is brought to you by Afrolems. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. It is a good option if you're following a <b>gluten free<\/b> diet. All things considered, we decided this recipe <b>deserves a spoonacular score of 95%<\/b>. This score is tremendous. Try <a href=\"https:\/\/spoonacular.com\/recipes\/stir-fried-chicken-with-broccoli-brown-rice-793247\">Stir-fried chicken with broccoli & brown rice<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/stir-fried-broccoli-with-brown-rice-meat-optional-569617\">Stir-Fried Broccoli with Brown Rice {Meat Optional}<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/stir-fried-chickpeas-and-asparagus-with-brown-rice-and-lemon-ta-31848\">Stir-fried Chickpeas And Asparagus With Brown Rice And Lemon Ta<\/a> for similar recipes.",
+        "cuisines": [],
         "dishTypes": [
             "lunch",
             "main course",
@@ -19,26 +17,20 @@
             "dinner"
         ],
         "ingredients": [
-            "3 avocados, thinly sliced",
-            "7 oz canned black beans ( about \u00bd a can)",
-            "1 TBSP Chili Powder",
-            "3 oz chipotles in adobo ( about \u00bd a can)",
-            "1 cup cilantro, chopped",
-            "10.5 corn tortillas",
-            "7 oz canned fire roasted tomatoes ( about \u00bd a can)",
-            "3 cloves garlic",
-            "4 oz can green chilies",
-            "1 TSP Ground Coriander",
-            "1 TBSP Ground Cumin",
-            "2 limes, juiced",
-            "10 oz lean ground turkey",
-            "\u00bd a red onion, thinly sliced",
-            "1 TBSP Paprika",
-            "1 cup your favorite jarred salsa",
-            "3 cups shredded cheddar cheese, or a Mexican blend",
-            "1 cup light sour cream",
-            "3 tomatillos",
-            "\u00bd yellow onion"
+            "1 teaspoon of suya spice or Yaji (optional)",
+            "1\/2 cup of quinoa and brown rice mix",
+            "1.5 teaspoon of melted butter",
+            "A handful of chopped carrots",
+            "4 whole cherry tomatoes (optional)",
+            "1 chicken breast (Thinly sliced)",
+            "2 cloves of garlic",
+            "Seasoning cubes",
+            "A handful of chopped green pepper",
+            "1 medium roma tomato",
+            "1 scotch bonnet pepper (ata rodo)",
+            "1 chopped spring onion",
+            "1 teaspoon of vegetable oil",
+            "1 cup water"
         ]
     }
 }
