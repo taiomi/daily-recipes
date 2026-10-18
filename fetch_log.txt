@@ -2330,3 +2330,7 @@
 [2026-10-17 05:20:18] Fetching recipe with day of year: 290
 [2026-10-17 05:20:19] Successfully fetched and saved recipe: Prosciutto and Mushroom Ravioli With Basil Browned Butter Sauce
 [2026-10-17 05:20:19] Recipe fetch process completed
+[2026-10-18 05:27:49] Starting recipe fetch process
+[2026-10-18 05:27:49] Fetching recipe with day of year: 291
+[2026-10-18 05:27:49] ERROR: Failed to get API response
+[2026-10-18 05:27:49] Recipe fetch process completed
