@@ -1,15 +1,18 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-10-20",
+    "lastUpdated": "2026-10-22",
     "recipe": {
-        "title": "Easy Eclairs",
+        "title": "Gujarati Dry Mung Bean Curry",
         "readyInMinutes": 45,
-        "servings": 6,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/641955-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/5JFDVYRK\/easy-eclairs",
-        "instructions": "CHOUX PASTRY\nPreheat oven to 180C. Line a baking tray with parchment or a baking mat.\nCombine water, milk, butter, sugar and salt in a saucepan and bring to a boil over medium heat.\nStir in flour quickly and cook over low heat, stirring constantly until mixture pulls away from sides of pan cleanly and forms a ball.\nTransfer dough into a mixing bowl and using an electric mixer, beat on low speed to cool slightly, about 3 mins.\nAdd eggs, one at a time, beating well after each addition.\nCover bowl with plastic wrap and chill for at least 30 mins in the fridge. Dough may be stored, covered, for up to 24 hours in the fridge.\nRemove dough from fridge and fill into a piping bag.\nFrom this point on, you can pipe into rounds using a nozzle of your choice or cut a hole of about  1 1\/2 cm at the tip of the piping bag and pipe into little logs of about 5 cm in length.... or longer if you want a bigger eclair.\nBake in preheated oven for about 20 - 25 mins or until golden brown.\nRemove from oven and using the tip of a small knife (I used a chopstick), pierce a small hole to allow the steam to escape. This prevents the eclairs from going soggy on the inside. You can also do this step and place it into the oven for another 2 mins to dry it out.\nAllow to cool on a rack.\nPASTRY CREAM\nPlace all ingredients into a saucepan and whisk until evenly combined.\nPlace saucepan over medium heat and bring to a slow boil, stirring continuously.\nWhen mixture thickens into a paste, remove from heat. Transfer pastry cream into a clean, dry bowl and cover with plastic wrap to prevent a skin from forming. Allow to cool and then place in fridge until fully chilled.\nNote: pastry cream will thicken slightly when chilled. Use within 2 days.\nWhen chilled, fill pastry cream into piping bag fitted with a tube nozzle and fill eclairs through the hole\/slit you have made earlier.\nDip or drizzle the top of filled eclairs with chocolate ganache.\nSprinkle with powdered sugar if desired.\nGANACHE\nHeat cream over medium heat in a saucepan until just about boiling. Do not boil.\nRemove from heat.\nMix in chocolate pieces and stir until all chocolate has melted. Leave to cool.\n(Ganache will thicken when cooled).\nCan be kept in fridge. Remove and stand container in a bowl of warm water to soften before re-using.",
-        "summary": "Easy Eclairs requires approximately <b>45 minutes<\/b> from start to finish. One portion of this dish contains approximately <b>20g of protein<\/b>, <b>50g of fat<\/b>, and a total of <b>817 calories<\/b>. This recipe serves 6. For <b>$2.03 per serving<\/b>, this recipe <b>covers 22%<\/b> of your daily requirements of vitamins and minerals. Head to the store and pick up cornstarch, flour, pastry cream, and a few other things to make it today. It works well as a rather cheap main course. This recipe from Foodista has 5 fans. Overall, this recipe earns a <b>solid spoonacular score of 41%<\/b>. Try <a href=\"https:\/\/spoonacular.com\/recipes\/eclairs-1087267\">Eclairs<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/clairs-68883\">\u00c9clairs<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/eclairs-68884\">Eclairs<\/a> for similar recipes.",
-        "cuisines": [],
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/646043-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/G6ZJW56S\/gujarati-dry-mung-bean-curry",
+        "instructions": "<ol><li>Wash the mung beans and boil them in plenty of hot water with a pinch of baking powder until al-dente. If you have a pressure cooker thats about 6-7 whistles. Drain and set aside.<\/li><li>In a large pan heat the oil and add the mustard seeds (wait for them to pop) then add the cumin seeds, asafoetida, curry leaves, garlic and chillies. Saut until aromatic. Obviously dont let it burn.<\/li><li>Add the tomatoes, turmeric and mung beans and cook for two minutes. Be careful not to mash it up as you stir.<\/li><li>Add the salt, sugar, lemon juice and cinnamon powder and cook for a further two minutes.<\/li><li>Throw in the chopped coriander, combine and serve.<\/li><\/ol>",
+        "summary": "Gujarati Dry Mung Bean Curry takes about <b>45 minutes<\/b> from beginning to end. This main course has <b>376 calories<\/b>, <b>20g of protein<\/b>, and <b>5g of fat<\/b> per serving. This recipe serves 4 and costs $1.64 per serving. A mixture of baking powder, cumin seeds, garlic, and a handful of other ingredients are all it takes to make this recipe so flavorful. This recipe from Foodista has 3 fans. This recipe is typical of Indian cuisine. It is a good option if you're following a <b>gluten free, dairy free, lacto ovo vegetarian, and vegan<\/b> diet. Taking all factors into account, this recipe <b>earns a spoonacular score of 95%<\/b>, which is outstanding. <a href=\"https:\/\/spoonacular.com\/recipes\/gujarati-dry-mung-bean-curry-1353775\">Gujarati Dry Mung Bean Curry<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/gujarati-dry-mung-bean-curry-1520647\">Gujarati Dry Mung Bean Curry<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/uncle-bills-mung-bean-curry-1283881\">Uncle Bill's Mung Bean Curry<\/a> are very similar to this recipe.",
+        "cuisines": [
+            "Indian",
+            "Asian"
+        ],
         "dishTypes": [
             "lunch",
             "main course",
@@ -17,23 +20,21 @@
             "dinner"
         ],
         "ingredients": [
-            "CHOUX PASTRY",
-            "1\/2 cup water",
-            "1\/2 cup full cream milk",
-            "4 ounces butter",
-            "1 tablespoon sugar",
-            "1\/2 teaspoon salt",
-            "1 cup plain flour",
-            "4 eggs",
-            "PASTRY CREAM",
-            "2 cups milk",
-            "1\/2 cup sugar",
-            "6 egg yolks",
-            "2 tablespoons cornstarch",
-            "cup cream",
-            "50 grams dark chocolate, chopped",
-            "GANACHE",
-            "GANACHE"
+            "1 small pinch baking powder",
+            "2 mediums hot chillies, minced",
+            "1 teaspoon cinnamon powder",
+            "1\/4 cup chopped coriander",
+            "2 teaspoons cumin seeds",
+            "6 curry leaves",
+            "1 tablespoon garlic, minced",
+            "1 tablespoon lemon juice or to taste",
+            "1 1\/2 cups mung beans",
+            "1 teaspoon mustard seeds",
+            "Salt to taste",
+            "Sugar to taste",
+            "1 tablespoon sunflower oil",
+            "1 medium tomato, chopped",
+            "1\/2 teaspoon turmeric"
         ]
     }
 }
