@@ -2378,3 +2378,7 @@
 [2026-10-29 06:46:00] Fetching recipe with day of year: 302
 [2026-10-29 06:46:01] Successfully fetched and saved recipe: Moosewood Lentil Soup
 [2026-10-29 06:46:01] Recipe fetch process completed
+[2026-10-30 06:49:20] Starting recipe fetch process
+[2026-10-30 06:49:20] Fetching recipe with day of year: 303
+[2026-10-30 06:49:20] ERROR: Failed to get API response
+[2026-10-30 06:49:20] Recipe fetch process completed
