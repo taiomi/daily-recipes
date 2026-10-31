@@ -1,37 +1,44 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-10-29",
+    "lastUpdated": "2026-10-31",
     "recipe": {
-        "title": "Moosewood Lentil Soup",
-        "readyInMinutes": 45,
-        "servings": 6,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/652393-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/TNZ67L5Y\/moosewood-lentil-soup",
-        "instructions": "<ol><li>Place lentils and water in a soup pot or Dutch oven.<\/li><li>Bring to a boil, lower heat to a simmer, and let cook until lentils are mushy (about 45 minutes).<\/li><li>Add more water as needed, until the soup is your favorite consistency.<\/li><li>Heat oil or melt butter in a medium-sized skillet.<\/li><li>Add onion, celery, and carrots, and saut over medium heat for about 10 minutes.<\/li><li>Add garlic, salt, pepper, and herbs of your choice, and saut about 5 minutes longer. Transfer to lentils.<\/li><li>Stir in wine, if desired, lemon juice and molasses or brown sugar.<\/li><li>Taste to correct seasonings, then simmer for<\/li><li>At least 15 minutes longer. Serve hot, with a little vinegar drizzled onto each serving, and a sprinkling of minced<\/li><li>Scallions or parsley on top, if desired.<\/li><\/ol>",
-        "summary": "Moosewood Lentil Soup might be a good recipe to expand your main course recipe box. This gluten free, dairy free, lacto ovo vegetarian, and vegan recipe serves 6 and costs <b>74 cents per serving<\/b>. One portion of this dish contains roughly <b>26g of protein<\/b>, <b>4g of fat<\/b>, and a total of <b>396 calories<\/b>. A mixture of pepper, lentils, salt, and a handful of other ingredients are all it takes to make this recipe so yummy. 2 people found this recipe to be flavorful and satisfying. It is perfect for <b>Autumn<\/b>. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. It is brought to you by Foodista. All things considered, we decided this recipe <b>deserves a spoonacular score of 95%<\/b>. This score is spectacular. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/moosewood-lentil-soup-1319699\">Moosewood Lentil Soup<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/moosewood-mushroom-barley-soup-143909\">Moosewood Mushroom Barley Soup!<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/hungarian-mushroom-soup-from-the-moosewood-cookbook-143242\">Hungarian Mushroom Soup, from the Moosewood Cookbook<\/a>.",
-        "cuisines": [],
+        "title": "Cheesy Cowboy Quesadillas",
+        "readyInMinutes": 10,
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/732255-556x370.jpg",
+        "sourceUrl": "https:\/\/www.pinkwhen.com\/cheesy-cowboy-quesadillas-recipe\/",
+        "instructions": "<ol><li>Toss butter, onions and garlic in a pan and saute for a couple minutes! Add chicken, beans, corn, pepper, salt, cumin and chili powder.<\/li><li>Let it warm through all the way and then add the cream cheese in spoonfuls so that it can get all melty. Add in 1 cup of cheese and stir until the mixture gets creamy and cheesy!<\/li><li>Add about \u00bc cup of filling to a tortilla and if you are feeling cheesy, add a little extra cheese. We like it cheesy around here!<\/li><li>Fry on each side for a couple of minutes until the tortilla is crispy!<\/li><\/ol>",
+        "summary": "You can never have too many hor d'oeuvre recipes, so give Cheesy Cowboy Quesadillas a try. This recipe serves 4. For <b>$1.31 per serving<\/b>, this recipe <b>covers 21%<\/b> of your daily requirements of vitamins and minerals. Watching your figure? This gluten free recipe has <b>516 calories<\/b>, <b>27g of protein<\/b>, and <b>28g of fat<\/b> per serving. If you have bell pepper, cheese, black beans, and a few other ingredients on hand, you can make it. A couple people really liked this Mexican dish. 15 people were glad they tried this recipe. It is brought to you by Pink When. From preparation to the plate, this recipe takes around <b>10 minutes<\/b>. Taking all factors into account, this recipe <b>earns a spoonacular score of 60%<\/b>, which is pretty good. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/cowboy-quesadillas-1219581\">Cowboy Quesadillas<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/cowboy-quesadillas-271129\">Cowboy Quesadillas<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/cheesy-quesadillas-270504\">Cheesy Quesadillas<\/a>.",
+        "cuisines": [
+            "Mexican"
+        ],
         "dishTypes": [
+            "fingerfood",
             "lunch",
-            "soup",
+            "antipasti",
             "main course",
+            "starter",
+            "snack",
+            "appetizer",
             "main dish",
-            "dinner"
+            "antipasto",
+            "dinner",
+            "hor d'oeuvre"
         ],
         "ingredients": [
-            "Freshly-ground black pepper",
-            "1 tablespoon molasses or brown sugar",
-            "1 cup chopped carrots",
-            "1 cup minced celery",
-            "3 pinches of dried herbs (thyme, oregano, or basil)",
-            "1 clove garlic, chopped,",
-            "1 tablespoon grapeseed oil or butter",
-            "2 tablespoons fresh lemon juice",
-            "3 cups lentils, any type",
-            "1 large onion, finely chopped",
-            "Red wine vinegar for the top",
-            "1\/2 teaspoon salt",
-            "medium ripe tomatoes, chopped",
-            "1\/4 cup Boiling water"
+            "\u00bd bell pepper diced",
+            "1 tbsp butter",
+            "1 can black beans",
+            "1 cup cheese",
+            "\u00bd tsp chili powder",
+            "\u00bd cup corn",
+            "4 oz cream cheese",
+            "\u00bd tsp cumin",
+            "1 tsp minced garlic",
+            "\u00bc cup diced onions",
+            "1 tsp salt",
+            "1 cup shredded chicken",
+            "4 white tortillas"
         ]
     }
 }
