@@ -1,44 +1,31 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-10-31",
+    "lastUpdated": "2026-11-01",
     "recipe": {
-        "title": "Cheesy Cowboy Quesadillas",
-        "readyInMinutes": 10,
-        "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/732255-556x370.jpg",
-        "sourceUrl": "https:\/\/www.pinkwhen.com\/cheesy-cowboy-quesadillas-recipe\/",
-        "instructions": "<ol><li>Toss butter, onions and garlic in a pan and saute for a couple minutes! Add chicken, beans, corn, pepper, salt, cumin and chili powder.<\/li><li>Let it warm through all the way and then add the cream cheese in spoonfuls so that it can get all melty. Add in 1 cup of cheese and stir until the mixture gets creamy and cheesy!<\/li><li>Add about \u00bc cup of filling to a tortilla and if you are feeling cheesy, add a little extra cheese. We like it cheesy around here!<\/li><li>Fry on each side for a couple of minutes until the tortilla is crispy!<\/li><\/ol>",
-        "summary": "You can never have too many hor d'oeuvre recipes, so give Cheesy Cowboy Quesadillas a try. This recipe serves 4. For <b>$1.31 per serving<\/b>, this recipe <b>covers 21%<\/b> of your daily requirements of vitamins and minerals. Watching your figure? This gluten free recipe has <b>516 calories<\/b>, <b>27g of protein<\/b>, and <b>28g of fat<\/b> per serving. If you have bell pepper, cheese, black beans, and a few other ingredients on hand, you can make it. A couple people really liked this Mexican dish. 15 people were glad they tried this recipe. It is brought to you by Pink When. From preparation to the plate, this recipe takes around <b>10 minutes<\/b>. Taking all factors into account, this recipe <b>earns a spoonacular score of 60%<\/b>, which is pretty good. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/cowboy-quesadillas-1219581\">Cowboy Quesadillas<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/cowboy-quesadillas-271129\">Cowboy Quesadillas<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/cheesy-quesadillas-270504\">Cheesy Quesadillas<\/a>.",
-        "cuisines": [
-            "Mexican"
-        ],
+        "title": "Spinach, Tomato & Onion Couscous",
+        "readyInMinutes": 45,
+        "servings": 3,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/661365-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/SVZDH8S4\/spinach-tomato-onion-couscous",
+        "instructions": "<ol><li>Bring the water, along with half the salt, to a boil in a small pan.  Once boiling, add the couscous, stir and cover with a lid.  Remove the pot from the heat, and allow it to sit for the 5 to 7 minutes it takes to cook the vegetables.<\/li><li>Heat a large pan over medium-high heat and add the 2 tablespoons of olive oil.  Once the oil is hot, add the onions and saut until they begin to brown.  Add the tomatoes and remaining salt and saut until they begin to wilt, about 20 to 30 seconds.  Add the spinach and saut just until it wilts but remains bright green. Finally, stir the pine nuts into the vegetable mixture and remove the pan from the heat.  Season with salt and pepper to taste.<\/li><li>Pour the couscous into a large bowl, add the sauted vegetables along with the crumbled feta and toss everything together.  Top with the extra crumbled feta and enjoy while hot.<\/li><\/ol>",
+        "summary": "You can never have too many main course recipes, so give Spinach, Tomato & Onion Couscous a try. One serving contains <b>565 calories<\/b>, <b>18g of protein<\/b>, and <b>24g of fat<\/b>. This recipe serves 3. For <b>$3.61 per serving<\/b>, this recipe <b>covers 28%<\/b> of your daily requirements of vitamins and minerals. 8 people were impressed by this recipe. It is a good option if you're following a <b>lacto ovo vegetarian<\/b> diet. Head to the store and pick up spinach, olive oil, onion, and a few other things to make it today. It is brought to you by Foodista. From preparation to the plate, this recipe takes about <b>45 minutes<\/b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 91%<\/b>. This score is spectacular. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/roasted-garlic-couscous-with-tomatoes-dill-onion-and-spinach-497176\">Roasted Garlic Couscous with Tomatoes, Dill, Onion, and Spinach<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/feta-and-green-onion-couscous-cakes-over-tomato-olive-salad-133311\">Fetan and Green Onion Couscous Cakes over Tomato-Olive Salad<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/lamb-chops-with-spinach-tomato-couscous-494031\">Lamb Chops with Spinach Tomato Couscous<\/a>.",
+        "cuisines": [],
         "dishTypes": [
-            "fingerfood",
             "lunch",
-            "antipasti",
             "main course",
-            "starter",
-            "snack",
-            "appetizer",
             "main dish",
-            "antipasto",
-            "dinner",
-            "hor d'oeuvre"
+            "dinner"
         ],
         "ingredients": [
-            "\u00bd bell pepper diced",
-            "1 tbsp butter",
-            "1 can black beans",
-            "1 cup cheese",
-            "\u00bd tsp chili powder",
-            "\u00bd cup corn",
-            "4 oz cream cheese",
-            "\u00bd tsp cumin",
-            "1 tsp minced garlic",
-            "\u00bc cup diced onions",
-            "1 tsp salt",
-            "1 cup shredded chicken",
-            "4 white tortillas"
+            "1\/2 cup feta (preferably goat or sheep's milk) crumbled, plus extra for garnish",
+            "2 tablespoons olive oil",
+            "1\/4 cup pine nuts",
+            "1 small large red onion, chopped into pieces",
+            "1\/4 teaspoon salt",
+            "5 cups fresh spinach, thoroughly washed",
+            "1\/2 pound ripe small tomatoes (preferably strawberry, cherry or",
+            "1 1\/2 cups water",
+            "1 cup whole-wheat couscous"
         ]
     }
 }
