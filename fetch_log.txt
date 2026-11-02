@@ -2390,3 +2390,7 @@
 [2026-11-01 07:08:50] Fetching recipe with day of year: 305
 [2026-11-01 07:08:51] Successfully fetched and saved recipe: Spinach, Tomato & Onion Couscous
 [2026-11-01 07:08:51] Recipe fetch process completed
+[2026-11-02 07:16:44] Starting recipe fetch process
+[2026-11-02 07:16:44] Fetching recipe with day of year: 306
+[2026-11-02 07:16:44] ERROR: Failed to get API response
+[2026-11-02 07:16:44] Recipe fetch process completed
