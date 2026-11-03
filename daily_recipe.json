@@ -1,31 +1,46 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-11-01",
+    "lastUpdated": "2026-11-03",
     "recipe": {
-        "title": "Spinach, Tomato & Onion Couscous",
+        "title": "17 Bean White Chicken Chili",
         "readyInMinutes": 45,
-        "servings": 3,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/661365-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/SVZDH8S4\/spinach-tomato-onion-couscous",
-        "instructions": "<ol><li>Bring the water, along with half the salt, to a boil in a small pan.  Once boiling, add the couscous, stir and cover with a lid.  Remove the pot from the heat, and allow it to sit for the 5 to 7 minutes it takes to cook the vegetables.<\/li><li>Heat a large pan over medium-high heat and add the 2 tablespoons of olive oil.  Once the oil is hot, add the onions and saut until they begin to brown.  Add the tomatoes and remaining salt and saut until they begin to wilt, about 20 to 30 seconds.  Add the spinach and saut just until it wilts but remains bright green. Finally, stir the pine nuts into the vegetable mixture and remove the pan from the heat.  Season with salt and pepper to taste.<\/li><li>Pour the couscous into a large bowl, add the sauted vegetables along with the crumbled feta and toss everything together.  Top with the extra crumbled feta and enjoy while hot.<\/li><\/ol>",
-        "summary": "You can never have too many main course recipes, so give Spinach, Tomato & Onion Couscous a try. One serving contains <b>565 calories<\/b>, <b>18g of protein<\/b>, and <b>24g of fat<\/b>. This recipe serves 3. For <b>$3.61 per serving<\/b>, this recipe <b>covers 28%<\/b> of your daily requirements of vitamins and minerals. 8 people were impressed by this recipe. It is a good option if you're following a <b>lacto ovo vegetarian<\/b> diet. Head to the store and pick up spinach, olive oil, onion, and a few other things to make it today. It is brought to you by Foodista. From preparation to the plate, this recipe takes about <b>45 minutes<\/b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 91%<\/b>. This score is spectacular. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/roasted-garlic-couscous-with-tomatoes-dill-onion-and-spinach-497176\">Roasted Garlic Couscous with Tomatoes, Dill, Onion, and Spinach<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/feta-and-green-onion-couscous-cakes-over-tomato-olive-salad-133311\">Fetan and Green Onion Couscous Cakes over Tomato-Olive Salad<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/lamb-chops-with-spinach-tomato-couscous-494031\">Lamb Chops with Spinach Tomato Couscous<\/a>.",
-        "cuisines": [],
+        "servings": 8,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/631843-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/WM748VQ5\/17-bean-white-chicken-chili",
+        "instructions": "Cook your beans according to package directions.\nAdd the broth to a large pot and bring to a boil. Add in the chicken and cook through.\nShred chicken and set aside.\nMix together the water and cornstarch. Add to broth and boil for a minute until slightly thickened.\nAdd the chicken back into the broth along with the corn, bell pepper, onion, garlic, chiles, tomato, and lime.\nAdd in the spices; the cumin, chile powder, oregano, coriander, crushed pepper, and pepper.\nAdd the cooked beans into the chili along with the cilantro.\nSalt to taste and let simmer on low heat covered until ready to eat.",
+        "summary": "17 Bean White Chicken Chili is an American main course. This recipe serves 8. One serving contains <b>177 calories<\/b>, <b>22g of protein<\/b>, and <b>3g of fat<\/b>. For <b>$1.87 per serving<\/b>, this recipe <b>covers 17%<\/b> of your daily requirements of vitamins and minerals. It will be a hit at your <b>The Super Bowl<\/b> event. If you have onion, tomato, garlic, and a few other ingredients on hand, you can make it. This recipe is liked by 4 foodies and cooks. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. It is a good option if you're following a <b>gluten free and dairy free<\/b> diet. It is brought to you by Foodista. Overall, this recipe earns a <b>pretty good spoonacular score of 68%<\/b>. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/white-bean-chicken-chili-391572\">White Bean Chicken Chili<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/chicken-and-white-bean-chili-188890\">Chicken and White Bean Chili<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/white-bean-and-chicken-chili-401114\">White Bean and Chicken Chili<\/a>.",
+        "cuisines": [
+            "American"
+        ],
         "dishTypes": [
             "lunch",
+            "soup",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "1\/2 cup feta (preferably goat or sheep's milk) crumbled, plus extra for garnish",
-            "2 tablespoons olive oil",
-            "1\/4 cup pine nuts",
-            "1 small large red onion, chopped into pieces",
-            "1\/4 teaspoon salt",
-            "5 cups fresh spinach, thoroughly washed",
-            "1\/2 pound ripe small tomatoes (preferably strawberry, cherry or",
-            "1 1\/2 cups water",
-            "1 cup whole-wheat couscous"
+            "1 pound Assorted Dry Beans, Cooked According to Package Directions",
+            "5 cups Chicken Broth",
+            "3 Chicken Breasts",
+            "3 tablespoons Cornstarch",
+            "3 tablespoons Cold Water",
+            "1 cup Corn",
+            "1 Bell Pepper, Chopped",
+            "1\/2 Large Onion, Chopped",
+            "2 cloves Garlic, Minced",
+            "1 can Diced Green Chiles",
+            "1 Tomato, Chopped",
+            "1\/2 Lime, Squeezed",
+            "1 tablespoon Cumin",
+            "1 tablespoon Chili Powder",
+            "1 teaspoon Oregano",
+            "1\/4 teaspoon Crushed Red Pepper",
+            "1\/4 teaspoon Pepper",
+            "1 Small Bunch Cilantro, Chopped",
+            "Salt to Taste",
+            "1 teaspoon Corriander",
+            "1 teaspoon Corriander"
         ]
     }
 }
