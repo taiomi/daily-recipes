@@ -1,46 +1,36 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-11-03",
+    "lastUpdated": "2026-11-04",
     "recipe": {
-        "title": "17 Bean White Chicken Chili",
+        "title": "Turkey Burgers",
         "readyInMinutes": 45,
-        "servings": 8,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/631843-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/WM748VQ5\/17-bean-white-chicken-chili",
-        "instructions": "Cook your beans according to package directions.\nAdd the broth to a large pot and bring to a boil. Add in the chicken and cook through.\nShred chicken and set aside.\nMix together the water and cornstarch. Add to broth and boil for a minute until slightly thickened.\nAdd the chicken back into the broth along with the corn, bell pepper, onion, garlic, chiles, tomato, and lime.\nAdd in the spices; the cumin, chile powder, oregano, coriander, crushed pepper, and pepper.\nAdd the cooked beans into the chili along with the cilantro.\nSalt to taste and let simmer on low heat covered until ready to eat.",
-        "summary": "17 Bean White Chicken Chili is an American main course. This recipe serves 8. One serving contains <b>177 calories<\/b>, <b>22g of protein<\/b>, and <b>3g of fat<\/b>. For <b>$1.87 per serving<\/b>, this recipe <b>covers 17%<\/b> of your daily requirements of vitamins and minerals. It will be a hit at your <b>The Super Bowl<\/b> event. If you have onion, tomato, garlic, and a few other ingredients on hand, you can make it. This recipe is liked by 4 foodies and cooks. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. It is a good option if you're following a <b>gluten free and dairy free<\/b> diet. It is brought to you by Foodista. Overall, this recipe earns a <b>pretty good spoonacular score of 68%<\/b>. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/white-bean-chicken-chili-391572\">White Bean Chicken Chili<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/chicken-and-white-bean-chili-188890\">Chicken and White Bean Chili<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/white-bean-and-chicken-chili-401114\">White Bean and Chicken Chili<\/a>.",
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/664011-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/FMFZ4LVZ\/turkey-burgers",
+        "instructions": "<ol><li>Mix all ingredients in a large bowl. Don't overwork it - just combine enough to have it well mixed.<\/li><li>Form 4-6 round patties. Cook on med-high heat until done. If unsure, insert a thermometer - 165 F is the temp. you are aiming for.<\/li><li>For roasted red pepper rings, seed and slice red pepper, spritz with olive oil and bake at 425 for 20 minutes.<\/li><\/ol>",
+        "summary": "Turkey Burgers might be a good recipe to expand your main course collection. This recipe serves 4. Watching your figure? This dairy free recipe has <b>199 calories<\/b>, <b>30g of protein<\/b>, and <b>4g of fat<\/b> per serving. For <b>$2.43 per serving<\/b>, this recipe <b>covers 23%<\/b> of your daily requirements of vitamins and minerals. 13 people have made this recipe and would make it again. This recipe from Foodista requires extra ground turkey, egg, zucchini, and paprika. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. It is a <b>reasonably priced<\/b> recipe for fans of American food. All things considered, we decided this recipe <b>deserves a spoonacular score of 81%<\/b>. This score is great. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/best-turkey-burgers-1004277\">Best Turkey Burgers<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/turkey-burgers-1371719\">Turkey Burgers<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/turkey-burgers-138187\">Turkey Burgers<\/a>.",
         "cuisines": [
             "American"
         ],
         "dishTypes": [
             "lunch",
-            "soup",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "1 pound Assorted Dry Beans, Cooked According to Package Directions",
-            "5 cups Chicken Broth",
-            "3 Chicken Breasts",
-            "3 tablespoons Cornstarch",
-            "3 tablespoons Cold Water",
-            "1 cup Corn",
-            "1 Bell Pepper, Chopped",
-            "1\/2 Large Onion, Chopped",
-            "2 cloves Garlic, Minced",
-            "1 can Diced Green Chiles",
-            "1 Tomato, Chopped",
-            "1\/2 Lime, Squeezed",
-            "1 tablespoon Cumin",
-            "1 tablespoon Chili Powder",
-            "1 teaspoon Oregano",
-            "1\/4 teaspoon Crushed Red Pepper",
-            "1\/4 teaspoon Pepper",
-            "1 Small Bunch Cilantro, Chopped",
-            "Salt to Taste",
-            "1 teaspoon Corriander",
-            "1 teaspoon Corriander"
+            "1\/4 cup shredded carrots",
+            "1 egg",
+            "1 teaspoon of minced organic garlic",
+            "2 green onions, chopped",
+            "1 lb. extra lean ground turkey",
+            "1\/2 cup panko",
+            "1 red bell pepper cut into rings if desired for garnish.",
+            "salt and pepper to taste",
+            "1\/2 teaspoon smoked paprika",
+            "1\/4 cup spinach, chopped",
+            "1 tablespoon tomato paste",
+            "1 medium zucchini, grated"
         ]
     }
 }
