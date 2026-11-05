@@ -2402,3 +2402,7 @@
 [2026-11-04 07:15:39] Fetching recipe with day of year: 308
 [2026-11-04 07:15:40] Successfully fetched and saved recipe: Turkey Burgers
 [2026-11-04 07:15:40] Recipe fetch process completed
+[2026-11-05 07:43:15] Starting recipe fetch process
+[2026-11-05 07:43:15] Fetching recipe with day of year: 309
+[2026-11-05 07:43:15] ERROR: Failed to get API response
+[2026-11-05 07:43:15] Recipe fetch process completed
