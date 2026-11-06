@@ -1,17 +1,15 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-11-04",
+    "lastUpdated": "2026-11-06",
     "recipe": {
-        "title": "Turkey Burgers",
+        "title": "Boneless Buffalo Strips",
         "readyInMinutes": 45,
-        "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/664011-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/FMFZ4LVZ\/turkey-burgers",
-        "instructions": "<ol><li>Mix all ingredients in a large bowl. Don't overwork it - just combine enough to have it well mixed.<\/li><li>Form 4-6 round patties. Cook on med-high heat until done. If unsure, insert a thermometer - 165 F is the temp. you are aiming for.<\/li><li>For roasted red pepper rings, seed and slice red pepper, spritz with olive oil and bake at 425 for 20 minutes.<\/li><\/ol>",
-        "summary": "Turkey Burgers might be a good recipe to expand your main course collection. This recipe serves 4. Watching your figure? This dairy free recipe has <b>199 calories<\/b>, <b>30g of protein<\/b>, and <b>4g of fat<\/b> per serving. For <b>$2.43 per serving<\/b>, this recipe <b>covers 23%<\/b> of your daily requirements of vitamins and minerals. 13 people have made this recipe and would make it again. This recipe from Foodista requires extra ground turkey, egg, zucchini, and paprika. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. It is a <b>reasonably priced<\/b> recipe for fans of American food. All things considered, we decided this recipe <b>deserves a spoonacular score of 81%<\/b>. This score is great. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/best-turkey-burgers-1004277\">Best Turkey Burgers<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/turkey-burgers-1371719\">Turkey Burgers<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/turkey-burgers-138187\">Turkey Burgers<\/a>.",
-        "cuisines": [
-            "American"
-        ],
+        "servings": 8,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/635657-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/Q7TVWWX2\/boneless-buffalo-strips",
+        "instructions": "Whisk together buttermilk, chili-garlic sauce, Franks, buttermilk, vinegar and salt.  Add chicken and marinate overnight.\nPreheat oven to 450 degrees.  Spray wire rack with cooking spray.\nCombine panko, flour, paprika, cayenne and salt in a large bowl.\nDredge chicken in flour mixture, shake of access and place on wire rack.  Repeat with all chicken  pieces.\nSpray chicken breasts with cooking spray, making sure to hit all parts of the chicken.\nCook for 10 minutes.  Take out, turn chicken pieces over, spray again, and return to oven for another 5 minutes, or until all pieces are golden brown and chicken reaches 155 degrees.\nMeanwhile, in a small food processor add ingredients for gorgonzola dip.  Process until smooth.\nWhen chicken strips are done, with a pastry brush, brush strips with Franks Red Hot.  Serve with gorgonzola sauce and carrot and celery sticks.",
+        "summary": "Boneless Buffalo Strips requires around <b>45 minutes<\/b> from start to finish. One serving contains <b>389 calories<\/b>, <b>34g of protein<\/b>, and <b>20g of fat<\/b>. This recipe serves 8 and costs $2.93 per serving. Only a few people made this recipe, and 2 would say it hit the spot. It is brought to you by Foodista. A mixture of chicken breasts, cream, flour, and a handful of other ingredients are all it takes to make this recipe so tasty. It works well as a main course. With a spoonacular <b>score of 41%<\/b>, this dish is good. If you like this recipe, take a look at these similar recipes: <a href=\"https:\/\/spoonacular.com\/recipes\/boneless-buffalo-strips-1312765\">Boneless Buffalo Strips<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/boneless-buffalo-strips-1249767\">Boneless Buffalo Strips<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/boneless-buffalo-strips-1636439\">Boneless Buffalo Strips<\/a>.",
+        "cuisines": [],
         "dishTypes": [
             "lunch",
             "main course",
@@ -19,18 +17,25 @@
             "dinner"
         ],
         "ingredients": [
-            "1\/4 cup shredded carrots",
-            "1 egg",
-            "1 teaspoon of minced organic garlic",
-            "2 green onions, chopped",
-            "1 lb. extra lean ground turkey",
-            "1\/2 cup panko",
-            "1 red bell pepper cut into rings if desired for garnish.",
-            "salt and pepper to taste",
-            "1\/2 teaspoon smoked paprika",
-            "1\/4 cup spinach, chopped",
-            "1 tablespoon tomato paste",
-            "1 medium zucchini, grated"
+            "Gorgonzola Dip",
+            "1\/2 cup reduced-fat sour cream",
+            "1\/4 cup Greek yogurt",
+            "1\/2 cup crumbled gorgonzola",
+            "1 teaspoon garlic pepper (or your favorite house seasoning)",
+            "1\/2 teaspoon salt",
+            "1 tablespoon apple cider vinegar",
+            "Buffalo Strips",
+            "1 pound boneless, skinless chicken breasts, cut into strips",
+            "2 teaspoons salt",
+            "2 teaspoons chili garlic sauce",
+            "2 tablespoons Frank's Red Hot",
+            "1 cup low fat buttermilk",
+            "1 1\/2 cups whole wheat panko crumbs",
+            "8 tablespoons whole wheat flour",
+            "1 1\/2 teaspoons smoked paprika",
+            "1 teaspoon cayenne",
+            "1 1\/2 teaspoons salt",
+            "1\/4 cup Frank's Red Hot"
         ]
     }
 }
