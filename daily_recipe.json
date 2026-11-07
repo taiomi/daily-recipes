@@ -1,14 +1,14 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-11-06",
+    "lastUpdated": "2026-11-07",
     "recipe": {
-        "title": "Boneless Buffalo Strips",
+        "title": "Trout wrapped in bacon",
         "readyInMinutes": 45,
-        "servings": 8,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/635657-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/Q7TVWWX2\/boneless-buffalo-strips",
-        "instructions": "Whisk together buttermilk, chili-garlic sauce, Franks, buttermilk, vinegar and salt.  Add chicken and marinate overnight.\nPreheat oven to 450 degrees.  Spray wire rack with cooking spray.\nCombine panko, flour, paprika, cayenne and salt in a large bowl.\nDredge chicken in flour mixture, shake of access and place on wire rack.  Repeat with all chicken  pieces.\nSpray chicken breasts with cooking spray, making sure to hit all parts of the chicken.\nCook for 10 minutes.  Take out, turn chicken pieces over, spray again, and return to oven for another 5 minutes, or until all pieces are golden brown and chicken reaches 155 degrees.\nMeanwhile, in a small food processor add ingredients for gorgonzola dip.  Process until smooth.\nWhen chicken strips are done, with a pastry brush, brush strips with Franks Red Hot.  Serve with gorgonzola sauce and carrot and celery sticks.",
-        "summary": "Boneless Buffalo Strips requires around <b>45 minutes<\/b> from start to finish. One serving contains <b>389 calories<\/b>, <b>34g of protein<\/b>, and <b>20g of fat<\/b>. This recipe serves 8 and costs $2.93 per serving. Only a few people made this recipe, and 2 would say it hit the spot. It is brought to you by Foodista. A mixture of chicken breasts, cream, flour, and a handful of other ingredients are all it takes to make this recipe so tasty. It works well as a main course. With a spoonacular <b>score of 41%<\/b>, this dish is good. If you like this recipe, take a look at these similar recipes: <a href=\"https:\/\/spoonacular.com\/recipes\/boneless-buffalo-strips-1312765\">Boneless Buffalo Strips<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/boneless-buffalo-strips-1249767\">Boneless Buffalo Strips<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/boneless-buffalo-strips-1636439\">Boneless Buffalo Strips<\/a>.",
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/663879-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/BTXLJDFN\/trout-wrapped-in-bacon",
+        "instructions": "Squeeze lemon juice over the skin and inside the cavity of each fish, season all over with salt and ground black pepper, then put a thyme sprig in each cavity.\nStretch each bacon rasher using the back of a knife, then wrap two rashers around each fish. Place the fish in a shallow ovenproof dish, lightly greased with butter, with the loose ends of bacon tucked underneath to prevent them from unwinding.\nBake the trout for 15-20 minutes in an oven at 200C, until the flesh flakes easily tested with the point of a sharp knife and the bacon is crisp an beginning to brown.\nTransfer the fish to warmed individual plates and serve immediately garnished with chopped parsley and sprigs of thyme and accompanied by lemon wedges.",
+        "summary": "Trout wrapped in bacon is a <b>gluten free, primal, and fodmap friendly<\/b> recipe with 4 servings. For <b>$5.52 per serving<\/b>, this recipe <b>covers 34%<\/b> of your daily requirements of vitamins and minerals. This main course has <b>519 calories<\/b>, <b>47g of protein<\/b>, and <b>35g of fat<\/b> per serving. It is brought to you by Foodista. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. 4 people were glad they tried this recipe. A mixture of trout, rashers rindless streaky bacon, thyme sprigs, and a handful of other ingredients are all it takes to make this recipe so delicious. Taking all factors into account, this recipe <b>earns a spoonacular score of 81%<\/b>, which is super. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/trout-wrapped-in-bacon-88854\">Trout Wrapped in Bacon<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/bacon-wrapped-trout-88865\">Bacon-Wrapped Trout<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/bacon-wrapped-trout-with-rosemary-7191\">Bacon-Wrapped Trout with Rosemary<\/a>.",
         "cuisines": [],
         "dishTypes": [
             "lunch",
@@ -17,25 +17,14 @@
             "dinner"
         ],
         "ingredients": [
-            "Gorgonzola Dip",
-            "1\/2 cup reduced-fat sour cream",
-            "1\/4 cup Greek yogurt",
-            "1\/2 cup crumbled gorgonzola",
-            "1 teaspoon garlic pepper (or your favorite house seasoning)",
-            "1\/2 teaspoon salt",
-            "1 tablespoon apple cider vinegar",
-            "Buffalo Strips",
-            "1 pound boneless, skinless chicken breasts, cut into strips",
-            "2 teaspoons salt",
-            "2 teaspoons chili garlic sauce",
-            "2 tablespoons Frank's Red Hot",
-            "1 cup low fat buttermilk",
-            "1 1\/2 cups whole wheat panko crumbs",
-            "8 tablespoons whole wheat flour",
-            "1 1\/2 teaspoons smoked paprika",
-            "1 teaspoon cayenne",
-            "1 1\/2 teaspoons salt",
-            "1\/4 cup Frank's Red Hot"
+            "4 trout, gutted (about 800 g)",
+            "Juice of \u00bd lemon",
+            "4 fresh thyme sprigs",
+            "8 thin rashers (strips) rindless streaky bacon",
+            "Salt and ground black pepper",
+            "Fresh parsley, chopped, to garnish",
+            "Lemon wedges, to serve",
+            "Butter, for greasing"
         ]
     }
 }
