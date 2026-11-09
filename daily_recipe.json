@@ -1,15 +1,18 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-11-07",
+    "lastUpdated": "2026-11-09",
     "recipe": {
-        "title": "Trout wrapped in bacon",
+        "title": "Dolsot Bibimbap",
         "readyInMinutes": 45,
         "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/663879-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/BTXLJDFN\/trout-wrapped-in-bacon",
-        "instructions": "Squeeze lemon juice over the skin and inside the cavity of each fish, season all over with salt and ground black pepper, then put a thyme sprig in each cavity.\nStretch each bacon rasher using the back of a knife, then wrap two rashers around each fish. Place the fish in a shallow ovenproof dish, lightly greased with butter, with the loose ends of bacon tucked underneath to prevent them from unwinding.\nBake the trout for 15-20 minutes in an oven at 200C, until the flesh flakes easily tested with the point of a sharp knife and the bacon is crisp an beginning to brown.\nTransfer the fish to warmed individual plates and serve immediately garnished with chopped parsley and sprigs of thyme and accompanied by lemon wedges.",
-        "summary": "Trout wrapped in bacon is a <b>gluten free, primal, and fodmap friendly<\/b> recipe with 4 servings. For <b>$5.52 per serving<\/b>, this recipe <b>covers 34%<\/b> of your daily requirements of vitamins and minerals. This main course has <b>519 calories<\/b>, <b>47g of protein<\/b>, and <b>35g of fat<\/b> per serving. It is brought to you by Foodista. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. 4 people were glad they tried this recipe. A mixture of trout, rashers rindless streaky bacon, thyme sprigs, and a handful of other ingredients are all it takes to make this recipe so delicious. Taking all factors into account, this recipe <b>earns a spoonacular score of 81%<\/b>, which is super. Users who liked this recipe also liked <a href=\"https:\/\/spoonacular.com\/recipes\/trout-wrapped-in-bacon-88854\">Trout Wrapped in Bacon<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/bacon-wrapped-trout-88865\">Bacon-Wrapped Trout<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/bacon-wrapped-trout-with-rosemary-7191\">Bacon-Wrapped Trout with Rosemary<\/a>.",
-        "cuisines": [],
+        "image": "https:\/\/img.spoonacular.com\/recipes\/641559-556x370.jpg",
+        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/2522ZFCV\/dolsot-bibimbap",
+        "instructions": "<ol><li>Marinate beef and tofu overnight in Korean barbecue marinade.<\/li><li>Cook rice and keep warm.<\/li><li>In sesame oil and a pinch of salt, saut carrots and zucchini until almost tender. If necessary add a bit more sesame oil and toss in the remaining vegetables, garlic and a pinch of sugar and continue to saut approximately 2 minutes, or until the vegetables are almost done (they will continue to cook in the dolsot or stone bowl)<\/li><li>Broil or barbecue the beef.<\/li><li>Pour a 1\/2 - 1 teaspoon of sesame oil in the base of each stone bowl. Divide rice between the 4 stone bowls. Arrange all ingredients on top of the rice side by side around the bowl. Put a teaspoon (or more depending on taste) of the Korean chilli paste on top of the vegetables and in the middle of the bowl place an egg yolk. Pour a tablespoon of sesame seed oil around the edge of the bowl.<\/li><li>Place stone bowl on top of stove and on high heat leave for approx 5 minutes or until you can hear the rice popping and crackling.<\/li><li>Remove from heat and serve. Be very careful as the stone bowl will be extremely hot.<\/li><\/ol>",
+        "summary": "Dolsot Bibimbap might be a good recipe to expand your main course recipe box. This recipe serves 4 and costs $9.59 per serving. Watching your figure? This dairy free recipe has <b>1824 calories<\/b>, <b>56g of protein<\/b>, and <b>36g of fat<\/b> per serving. A mixture of carrots, high grade korean sushi rice, salt, and a handful of other ingredients are all it takes to make this recipe so scrumptious. 7 people were impressed by this recipe. It is a <b>pricey<\/b> recipe for fans of Korean food. It is brought to you by Foodista. From preparation to the plate, this recipe takes roughly <b>45 minutes<\/b>. With a spoonacular <b>score of 92%<\/b>, this dish is spectacular. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/bibimbap-564930\">Bibimbap<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/bibimbap-34425\">Bibimbap<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/bibimbap-37433\">Bibimbap<\/a>.",
+        "cuisines": [
+            "Korean",
+            "Asian"
+        ],
         "dishTypes": [
             "lunch",
             "main course",
@@ -17,14 +20,26 @@
             "dinner"
         ],
         "ingredients": [
-            "4 trout, gutted (about 800 g)",
-            "Juice of \u00bd lemon",
-            "4 fresh thyme sprigs",
-            "8 thin rashers (strips) rindless streaky bacon",
-            "Salt and ground black pepper",
-            "Fresh parsley, chopped, to garnish",
-            "Lemon wedges, to serve",
-            "Butter, for greasing"
+            "3 cups fresh baby spinach",
+            "1 1\/2 cups bean sprouts",
+            "3\/4 pound thin strips sirloin, rib eye or bulgogi beef",
+            "4 dolsot stone bowls (available at Asian markets)",
+            "10 ounces cabbage kimchi",
+            "1 cup carrots, julienned",
+            "4 egg yolks",
+            "1 cup fresh shiitake mushrooms, thinly sliced",
+            "1 garlic clove, minced",
+            "1 cup green onions, chopped",
+            "1 cup Korean barbecue bulgogi marinade",
+            "1\/4 cup kochujang vinegared hot pepper paste",
+            "Pinch of salt",
+            "1\/4 cup sesame oil",
+            "2 teaspoons toasted sesame seeds",
+            "4 cups short grain white rice, cooked",
+            "Pinch of sugar",
+            "3 cups high grade Korean sushi rice",
+            "3\/4 cup firm tofu, rinsed and cut into 1-inch cubes",
+            "1 cup zucchini, julienned"
         ]
     }
 }
