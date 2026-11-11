@@ -2426,3 +2426,7 @@
 [2026-11-10 08:00:29] Fetching recipe with day of year: 314
 [2026-11-10 08:00:30] Successfully fetched and saved recipe: Cheesy Chicken Enchilada Quinoa Casserole
 [2026-11-10 08:00:30] Recipe fetch process completed
+[2026-11-11 07:30:03] Starting recipe fetch process
+[2026-11-11 07:30:03] Fetching recipe with day of year: 315
+[2026-11-11 07:30:04] ERROR: Failed to get API response
+[2026-11-11 07:30:04] Recipe fetch process completed
