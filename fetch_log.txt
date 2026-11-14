@@ -2438,3 +2438,7 @@
 [2026-11-13 07:37:18] Fetching recipe with day of year: 317
 [2026-11-13 07:37:18] Successfully fetched and saved recipe: Rigatoni With Sweet Sausages In Creamy Tomato Sauce
 [2026-11-13 07:37:18] Recipe fetch process completed
+[2026-11-14 07:22:46] Starting recipe fetch process
+[2026-11-14 07:22:46] Fetching recipe with day of year: 318
+[2026-11-14 07:22:47] ERROR: Failed to get API response
+[2026-11-14 07:22:47] Recipe fetch process completed
