@@ -1,15 +1,18 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-11-16",
+    "lastUpdated": "2026-11-18",
     "recipe": {
-        "title": "Super Speedy Spicy Sweet and Sour Shrimp",
+        "title": "Baked Teriyaki Chicken Drumsticks",
         "readyInMinutes": 45,
-        "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/662363-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/J35D5LYD\/super-speedy-spicy-sweet-and-sour-shrimp",
-        "instructions": "<ol><li>Mix the sauce ingredients together in a bowl, taste it to check if you like the balance of flavour and adjust if you wish.  Set this aside.<\/li><li>Heat the oil on a very high heat in a wok. Get the oil as hot as you can, just below smoking point.  Check the heat by dropping a piece of spring onion (scallion) and if it sizzles immediately, the oil is hot enough.<\/li><li>Add the chili, garlic and ginger, stir and cook for about 30 seconds.  Add the spring onions (scallions) and cook for a further minute.<\/li><li>Add the shrimp (prawns) cook for about 2 minutes or until they turn pink.<\/li><li>Add the sauce, keeping the heat high so that as soon as it hits your pan or wok, it sizzles and reduces.<\/li><li>When the sauce has thickened a little, add the pak choi, mix through and cover it, cooking only for a minute.<\/li><li>Serve with simply boiled white rice and sprinkle with some fresh coriander (cilantro).<\/li><\/ol>",
-        "summary": "The recipe Super Speedy Spicy Sweet and Sour Shrimp can be made <b>in around 45 minutes<\/b>. This recipe makes 4 servings with <b>350 calories<\/b>, <b>32g of protein<\/b>, and <b>8g of fat<\/b> each. For <b>$3.48 per serving<\/b>, this recipe <b>covers 14%<\/b> of your daily requirements of vitamins and minerals. 7 people have tried and liked this recipe. It works well as a main course. A mixture of soy sauce, rice, 2 lb shrimp, and a handful of other ingredients are all it takes to make this recipe so tasty. It is brought to you by Foodista. It is a good option if you're following a <b>gluten free, dairy free, and pescatarian<\/b> diet. With a spoonacular <b>score of 89%<\/b>, this dish is amazing. If you like this recipe, take a look at these similar recipes: <a href=\"https:\/\/spoonacular.com\/recipes\/super-speedy-spicy-sweet-and-sour-shrimp-1288571\">Super Speedy Spicy Sweet and Sour Shrimp<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/super-speedy-spicy-sweet-and-sour-shrimp-1558835\">Super Speedy Spicy Sweet and Sour Shrimp<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/super-speedy-spicy-sweet-and-sour-shrimp-1244299\">Super Speedy Spicy Sweet and Sour Shrimp<\/a>.",
-        "cuisines": [],
+        "servings": 1,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/633841-556x370.jpg",
+        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/P2H7T2SX\/baked-teriyaki-chicken-drumsticks",
+        "instructions": "<ol><li>In a large bowl, mix teriyaki sauce, salt vegetable oil, honey, and ginger.  Add the chicken to the marinade.  Let the chicken marinade for about 4-5 hours.<\/li><li>Preheat oven to 450 degrees.  Add the sliced onions and diced garlic on the baking pan.  Lay the chicken on top of the onions and garlic.  Bake the chicken for 30 minutes turning once until cooked.<\/li><\/ol>",
+        "summary": "The recipe Baked Teriyaki Chicken Drumsticks can be made <b>in about 45 minutes<\/b>. For <b>$4.75 per serving<\/b>, you get a main course that serves 1. Watching your figure? This gluten free and dairy free recipe has <b>1103 calories<\/b>, <b>99g of protein<\/b>, and <b>47g of fat<\/b> per serving. Head to the store and pick up vegetable oil, garlic, onion, and a few other things to make it today. It is a <b>rather expensive<\/b> recipe for fans of Japanese food. It is brought to you by Foodista. This recipe is liked by 2 foodies and cooks. With a spoonacular <b>score of 74%<\/b>, this dish is solid. <a href=\"https:\/\/spoonacular.com\/recipes\/slow-cooker-teriyaki-chicken-drumsticks-834450\">Slow cooker Teriyaki chicken drumsticks<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/slow-cooker-teriyaki-chicken-drumsticks-1282335\">Slow cooker Teriyaki chicken drumsticks<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/gluten-free-instant-pot-teriyaki-chicken-drumsticks-948288\">Gluten Free Instant Pot Teriyaki Chicken Drumsticks<\/a> are very similar to this recipe.",
+        "cuisines": [
+            "Japanese",
+            "Asian"
+        ],
         "dishTypes": [
             "lunch",
             "main course",
@@ -17,19 +20,14 @@
             "dinner"
         ],
         "ingredients": [
-            "cilantro",
-            "cooked white rice",
-            "3 garlic cloves chopped finely",
-            "1 piece of ginger, grated",
-            "2 tbsp honey",
-            "2 tbsp light soy sauce",
-            "1 bok choi",
-            "1 red chili pepper",
-            "2 tbsp Chinese rice wine vinegar",
-            "550gr \/ 1.2 lb shrimp (prawns), raw, but peeled, de veined and cleaned",
-            "4 spring onions (scallions) chopped to about 1 cm \/ 0.5in. pieces",
-            "2 tbsp sunflower oil (or other flavourless oil)",
-            "4 tbsp tomato ketchup"
+            "6 chicken drumsticks",
+            "2 cloves of garlic diced",
+            "1 tablespoon of shredded ginger",
+            "1 teaspoon of honey",
+            "1 onion, sliced",
+            "Salt, pepper, garlic,",
+            "1 cup of teriyaki sauce",
+            "1 teaspoon of vegetable oil"
         ]
     }
 }
