@@ -1,33 +1,33 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-11-18",
+    "lastUpdated": "2026-11-19",
     "recipe": {
-        "title": "Baked Teriyaki Chicken Drumsticks",
+        "title": "Cheese Tortellini Alfredo",
         "readyInMinutes": 45,
-        "servings": 1,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/633841-556x370.jpg",
-        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/P2H7T2SX\/baked-teriyaki-chicken-drumsticks",
-        "instructions": "<ol><li>In a large bowl, mix teriyaki sauce, salt vegetable oil, honey, and ginger.  Add the chicken to the marinade.  Let the chicken marinade for about 4-5 hours.<\/li><li>Preheat oven to 450 degrees.  Add the sliced onions and diced garlic on the baking pan.  Lay the chicken on top of the onions and garlic.  Bake the chicken for 30 minutes turning once until cooked.<\/li><\/ol>",
-        "summary": "The recipe Baked Teriyaki Chicken Drumsticks can be made <b>in about 45 minutes<\/b>. For <b>$4.75 per serving<\/b>, you get a main course that serves 1. Watching your figure? This gluten free and dairy free recipe has <b>1103 calories<\/b>, <b>99g of protein<\/b>, and <b>47g of fat<\/b> per serving. Head to the store and pick up vegetable oil, garlic, onion, and a few other things to make it today. It is a <b>rather expensive<\/b> recipe for fans of Japanese food. It is brought to you by Foodista. This recipe is liked by 2 foodies and cooks. With a spoonacular <b>score of 74%<\/b>, this dish is solid. <a href=\"https:\/\/spoonacular.com\/recipes\/slow-cooker-teriyaki-chicken-drumsticks-834450\">Slow cooker Teriyaki chicken drumsticks<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/slow-cooker-teriyaki-chicken-drumsticks-1282335\">Slow cooker Teriyaki chicken drumsticks<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/gluten-free-instant-pot-teriyaki-chicken-drumsticks-948288\">Gluten Free Instant Pot Teriyaki Chicken Drumsticks<\/a> are very similar to this recipe.",
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/637591-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/V6PZJBZD\/cheese-tortellini-alfredo",
+        "instructions": "<ol><li>In a large pot of salted water cook the tortellini according to the  package directions.<\/li><li>Drain the tortellini and return them to the pot.  Fold in the butter until melted. Add the Parmiggiano and the heavy cream. Stir until the cream and the cream are absorbed. Add a dash of nutmeg and freshly ground black pepper.<\/li><li>Serve hot.<\/li><\/ol>",
+        "summary": "Cheese Tortellini Alfredo might be a good recipe to expand your main course recipe box. This recipe serves 4. One portion of this dish contains approximately <b>22g of protein<\/b>, <b>29g of fat<\/b>, and a total of <b>593 calories<\/b>. For <b>$1.76 per serving<\/b>, this recipe <b>covers 6%<\/b> of your daily requirements of vitamins and minerals. It is an <b>affordable<\/b> recipe for fans of Mediterranean food. 6 people have tried and liked this recipe. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. It is brought to you by Foodista. If you have whipping cream, parmiggiano reggiano, nutmeg, and a few other ingredients on hand, you can make it. All things considered, we decided this recipe <b>deserves a spoonacular score of 17%<\/b>. This score is rather bad. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/chicken-cheese-tortellini-alfredo-1343875\">Chicken & Cheese Tortellini Alfredo<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/chicken-cheese-tortellini-alfredo-398543\">Chicken & Cheese Tortellini Alfredo<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/cheese-tortellini-with-spinach-feta-alfredo-sauce-491812\">Cheese Tortellini with Spinach Fetan Alfredo Sauce<\/a>.",
         "cuisines": [
-            "Japanese",
-            "Asian"
+            "Mediterranean",
+            "Italian",
+            "European"
         ],
         "dishTypes": [
+            "side dish",
             "lunch",
             "main course",
             "main dish",
             "dinner"
         ],
         "ingredients": [
-            "6 chicken drumsticks",
-            "2 cloves of garlic diced",
-            "1 tablespoon of shredded ginger",
-            "1 teaspoon of honey",
-            "1 onion, sliced",
-            "Salt, pepper, garlic,",
-            "1 cup of teriyaki sauce",
-            "1 teaspoon of vegetable oil"
+            "1 package Cheese Tortellini by Buitoni",
+            "Fresh ground black pepper",
+            "Dash grated nutmeg",
+            "\u00bd freshly grated Parmiggiano Reggiano",
+            "2 tablespoon unsalted butter",
+            "\u00bd cup whipping cream"
         ]
     }
 }
