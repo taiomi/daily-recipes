@@ -2462,3 +2462,7 @@
 [2026-11-19 08:25:31] Fetching recipe with day of year: 323
 [2026-11-19 08:25:32] Successfully fetched and saved recipe: Cheese Tortellini Alfredo
 [2026-11-19 08:25:32] Recipe fetch process completed
+[2026-11-20 08:05:38] Starting recipe fetch process
+[2026-11-20 08:05:38] Fetching recipe with day of year: 324
+[2026-11-20 08:05:39] ERROR: Failed to get API response
+[2026-11-20 08:05:39] Recipe fetch process completed
