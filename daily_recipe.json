@@ -1,33 +1,33 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-11-19",
+    "lastUpdated": "2026-11-21",
     "recipe": {
-        "title": "Cheese Tortellini Alfredo",
+        "title": "Baked Eggs With Asparagus and Sun Dried Tomatoes",
         "readyInMinutes": 45,
-        "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/637591-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/V6PZJBZD\/cheese-tortellini-alfredo",
-        "instructions": "<ol><li>In a large pot of salted water cook the tortellini according to the  package directions.<\/li><li>Drain the tortellini and return them to the pot.  Fold in the butter until melted. Add the Parmiggiano and the heavy cream. Stir until the cream and the cream are absorbed. Add a dash of nutmeg and freshly ground black pepper.<\/li><li>Serve hot.<\/li><\/ol>",
-        "summary": "Cheese Tortellini Alfredo might be a good recipe to expand your main course recipe box. This recipe serves 4. One portion of this dish contains approximately <b>22g of protein<\/b>, <b>29g of fat<\/b>, and a total of <b>593 calories<\/b>. For <b>$1.76 per serving<\/b>, this recipe <b>covers 6%<\/b> of your daily requirements of vitamins and minerals. It is an <b>affordable<\/b> recipe for fans of Mediterranean food. 6 people have tried and liked this recipe. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. It is brought to you by Foodista. If you have whipping cream, parmiggiano reggiano, nutmeg, and a few other ingredients on hand, you can make it. All things considered, we decided this recipe <b>deserves a spoonacular score of 17%<\/b>. This score is rather bad. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/chicken-cheese-tortellini-alfredo-1343875\">Chicken & Cheese Tortellini Alfredo<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/chicken-cheese-tortellini-alfredo-398543\">Chicken & Cheese Tortellini Alfredo<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/cheese-tortellini-with-spinach-feta-alfredo-sauce-491812\">Cheese Tortellini with Spinach Fetan Alfredo Sauce<\/a>.",
-        "cuisines": [
-            "Mediterranean",
-            "Italian",
-            "European"
-        ],
+        "servings": 2,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/633595-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/B5DH4SJK\/baked-eggs-with-asparagus-and-sun-dried-tomatoes",
+        "instructions": "Preheat oven to 375.\nSteam asparagus until tender.\nWhip eggs with quark, thyme and salt and pepper to your taste.\nHeat non-stick skillet over medium heat and spray with cooking spray. Saute onion and tomato for 4 minutes until onion is translucent.\nSpray small baking dish with cooking spray and add onion and tomato. Add eggs. Top with spinach or asparagus and parmesan cheese.\nBake for 10 - 15 minutes until egg is set.",
+        "summary": "Need a <b>gluten free and primal main course<\/b>? Baked Eggs With Asparagus and Sun Dried Tomatoes could be a super recipe to try. This recipe serves 2 and costs $2.23 per serving. One portion of this dish contains approximately <b>21g of protein<\/b>, <b>7g of fat<\/b>, and a total of <b>178 calories<\/b>. If you have spinach, quark, sun tomato, and a few other ingredients on hand, you can make it. It is brought to you by Foodista. Not a lot of people made this recipe, and 3 would say it hit the spot. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 38%<\/b>. This score is not so outstanding. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/creamy-baked-eggs-with-asparagus-and-sun-dried-tomatoes-530611\">Creamy Baked Eggs with Asparagus and Sun Dried Tomatoes<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/baked-eggs-with-garlic-kale-and-sun-dried-tomatoes-537955\">Baked Eggs with Garlic Kale and Sun-dried Tomatoes<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/baked-eggs-with-garlic-kale-and-sun-dried-tomatoes-1241145\">Baked Eggs with Garlic Kale and Sun-dried Tomatoes<\/a>.",
+        "cuisines": [],
         "dishTypes": [
-            "side dish",
             "lunch",
             "main course",
+            "morning meal",
+            "brunch",
             "main dish",
+            "breakfast",
             "dinner"
         ],
         "ingredients": [
-            "1 package Cheese Tortellini by Buitoni",
-            "Fresh ground black pepper",
-            "Dash grated nutmeg",
-            "\u00bd freshly grated Parmiggiano Reggiano",
-            "2 tablespoon unsalted butter",
-            "\u00bd cup whipping cream"
+            "2 large eggs",
+            "2 large egg whites",
+            "2 tablespoons sun dried tomato, finely chopped",
+            "2 tablespoons onion , finely chopped",
+            "1 teaspoon thyme, minced",
+            "1\/2 cup quark (a creamy cheese that can be found in your grocery dairy section)",
+            "2 tablespoons parmesan cheese , shredded",
+            "8 smalls spinach or asparagus"
         ]
     }
 }
