@@ -1,33 +1,37 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-11-21",
+    "lastUpdated": "2026-11-22",
     "recipe": {
-        "title": "Baked Eggs With Asparagus and Sun Dried Tomatoes",
+        "title": "The Blarney Burger",
         "readyInMinutes": 45,
-        "servings": 2,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/633595-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/B5DH4SJK\/baked-eggs-with-asparagus-and-sun-dried-tomatoes",
-        "instructions": "Preheat oven to 375.\nSteam asparagus until tender.\nWhip eggs with quark, thyme and salt and pepper to your taste.\nHeat non-stick skillet over medium heat and spray with cooking spray. Saute onion and tomato for 4 minutes until onion is translucent.\nSpray small baking dish with cooking spray and add onion and tomato. Add eggs. Top with spinach or asparagus and parmesan cheese.\nBake for 10 - 15 minutes until egg is set.",
-        "summary": "Need a <b>gluten free and primal main course<\/b>? Baked Eggs With Asparagus and Sun Dried Tomatoes could be a super recipe to try. This recipe serves 2 and costs $2.23 per serving. One portion of this dish contains approximately <b>21g of protein<\/b>, <b>7g of fat<\/b>, and a total of <b>178 calories<\/b>. If you have spinach, quark, sun tomato, and a few other ingredients on hand, you can make it. It is brought to you by Foodista. Not a lot of people made this recipe, and 3 would say it hit the spot. From preparation to the plate, this recipe takes around <b>45 minutes<\/b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 38%<\/b>. This score is not so outstanding. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/creamy-baked-eggs-with-asparagus-and-sun-dried-tomatoes-530611\">Creamy Baked Eggs with Asparagus and Sun Dried Tomatoes<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/baked-eggs-with-garlic-kale-and-sun-dried-tomatoes-537955\">Baked Eggs with Garlic Kale and Sun-dried Tomatoes<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/baked-eggs-with-garlic-kale-and-sun-dried-tomatoes-1241145\">Baked Eggs with Garlic Kale and Sun-dried Tomatoes<\/a>.",
-        "cuisines": [],
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/663252-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/6W7QVCWV\/the-blarney-burger",
+        "instructions": "Irish Mustard Sauce: 1 tbsp cornstarch, 2 tsp sugar, 1 tsp dry mustard, 1\/2 tsp salt, 1 cup water, 1 tbsp butter, 1\/4 cup vinegar, 1 tsp horseradish, 2 egg yolks, beaten. Put all ingredients in a sauce pan over medium heat. Continue whisking until smooth and thickened to consistency of pudding.\nGorgonzola Butter-Wash: In a microwave safe bowl, add remaining tablespoon of Gorgonzola crumbles and 2 tablespoons of butter and melt.\nWhisk together to create a Gorgonzola butter-wash.\nBrush Gorgonzola butter-wash on the inside of the top & bottom buns and toast on the upper or outer edges of grill. Once rolls are lightly toasted, remove.\nMeat: Mix first 7 ingredients together thoroughly then add salt & pepper. Form patties and pat together well.\nCook meat over medium heat - be sure to coat grill with non-stick spray.\nCook about 8-10 minutes on each side.\nSet meat on bottom bun and spoon Irish mustard sauce on top of meat patty.\nAdd shredded cabbage and fold top and bottom together.",
+        "summary": "The recipe The Blarney Burger can be made <b>in around 45 minutes<\/b>. This recipe makes 4 servings with <b>777 calories<\/b>, <b>51g of protein<\/b>, and <b>47g of fat<\/b> each. For <b>$5.46 per serving<\/b>, this recipe <b>covers 32%<\/b> of your daily requirements of vitamins and minerals. 2 people were impressed by this recipe. A mixture of ground sirloin, salt, egg, and a handful of other ingredients are all it takes to make this recipe so flavorful. It works well as a pricey main course. This recipe is typical of American cuisine. It is brought to you by Foodista. Taking all factors into account, this recipe <b>earns a spoonacular score of 63%<\/b>, which is pretty good. If you like this recipe, take a look at these similar recipes: <a href=\"https:\/\/spoonacular.com\/recipes\/blarney-balls-530965\">Blarney Balls<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/blarney-stones-445810\">Blarney Stones<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/blarney-stone-204867\">Blarney Stone<\/a>.",
+        "cuisines": [
+            "American"
+        ],
         "dishTypes": [
             "lunch",
             "main course",
-            "morning meal",
-            "brunch",
             "main dish",
-            "breakfast",
             "dinner"
         ],
         "ingredients": [
-            "2 large eggs",
-            "2 large egg whites",
-            "2 tablespoons sun dried tomato, finely chopped",
-            "2 tablespoons onion , finely chopped",
-            "1 teaspoon thyme, minced",
-            "1\/2 cup quark (a creamy cheese that can be found in your grocery dairy section)",
-            "2 tablespoons parmesan cheese , shredded",
-            "8 smalls spinach or asparagus"
+            "2 pounds ground sirloin",
+            "1\/4 cup Irish whiskey",
+            "1 egg",
+            "1\/2 cup sweet onion \u2013 diced",
+            "1 tablespoon fresh garlic",
+            "1\/2 cup Piccante Gorgonzola crumbles (set aside 1 tablespoon)",
+            "1\/2 teaspoon salt",
+            "1\/2 teaspoon pepper",
+            "2 tablespoons butter",
+            "1 cup shredded purple cabbage",
+            "4 potato bread baker's rolls or hamburger buns",
+            "2 tablespoons Worchester",
+            "2 tablespoons Worchester"
         ]
     }
 }
