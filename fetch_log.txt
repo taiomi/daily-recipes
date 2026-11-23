@@ -2474,3 +2474,7 @@
 [2026-11-22 07:47:16] Fetching recipe with day of year: 326
 [2026-11-22 07:47:16] Successfully fetched and saved recipe: The Blarney Burger
 [2026-11-22 07:47:16] Recipe fetch process completed
+[2026-11-23 08:36:08] Starting recipe fetch process
+[2026-11-23 08:36:08] Fetching recipe with day of year: 327
+[2026-11-23 08:36:08] ERROR: Failed to get API response
+[2026-11-23 08:36:08] Recipe fetch process completed
