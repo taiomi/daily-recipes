@@ -1,14 +1,14 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-11-22",
+    "lastUpdated": "2026-11-24",
     "recipe": {
-        "title": "The Blarney Burger",
+        "title": "Zucchini Burgers with Lemon Herb Yogurt Sauce",
         "readyInMinutes": 45,
-        "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/663252-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/6W7QVCWV\/the-blarney-burger",
-        "instructions": "Irish Mustard Sauce: 1 tbsp cornstarch, 2 tsp sugar, 1 tsp dry mustard, 1\/2 tsp salt, 1 cup water, 1 tbsp butter, 1\/4 cup vinegar, 1 tsp horseradish, 2 egg yolks, beaten. Put all ingredients in a sauce pan over medium heat. Continue whisking until smooth and thickened to consistency of pudding.\nGorgonzola Butter-Wash: In a microwave safe bowl, add remaining tablespoon of Gorgonzola crumbles and 2 tablespoons of butter and melt.\nWhisk together to create a Gorgonzola butter-wash.\nBrush Gorgonzola butter-wash on the inside of the top & bottom buns and toast on the upper or outer edges of grill. Once rolls are lightly toasted, remove.\nMeat: Mix first 7 ingredients together thoroughly then add salt & pepper. Form patties and pat together well.\nCook meat over medium heat - be sure to coat grill with non-stick spray.\nCook about 8-10 minutes on each side.\nSet meat on bottom bun and spoon Irish mustard sauce on top of meat patty.\nAdd shredded cabbage and fold top and bottom together.",
-        "summary": "The recipe The Blarney Burger can be made <b>in around 45 minutes<\/b>. This recipe makes 4 servings with <b>777 calories<\/b>, <b>51g of protein<\/b>, and <b>47g of fat<\/b> each. For <b>$5.46 per serving<\/b>, this recipe <b>covers 32%<\/b> of your daily requirements of vitamins and minerals. 2 people were impressed by this recipe. A mixture of ground sirloin, salt, egg, and a handful of other ingredients are all it takes to make this recipe so flavorful. It works well as a pricey main course. This recipe is typical of American cuisine. It is brought to you by Foodista. Taking all factors into account, this recipe <b>earns a spoonacular score of 63%<\/b>, which is pretty good. If you like this recipe, take a look at these similar recipes: <a href=\"https:\/\/spoonacular.com\/recipes\/blarney-balls-530965\">Blarney Balls<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/blarney-stones-445810\">Blarney Stones<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/blarney-stone-204867\">Blarney Stone<\/a>.",
+        "servings": 1,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/665721-556x370.jpg",
+        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/K3T8NFWV\/zucchini-burgers",
+        "instructions": "<ol><li>In a medium mixing bowl, mix  zucchini, cheese, eggs, onion, bread crumbs and wheat germ together. Melt 1 tablespoon of olive oil into a non-stick skillet over medium-high heat. Make one patty and add it the skillet. Brown each side about 8 minutes.<\/li><li>Meanwhile, in a small bowl mix together the yogurt, chopped herbs and lemon juice.<\/li><li>Place zucchini patty in between the hamburger buns, top with lettuce and the herbed yogurt.<\/li><\/ol>",
+        "summary": "Zucchini Burgers with Lemon Herb Yogurt Sauce is an American main course. One serving contains <b>1198 calories<\/b>, <b>73g of protein<\/b>, and <b>53g of fat<\/b>. For <b>$7.02 per serving<\/b>, this recipe <b>covers 68%<\/b> of your daily requirements of vitamins and minerals. This recipe serves 1. 2 people found this recipe to be flavorful and satisfying. A mixture of greek togurt, cheddar cheese, combination of herbs such as dill, and a handful of other ingredients are all it takes to make this recipe so yummy. It is a good option if you're following a <b>lacto ovo vegetarian<\/b> diet. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. It is brought to you by Foodista. Overall, this recipe earns a <b>spectacular spoonacular score of 91%<\/b>. If you like this recipe, you might also like recipes such as <a href=\"https:\/\/spoonacular.com\/recipes\/turkey-and-herb-burgers-with-yogurt-lemon-dressing-103027\">Turkey and Herb Burgers With Yogurt Lemon Dressing<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/turkey-zucchini-burgers-with-yogurt-sumac-sauce-765459\">Turkey Zucchini Burgers with Yogurt-Sumac Sauce<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/beet-burgers-with-lemon-dill-yogurt-sauce-512503\">Beet Burgers with Lemon Dill Yogurt Sauce<\/a>.",
         "cuisines": [
             "American"
         ],
@@ -19,19 +19,18 @@
             "dinner"
         ],
         "ingredients": [
-            "2 pounds ground sirloin",
-            "1\/4 cup Irish whiskey",
-            "1 egg",
-            "1\/2 cup sweet onion \u2013 diced",
-            "1 tablespoon fresh garlic",
-            "1\/2 cup Piccante Gorgonzola crumbles (set aside 1 tablespoon)",
-            "1\/2 teaspoon salt",
-            "1\/2 teaspoon pepper",
-            "2 tablespoons butter",
-            "1 cup shredded purple cabbage",
-            "4 potato bread baker's rolls or hamburger buns",
-            "2 tablespoons Worchester",
-            "2 tablespoons Worchester"
+            "1\/2 cup bread crumbs",
+            "1\/2 cup Diced cheddar cheese",
+            "1 cup Combination of Fresh herbs such as dill, chives, parsley (or a combination of your favorite herbs), finely chopped",
+            "2 eggs, lightly beaten",
+            "1 cup plain Greek togurt",
+            "1 hamburger bun",
+            "Juice of half a lemon",
+            "1 arugula lettuce leaf",
+            "1 tablespoon olive oil",
+            "1 small Onion, chopped",
+            "1\/3cup Wheat germ",
+            "2 zucchini"
         ]
     }
 }
