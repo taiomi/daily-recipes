@@ -2486,3 +2486,7 @@
 [2026-11-25 09:34:53] Fetching recipe with day of year: 329
 [2026-11-25 09:34:54] Successfully fetched and saved recipe: Garam Masala Pork Chops with Mint Yogurt and Spiced Couscous
 [2026-11-25 09:34:54] Recipe fetch process completed
+[2026-11-26 09:11:07] Starting recipe fetch process
+[2026-11-26 09:11:07] Fetching recipe with day of year: 330
+[2026-11-26 09:11:07] ERROR: Failed to get API response
+[2026-11-26 09:11:07] Recipe fetch process completed
