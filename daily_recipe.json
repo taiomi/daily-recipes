@@ -1,18 +1,15 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-11-25",
+    "lastUpdated": "2026-11-27",
     "recipe": {
-        "title": "Garam Masala Pork Chops with Mint Yogurt and Spiced Couscous",
+        "title": "Fish Crocchette Appetizer",
         "readyInMinutes": 45,
-        "servings": 4,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/644167-556x370.jpg",
-        "sourceUrl": "http:\/\/www.foodista.com\/recipe\/6247HX8F\/garam-masala-pork-chops-with-mint-yogurt-and-spiced-couscous",
-        "instructions": "<ol><li>Chops:<\/li><li>Trim pork chops of excess fat. Rub garam masala into chops (both sides).<\/li><li>Place on a plate, cover and refrigerate for 6-8 hours, to allow flavors to penetrate.<\/li><li>Chop the mint and stir into the yogurt and refrigerate for the same period as the pork chops.<\/li><li>Preheat broiler. Spray broiler rack with nonstick cooking spray. Broil chops for about 5 minutes each side. Alternately, grill chops over direct heat until well marked on both sides, move to indirect heat, cover loosely in foil, and cook until internal temp reaches 145F. Remove from heat and allow to rest 3 minutes.<\/li><li>Serve with mint yogurt.<\/li><li>Note: *Garam Masala is available in specialty stores and many larger grocery stores.<\/li><li>Spiced Couscous:<\/li><li>In a medium saucepan bring the broth, raisins, olive oil, cumin, cayenne and salt to a boil. Stir in the couscous, bring back to a boil, cover and remove from the heat. Set aside for 5 minutes.<\/li><li>Juice the lemon and stir into the couscous with the sesame seeds.<\/li><li>Serve.<\/li><\/ol>",
-        "summary": "Garam Masala Pork Chops with Mint Yogurt and Spiced Couscous might be just the <b>Indian<\/b> recipe you are searching for. For <b>$4.57 per serving<\/b>, you get a main course that serves 4. One serving contains <b>461 calories<\/b>, <b>47g of protein<\/b>, and <b>15g of fat<\/b>. This recipe from Foodista requires yogurt, raisins, couscous, and lemon. 2 people have made this recipe and would make it again. From preparation to the plate, this recipe takes approximately <b>45 minutes<\/b>. With a spoonacular <b>score of 77%<\/b>, this dish is solid. Similar recipes are <a href=\"https:\/\/spoonacular.com\/recipes\/garam-masala-lamb-chops-with-apricot-couscous-697250\">Garam Masala Lamb Chops with Apricot Couscous<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/spiced-lamb-chops-on-sauteed-peppers-and-onions-with-garlic-and-mint-couscous-288106\">Spiced Lamb Chops on Sauteed Peppers and Onions with Garlic and Mint Couscous<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/garam-masala-how-to-make-punjabi-garam-masala-powder-at-home-487599\">garam masala , how to make punjabi garam masala powder at home<\/a>.",
-        "cuisines": [
-            "Indian",
-            "Asian"
-        ],
+        "servings": 8,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/642927-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/PQCSG8LG\/fish-crocchette",
+        "instructions": "<ol><li>Begin to cook the fish and potatoes.<\/li><li>Cook cod in a saucepan.<\/li><li>Boil the potatoes in their skins in a pot with the water or in the microwave in a container with two inches of water (for the cooking time in the microwave, read the instruction booklet)<\/li><li>Let cool cod, eliminated any remaining bones. In a bowl add the mashed potatoes, the minced cod, the garlic cooked in the milk, tuna, drained, Parmesan, chopped parsley, salt , egg and the half lemon zest grated.<\/li><li>Mix well the mixture , form into balls to the same size if possible.<\/li><li>Coat in white flour, dip in beaten egg and into bread crumbs, fry in canola oil (325 degrees F) until golden , dry on paper towels.<\/li><\/ol>",
+        "summary": "If you have around <b>45 minutes<\/b> to spend in the kitchen, Fish Crocchette Appetizer might be a spectacular <b>pescatarian<\/b> recipe to try. For <b>$2.22 per serving<\/b>, you get a main course that serves 8. One serving contains <b>406 calories<\/b>, <b>27g of protein<\/b>, and <b>21g of fat<\/b>. This recipe from Foodista has 2 fans. If you have bread crumbs, canolan oil, cod fillet, and a few other ingredients on hand, you can make it. With a spoonacular <b>score of 70%<\/b>, this dish is pretty good. Try <a href=\"https:\/\/spoonacular.com\/recipes\/homemade-fish-shaped-appetizer-1087019\">Homemade Fish Shaped Appetizer<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/gefilte-fish-appetizer-doctored-from-the-jar-94967\">Gefilte Fish Appetizer (Doctored from the Jar)<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/crocchette-di-miglio-carote-e-olive-nere-556417\">Crocchette di miglio, carote e olive nere<\/a> for similar recipes.",
+        "cuisines": [],
         "dishTypes": [
             "lunch",
             "main course",
@@ -20,19 +17,19 @@
             "dinner"
         ],
         "ingredients": [
-            "1 tablespoon Cayenne pepper, ground",
-            "1 1\/3 cup chicken broth",
-            "2\/3 cup couscous",
-            "10 fresh mint leaves",
-            "4 tbsp. garam masala spices*",
-            "1 tsp. ground cumin",
-            "4 6-oz. lean pork loin chops",
-            "1 lemon",
-            "2 tablespoons olive oil",
-            "4 tsp. raisins",
-            "Salt to taste",
-            "2 tsp. sesame seeds",
-            "1\/2 cup Greek style yogurt"
+            "Bread crumbs",
+            "Canola oil",
+            "500 grams cod fillet (or any white fish fillet)",
+            "2 eggs",
+            "100 grams flour",
+            "1 clove garlic",
+            "1\/2 Grated rind of a lemon",
+            "1 cup milk",
+            "50 grams parmesan cheese",
+            "1 bunch chopped parsley",
+            "400 grams potatoes",
+            "Salt",
+            "150 grams tuna in olive oil"
         ]
     }
 }
