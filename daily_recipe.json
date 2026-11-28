@@ -1,15 +1,18 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-11-27",
+    "lastUpdated": "2026-11-28",
     "recipe": {
-        "title": "Fish Crocchette Appetizer",
-        "readyInMinutes": 45,
-        "servings": 8,
-        "image": "https:\/\/img.spoonacular.com\/recipes\/642927-556x370.jpg",
-        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/PQCSG8LG\/fish-crocchette",
-        "instructions": "<ol><li>Begin to cook the fish and potatoes.<\/li><li>Cook cod in a saucepan.<\/li><li>Boil the potatoes in their skins in a pot with the water or in the microwave in a container with two inches of water (for the cooking time in the microwave, read the instruction booklet)<\/li><li>Let cool cod, eliminated any remaining bones. In a bowl add the mashed potatoes, the minced cod, the garlic cooked in the milk, tuna, drained, Parmesan, chopped parsley, salt , egg and the half lemon zest grated.<\/li><li>Mix well the mixture , form into balls to the same size if possible.<\/li><li>Coat in white flour, dip in beaten egg and into bread crumbs, fry in canola oil (325 degrees F) until golden , dry on paper towels.<\/li><\/ol>",
-        "summary": "If you have around <b>45 minutes<\/b> to spend in the kitchen, Fish Crocchette Appetizer might be a spectacular <b>pescatarian<\/b> recipe to try. For <b>$2.22 per serving<\/b>, you get a main course that serves 8. One serving contains <b>406 calories<\/b>, <b>27g of protein<\/b>, and <b>21g of fat<\/b>. This recipe from Foodista has 2 fans. If you have bread crumbs, canolan oil, cod fillet, and a few other ingredients on hand, you can make it. With a spoonacular <b>score of 70%<\/b>, this dish is pretty good. Try <a href=\"https:\/\/spoonacular.com\/recipes\/homemade-fish-shaped-appetizer-1087019\">Homemade Fish Shaped Appetizer<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/gefilte-fish-appetizer-doctored-from-the-jar-94967\">Gefilte Fish Appetizer (Doctored from the Jar)<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/crocchette-di-miglio-carote-e-olive-nere-556417\">Crocchette di miglio, carote e olive nere<\/a> for similar recipes.",
-        "cuisines": [],
+        "title": "Saucy Shredded Barbecue Chicken",
+        "readyInMinutes": 480,
+        "servings": 4,
+        "image": "https:\/\/img.spoonacular.com\/recipes\/659316-556x370.jpg",
+        "sourceUrl": "https:\/\/www.foodista.com\/recipe\/NWT5M63V\/saucy-shredded-barbecue-chicken",
+        "instructions": "<ol><li>In a crockpot spray the bottom and side with cooking spray.  Add your chicken and barbecue sauce.  Cook on low for 8-10 hours or on high for 4-5 hours.<\/li><li>During the last hour of cooking, I like to shred the chicken with two forks.  Just pull them apart.  The chicken should shred very easily.<\/li><\/ol>",
+        "summary": "Saucy Shredded Barbecue Chicken is a <b>dairy free<\/b> recipe with 4 servings. This main course has <b>396 calories<\/b>, <b>29g of protein<\/b>, and <b>5g of fat<\/b> per serving. For <b>$1.8 per serving<\/b>, this recipe <b>covers 18%<\/b> of your daily requirements of vitamins and minerals. This recipe from Foodista has 2 fans. Head to the store and pick up barbecue sauce, chicken breasts, hamburger buns, and a few other things to make it today. It will be a hit at your <b>Father's Day<\/b> event. Only a few people really liked this Barbecue dish. From preparation to the plate, this recipe takes roughly <b>8 hours<\/b>. With a spoonacular <b>score of 52%<\/b>, this dish is good. Try <a href=\"https:\/\/spoonacular.com\/recipes\/saucy-shredded-barbecue-chicken-1273135\">Saucy Shredded Barbecue Chicken<\/a>, <a href=\"https:\/\/spoonacular.com\/recipes\/saucy-shredded-barbecue-chicken-1364609\">Saucy Shredded Barbecue Chicken<\/a>, and <a href=\"https:\/\/spoonacular.com\/recipes\/saucy-shredded-chicken-tacos-video-671991\">Saucy Shredded Chicken Tacos : Video<\/a> for similar recipes.",
+        "cuisines": [
+            "bbq",
+            "Barbecue"
+        ],
         "dishTypes": [
             "lunch",
             "main course",
@@ -17,19 +20,9 @@
             "dinner"
         ],
         "ingredients": [
-            "Bread crumbs",
-            "Canola oil",
-            "500 grams cod fillet (or any white fish fillet)",
-            "2 eggs",
-            "100 grams flour",
-            "1 clove garlic",
-            "1\/2 Grated rind of a lemon",
-            "1 cup milk",
-            "50 grams parmesan cheese",
-            "1 bunch chopped parsley",
-            "400 grams potatoes",
-            "Salt",
-            "150 grams tuna in olive oil"
+            "12 oz barbecue sauce \u2013 your favorite",
+            "1 lbs frozen chicken breasts, boneless, skinless",
+            "4 hamburger buns"
         ]
     }
 }
